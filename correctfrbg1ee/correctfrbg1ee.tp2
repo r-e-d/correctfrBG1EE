@@ -1,0 +1,17 @@
+BACKUP ~correctfrbg1ee/backup~
+SUPPORT ~Lefreut et Jazira (https://www.baldursgateworld.fr)~
+VERSION ~0.1~
+README ~correctfrbg1ee/readme/readme-correctfrbg1ee.html~
+
+LANGUAGE ~Francais~
+         ~fr_FR~
+         ~correctfrbg1ee/francais/setup.tra~
+         ~correctfrbg1ee/francais/correctfr.tra~
+
+BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhanced Edition
+	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
+	INCLUDE ~correctfrbg1ee/lib/bg1ee.tph~
+	ACTION_IF FILE_EXISTS_IN_GAME ~BD0010.ARE~ THEN
+	BEGIN
+		INCLUDE ~correctfrbg1ee/lib/sod.tph~
+	END
