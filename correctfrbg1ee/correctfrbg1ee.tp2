@@ -3,6 +3,12 @@ SUPPORT ~Lefreut et Jazira (https://www.baldursgateworld.fr)~
 VERSION ~0.1~
 README ~correctfrbg1ee/readme/readme-correctfrbg1ee.html~
 
+ALWAYS
+	ACTION_IF NOT FILE_EXISTS ~correctfrbg1ee/lib/bg1ee.tph~ THEN BEGIN
+		FAIL @20
+	END
+END
+
 LANGUAGE ~Francais~
          ~fr_FR~
          ~correctfrbg1ee/francais/setup.tra~
