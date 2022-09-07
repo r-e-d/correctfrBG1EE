@@ -2,6 +2,8 @@
 @0 = ~Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)~
 @1 = ~Correction de la traduction de Baldur's Gate : Enhanced Edition~
 
+@20 = ~Utilisez la version officielle : https://github.com/r-e-d/correctfrBG1EE/releases/latest~
+
 // WeiDU prompts
 @-1000= "Le mod %TP2_FILE_NAME% contient"
 @-1001= "composants optionnels distincts.
