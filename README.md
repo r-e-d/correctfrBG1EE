@@ -90,6 +90,7 @@ Le programme d'installation comprend les composants suivants. Chacun possède un
 Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et BG:SoD.
 
 <!--- Importation des corrections de la traduction française officielle du patch 2.6.//?-->
+- Importation des correctifs des textes du <a href="https://github.com/Gibberlings3/EE_Fixpack">EEfixpack</a>.
 - Ajout des versions féminines manquantes et suppression des versions féminines inadéquates.
 - Ajout des onomatopées, actions et interjections dans les « sous-titres » des répliques doublées pour les malentendants (Aïe !, Hmmmm..., \*soupire\*, etc.).
 - Ajout des détails omis de la version originale.
