@@ -21,3 +21,5 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 	BEGIN
 		INCLUDE ~correctfrbg1ee/lib/sod.tph~
 	END
+
+	COPY ~%MOD_FOLDER%/extra/L_fr_FR.LUA~ ~override/L_fr_FR.LUA~
