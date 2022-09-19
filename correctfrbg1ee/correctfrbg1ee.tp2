@@ -23,3 +23,20 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 	END
 
 	COPY ~%MOD_FOLDER%/extra/L_fr_FR.LUA~ ~override/L_fr_FR.LUA~
+
+BEGIN @2 DESIGNATED 20 // Suppression des doublages en anglais
+	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
+	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^bdtp.*\.wav$~ BEGIN
+		DELETE ~%BASH_FOR_FILESPEC%~
+	END
+	COPY_EXISTING_REGEXP - ~^BAELOTH[A-M]+\.wav$~ ~inlined~
+		INNER_ACTION BEGIN COPY + ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~%MOD_FOLDER%/tmp/%SOURCE_FILE%~ END
+	COPY_EXISTING_REGEXP - ~^DORN[A-M]+\.wav$~ ~inlined~
+		INNER_ACTION BEGIN COPY + ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~%MOD_FOLDER%/tmp/%SOURCE_FILE%~ END
+	COPY_EXISTING_REGEXP - ~^NEERA[A-M]\.wav$~ ~inlined~
+		INNER_ACTION BEGIN COPY + ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~%MOD_FOLDER%/tmp/%SOURCE_FILE%~ END
+	COPY_EXISTING_REGEXP - ~^RASAAD[A-M]\.wav$~ ~inlined~
+		INNER_ACTION BEGIN COPY + ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~%MOD_FOLDER%/tmp/%SOURCE_FILE%~ END
+	COPY_EXISTING_REGEXP - ~^BD[0-9]+\.wav$~ ~inlined~
+		INNER_ACTION BEGIN COPY + ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~%MOD_FOLDER%/tmp/%SOURCE_FILE%~ END
+	MAKE_BIFF ~noeevo~ BEGIN ~%MOD_FOLDER%/tmp~ ~^.*$~ END
