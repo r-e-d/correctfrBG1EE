@@ -1,7 +1,8 @@
 //Ce fichier ne doit contenir aucun caractere special.
 @0 = ~Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)~
 @1 = ~Correction de la traduction de Baldur's Gate : Enhanced Edition~
-@2 = ~Suppression des doublages en anglais~
+@2 = ~Patch audio francais~
+@3 = ~Suppression des doublages en anglais~
 
 @20 = ~Utilisez la version officielle : https://github.com/r-e-d/correctfrBG1EE/releases/latest~
 
