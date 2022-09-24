@@ -61,18 +61,15 @@ Le mod « Correction de la traduction de Baldur's Gate : Enhanced Edition et Bal
 
 Veuillez installer « Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » avant tout autre mod, notamment Enhanced Edition Trilogy (EET).
 
-<!--#### Language du doublage vidéo et audio
+#### Language du doublage vidéo et audio
 
-« Correction de la traduction de Baldur's Gate II : Enhanced Edition » vous offre 3 options au sujet du doublage vidéo et audio :
+« Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » vous offre 2 options au sujet du doublage vidéo et audio :
 
 - __VF+VO__ ; Doublage français corrigé, doublage anglais par défaut du contenu Enhanced Edition conservé :
-	- Nécessite le composant __[30] Patch audio et vidéo français.__
+	- Nécessite le composant __[20] Patch audio français.__
 	
 - __VF__ ; Doublage français corrigé uniquement, bruitage du contenu Enhanced Edition conservé :
-	- Nécessite les composants __[30] Patch audio et vidéo français__ + __[40] Suppression des doublages en anglais.__
-	
-- __VO__ ; Doublage en anglais uniquement :
-	- N'installez pas les composants __[30] Patch audio et vidéo français__ et __[40] Suppression des doublages en anglais.__-->
+	- Nécessite les composants __[20] Patch audio français__ + __[30] Suppression des doublages en anglais.__
 
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
@@ -108,39 +105,27 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 - Réduction du nombre de majuscules dans les noms communs (Tante, Elfe Noir, le Très Noble Ordre des Chevaliers du Cœur Radieux, etc.).
 - Réduction des anglicismes (ok, hello, ranger, yeah, etc.).
 - Réduction des mots-clés inutiles ou inadéquats (\<GABBER\>, \<HESHE\>, \<GIRLBOY\>, etc.).
-
-<!--##
-
-#### [20] Correction de la description des objets (nécessite le composant "Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear")
-
-Ce composant corrige les références de ligne de divers objets, ou en ajoute de nouvelles si nécessaire.
-
-- Correction du nom de l'Armure d'écailles de dragon blanc.
+- Correction du nom de la Cotte de mailles elfe noir +3.
+- Correction du nom de la Cotte de mailles elfe noir +5.
 
 ##
 
-#### [30] Patch audio et vidéo français
+#### [20] Patch audio français
 
-Ce composant ajoute (et corrige) les doublages et les vidéos en français.
+Ce composant ajoute des doublages en français.
 
 - Inclusion des répliques doublées en français manquantes.
-- Inclusion des vidéos doublées en français.
-- Réduction des artefacts de compression des cinématiques.
-- Réduction des grésillements et autres bruits indésirables des doublages.
-- Importation des ensembles de voix doublées en français de BG2 pour le personnage principal.
-- Correction (et/ou ajout) des répliques doublées :
-	- //todo
 - Les répliques non doublées en français sont conservées.
 
 ##
 
-#### [40] Suppression des doublages en anglais (nécessite le composant "Patch audio et vidéo français")
+#### [30] Suppression des doublages en anglais (nécessite le composant "Patch audio français")
 
 Ce composant supprime les doublages anglais restants.
 
 - Suppression des ensembles de voix en anglais de Adventurers of Neverwinter pour le personnage principal ajoutées par le patch 2.6.
 - Suppression des répliques non doublées en français.
-- Les doublages de type « bruitages » du contenu BG:SoD sont conservés.-->
+- Les doublages de type « bruitages » du contenu BG:SoD sont conservés.
 
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
