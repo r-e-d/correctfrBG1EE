@@ -43,6 +43,13 @@ BEGIN @3 DESIGNATED 30 // Suppression des doublages en anglais
 	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^bdtp.*\.wav$~ BEGIN
 		DELETE ~%BASH_FOR_FILESPEC%~
 	END
+	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN42.WAV~
+	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN43.WAV~
+	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN44.WAV~
+	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN45.WAV~
+	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN46.WAV~
+	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN47.WAV~
+	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN48.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/ggfem01.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/ggfem02.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/ggfem03.WAV~
