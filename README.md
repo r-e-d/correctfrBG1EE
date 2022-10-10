@@ -280,6 +280,10 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
+#### Version 0.2.1 &nbsp;(10 octobre 2022)
+
+  - Correction installation BGEE sans SoD.
+
 #### Version 0.2 &nbsp;(9 octobre 2022)
 
   - Nouveau composant Patch audio francais.
