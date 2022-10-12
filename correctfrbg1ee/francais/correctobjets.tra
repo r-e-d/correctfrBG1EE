@@ -1,0 +1,42 @@
+// DWCHAN01.ITM / DWCHAN02.ITM (BG2:EE @46640)
+@100 = ~Le poids réduit de cette cotte de mailles elfe noir permet aux voleurs et aux guerriers-mages de la porter sans trop de restrictions.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Classe d'armure : 5
+Nécessite :
+ 5 en Force
+
+Poids : 7~
+// DWSW1H01.ITM (BG2:EE @46665)
+@101 = ~La longue lame incurvée à un seul tranchant est caractéristique à la fois du sabre et du cimeterre, bien que leurs origines proviennent de régions différentes de Féérûne.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Dégâts : 1d8 (tranchant)
+Facteur de vitesse : 5
+Type de compétence : cimeterre/wakizashi/ninjatō
+Type : arme à une main
+Nécessite :
+ 10 en Force
+
+Poids : 4~
+// DWSW1H02.ITM (BG2:EE @46675)
+@102 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Certaines épées longues peuvent avoir une lame à simple tranchant, mais la plupart ont une lame à double tranchant ainsi qu'un estoc pointu et acéré. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. Malgré son extrémité pointue, cette arme est conçue pour frapper de taille, et non d'estoc. De ce fait, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Dégâts : 1d8 (tranchant)
+Facteur de vitesse : 5
+Type de compétence : épée longue
+Type : arme à une main
+Nécessite :
+ 6 en Force
+
+Poids : 4~

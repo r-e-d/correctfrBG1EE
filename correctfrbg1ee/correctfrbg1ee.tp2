@@ -21,11 +21,22 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 	BEGIN
 		INCLUDE ~correctfrbg1ee/lib/sod.tph~
 
-		// Correction du nom de la Cotte de mailles elfe noir +3
-		// Correction du nom de la Cotte de mailles elfe noir +5
+		// Correction du nom et de la description de la Cotte de mailles elfe noir +3
+		// Correction du nom et de la description de la Cotte de mailles elfe noir +5
 		COPY_EXISTING ~DWCHAN01.ITM~ ~override~
 					  ~DWCHAN02.ITM~ ~override~
 			WRITE_LONG 0x08 25551
+			SAY UNIDENTIFIED_DESC @100
+		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description du Cimeterre elfe noir +3
+		COPY_EXISTING ~DWSW1H01.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @101
+		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description de l'Épée longue elfe noir +3
+		COPY_EXISTING ~DWSW1H02.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @102
 		BUT_ONLY_IF_IT_CHANGES
 	END
 
