@@ -38,6 +38,16 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 		COPY_EXISTING ~DWSW1H02.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @102
 		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description du Fléau d'armes elfe noir +3
+		COPY_EXISTING ~DWBLUN01.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @103
+		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description de la Lance elfe noir +3
+		COPY_EXISTING ~DWSPER01.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @104
+		BUT_ONLY_IF_IT_CHANGES
 	END
 
 	COPY ~%MOD_FOLDER%/extra/L_fr_FR.LUA~ ~override/L_fr_FR.LUA~

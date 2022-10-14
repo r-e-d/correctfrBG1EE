@@ -40,3 +40,33 @@ Nécessite :
  6 en Force
 
 Poids : 4~
+// DWBLUN01.ITM (BG2:EE @46688)
+@103 = ~Le fléau d'armes est constitué d'un solide manche de bois relié à une barre de fer, à une tringle de bois garnie de piquants, ou à une boule de métal hérissée de pointes. Entre le manche et l'accessoire qui l'accompagne se trouve une simple bande de cuir, une bielle ou encore plus communément, une chaîne. Cette arme était à l'origine un outil agricole pour battre le grain.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Dégâts : 1d6 +1 (contondant)
+Facteur de vitesse : 7
+Type de compétence : fléau d'armes/étoile du matin
+Type : arme à une main
+Nécessite :
+ 13 en Force
+
+Poids : 15~
+// DWSPER01.ITM (BG2:EE @46698)
+@104 = ~La lance, l'une des premières armes jamais créées, dont l'usage remonte aux époques les plus primitives, était initialement constituée d'un épieu ou d'un bâton de bois taillé en pointe à l'une de ses extrémités. Avec la découverte et la maîtrise des métaux, les races civilisées ont commencé à remplacer les pointes en bois par des pointes en fer et en acier, d'où le terme « fer de lance ». Arrivés à ce stade, les armuriers ont alors pu expérimenter différents types de fers de lance, ce qui a permis l'élaboration de certains types d'armes d'hast. Cette lance elfe noir est une version améliorée de la lance traditionnelle, souvent utilisée par les fantassins elfes noirs.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière s'il quitte l'Ombre-Terre.
+
+PARAMÈTRES :
+
+Dégâts : 1d6 (perforant)
+Facteur de vitesse : 6
+Type de compétence : lance
+Type : arme à deux mains
+Nécessite :
+ 5 en Force
+
+Poids : 5~
