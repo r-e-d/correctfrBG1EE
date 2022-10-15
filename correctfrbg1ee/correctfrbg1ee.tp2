@@ -48,6 +48,11 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 		COPY_EXISTING ~DWSPER01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @104
 		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description de l'Arbalète de vitesse elfe noir +3
+		COPY_EXISTING ~DWXBOW01.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @105
+		BUT_ONLY_IF_IT_CHANGES
 	END
 
 	COPY ~%MOD_FOLDER%/extra/L_fr_FR.LUA~ ~override/L_fr_FR.LUA~

@@ -70,3 +70,17 @@ Nécessite :
  5 en Force
 
 Poids : 5~
+// DWXBOW01.ITM (BG2:EE @46704)
+@105 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un fût. L'arc est généralement fabriqué en bois de frêne ou d'if. La corde, quant à elle, est maintenue en tension sur le fût à l'aide d'une pièce rigide appelée un arbrier. Lorsque le tireur actionne l'arbrier en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine).
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière s'il quitte l'Ombre-Terre.
+
+PARAMÈTRES :
+
+Facteur de vitesse : 5
+Type de compétence : arbalète
+Type : arme à deux mains
+Nécessite :
+ 8 en Force
+
+Poids : 5~
