@@ -13,6 +13,7 @@ LANGUAGE ~Francais~
          ~fr_FR~
          ~correctfrbg1ee/francais/setup.tra~
          ~correctfrbg1ee/francais/correctfr.tra~
+         ~correctfrbg1ee/francais/correctobjets.tra~
 
 BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhanced Edition
 	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
@@ -34,12 +35,12 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 			SAY UNIDENTIFIED_DESC @101
 		BUT_ONLY_IF_IT_CHANGES
 		
-		// Correction de la description de l'Épée longue elfe noir +3
+		// Correction de la description de l'Ã‰pÃ©e longue elfe noir +3
 		COPY_EXISTING ~DWSW1H02.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @102
 		BUT_ONLY_IF_IT_CHANGES
 		
-		// Correction de la description du Fléau d'armes elfe noir +3
+		// Correction de la description du FlÃ©au d'armes elfe noir +3
 		COPY_EXISTING ~DWBLUN01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @103
 		BUT_ONLY_IF_IT_CHANGES
@@ -49,7 +50,7 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 			SAY UNIDENTIFIED_DESC @104
 		BUT_ONLY_IF_IT_CHANGES
 		
-		// Correction de la description de l'Arbalète de vitesse elfe noir +3
+		// Correction de la description de l'ArbalÃ¨te de vitesse elfe noir +3
 		COPY_EXISTING ~DWXBOW01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @105
 		BUT_ONLY_IF_IT_CHANGES
