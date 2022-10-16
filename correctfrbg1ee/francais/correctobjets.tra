@@ -84,3 +84,17 @@ Nécessite :
  8 en Force
 
 Poids : 5~
+// DWSHLD01.ITM (BG2:EE @46708)
+@106 = ~L'écu, aussi simplement connu sous le nom de bouclier, se porte de la même manière qu'une rondache. Cependant, contrairement à cette dernière, son poids et sa taille empêchent d'utiliser la main du bras qui le porte pour tout autre chose que de le maintenir fermement en place. Les boucliers sont généralement fabriqués en métal ou en bois, ils mesurent entre 90 centimètres et 1,20 mètre de diamètre et peuvent avoir n'importe quelle forme, de ronde à carrée, en passant par des ailes de dragon déployées. Le bouclier médiéval typique, l'écu, ressemble à une sorte de triangle dont l'un des angles pointerait vers le bas, avec une forme ogivale pour sa partie inférieure.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Classe d'armure : +1
+
+Nécessite :
+ 12 en Force
+
+Poids : 7~
