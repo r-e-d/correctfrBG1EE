@@ -85,7 +85,7 @@ Nécessite :
 
 Poids : 5~
 // DWSHLD01.ITM (BG2:EE @46708)
-@106 = ~L'écu, aussi simplement connu sous le nom de bouclier, se porte de la même manière qu'une rondache. Cependant, contrairement à cette dernière, son poids et sa taille empêchent d'utiliser la main du bras qui le porte pour tout autre chose que de le maintenir fermement en place. Les boucliers sont généralement fabriqués en métal ou en bois, ils mesurent entre 90 centimètres et 1,20 mètre de diamètre et peuvent avoir n'importe quelle forme, de ronde à carrée, en passant par des ailes de dragon déployées. Le bouclier médiéval typique, l'écu, ressemble à une sorte de triangle dont l'un des angles pointerait vers le bas, avec une forme ogivale pour sa partie inférieure.
+@106 = ~L'écu, tout simplement connu sous le nom de bouclier, se porte de la même manière qu'une rondache. Cependant, contrairement à cette dernière, son poids et sa taille empêchent d'utiliser le bras qui le porte pour tout autre chose que de le maintenir fermement en place. Les boucliers sont généralement fabriqués en métal ou en bois, ils mesurent entre 90 centimètres et 1,20 mètre de diamètre et peuvent avoir n'importe quelle forme, de ronde à carrée, en passant par des ailes de dragon déployées. Le bouclier médiéval typique, l'écu, ressemble à une sorte de triangle dont l'un des angles pointerait vers le bas, avec une forme ogivale pour sa partie inférieure.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -98,3 +98,14 @@ Nécessite :
  12 en Force
 
 Poids : 7~
+// DWBOLT03.ITM (BG2:EE @46717)
+@107 = ~Les carreaux, également connus sous le nom de dondaines, sont les munitions tirées par les arbalètes, quelle que soit la taille de l'arme.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Dégâts : 1d8 (projectile)
+Arme de trait : arbalète
+
+Poids : 0~

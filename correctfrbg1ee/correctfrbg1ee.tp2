@@ -59,6 +59,11 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 		COPY_EXISTING ~DWSHLD01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @106
 		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description du Carreau elfe noir +1
+		COPY_EXISTING ~DWBOLT03.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @107
+		BUT_ONLY_IF_IT_CHANGES
 	END
 
 	COPY ~%MOD_FOLDER%/extra/L_fr_FR.LUA~ ~override/L_fr_FR.LUA~
