@@ -86,7 +86,6 @@ Le programme d'installation comprend les composants suivants. Chacun possède un
 
 Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et BG:SoD.
 
-<!--- Importation des corrections de la traduction française officielle du patch 2.6.//?-->
 - Importation des correctifs des textes du <a href="https://github.com/Gibberlings3/EE_Fixpack">EEfixpack</a>.
 - Ajout des versions féminines manquantes et suppression des versions féminines inadéquates.
 - Ajout des onomatopées, actions et interjections dans les « sous-titres » des répliques doublées pour les malentendants (Aïe !, Hmmmm..., \*soupire\*, etc.).
@@ -106,8 +105,20 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 - Réduction du nombre de majuscules dans les noms communs (Tante, Elfe Noir, le Très Noble Ordre des Chevaliers du Cœur Radieux, etc.).
 - Réduction des anglicismes (ok, hello, ranger, yeah, etc.).
 - Réduction des mots-clés inutiles ou inadéquats (\<GABBER\>, \<HESHE\>, \<GIRLBOY\>, etc.).
-- Correction du nom de la Cotte de mailles elfe noir +3.
-- Correction du nom de la Cotte de mailles elfe noir +5.
+- Correction (et/ou ajout) de références de ligne des objets (noms, infobulles, descriptions, icônes, etc.) :
+	- Correction du nom et de la description de la Cotte de mailles elfe noir +3.
+	- Correction du nom et de la description de la Cotte de mailles elfe noir +5.
+	- Correction de la description du Cimeterre elfe noir +3.
+	- Correction de la description de l'Épée longue elfe noir +3.
+	- Correction de la description du Fléau d'armes elfe noir +3.
+	- Correction de la description de la Lance elfe noir +3.
+	- Correction de la description de l'Arbalète de vitesse elfe noir +3.
+	- Correction de la description du Bouclier elfe noir +3.
+	- Correction de la description du Carreau de sommeil elfe noir +1.
+	- Correction de la description du Carreau d'étourdissement elfe noir +1.
+	- Correction de la description du Carreau elfe noir +1.
+	- Correction de la description de l'Armure de plates complète elfe noir +3.
+	- Correction de la description de la Fléchette de sommeil elfe noir +1.
 
 ##
 
@@ -116,6 +127,8 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 Ce composant ajoute des doublages en français.
 
 - Inclusion des répliques doublées en français manquantes.
+- Correction (et/ou ajout) des répliques doublées :
+	- //todo
 - Les répliques non doublées en français sont conservées.
 
 ##
