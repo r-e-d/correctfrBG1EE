@@ -60,9 +60,23 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 			SAY UNIDENTIFIED_DESC @106
 		BUT_ONLY_IF_IT_CHANGES
 		
+		// Correction de la description du Carreau de sommeil elfe noir +1
+		// Correction de la description du Carreau d'étourdissement elfe noir +1
 		// Correction de la description du Carreau elfe noir +1
-		COPY_EXISTING ~DWBOLT03.ITM~ ~override~
+		COPY_EXISTING ~DWBOLT01.ITM~ ~override~
+					  ~DWBOLT02.ITM~ ~override~
+					  ~DWBOLT03.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @107
+		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description de l'Armure de plates complète elfe noir +3
+		COPY_EXISTING ~DWPLAT01.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @108
+		BUT_ONLY_IF_IT_CHANGES
+		
+		// Correction de la description de la Fléchette de sommeil elfe noir +1
+		COPY_EXISTING ~DWDART01.ITM~ ~override~
+			SAY UNIDENTIFIED_DESC @109
 		BUT_ONLY_IF_IT_CHANGES
 	END
 

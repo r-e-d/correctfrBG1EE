@@ -98,8 +98,8 @@ Nécessite :
  12 en Force
 
 Poids : 7~
-// DWBOLT03.ITM (BG2:EE @46717)
-@107 = ~Les carreaux, également connus sous le nom de dondaines, sont les munitions tirées par les arbalètes, quelle que soit la taille de l'arme.
+// DWBOLT01.ITM / DWBOLT02.ITM / DWBOLT03.ITM (BG2:EE @46717)
+@107 = ~Les carreaux, également connus sous le nom de dondaines, sont les munitions tirées par les arbalètes quel que soit le type de l'arme, lourde ou légère.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -107,5 +107,30 @@ PARAMÈTRES :
 
 Dégâts : 1d8 (projectile)
 Arme de trait : arbalète
+
+Poids : 0~
+// DWPLAT01.ITM
+@108 = ~L'armure de plates complète est la meilleure armure qu'un combattant puisse acquérir, tant en termes d'apparence que de protection. Les plaques, parfaitement ajustées et imbriquées les unes dans les autres, sont courbées de manière à dévier les coups et les projectiles. Les armures de plates complètes sont généralement décorées de riches gravures et de détails en relief.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Classe d'armure : 1 (-2 contre les armes perforantes et les projectiles, -3 contre les armes tranchantes)
+Nécessite :
+ 15 en Force
+
+Poids : 70~
+// DWDART01.ITM
+@109 = ~La fléchette est un petit projectile facilement dissimulable, lancée par la simple action mécanique des muscles plutôt que tirée par un arc ou une autre arme de trait.
+
+Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
+
+PARAMÈTRES :
+
+Dégâts : 1d3 (projectile)
+Facteur de vitesse : 2
+Type de compétence : fléchette
+Type : arme à une main
 
 Poids : 0~
