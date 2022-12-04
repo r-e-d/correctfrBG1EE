@@ -106,6 +106,8 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 - Réduction des anglicismes (ok, hello, ranger, yeah, etc.).
 - Réduction des mots-clés inutiles ou inadéquats (\<GABBER\>, \<HESHE\>, \<GIRLBOY\>, etc.).
 - Correction (et/ou ajout) de références de ligne des objets (noms, infobulles, descriptions, icônes, etc.) :
+	<details><summary>Cliquez ici pour afficher les corrections.</summary>
+	<pre>
 	- Cotte de mailles elfe noir +3 (DWCHAN01.ITM).
 	- Cotte de mailles elfe noir +5 (DWCHAN02.ITM).
 	- Cimeterre elfe noir +3 (DWSW1H01.ITM).
@@ -119,6 +121,8 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	- Carreau elfe noir +1 (DWBOLT03.ITM).
 	- Armure de plates complète elfe noir +3 (DWPLAT01.ITM).
 	- Fléchette de sommeil elfe noir +1 (DWDART01.ITM).
+	</pre>
+	</details>
 
 ##
 

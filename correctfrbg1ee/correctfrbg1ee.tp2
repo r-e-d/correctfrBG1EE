@@ -15,9 +15,27 @@ LANGUAGE ~Francais~
          ~correctfrbg1ee/francais/correctfr.tra~
          ~correctfrbg1ee/francais/correctobjets.tra~
 
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Correction de la traduction de BG1:EE            \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
 BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhanced Edition
 	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
 	INCLUDE ~correctfrbg1ee/lib/bg1ee.tph~
+	COPY ~%MOD_FOLDER%/extra/L_fr_FR.LUA~ ~override/L_fr_FR.LUA~
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Correctifs objets                                \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
 	ACTION_IF FILE_EXISTS_IN_GAME ~BD0010.ARE~ THEN
 	BEGIN
 		INCLUDE ~correctfrbg1ee/lib/sod.tph~
@@ -29,37 +47,37 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 			WRITE_LONG 0x08 25551
 			SAY UNIDENTIFIED_DESC @100
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description du Cimeterre elfe noir +3
 		COPY_EXISTING ~DWSW1H01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @101
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description de l'Épée longue elfe noir +3
 		COPY_EXISTING ~DWSW1H02.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @102
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description du Fléau d'armes elfe noir +3
 		COPY_EXISTING ~DWBLUN01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @103
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description de la Lance elfe noir +3
 		COPY_EXISTING ~DWSPER01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @104
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description de l'Arbalète de vitesse elfe noir +3
 		COPY_EXISTING ~DWXBOW01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @105
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description du Bouclier elfe noir +3
 		COPY_EXISTING ~DWSHLD01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @106
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description du Carreau de sommeil elfe noir +1
 		// Correction de la description du Carreau d'étourdissement elfe noir +1
 		// Correction de la description du Carreau elfe noir +1
@@ -68,25 +86,39 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 					  ~DWBOLT03.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @107
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description de l'Armure de plates complète elfe noir +3
 		COPY_EXISTING ~DWPLAT01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @108
 		BUT_ONLY_IF_IT_CHANGES
-		
+
 		// Correction de la description de la Fléchette de sommeil elfe noir +1
 		COPY_EXISTING ~DWDART01.ITM~ ~override~
 			SAY UNIDENTIFIED_DESC @109
 		BUT_ONLY_IF_IT_CHANGES
 	END
 
-	COPY ~%MOD_FOLDER%/extra/L_fr_FR.LUA~ ~override/L_fr_FR.LUA~
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Patch audio francais                             \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
 BEGIN @2 DESIGNATED 20 // Patch audio francais
 	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
 	COPY ~%MOD_FOLDER%/extra/LEOPA05.WAV~ ~override/LEOPA05.WAV~
 	COPY ~%MOD_FOLDER%/extra/bdtptol.WAV~ ~lang/en_us/sounds/bdtptol.WAV~
 	COPY ~%MOD_FOLDER%/override~ ~lang/fr_fr/override~
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Suppression des doublages en anglais             \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
 BEGIN @3 DESIGNATED 30 // Suppression des doublages en anglais
 	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
