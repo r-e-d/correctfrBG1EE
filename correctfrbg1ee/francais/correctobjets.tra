@@ -1,3 +1,11 @@
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Correctifs objets                                \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
 // DWCHAN01.ITM / DWCHAN02.ITM (BG2:EE @46640)
 @100 = ~Le poids réduit de cette cotte de mailles elfe noir permet aux voleurs et aux guerriers-mages de la porter sans trop de restrictions.
 
@@ -10,6 +18,7 @@ Nécessite :
  5 en Force
 
 Poids : 7~
+
 // DWSW1H01.ITM (BG2:EE @46665)
 @101 = ~La longue lame incurvée à un seul tranchant est caractéristique à la fois du sabre et du cimeterre, bien que leurs origines proviennent de régions différentes de Féérûne. Alors que le sabre était plutôt fait pour les cavaliers, surtout en raison de sa souplesse, le cimeterre était plus courant en Orient. Le « shamshir », comme on l'appelait à l'origine, est plus grand, plus courbe et doté d'une longue pointe acérée. Résultat : il est un peu moins maniable, mais en général plus efficace et mortel au combat.
 
@@ -25,6 +34,7 @@ Nécessite :
  10 en Force
 
 Poids : 4~
+
 // DWSW1H02.ITM (BG2:EE @46675)
 @102 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Certaines épées longues peuvent avoir une lame à simple tranchant, mais la plupart ont une lame à double tranchant ainsi qu'un estoc pointu et acéré. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. Malgré son extrémité pointue, cette arme est conçue pour frapper de taille, et non d'estoc. De ce fait, l'épée longue est une arme considérée comme tranchante, et non perforante.
 
@@ -40,6 +50,7 @@ Nécessite :
  6 en Force
 
 Poids : 4~
+
 // DWBLUN01.ITM (BG2:EE @46688)
 @103 = ~Le fléau d'armes est constitué d'un solide manche de bois relié à une barre de fer, à une tringle de bois garnie de piquants, ou à une boule de métal hérissée de pointes. Entre le manche et l'accessoire qui l'accompagne se trouve une simple bande de cuir, une bielle ou encore plus communément, une chaîne. Cette arme était à l'origine un outil agricole pour battre le grain.
 
@@ -55,6 +66,7 @@ Nécessite :
  13 en Force
 
 Poids : 15~
+
 // DWSPER01.ITM (BG2:EE @46698)
 @104 = ~La lance, l'une des premières armes jamais créées, dont l'usage remonte aux époques les plus primitives, était initialement constituée d'un épieu ou d'un bâton de bois taillé en pointe à l'une de ses extrémités. Avec la découverte et la maîtrise des métaux, les races civilisées ont commencé à remplacer les pointes en bois par des pointes en fer et en acier, d'où le terme « fer de lance ». Arrivés à ce stade, les armuriers ont alors pu expérimenter différents types de fers de lance, ce qui a permis l'élaboration de certains types d'armes d'hast. Cette lance elfe noir est une version améliorée de la lance traditionnelle, souvent utilisée par les fantassins elfes noirs.
 
@@ -70,6 +82,7 @@ Nécessite :
  5 en Force
 
 Poids : 5~
+
 // DWXBOW01.ITM (BG2:EE @46704)
 @105 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un fût. L'arc est généralement fabriqué en bois de frêne ou d'if. La corde, quant à elle, est maintenue en tension sur le fût à l'aide d'une pièce rigide appelée un arbrier. Lorsque le tireur actionne l'arbrier en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine).
 
@@ -84,6 +97,7 @@ Nécessite :
  8 en Force
 
 Poids : 5~
+
 // DWSHLD01.ITM (BG2:EE @46708)
 @106 = ~L'écu, tout simplement connu sous le nom de bouclier, se porte de la même manière qu'une rondache. Cependant, contrairement à cette dernière, son poids et sa taille empêchent d'utiliser le bras qui le porte pour tout autre chose que de le maintenir fermement en place. Les boucliers sont généralement fabriqués en métal ou en bois, ils mesurent entre 90 centimètres et 1,20 mètre de diamètre et peuvent avoir n'importe quelle forme, de ronde à carrée, en passant par des ailes de dragon déployées. Le bouclier médiéval typique, l'écu, ressemble à une sorte de triangle dont l'un des angles pointerait vers le bas, avec une forme ogivale pour sa partie inférieure.
 
@@ -98,6 +112,7 @@ Nécessite :
  12 en Force
 
 Poids : 7~
+
 // DWBOLT01.ITM / DWBOLT02.ITM / DWBOLT03.ITM (BG2:EE @46717)
 @107 = ~Les carreaux, également connus sous le nom de dondaines, sont les munitions tirées par les arbalètes quel que soit le type de l'arme, lourde ou légère.
 
@@ -109,6 +124,7 @@ Dégâts : 1d8 (projectile)
 Arme de trait : arbalète
 
 Poids : 0~
+
 // DWPLAT01.ITM
 @108 = ~L'armure de plates complète est la meilleure armure qu'un combattant puisse acquérir, tant en termes d'apparence que de protection. Les plaques, parfaitement ajustées et imbriquées les unes dans les autres, sont courbées de manière à dévier les coups et les projectiles. Les armures de plates complètes sont généralement décorées de riches gravures et de détails en relief.
 
@@ -121,6 +137,7 @@ Nécessite :
  15 en Force
 
 Poids : 70~
+
 // DWDART01.ITM
 @109 = ~La fléchette est un petit projectile facilement dissimulable, lancée par la simple action mécanique des muscles plutôt que tirée par un arc ou une autre arme de trait.
 
