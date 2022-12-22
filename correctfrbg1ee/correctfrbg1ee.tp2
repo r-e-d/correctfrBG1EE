@@ -387,37 +387,37 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 		STR_VAR cd_name = "MALE3"
 	END
 
-	//BG1 Woman 1 (anglais)
+	//BG1 Female 1 (anglais)
 	LAF cd_add_soundset_name
 		INT_VAR cd_select_name = RESOLVE_STR_REF(@807)
 		STR_VAR cd_name = "FEMALE4"
 	END
 
-	//BG1 Woman 2 (anglais)
+	//BG1 Female 2 (anglais)
 	LAF cd_add_soundset_name
 		INT_VAR cd_select_name = RESOLVE_STR_REF(@808)
 		STR_VAR cd_name = "FEMALE5"
 	END
 
-	//BG1 Woman 3 (anglais)
+	//BG1 Female 3 (anglais)
 	LAF cd_add_soundset_name
 		INT_VAR cd_select_name = RESOLVE_STR_REF(@809)
 		STR_VAR cd_name = "FEMALE6"
 	END
 
-	//BG1 Man 1 (anglais)
+	//BG1 Male 1 (anglais)
 	LAF cd_add_soundset_name
 		INT_VAR cd_select_name = RESOLVE_STR_REF(@810)
 		STR_VAR cd_name = "MALE4"
 	END
 
-	//BG1 Man 2 (anglais)
+	//BG1 Male 2 (anglais)
 	LAF cd_add_soundset_name
 		INT_VAR cd_select_name = RESOLVE_STR_REF(@811)
 		STR_VAR cd_name = "MALE5"
 	END
 
-	//BG1 Man 3 (anglais)
+	//BG1 Male 3 (anglais)
 	LAF cd_add_soundset_name
 		INT_VAR cd_select_name = RESOLVE_STR_REF(@812)
 		STR_VAR cd_name = "MALE6"
@@ -426,72 +426,30 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 	ACTION_IF FILE_EXISTS_IN_GAME ~BD0010.ARE~ THEN
 	BEGIN
 
-		//SoD Woman 1 (anglais)
+		//SoD Female 1 (anglais)
 		LAF cd_add_soundset_name
 			INT_VAR cd_select_name = RESOLVE_STR_REF(@813)
 			STR_VAR cd_name = "FEMALE7"
 		END
 
-		//SoD Woman 2 (anglais)
+		//SoD Female 2 (anglais)
 		LAF cd_add_soundset_name
 			INT_VAR cd_select_name = RESOLVE_STR_REF(@814)
 			STR_VAR cd_name = "FEMALE8"
 		END
 
-		//SoD Man 1 (anglais)
+		//SoD Male 1 (anglais)
 		LAF cd_add_soundset_name
 			INT_VAR cd_select_name = RESOLVE_STR_REF(@815)
 			STR_VAR cd_name = "MALE7"
 		END
 
-		//SoD Man 2 (anglais)
+		//SoD Male 2 (anglais)
 		LAF cd_add_soundset_name
 			INT_VAR cd_select_name = RESOLVE_STR_REF(@816)
 			STR_VAR cd_name = "MALE8"
 		END
 
-	END
-
-	//AoN Andrew (anglais)
-	LAF cd_add_soundset_name
-		INT_VAR cd_select_name = RESOLVE_STR_REF(@817)
-		STR_VAR cd_name = "BDTPAG"
-	END
-
-	//AoN Alveus (anglais)
-	LAF cd_add_soundset_name
-		INT_VAR cd_select_name = RESOLVE_STR_REF(@818)
-		STR_VAR cd_name = "BDTPAM"
-	END
-
-	//AoN Baeloth (anglais)
-	LAF cd_add_soundset_name
-		INT_VAR cd_select_name = RESOLVE_STR_REF(@819)
-		STR_VAR cd_name = "BDTPBE"
-	END
-
-	//AoN Dan (anglais)
-	LAF cd_add_soundset_name
-		INT_VAR cd_select_name = RESOLVE_STR_REF(@820)
-		STR_VAR cd_name = "BDTPDG"
-	END
-
-	//AoN Elyse (anglais)
-	LAF cd_add_soundset_name
-		INT_VAR cd_select_name = RESOLVE_STR_REF(@821)
-		STR_VAR cd_name = "BDTPEH"
-	END
-
-	//AoN Sarah (anglais)
-	LAF cd_add_soundset_name
-		INT_VAR cd_select_name = RESOLVE_STR_REF(@822)
-		STR_VAR cd_name = "BDTPSD"
-	END
-
-	//AoN Trent (anglais)
-	LAF cd_add_soundset_name
-		INT_VAR cd_select_name = RESOLVE_STR_REF(@823)
-		STR_VAR cd_name = "BDTPTO"
 	END
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -575,6 +533,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@1019) //  u
 			cd_action7            = RESOLVE_STR_REF(@1020) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@1021) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@1021) //  _
 			cd_damage1            = RESOLVE_STR_REF(@1022) //  l
 			cd_dying1             = RESOLVE_STR_REF(@1023) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@1024) //  z
@@ -613,6 +572,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@1059) //  u
 			cd_action7            = RESOLVE_STR_REF(@1060) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@1061) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@1061) //  _
 			cd_damage1            = RESOLVE_STR_REF(@1062) //  l
 			cd_dying1             = RESOLVE_STR_REF(@1063) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@1064) //  z
@@ -651,6 +611,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@1099) //  u
 			cd_action7            = RESOLVE_STR_REF(@1100) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@1101) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@1101) //  _
 			cd_damage1            = RESOLVE_STR_REF(@1102) //  l
 			cd_dying1             = RESOLVE_STR_REF(@1103) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@1104) //  z
@@ -689,6 +650,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@1139) //  u
 			cd_action7            = RESOLVE_STR_REF(@1140) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@1141) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@1141) //  _
 			cd_damage1            = RESOLVE_STR_REF(@1142) //  l
 			cd_dying1             = RESOLVE_STR_REF(@1143) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@1144) //  z
@@ -727,6 +689,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@2019) //  u
 			cd_action7            = RESOLVE_STR_REF(@2020) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@2021) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@2021) //  _
 			cd_damage1            = RESOLVE_STR_REF(@2022) //  l
 			cd_dying1             = RESOLVE_STR_REF(@2023) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@2024) //  z
@@ -765,6 +728,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@2059) //  u
 			cd_action7            = RESOLVE_STR_REF(@2060) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@2061) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@2061) //  _
 			cd_damage1            = RESOLVE_STR_REF(@2062) //  l
 			cd_dying1             = RESOLVE_STR_REF(@2063) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@2064) //  z
@@ -803,6 +767,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@2099) //  u
 			cd_action7            = RESOLVE_STR_REF(@2100) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@2101) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@2101) //  _
 			cd_damage1            = RESOLVE_STR_REF(@2102) //  l
 			cd_dying1             = RESOLVE_STR_REF(@2103) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@2104) //  z
@@ -841,6 +806,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@2139) //  u
 			cd_action7            = RESOLVE_STR_REF(@2140) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@2141) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@2141) //  _
 			cd_damage1            = RESOLVE_STR_REF(@2142) //  l
 			cd_dying1             = RESOLVE_STR_REF(@2143) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@2144) //  z
@@ -879,6 +845,7 @@ BEGIN @2 DESIGNATED 20 // Patch audio francais
 			cd_action6            = RESOLVE_STR_REF(@2179) //  u
 			cd_action7            = RESOLVE_STR_REF(@2180) //  v
 			cd_action_rare1       = RESOLVE_STR_REF(@2181) //  _
+			cd_action_rare2       = RESOLVE_STR_REF(@2181) //  _
 			cd_damage1            = RESOLVE_STR_REF(@2182) //  l
 			cd_dying1             = RESOLVE_STR_REF(@2183) //  m
 			cd_criticalhit        = RESOLVE_STR_REF(@2184) //  z
@@ -904,12 +871,12 @@ BEGIN @3 DESIGNATED 30 // Suppression des doublages en anglais
 	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
 	REQUIRE_COMPONENT ~correctfrbg1ee/correctfrbg1ee.tp2~ ~20~ @10 // Necessite le composant "Patch audio et video francais"
 
-	//BG1 Woman 1-3 (anglais)
+	//BG1 Female 1-3 (anglais)
 	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^Female[4-6].*\.wav$~ BEGIN
 		DELETE ~%BASH_FOR_FILESPEC%~
 	END
 
-	//BG1 Man 1-3 (anglais)
+	//BG1 Male 1-3 (anglais)
 	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^Male[4-6].*\.wav$~ BEGIN
 		DELETE ~%BASH_FOR_FILESPEC%~
 	END
@@ -918,12 +885,12 @@ BEGIN @3 DESIGNATED 30 // Suppression des doublages en anglais
 	ACTION_IF FILE_EXISTS_IN_GAME ~BD0010.ARE~ THEN
 	BEGIN
 
-		//SoD Woman 1-2 (anglais)
+		//SoD Female 1-2 (anglais)
 		ACTION_BASH_FOR ~lang/en_us/sounds~ ~^FEMALE[7-8].*\.wav$~ BEGIN
 			DELETE ~%BASH_FOR_FILESPEC%~
 		END
 
-		//SoD Man 1-2 (anglais)
+		//SoD Male 1-2 (anglais)
 		ACTION_BASH_FOR ~lang/en_us/sounds~ ~^MALE[7-8].*\.wav$~ BEGIN
 			DELETE ~%BASH_FOR_FILESPEC%~
 		END

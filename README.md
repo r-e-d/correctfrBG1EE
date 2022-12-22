@@ -170,7 +170,7 @@ Ce composant ajoute des doublages en français.
 - Correction (et/ou ajout) des ensembles de voix :
 	<details><summary>Cliquez ici pour afficher les corrections.</summary>
 	<pre>
-	- [bdtptol], [Mainf03], [Mainf08], [Mainf09], [Mainf10], [Mainf11], [Mainf17], [Mainf18], [Mainf19], [Mainf20], [Mainf21], [Mainf22], [Mainf38], [Mainf39], [Mainm03], [Mainm08], [Mainm09], [Mainm10], [Mainm11], [Mainm17], [Mainm18], [Mainm19], [Mainm20], [Mainm21], [Mainm22], [Mainm38], [Mainm39].
+	- [bdtptol], [Female9a], [Female9b], [Female9c], [Female9d], [Female9e], [Female9f], [Female9g], [Female9h], [Female9i], [Female9j], [Female9k], [Female9l], [Female9m], [Male9a], [Male9b], [Male9c], [Male9d], [Male9e], [Male9f], [Male9g], [Male9h], [Male9i], [Male9j], [Male9k], [Male9l], [Male9m].
 	</pre>
 	</details>
 - Les répliques non doublées en français sont conservées.
