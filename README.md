@@ -277,6 +277,14 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
+#### Version 0.4 &nbsp;(22 décembre 2022)
+
+  - Correctifs créatures (féminisation / masculinisation, correction, uniformisation).
+  - Affichage du nom des ensembles de voix en français.
+  - Ajout des ensembles de voix BG2.
+  - Séparation de la modification Suppression des ensembles de voix en anglais dans son propre composant.
+  - Corrections diverses.
+
 #### Version 0.3 &nbsp;(12 novembre 2022)
 
   - Uniformisation BGEE et BG2EE.
