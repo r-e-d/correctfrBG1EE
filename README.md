@@ -181,82 +181,21 @@ Ce composant ajoute des doublages en français.
 
 Ce composant supprime les doublages anglais restants.
 
-- Suppression des ensembles de voix en anglais de BG:EE et BG:SoD.
-- Suppression des ensembles de voix en anglais de Adventurers of Neverwinter pour le personnage principal ajoutées par le patch 2.6.
 - Suppression des répliques non doublées en français.
 - Les doublages de type « bruitages » du contenu BG:SoD sont conservés.
+
+##
+
+#### [40] Suppression des ensembles de voix en anglais
+
+Ce composant supprime les ensembles de voix en anglais.
+
+- Suppression des ensembles de voix en anglais de BG:EE et BG:SoD.
+- Suppression des ensembles de voix en anglais de Adventurers of Neverwinter pour le personnage principal ajoutées par le patch 2.6.
 
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
 <hr>
-
-
-<!--## <a name="images" id="images"></a>Captures d'écran et vidéos
-
-#### <a name="textes" id="textes"></a>Textes
-
-Comparez les captures d'écran des textes (BG:EE/CorrectfrBG1EE).
-
-#### BG:EE :
-
-<img src="correctfrbg2ee/readme/images/2.6.jpg">
-
-#### CorrectfrBG1EE :
-
-<img src="correctfrbg2ee/readme/images/2.6patched.jpg">
-
-#### <a name="images2" id="images2"></a>BG:EE :
-
-<img src="correctfrbg2ee/readme/images/2.6a.jpg">
-
-#### CorrectfrBG1EE :
-
-<img src="correctfrbg2ee/readme/images/2.6apatched.jpg">
-
-##
-
-#### <a name="doublage" id="doublage"></a>Doublage
-
-Cliquer sur les vidéos vous redirigera vers youtube, où vous pourrez comparer les différentes versions du doublage (BG:EE/BG1/CorrectfrBG1EE).
-
-<summary>[KORGAN36]</summary>
-<div align="center">
-&nbsp;
-
-[![[KORGAN36]](correctfrbg1ee/readme/images/video.png)](https://youtu.be/Ex2oBv2zXwU "[KORGAN36]")
-</div>
-<br>
-
-<summary>[VICONID1]</summary>
-<div align="center">
-&nbsp;
-
-[![[VICONID1]](correctfrbg1ee/readme/images/video.png)](https://youtu.be/Ha92mWe3S24 "[VICONID1]")
-</div>
-<br>
-
-##
-
-#### <a name="cinématiques" id="cinématiques"></a>Cinématiques
-
-Comparez les différentes versions des cinématiques.
-
-#### BG1
-
-<img src="correctfrbg1ee/readme/images/vidbg2.png">
-
-#### BG:EE
-
-<img src="correctfrbg1ee/readme/images/vidbg2ee.png">
-
-#### CorrectfrBG1EE
-
-<img src="correctfrbg1ee/readme/images/vidcorrectfrbg2ee.png">
-
-<div align="right"><a href="#top">Retour en haut de page</a></div>
-
-<hr>-->
-
 
 ## <a name="credits" id="credits"></a>Crédits et remerciements
 

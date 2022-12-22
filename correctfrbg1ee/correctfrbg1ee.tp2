@@ -871,37 +871,6 @@ BEGIN @3 DESIGNATED 30 // Suppression des doublages en anglais
 	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
 	REQUIRE_COMPONENT ~correctfrbg1ee/correctfrbg1ee.tp2~ ~20~ @10 // Necessite le composant "Patch audio et video francais"
 
-	//BG1 Female 1-3 (anglais)
-	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^Female[4-6].*\.wav$~ BEGIN
-		DELETE ~%BASH_FOR_FILESPEC%~
-	END
-
-	//BG1 Male 1-3 (anglais)
-	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^Male[4-6].*\.wav$~ BEGIN
-		DELETE ~%BASH_FOR_FILESPEC%~
-	END
-
-
-	ACTION_IF FILE_EXISTS_IN_GAME ~BD0010.ARE~ THEN
-	BEGIN
-
-		//SoD Female 1-2 (anglais)
-		ACTION_BASH_FOR ~lang/en_us/sounds~ ~^FEMALE[7-8].*\.wav$~ BEGIN
-			DELETE ~%BASH_FOR_FILESPEC%~
-		END
-
-		//SoD Male 1-2 (anglais)
-		ACTION_BASH_FOR ~lang/en_us/sounds~ ~^MALE[7-8].*\.wav$~ BEGIN
-			DELETE ~%BASH_FOR_FILESPEC%~
-		END
-
-	END
-
-	//AoN Andrew / Alveus / Baeloth / Dan / Elyse / Sarah / Trent (anglais)
-	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^bdtp.*\.wav$~ BEGIN
-		DELETE ~%BASH_FOR_FILESPEC%~
-	END
-
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN42.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN43.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN44.WAV~
@@ -952,3 +921,43 @@ BEGIN @3 DESIGNATED 30 // Suppression des doublages en anglais
 	END
 
 	MAKE_BIFF ~noeevo~ BEGIN ~%MOD_FOLDER%/tmp~ ~^.*$~ END
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Suppression des ensembles de voix en anglais     \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+BEGIN @4 DESIGNATED 40 // Suppression des ensembles de voix en anglais
+	REQUIRE_PREDICATE GAME_IS ~bgee sod~ @0 // Necessite Baldur's Gate : Enhanced Edition (type de jeu incorrect)
+
+	//BG1 Female 1-3 (anglais)
+	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^Female[4-6].*\.wav$~ BEGIN
+		DELETE ~%BASH_FOR_FILESPEC%~
+	END
+
+	//BG1 Male 1-3 (anglais)
+	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^Male[4-6].*\.wav$~ BEGIN
+		DELETE ~%BASH_FOR_FILESPEC%~
+	END
+
+
+	ACTION_IF FILE_EXISTS_IN_GAME ~BD0010.ARE~ THEN
+	BEGIN
+		//SoD Female 1-2 (anglais)
+		ACTION_BASH_FOR ~lang/en_us/sounds~ ~^FEMALE[7-8].*\.wav$~ BEGIN
+			DELETE ~%BASH_FOR_FILESPEC%~
+		END
+
+		//SoD Male 1-2 (anglais)
+		ACTION_BASH_FOR ~lang/en_us/sounds~ ~^MALE[7-8].*\.wav$~ BEGIN
+			DELETE ~%BASH_FOR_FILESPEC%~
+		END
+	END
+
+	//AoN Andrew / Alveus / Baeloth / Dan / Elyse / Sarah / Trent (anglais)
+	ACTION_BASH_FOR ~lang/en_us/sounds~ ~^bdtp.*\.wav$~ BEGIN
+		DELETE ~%BASH_FOR_FILESPEC%~
+	END
