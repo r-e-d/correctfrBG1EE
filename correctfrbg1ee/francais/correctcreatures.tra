@@ -1,0 +1,64 @@
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Correctifs créatures                             \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+// (bdbfor13.CRE)
+@200 = ~Aventurière~
+
+// (bdccarc1.CRE / bdcru01d.CRE / bdcruaf5.CRE / bdcruml4.CRE / bdcruml9.CRE / bdcrus90.CRE / bdcrus96.CRE / BDGUAR56.CRE)
+@201 = ~Archère croisée~
+
+// (bdccsol1.CRE / bdcru05d.CRE / bdcru41.CRE / bdcruml2.CRE / BDCRUS23.CRE / BDCRUS24.CRE / bdcrus34.CRE / bdcrus39.CRE / bdcrus49.CRE / bdcrus51.CRE / bdcrus52.CRE / bdcrus54.CRE / bdcrus73.CRE / bdcrus74.CRE / bdcrus75.CRE / bdcrus76.CRE / bdcrus79.CRE / bdcrus91.CRE / bdcruz03.CRE / bddsarc3.CRE / bdforcw4.CRE / bdwave52.CRE / bdwave54.CRE)
+@202 = ~Croisée~
+
+// (bdbfind2.CRE / bdbfor16.CRE)
+@203 = ~Défenseuse de Fort-du-Pont~
+
+// (bdccmag1.CRE / bdcru123.CRE / bdcru56.CRE / bdcru58.CRE / bdcrubbm.CRE / bdcrumf7.CRE / bdcrus92.CRE / bdcruw47.CRE / bdcruw49.CRE / bdwave23.CRE / bdwave26.CRE / bdwave28.CRE)
+@204 = ~Magicienne croisée~
+
+// (BDCAGE1.CRE / bddssen1.CRE / bddssen6.CRE / bddssen7.CRE / bdguar22.CRE / bdguar23.CRE)
+@205 = ~Garde croisée~
+
+// (bdcccle1.CRE / bdcru107.CRE / bdcru121.CRE / bdcru51.CRE / bdcru53.CRE / bdcruc44.CRE / bdcruc45.CRE / bdcruc49.CRE / bdcruml6.CRE / bdwave34.CRE)
+@206 = ~Prêtresse croisée~
+
+// (bdcoa02d.CRE / bddagf36.CRE / bddagf40.CRE / bddagf41.CRE / bddagf42.CRE / bddagf43.CRE / bddagf44.CRE / bddagf45.CRE / bddagf46.CRE / bddagf47.CRE / bddagf49.CRE / bddagf61.CRE / bddagf70.CRE / bddagf71.CRE)
+@207 = ~Milicienne de Gué-de-la-Dague~
+
+// (bdcruc41.CRE / bdcrue30.CRE / bdcrue33.CRE / bdcrue41.CRE / bdcrue44.CRE / bdcrue51.CRE / bdcrue53.CRE / bdcrus7d.CRE / BDCRUS9D.CRE / bdcruw42.CRE / bdlieutd.CRE)
+@208 = ~Croisée d'élite~
+
+// (bdcrus81.CRE / bdcrus82.CRE / bdcrus83.CRE / bdsahgd2.CRE)
+@209 = ~Patrouilleuse croisée~
+
+// (bdcult25.CRE)
+@210 = ~Gardienne du culte~
+
+// (bdcult27.CRE)
+@211 = ~Magicienne du culte~
+
+// (bddcler2.CRE / bdteam51.CRE)
+@212 = ~Prêtresse naine~
+
+// (bddm04.CRE / bddm05.CRE / bddm08.CRE)
+@213 = ~Magicienne sombre~
+
+// (bdfinal2.CRE / bdfinal5.CRE)
+@214 = ~Voleuse de l'ombre~
+
+// (bdfist25.CRE)
+@215 = ~Éclaireuse du Poing Enflammé~
+
+// (bdfistm1.CRE)
+@216 = ~Magicienne du Poing Enflammé~
+
+// (bdgass1.CRE)
+@217 = ~Assassine~
+
+// (bdinfec2.CRE / BDINFEC4.CRE / BDINFEC6.CRE)
+@218 = ~Soldate infectée~

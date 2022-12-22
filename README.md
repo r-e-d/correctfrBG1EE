@@ -123,18 +123,56 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	- Fléchette de sommeil elfe noir +1 (DWDART01.ITM).
 	</pre>
 	</details>
-
+- Correction (et/ou ajout) de références de ligne des créatures (noms, infobulles, etc.) :
+	<details><summary>Cliquez ici pour afficher les corrections.</summary>
+	<pre>
+	- Aventurière (bdbfor13.CRE).
+	- Archère croisée (bdccarc1.CRE, bdcru01d.CRE, bdcruaf5.CRE, bdcruml4.CRE, bdcruml9.CRE, bdcrus90.CRE, bdcrus96.CRE, BDGUAR56.CRE).
+	- Croisée (bdccsol1.CRE, bdcru05d.CRE, bdcru41.CRE, bdcruml2.CRE, BDCRUS23.CRE, BDCRUS24.CRE, bdcrus34.CRE, bdcrus39.CRE, bdcrus49.CRE, bdcrus51.CRE, bdcrus52.CRE, bdcrus54.CRE, bdcrus73.CRE, bdcrus74.CRE, bdcrus75.CRE, bdcrus76.CRE, bdcrus79.CRE, bdcrus91.CRE, bdcruz03.CRE, bddsarc3.CRE, bdforcw4.CRE, bdwave52.CRE, bdwave54.CRE).
+	- Défenseuse de Fort-du-Pont (bdbfind2.CRE, bdbfor16.CRE).
+	- Magicienne croisée (bdccmag1.CRE, bdcru123.CRE, bdcru56.CRE, bdcru58.CRE, bdcrubbm.CRE, bdcrumf7.CRE, bdcrus92.CRE, bdcruw47.CRE, bdcruw49.CRE, bdwave23.CRE, bdwave26.CRE, bdwave28.CRE).
+	- Garde croisée (BDCAGE1.CRE, bddssen1.CRE, bddssen6.CRE, bddssen7.CRE, bdguar22.CRE, bdguar23.CRE).
+	- Prêtresse croisée (bdcccle1.CRE, bdcru107.CRE, bdcru121.CRE, bdcru51.CRE, bdcru53.CRE, bdcruc44.CRE, bdcruc45.CRE, bdcruc49.CRE, bdcruml6.CRE, bdwave34.CRE).
+	- Milicienne de Gué-de-la-Dague (bdcoa02d.CRE, bddagf36.CRE, bddagf40.CRE, bddagf41.CRE, bddagf42.CRE, bddagf43.CRE, bddagf44.CRE, bddagf45.CRE, bddagf46.CRE, bddagf47.CRE, bddagf49.CRE, bddagf61.CRE, bddagf70.CRE, bddagf71.CRE).
+	- Croisée d'élite (bdcruc41.CRE, bdcrue30.CRE, bdcrue33.CRE, bdcrue41.CRE, bdcrue44.CRE, bdcrue51.CRE, bdcrue53.CRE, bdcrus7d.CRE, BDCRUS9D.CRE, bdcruw42.CRE, bdlieutd.CRE).
+	- Patrouilleuse croisée (bdcrus81.CRE, bdcrus82.CRE, bdcrus83.CRE, bdsahgd2.CRE).
+	- Gardienne du culte (bdcult25.CRE).
+	- Magicienne du culte (bdcult27.CRE).
+	- Prêtresse naine (bddcler2.CRE, bdteam51.CRE).
+	- Magicienne sombre (bddm04.CRE, bddm05.CRE, bddm08.CRE).
+	- Voleuse de l'ombre (bdfinal2.CRE, bdfinal5.CRE).
+	- Éclaireuse du Poing Enflammé (bdfist25.CRE).
+	- Magicienne du Poing Enflammé (bdfistm1.CRE).
+	- Assassine (bdgass1.CRE).
+	- Soldate infectée (bdinfec2.CRE, BDINFEC4.CRE, BDINFEC6.CRE).
+	</pre>
+	</details>
 ##
 
 #### [20] Patch audio français
 
 Ce composant ajoute des doublages en français.
 
-- Inclusion des répliques doublées en français manquantes.
+- Inclusion des répliques doublées en français de BG1 manquantes.
+- Importation des ensembles de voix doublées en français de BG2 pour le personnage principal.
 - Correction (et/ou ajout) des répliques doublées de BG:EE importées de BG1 :
-	- [AJANT33], [AJANT38], [AJANT39], [ALORA38], [ALORA39], [BANDT05], [BANDT06], [BASSL03], [BASSL04], [BELTT08], [BELTT09], [BRANW38], [BRANW39], [CORAN38], [CORAN39], [DRIZT08], [DRIZT09], [DUNKN03], [DUNKN04], [DYNAH38], [DYNAH39], [EDWIN38], [EDWIN39], [ELDOT38], [ELDOT39], [FALDN38], [FALDN39], [GARRK38], [GARRK39], [GORIN08], [GORIN09], [HUSAM05], [HUSAM09], [IMOEN12], [IMOEN13], [JAHER38], [JAHER39], [KAGAN38], [KAGAN39], [KHALD38], [KHALD39], [KIVAN03], [KIVAN20], [KIVAN38], [KIVAN39], [KORAX08], [KORAX09], [KRUMM03], [KRUMM04], [KRYST08], [KRYST09], [LIIAJ08], [LIIAJ09], [LOTHR03], [LOTHR04], [MAINF38], [MAINF39], [MAINM11], [MAINM38], [MAINM39], [MALKL03], [MALKL04], [MENDA_05], [MENDA_06], [MERCH05], [MERCH06], [MESSN04], [MESSN05], [MINER05], [MINER06], [MINSC38], [MINSC39], [MONTR38], [MONTR39], [MULAH04], [MULAH05], [MULAH08], [MULAH09], [MYSTR03], [MYSTR04], [NALIN03], [NALIN04], [NARLN03], [NARLN04], [NERED05], [NERED06], [NERED07], [NERED08], [NERED09], [NOBLW05], [NOBLW06], [NOBW203], [NOBW204], [NTHUG03], [NTHUG04], [NYMPH08], [NYMPH09], [OGHMA05], [OGHMA06], [OGREE08], [OGREE09], [OGREM08], [OGREM09], [OGRIL08], [OGRIL09], [OUBLK03], [OUBLK04], [PERFO05], [PERFO06], [PNOBL10], [PNOBL11], [POISN04], [POISN05], [PRISM03], [PRISM04], [RAIKN03], [RAIKN04], [SAFAN38], [SAFAN39], [SAREV08], [SAREV09], [SCARR08], [SCARR09], [SENIY03], [SENIY04], [SHAEL_04], [SHAEL_05], [SHAEL_06], [SHAEL_07], [SHAEL_09], [SHART38], [SHART39], [SHOAL03], [SHOAL04], [SILEN03], [SILEN04], [SILKE03], [SILKE04], [SILLL03], [SILLL04], [SIRIN03], [SIRIN04], [SIRIN05], [SIRIN06], [SIRIN08], [SIRIN09], [SKIEE38], [SKIEE39], [TAMOK08], [TAMOK09], [TELMN03], [TELMN04], [TENYA03], [TENYA04], [TETHT03], [TETHT04], [TEVEN03], [TEVEN04], [THALD03], [THALD03A], [THALD04], [THALT03], [THALT04], [TIAXX38], [TIAXX39], [TOGRE04], [TOGRE05], [TOLAN_05], [TOLAN_06], [TOWNC03], [TOWNC04], [TRACE_05], [TRACE_06], [TREMN03], [TREMN04], [TUTHH03], [TUTHH04], [ULRAN03], [ULRAN04], [ULRAN05], [UMBER05], [UMBER06], [VARCI03], [VARCI04], [VICON38], [VICON39], [VILFA05], [VILFA06], [VILLF05], [VILLF06], [VILLM05], [VILLM06], [VOLOO08], [VOLOO09], [WARRI05], [WARRI06], [WENCH03], [WENCH04], [WILTN03], [WILTN04], [WKNIG04], [WKNIG05], [XANNN38], [XANNN39], [XZARR38], [XZARR39], [YESLK38], [YESLK39].
+	<details><summary>Cliquez ici pour afficher les corrections.</summary>
+	<pre>
+	- [AJANT33], [AJANT38], [AJANT39], [ALORA38], [ALORA39], [BANDT05], [BANDT06], [BASSL03], [BASSL04], [BELTT08], [BELTT09], [BRANW38], [BRANW39], [CORAN38], [CORAN39], [DRIZT08], [DRIZT09], [DUNKN03], [DUNKN04], [DYNAH38], [DYNAH39], [EDWIN38], [EDWIN39], [ELDOT38], [ELDOT39], [FALDN38], [FALDN39], [GARRK38], [GARRK39], [GORIN08], [GORIN09], [HUSAM05], [HUSAM09], [IMOEN12], [IMOEN13], [JAHER38], [JAHER39], [KAGAN38], [KAGAN39], [KHALD38], [KHALD39], [KIVAN03], [KIVAN20], [KIVAN38], [KIVAN39], [KORAX08], [KORAX09], [KRUMM03], [KRUMM04], [KRYST08], [KRYST09], [LIIAJ08], [LIIAJ09], [LOTHR03], [LOTHR04], [MALKL03], [MALKL04], [MENDA_05], [MENDA_06], [MERCH05], [MERCH06], [MESSN04], [MESSN05], [MINER05], [MINER06], [MINSC38], [MINSC39], [MONTR38], [MONTR39], [MULAH04], [MULAH05], [MULAH08], [MULAH09], [MYSTR03], [MYSTR04], [NALIN03], [NALIN04], [NARLN03], [NARLN04], [NERED05], [NERED06], [NERED07], [NERED08], [NERED09], [NOBLW05], [NOBLW06], [NOBW203], [NOBW204], [NTHUG03], [NTHUG04], [NYMPH08], [NYMPH09], [OGHMA05], [OGHMA06], [OGREE08], [OGREE09], [OGREM08], [OGREM09], [OGRIL08], [OGRIL09], [OUBLK03], [OUBLK04], [PERFO05], [PERFO06], [PNOBL10], [PNOBL11], [POISN04], [POISN05], [PRISM03], [PRISM04], [RAIKN03], [RAIKN04], [SAFAN38], [SAFAN39], [SAREV08], [SAREV09], [SCARR08], [SCARR09], [SENIY03], [SENIY04], [SHAEL_04], [SHAEL_05], [SHAEL_06], [SHAEL_07], [SHAEL_09], [SHART38], [SHART39], [SHOAL03], [SHOAL04], [SILEN03], [SILEN04], [SILKE03], [SILKE04], [SILLL03], [SILLL04], [SIRIN03], [SIRIN04], [SIRIN05], [SIRIN06], [SIRIN08], [SIRIN09], [SKIEE38], [SKIEE39], [TAMOK08], [TAMOK09], [TELMN03], [TELMN04], [TENYA03], [TENYA04], [TETHT03], [TETHT04], [TEVEN03], [TEVEN04], [THALD03], [THALD03A], [THALD04], [THALT03], [THALT04], [TIAXX38], [TIAXX39], [TOGRE04], [TOGRE05], [TOLAN_05], [TOLAN_06], [TOWNC03], [TOWNC04], [TRACE_05], [TRACE_06], [TREMN03], [TREMN04], [TUTHH03], [TUTHH04], [ULRAN03], [ULRAN04], [ULRAN05], [UMBER05], [UMBER06], [VARCI03], [VARCI04], [VICON38], [VICON39], [VILFA05], [VILFA06], [VILLF05], [VILLF06], [VILLM05], [VILLM06], [VOLOO08], [VOLOO09], [WARRI05], [WARRI06], [WENCH03], [WENCH04], [WILTN03], [WILTN04], [WKNIG04], [WKNIG05], [XANNN38], [XANNN39], [XZARR38], [XZARR39], [YESLK38], [YESLK39].
+	</pre>
+	</details>
 - Ajout (et/ou correction) des répliques doublées de BG:SoD importées de BG2 :
-	- [1amerc03], [1amerc04], [bdtptol], [drpris01], [drpris02], [drpris03], [drpris04], [drsol101], [drsol102], [drsol103], [drsol104], [drsol105], [drsol106], [drsol107], [garren01], [garren03], [garren04], [garren05], [ggmal01], [ggmal02], [ggmal03], [ggmal04], [gprif01], [gprif02], [gprif03], [gprif04], [gprif05], [gprif06], [gprif07], [gprim01], [gprim02], [gprim03], [gprim04], [gprim05], [gprim06], [gprim07], [human01], [human02], [human03], [human04], [human05], [human06], [human07], [human08], [human09], [hvillf01], [hvillf02], [hvillf03], [hvillf05], [hvillf06], [hvillm08], [JAHEIRG2], [JAHEIRG3], [JAHEIRG4], [JAHEIRG5], [LEOPA05], [malsal01], [malsal02], [malsal03], [malsal05], [malsal06], [nobfe201], [nobfe202], [nobfe207], [nobfe208], [nobfe209], [peasf01], [peasf02], [peasf03], [peasf04], [ruffia01], [ruffia02], [ruffia03], [ruffia04], [ruffia05], [ruffia06], [ruffia07], [ruffia08], [solf01], [solf02], [solf03], [solf04], [solf05], [solf06], [solf07], [solm01], [solm02], [solm03], [solm04], [solm05], [solm06], [solm07], [sthfe01], [sthfe02], [sthfe04], [sthfe05], [sthfe06], [sthfe07], [sthfe08], [termin01], [termin04], [termin05], [termin17], [unearf01], [unearf02], [unearf03], [unearf04], [unearf05], [unearf08], [VAMPM01], [VAMPM02], [VAMPM03], [VAMPM04], [VAMPM05], [VAMPM06], [VAMPM07], [VAMPM09].
+	<details><summary>Cliquez ici pour afficher les corrections.</summary>
+	<pre>
+	- [1amerc03], [1amerc04], [drpris01], [drpris02], [drpris03], [drpris04], [drsol101], [drsol102], [drsol103], [drsol104], [drsol105], [drsol106], [drsol107], [garren01], [garren03], [garren04], [garren05], [ggmal01], [ggmal02], [ggmal03], [ggmal04], [gprif01], [gprif02], [gprif03], [gprif04], [gprif05], [gprif06], [gprif07], [gprim01], [gprim02], [gprim03], [gprim04], [gprim05], [gprim06], [gprim07], [human01], [human02], [human03], [human04], [human05], [human06], [human07], [human08], [human09], [hvillf01], [hvillf02], [hvillf03], [hvillf05], [hvillf06], [hvillm08], [JAHEIRG2], [JAHEIRG3], [JAHEIRG4], [JAHEIRG5], [LEOPA05], [malsal01], [malsal02], [malsal03], [malsal05], [malsal06], [nobfe201], [nobfe202], [nobfe207], [nobfe208], [nobfe209], [peasf01], [peasf02], [peasf03], [peasf04], [ruffia01], [ruffia02], [ruffia03], [ruffia04], [ruffia05], [ruffia06], [ruffia07], [ruffia08], [solf01], [solf02], [solf03], [solf04], [solf05], [solf06], [solf07], [solm01], [solm02], [solm03], [solm04], [solm05], [solm06], [solm07], [sthfe01], [sthfe02], [sthfe04], [sthfe05], [sthfe06], [sthfe07], [sthfe08], [termin01], [termin04], [termin05], [termin17], [unearf01], [unearf02], [unearf03], [unearf04], [unearf05], [unearf08], [VAMPM01], [VAMPM02], [VAMPM03], [VAMPM04], [VAMPM05], [VAMPM06], [VAMPM07], [VAMPM09].
+	</pre>
+	</details>
+- Correction (et/ou ajout) des ensembles de voix :
+	<details><summary>Cliquez ici pour afficher les corrections.</summary>
+	<pre>
+	- [bdtptol], [Female9a], [Female9b], [Female9c], [Female9d], [Female9e], [Female9f], [Female9g], [Female9h], [Female9i], [Female9j], [Female9k], [Female9l], [Female9m], [Male9a], [Male9b], [Male9c], [Male9d], [Male9e], [Male9f], [Male9g], [Male9h], [Male9i], [Male9j], [Male9k], [Male9l], [Male9m].
+	</pre>
+	</details>
 - Les répliques non doublées en français sont conservées.
 
 ##
@@ -143,6 +181,7 @@ Ce composant ajoute des doublages en français.
 
 Ce composant supprime les doublages anglais restants.
 
+- Suppression des ensembles de voix en anglais de BG:EE et BG:SoD.
 - Suppression des ensembles de voix en anglais de Adventurers of Neverwinter pour le personnage principal ajoutées par le patch 2.6.
 - Suppression des répliques non doublées en français.
 - Les doublages de type « bruitages » du contenu BG:SoD sont conservés.
