@@ -145,6 +145,26 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	- Magicienne du Poing Enflammé (bdfistm1.CRE).
 	- Assassine (bdgass1.CRE).
 	- Soldate infectée (bdinfec2.CRE, BDINFEC4.CRE, BDINFEC6.CRE).
+	- Officière croisée (bdccoff1.CRE).
+	- Sergente croisée (bdccsar1.CRE, bdcru49.CRE, bdcrux31.CRE, bdcrux34.CRE, bdcrux41.CRE, bdcrval.CRE, bdforcw2.CRE, bdguar2x.CRE).
+	- Soldate du Poing Enflammé (BDFFGIRL.CRE, BDFFXXII.CRE, bdfistce.CRE, bdfistcf.CRE, BDFISTCL.CRE).
+	- Caporale du Poing Enflammé (bdfist20.CRE).
+	- Vétérane du Poing Enflammé (bdfist42.CRE).
+	- Sergente du Poing Enflammé (bdfscou2.CRE).
+	- Prisonnière (BDPRIS02.CRE).
+	- Lieutenante de Caelar (bdlieutb.CRE).
+	- Gredine (BDMUGG2.CRE).
+	- Réfugiée (bdrefc1.CRE, bdrefc2.CRE, bdrefc3.CRE, bdrefc4.CRE, bdrefc5.CRE, bdreffc1.CRE, bdrefg1.CRE, bdrefg2.CRE, BDREFGF1.CRE, BDREFGF2.CRE, BDREFGF3.CRE, BDREFGF4.CRE, BDREFGF5.CRE, BDREFGF6.CRE, BDREFGF7.CRE, bdrefx1.CRE, bdrefx10.CRE, bdrefx2.CRE, bdrefx3.CRE, bdrefx4.CRE, bdrefx5.CRE, bdrefx6.CRE, bdrefx7.CRE, bdrefx8.CRE, bdrefx9.CRE, BDSITRE4.CRE, BDURE6A.CRE, BDURE7B.CRE).
+	- Archère de la coalition (bdteam12.CRE).
+	- Conscrit croisé (bdcchob2.CRE, bdcckob1.CRE, bdccrec2.CRE, bdccrec3.CRE, bdcru02d.CRE, bdcru44.CRE, bdcruml5.CRE, bdcrumlb.CRE, bdcrur26.CRE, bdcrur27.CRE, BDCRUR29.CRE, bdcrur30.CRE, bdcrur32.CRE, bdcrur40.CRE, bdcrur42.CRE, bdcrus98.CRE, bdkher1.CRE).
+	- Pourfendeuse de magiciens (bdteam23.CRE).
+	- Magicienne de bataille de la coalition (bdteam41.CRE, bdteam43.CRE).
+	- Malfaitrice (BDURE10B.CRE).
+	- Magicienne de bataille aquafondaise (bdwarma1.CRE, bdwtr61.CRE).
+	- Cavalière croisée (bdwave33.CRE).
+	- Soldate aquafondaise (bdwtr37.CRE, bdwtr39.CRE, bdwtr40.CRE, bdwtr41.CRE, bdwtr42.CRE, bdwtr43.CRE, bdwtr44.CRE, bdwtr45.CRE, bdwtr46.CRE, bdwtr48a.CRE, bdwtr48b.CRE, bdwtr49.CRE, bdwtr58a.CRE, bdwtr82.CRE, bdwtr92.CRE, bdwtr93.CRE, bdwtr94.CRE).
+	- Messagère (bdwtr47.CRE).
+	- Sergente aquafondaise (bdwtrx36.CRE).
 	</pre>
 	</details>
 ##
