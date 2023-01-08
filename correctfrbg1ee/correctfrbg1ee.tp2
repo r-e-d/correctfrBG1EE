@@ -312,6 +312,198 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 			SAY NAME2 @218
 		BUT_ONLY_IF_IT_CHANGES
 
+		// Correction du nom car personnage féminin (Officière croisée)
+		COPY_EXISTING ~bdccoff1.CRE~ ~override~
+			SAY NAME1 @219
+			SAY NAME2 @219
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Sergente croisée)
+		COPY_EXISTING ~bdccsar1.CRE~ ~override~
+					  ~bdcru49.CRE~ ~override~
+					  ~bdcrux31.CRE~ ~override~
+					  ~bdcrux34.CRE~ ~override~
+					  ~bdcrux41.CRE~ ~override~
+					  ~bdcrval.CRE~ ~override~
+					  ~bdforcw2.CRE~ ~override~
+					  ~bdguar2x.CRE~ ~override~
+			SAY NAME1 @220
+			SAY NAME2 @220
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Soldate du Poing Enflammé)
+		COPY_EXISTING ~BDFFGIRL.CRE~ ~override~
+					  ~BDFFXXII.CRE~ ~override~
+					  ~bdfistce.CRE~ ~override~
+					  ~bdfistcf.CRE~ ~override~
+					  ~BDFISTCL.CRE~ ~override~
+			SAY NAME1 @221
+			SAY NAME2 @221
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Caporale du Poing Enflammé)
+		COPY_EXISTING ~bdfist20.CRE~ ~override~
+			SAY NAME1 @222
+			SAY NAME2 @222
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Vétérane du Poing Enflammé)
+		COPY_EXISTING ~bdfist42.CRE~ ~override~
+			SAY NAME1 @223
+			SAY NAME2 @223
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Sergente du Poing Enflammé)
+		COPY_EXISTING ~bdfscou2.CRE~ ~override~
+			SAY NAME1 @224
+			SAY NAME2 @224
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Prisonnière)
+		COPY_EXISTING ~BDPRIS02.CRE~ ~override~
+			SAY NAME1 @225
+			SAY NAME2 @225
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Lieutenante de Caelar)
+		COPY_EXISTING ~bdlieutb.CRE~ ~override~
+			SAY NAME1 @226
+			SAY NAME2 @226
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Gredine)
+		COPY_EXISTING ~BDMUGG2.CRE~ ~override~
+			SAY NAME1 @227
+			SAY NAME2 @227
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Réfugiée)
+		COPY_EXISTING ~bdrefc1.CRE~ ~override~
+					  ~bdrefc2.CRE~ ~override~
+					  ~bdrefc3.CRE~ ~override~
+					  ~bdrefc4.CRE~ ~override~
+					  ~bdrefc5.CRE~ ~override~
+					  ~bdreffc1.CRE~ ~override~
+					  ~bdrefg1.CRE~ ~override~
+					  ~bdrefg2.CRE~ ~override~
+					  ~BDREFGF1.CRE~ ~override~
+					  ~BDREFGF2.CRE~ ~override~
+					  ~BDREFGF3.CRE~ ~override~
+					  ~BDREFGF4.CRE~ ~override~
+					  ~BDREFGF5.CRE~ ~override~
+					  ~BDREFGF6.CRE~ ~override~
+					  ~BDREFGF7.CRE~ ~override~
+					  ~bdrefx1.CRE~ ~override~
+					  ~bdrefx10.CRE~ ~override~
+					  ~bdrefx2.CRE~ ~override~
+					  ~bdrefx3.CRE~ ~override~
+					  ~bdrefx4.CRE~ ~override~
+					  ~bdrefx5.CRE~ ~override~
+					  ~bdrefx6.CRE~ ~override~
+					  ~bdrefx7.CRE~ ~override~
+					  ~bdrefx8.CRE~ ~override~
+					  ~bdrefx9.CRE~ ~override~
+					  ~BDSITRE4.CRE~ ~override~
+					  ~BDURE6A.CRE~ ~override~
+					  ~BDURE7B.CRE~ ~override~
+			SAY NAME1 @228
+			SAY NAME2 @228
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Archère de la coalition)
+		COPY_EXISTING ~bdteam12.CRE~ ~override~
+			SAY NAME1 @229
+			SAY NAME2 @229
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage masculin (Conscrit croisé)
+		COPY_EXISTING ~bdcchob2.CRE~ ~override~
+					  ~bdcckob1.CRE~ ~override~
+					  ~bdccrec2.CRE~ ~override~
+					  ~bdccrec3.CRE~ ~override~
+					  ~bdcru02d.CRE~ ~override~
+					  ~bdcru44.CRE~ ~override~
+					  ~bdcruml5.CRE~ ~override~
+					  ~bdcrumlb.CRE~ ~override~
+					  ~bdcrur26.CRE~ ~override~
+					  ~bdcrur27.CRE~ ~override~
+					  ~BDCRUR29.CRE~ ~override~
+					  ~bdcrur30.CRE~ ~override~
+					  ~bdcrur32.CRE~ ~override~
+					  ~bdcrur40.CRE~ ~override~
+					  ~bdcrur42.CRE~ ~override~
+					  ~bdcrus98.CRE~ ~override~
+					  ~bdkher1.CRE~ ~override~
+			SAY NAME1 @230
+			SAY NAME2 @230
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Pourfendeuse de magiciens)
+		COPY_EXISTING ~bdteam23.CRE~ ~override~
+			SAY NAME1 @231
+			SAY NAME2 @231
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Magicienne de bataille de la coalition)
+		COPY_EXISTING ~bdteam41.CRE~ ~override~
+					  ~bdteam43.CRE~ ~override~
+			SAY NAME1 @232
+			SAY NAME2 @232
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Malfaitrice)
+		COPY_EXISTING ~BDURE10B.CRE~ ~override~
+			SAY NAME1 @233
+			SAY NAME2 @233
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Magicienne de bataille aquafondaise)
+		COPY_EXISTING ~bdwarma1.CRE~ ~override~
+					  ~bdwtr61.CRE~ ~override~
+			SAY NAME1 @234
+			SAY NAME2 @234
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Cavalière croisée)
+		COPY_EXISTING ~bdwave33.CRE~ ~override~
+			SAY NAME1 @235
+			SAY NAME2 @235
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Soldate aquafondaise)
+		COPY_EXISTING ~bdwtr37.CRE~ ~override~
+					  ~bdwtr39.CRE~ ~override~
+					  ~bdwtr40.CRE~ ~override~
+					  ~bdwtr41.CRE~ ~override~
+					  ~bdwtr42.CRE~ ~override~
+					  ~bdwtr43.CRE~ ~override~
+					  ~bdwtr44.CRE~ ~override~
+					  ~bdwtr45.CRE~ ~override~
+					  ~bdwtr46.CRE~ ~override~
+					  ~bdwtr48a.CRE~ ~override~
+					  ~bdwtr48b.CRE~ ~override~
+					  ~bdwtr49.CRE~ ~override~
+					  ~bdwtr58a.CRE~ ~override~
+					  ~bdwtr82.CRE~ ~override~
+					  ~bdwtr92.CRE~ ~override~
+					  ~bdwtr93.CRE~ ~override~
+					  ~bdwtr94.CRE~ ~override~
+			SAY NAME1 @236
+			SAY NAME2 @236
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Messagère)
+		COPY_EXISTING ~bdwtr47.CRE~ ~override~
+			SAY NAME1 @237
+			SAY NAME2 @237
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Sergente aquafondaise)
+		COPY_EXISTING ~bdwtrx36.CRE~ ~override~
+			SAY NAME1 @238
+			SAY NAME2 @238
+		BUT_ONLY_IF_IT_CHANGES
+
 	END
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
