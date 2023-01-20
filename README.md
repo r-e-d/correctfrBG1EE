@@ -228,6 +228,8 @@ Ce composant supprime les ensembles de voix en anglais.
 - Nos contributeurs, relecteurs, bêta-testeurs, etc. :
 	- Maud « Elisabeth » Fanny
 	- Tiffany « GrootIsntTree » Goalec
+	- Leilu
+	- Johnbob
 - L'équipe des précédents bénévoles traducteurs et relecteurs français de BG:EE :
 	- Lionel « La Voix 2 la sagesse » Bayle-Denise
 	- Denis « Isaya » Ribayrol
