@@ -299,6 +299,13 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
+#### Version 0.5 &nbsp;(19 février 2023)
+
+  - Correction des répliques doublées.
+  - Correction de fichiers audio.
+  - Uniformisation BGEE et BG2EE.
+  - Corrections diverses.
+
 #### Version 0.4 &nbsp;(22 décembre 2022)
 
   - Correctifs créatures (féminisation / masculinisation, correction, uniformisation).
