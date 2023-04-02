@@ -299,6 +299,14 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
+#### Version 0.6 &nbsp;(2 avril 2023)
+
+  - Relecture et corrections des sorts.
+  - Correction des répliques doublées.
+  - Correction de fichiers audio.
+  - Uniformisation BGEE et BG2EE.
+  - Uniformisation des espaces insécables.
+
 #### Version 0.5 &nbsp;(19 février 2023)
 
   - Correction des répliques doublées.
