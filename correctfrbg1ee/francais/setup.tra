@@ -8,6 +8,7 @@
 @10 = ~Necessite le composant "Patch audio francais"~
 
 @20 = ~Utilisez la version officielle : https://github.com/r-e-d/correctfrBG1EE/releases/latest~
+@21 = ~Installez "DLC Merger" en premier pour le bon fonctionnement de ce mod : https://github.com/Argent77/A7-DlcMerger/releases/latest~
 
 // WeiDU prompts
 @-1000= "Le mod %TP2_FILE_NAME% contient"

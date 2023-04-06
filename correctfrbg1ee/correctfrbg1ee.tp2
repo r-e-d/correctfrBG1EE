@@ -7,13 +7,17 @@ ALWAYS
 	ACTION_IF NOT FILE_EXISTS ~correctfrbg1ee/lib/bg1ee.tph~ THEN BEGIN
 		FAIL @20
 	END
+
+	ACTION_IF ((FILE_EXISTS ~dlc/sod-dlc.zip~) OR (FILE_EXISTS ~sod-dlc.zip~)) THEN BEGIN
+		FAIL @21
+	END
 END
 
 LANGUAGE ~Francais~
-         ~fr_FR~
-         ~correctfrbg1ee/francais/setup.tra~
-         ~correctfrbg1ee/francais/correctfr.tra~
-         ~correctfrbg1ee/francais/correctobjets.tra~
+		 ~fr_FR~
+		 ~correctfrbg1ee/francais/setup.tra~
+		 ~correctfrbg1ee/francais/correctfr.tra~
+		 ~correctfrbg1ee/francais/correctobjets.tra~
 		 ~correctfrbg1ee/francais/correctcreatures.tra~
 		 ~correctfrbg1ee/francais/soundset.tra~
 
