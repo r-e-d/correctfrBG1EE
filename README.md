@@ -165,6 +165,26 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	- Soldate aquafondaise (bdwtr37.CRE, bdwtr39.CRE, bdwtr40.CRE, bdwtr41.CRE, bdwtr42.CRE, bdwtr43.CRE, bdwtr44.CRE, bdwtr45.CRE, bdwtr46.CRE, bdwtr48a.CRE, bdwtr48b.CRE, bdwtr49.CRE, bdwtr58a.CRE, bdwtr82.CRE, bdwtr92.CRE, bdwtr93.CRE, bdwtr94.CRE).
 	- Messagère (bdwtr47.CRE).
 	- Sergente aquafondaise (bdwtrx36.CRE).
+	- Roturier (BDBLOCK.CRE).
+	- Roturière (bdfan02.CRE).
+	- « Dame » Alyth Elendara (ALYTH.CRE, BDALYTH.CRE).
+	- Battuks Dourotteur (bdbattuk.CRE).
+	- Raggemos Braillefantôme (bdraggem.CRE).
+	- Sab'n Crachebave (bdsabn.CRE).
+	- Sickly T'matta (bdsickly.CRE).
+	- Voleuse des Lames de la Nuit (BPAMBT1.CRE).
+	- Patronne de la taverne (BPTAVE01.CRE).
+	- Assassine du culte (CULTT3.CRE, CULTT3A.CRE).
+	- Archère du culte (CULTT4.CRE).
+	- Chevaleresse spectrale (KNIGHT2.CRE, KNIGHT5.CRE).
+	- Initiée de la Lune Noire (RSDINITM.CRE).
+	- Lieutenante de la Lune Noire (RSDMNK04.CRE).
+	- Moniale de la Lune Noire (RSDMNK02.CRE, RSDMNK05.CRE, RSDMNK08.CRE, RSDMNKB.CRE).
+	- Habitante des égouts (SEWERF5.CRE).
+	- Alu-fiélonne (TELALU1.CRE).
+	- Roublarde (THIEFF.CRE).
+	- Narcillicus Harwilliger Néen (NARCIL.CRE).
+	- Thalantyr le Conjurateur (THALAN.CRE).
 	</pre>
 	</details>
 ##
