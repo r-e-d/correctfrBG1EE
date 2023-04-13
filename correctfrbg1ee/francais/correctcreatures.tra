@@ -122,3 +122,36 @@
 
 // (bdwtrx36.CRE)
 @238 = ~Sergente aquafondaise~
+
+// (BPAMBT1.CRE)
+@239 = ~Voleuse des Lames de la Nuit~
+
+// (BPTAVE01.CRE)
+@240 = ~Patronne de la taverne~
+
+// (CULTT3.CRE / CULTT3A.CRE)
+@241 = ~Assassine du culte~
+
+// (CULTT4.CRE)
+@242 = ~Archère du culte~
+
+// (KNIGHT2.CRE / KNIGHT5.CRE)
+@243 = ~Chevaleresse spectrale~
+
+// (RSDINITM.CRE)
+@244 = ~Initiée de la Lune Noire~
+
+// (RSDMNK04.CRE)
+@245 = ~Lieutenante de la Lune Noire~
+
+// (RSDMNK02.CRE / RSDMNK05.CRE / RSDMNK08.CRE / RSDMNKB.CRE)
+@246 = ~Moniale de la Lune Noire~
+
+// (SEWERF5.CRE)
+@247 = ~Habitante des égouts~
+
+// (TELALU1.CRE)
+@248 = ~Alu-fiélonne~
+
+// (THIEFF.CRE)
+@249 = ~Roublarde~

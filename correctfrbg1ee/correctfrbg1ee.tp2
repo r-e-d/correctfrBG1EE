@@ -508,7 +508,130 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 			SAY NAME2 @238
 		BUT_ONLY_IF_IT_CHANGES
 
+		// Correction du nom car personnage masculin (Roturier)
+		COPY_EXISTING ~BDBLOCK.CRE~ ~override~
+			WRITE_LONG 0x08 9430
+			WRITE_LONG 0x0c 9431
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom car personnage féminin (Roturière)
+		COPY_EXISTING ~bdfan02.CRE~ ~override~
+			WRITE_LONG 0x08 9428
+			WRITE_LONG 0x0c 9429
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction de l'infobulle pour coller au nom (« Dame » Alyth Elendara)
+		COPY_EXISTING ~BDALYTH.CRE~ ~override~
+			WRITE_LONG 0x0c 12823
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom pour coller à l'infobulle (Battuks Dourotteur)
+		COPY_EXISTING ~bdbattuk.CRE~ ~override~
+			WRITE_LONG 0x08 56996
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom pour coller à l'infobulle (Raggemos Braillefantôme)
+		COPY_EXISTING ~bdraggem.CRE~ ~override~
+			WRITE_LONG 0x08 56998
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom pour coller à l'infobulle (Sab'n Crachebave)
+		COPY_EXISTING ~bdsabn.CRE~ ~override~
+			WRITE_LONG 0x08 56999
+		BUT_ONLY_IF_IT_CHANGES
+
+		// Correction du nom pour coller à l'infobulle (Sickly T'matta)
+		COPY_EXISTING ~bdsickly.CRE~ ~override~
+			WRITE_LONG 0x08 57002
+		BUT_ONLY_IF_IT_CHANGES
+
 	END
+
+	// Correction du nom car personnage féminin (Voleuse des Lames de la Nuit)
+	COPY_EXISTING ~BPAMBT1.CRE~ ~override~
+		SAY NAME1 @239
+		SAY NAME2 @239
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Patronne de la taverne)
+	COPY_EXISTING ~BPTAVE01.CRE~ ~override~
+		SAY NAME1 @240
+		SAY NAME2 @240
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Assassine du culte)
+	COPY_EXISTING ~CULTT3.CRE~ ~override~
+				  ~CULTT3A.CRE~ ~override~
+		SAY NAME1 @241
+		SAY NAME2 @241
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Archère du culte)
+	COPY_EXISTING ~CULTT4.CRE~ ~override~
+		SAY NAME1 @242
+		SAY NAME2 @242
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Chevaleresse spectrale)
+	COPY_EXISTING ~KNIGHT2.CRE~ ~override~
+				  ~KNIGHT5.CRE~ ~override~
+		SAY NAME1 @243
+		SAY NAME2 @243
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Initiée de la Lune Noire)
+	COPY_EXISTING ~RSDINITM.CRE~ ~override~
+		SAY NAME1 @244
+		SAY NAME2 @244
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Lieutenante de la Lune Noire)
+	COPY_EXISTING ~RSDMNK04.CRE~ ~override~
+		SAY NAME1 @245
+		SAY NAME2 @245
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Moniale de la Lune Noire)
+	COPY_EXISTING ~RSDMNK02.CRE~ ~override~
+				  ~RSDMNK05.CRE~ ~override~
+				  ~RSDMNK08.CRE~ ~override~
+				  ~RSDMNKB.CRE~ ~override~
+		SAY NAME1 @246
+		SAY NAME2 @246
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Habitante des égouts)
+	COPY_EXISTING ~SEWERF5.CRE~ ~override~
+		SAY NAME1 @247
+		SAY NAME2 @247
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Alu-fiélonne)
+	COPY_EXISTING ~TELALU1.CRE~ ~override~
+		SAY NAME1 @248
+		SAY NAME2 @248
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction du nom car personnage féminin (Roublarde)
+	COPY_EXISTING ~THIEFF.CRE~ ~override~
+		SAY NAME1 @249
+		SAY NAME2 @249
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction de l'infobulle pour coller au nom (« Dame » Alyth Elendara)
+	COPY_EXISTING ~ALYTH.CRE~ ~override~
+		WRITE_LONG 0x0c 12823
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction de l'infobulle pour coller au nom (Narcillicus Harwilliger Néen)
+	COPY_EXISTING ~NARCIL.CRE~ ~override~
+		WRITE_LONG 0x0c 18990
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Correction de l'infobulle pour coller au nom (Thalantyr le Conjurateur)
+	COPY_EXISTING ~THALAN.CRE~ ~override~
+		WRITE_LONG 0x0c 12277
+	BUT_ONLY_IF_IT_CHANGES
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
