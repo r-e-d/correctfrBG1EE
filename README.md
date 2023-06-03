@@ -252,6 +252,7 @@ Ce composant supprime les ensembles de voix en anglais.
 	- Johnbob
 	- Selphira
 	- Rivvers
+	- Krabator
 - L'équipe des précédents bénévoles traducteurs et relecteurs français de BG:EE :
 	- Lionel « La Voix 2 la sagesse » Bayle-Denise
 	- Denis « Isaya » Ribayrol
