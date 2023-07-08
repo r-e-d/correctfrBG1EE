@@ -47,7 +47,7 @@ Merci de nous signaler toute éventuelle faute à corriger sur le <a href="https
 <hr>
 
 
-## <a name="compat" id="compat"></a>Compatibilité
+## <a name="compat" id="compat"></a>Installation
 
 #### Jeux concernés
 
@@ -60,6 +60,10 @@ Le mod « Correction de la traduction de Baldur's Gate : Enhanced Edition et Bal
 #### Ordre d'installation
 
 Veuillez installer « Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » avant tout autre mod, notamment Enhanced Edition Trilogy (EET).
+
+#### Installer un mod WeiDU
+
+L'installation du correctfrBGEE est simple. Il suffit de décompresser le contenu de l'archive dans le répertoire où le jeu est installé, d'exécuter setup-correctfrbgee.exe et de suivre les instructions. Pour plus de détails, voir <a href="https://www.baldursgateworld.fr/viewtopic.php?t=12614">cette FAQ</a> ou consulter le readme dans l'archive (readme/readme-correctfrbgee.html).
 
 #### Language du doublage vidéo et audio
 
