@@ -1192,7 +1192,6 @@ BEGIN @3 DESIGNATED 30 // Suppression des doublages en anglais
 
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN42.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN43.WAV~
-	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN44.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN45.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN46.WAV~
 	COPY ~%MOD_FOLDER%/extra/EMPTY.WAV~ ~lang/fr_fr/override/EDWIN47.WAV~
