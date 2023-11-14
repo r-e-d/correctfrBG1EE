@@ -328,8 +328,8 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 #### Version 0.8 &nbsp;(4 octobre 2023)
 
-  . Corrections pour les sons utilisés dans des cutscene du composant Suppression des doublages en anglais.
-  . Uniformisation BGEE et BG2EE.
+  - Corrections pour les sons utilisés dans des cutscene du composant Suppression des doublages en anglais.
+  - Uniformisation BGEE et BG2EE.
   - Corrections diverses.
 
 #### Version 0.7 &nbsp;(8 juillet 2023)
