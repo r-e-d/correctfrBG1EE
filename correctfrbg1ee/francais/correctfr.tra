@@ -21371,8 +21371,11 @@ Poids : 3~
 @1029961 = ~Je me demande s'ils m'autoriseraient à ouvrir un petit commerce, ici. Je l'appellerai « le deuxième Chez Owyn ».~ [BP_29961]
 @1029963 = ~Bien vu. Il y a clairement un créneau que « le deuxième Chez Owyn » pourrait combler.~ [BP_29963]
 @1029966 = ~Non. Réfléchis. Si nous étions libres, là, tout de suite, que penses-tu que nous serions en train de faire ?~ [BP_29966]
+@1030008 = ~Je vais maintenant vous donner une arme et je souhaite que vous tentiez de l'équiper.~
+@1030009 = ~Vous n'avez pas encore équipé votre arme. Souvenez-vous, faites juste un CLIC DROIT sur le portrait de votre personnage et vous trouverez votre arme en bas de votre écran dans l'inventaire.~
 @1030014 = ~Bien joué ! Il est temps pour nous de monter à l'étage. Si vous appuyez sur les escaliers, vous verrez que l'icône d'escaliers apparaît.~
 @1030024 = ~Les entrées de l'histoire principale vont rester perpétuellement dans votre journal et constituent un récapitulatif de tous les événements majeurs vécus par votre personnage.~
+@1030027 = ~Bien. Maintenant voyons votre première leçon de combat. Mon maître d'arme, Brevin, va monter par les escaliers. Je veux que vous le frappiez avec votre arme, puis que vous contrôliez votre journal.~ [TTBELT12]
 @1030046 = ~Elle et moi allons vous attendre à l'étage au-dessus, donc rejoignez-nous rapidement.~
 @1030059 = ~Voilà, la porte du sous-sol est ouverte. Souvenez-vous que si vous mourez pendant le test, vous pourrez recharger la partie en prenant la sauvegarde automatique.~
 @1030067 = ~Les sorts de prêtre se lancent exactement de la même façon que les sorts de Mage. Je vais vous rafraîchir la mémoire.~ [TTBRAN02]
