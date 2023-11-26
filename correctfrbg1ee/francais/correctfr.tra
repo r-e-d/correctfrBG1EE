@@ -3274,9 +3274,9 @@ Et pourtant, tout ce qui vit et respire sur cette boule terrestre me fait une co
 
 PARAMÈTRES :
 
-Constitution : Confère 1 point de manière permanente
-Spécial : Le livre est détruit après son utilisation
-Utilisation : Placez-le dans un emplacement d'objet rapide
+Constitution : confère 1 point de manière permanente
+Spécial : le livre est détruit après son utilisation
+Utilisation : placez-le dans un emplacement d'objet rapide
 
 Poids : 25~
 @1006783 = ~Carreau +1~
@@ -4322,7 +4322,9 @@ Poids : 0~
 PARAMÈTRES :
 
 Capacités de charge :
-- Le porteur devient invisible, comme s'il était la cible d'un sort d'invisibilité
+- Invisibilité (une fois par jour)
+  Durée : 12 heures
+  Zone d'effet : l'utilisateur
 
 Poids : 0~
 @1007364 = ~Cet anneau ainsi que plusieurs de ce type furent initialement forgés pour protéger les fils du roi Castter De'wess, mais on ignore qui est à l'origine de cet enchantement. L'histoire rapporte que ces anneaux restèrent dans la famille pendant au moins treize générations, bien qu'ils aient apparemment tous été perdus en l'espace d'une seule. L'inimitié entre le roi et la famille du créateur serait peut-être la cause de ce phénomène.
@@ -5275,7 +5277,7 @@ Capacités de charge :
 - Bouclier
   Classe d'armure : 4, +2 contre les projectiles
   Immunité au sort Projectile magique
-  Zone d'effet : le porteur
+  Zone d'effet : l'utilisateur
   Durée : 1 heure
 
 Poids : 1~
@@ -6244,7 +6246,7 @@ Version du recueil de missions client : <CLIENTVERSION>~
 
 PARAMÈTRES :
 
-Spécial : Neutralise les poisons
+Spécial : neutralise les poisons
 
 Poids : 1~
 @1011837 = ~Officière Vaï~
@@ -6644,7 +6646,7 @@ Niveau : 3
 Portée : 18 mètres
 Durée : 5 rounds
 Temps d'incantation : 3
-Zone d'effet : 1 créature
+Zone d'effet : 1 personne
 Jet de sauvegarde : annule
 
 Ce sort fonctionne d'une manière très similaire au sort de Charme-personne, si ce n'est qu'il n'y a pas de bonus au jet de sauvegarde contre les sorts. Ce sort affecte toute personne sur laquelle il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. La personne peut faire un jet de sauvegarde contre les sorts pour éviter son effet.
@@ -6670,7 +6672,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 3
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort paralyse 1d4 créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts à -1 ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -6782,7 +6784,7 @@ Niveau : 3
 Portée : 36,5 mètres +9 mètres par niveau
 Durée : instantanée
 Temps d'incantation : 3
-Zone d'effet : spéciale
+Zone d'effet : trajectoire de l'éclair
 Jet de sauvegarde : 1/2
 
 En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau d'expérience du jeteur de sorts (dégâts maximum de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). L'éclair prend naissance à une portée et une hauteur déterminées par le magicien et s'étend sur une ligne directe partant du magicien. Par exemple, si un éclair de 12 mètres est lancé à 54 mètres du magicien, son extrémité la plus éloignée est à 66 mètres (54 +12). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.~
@@ -7329,7 +7331,7 @@ Sphère : animale
 Portée : 10,5 mètres
 Durée : 2 rounds par niveau
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 mammifère et tout mammifère ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort permet de figer les animaux sur place. Il affecte uniquement les animaux de taille normale et les animaux géants. Les monstres tels que les wivernes, les ankhegs et les vers charognards ne sont pas considérés comme des animaux. L'effet est centré sur la victime choisie par le lanceur. Tous les animaux ennemis situés à moins de 1,2 mètre de la cible sont également affectés. Ceux qui réussissent leur jet de sauvegarde contre les sorts ne sont pas affectés par les effets du sort. Les animaux immobilisés ne peuvent ni se déplacer ni parler, mais ils restent conscients des événements se produisant autour d'eux et peuvent utiliser des capacités ne requérant aucun mouvement ou parole. Le fait d'être immobilisé n'empêche pas que l'état du sujet empire sous l'effet des blessures, des maladies ou des poisons.~
@@ -7341,7 +7343,7 @@ Sphère : charme
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort fige sur place une ou plusieurs créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -9786,27 +9788,27 @@ Poids : 0~
 
 PARAMÈTRES :
 
-Force : Confère 1 point de manière permanente
-Spécial : Le livre est détruit après son utilisation
-Utilisation : Placez-le dans un emplacement d'objet rapide
+Force : confère 1 point de manière permanente
+Spécial : le livre est détruit après son utilisation
+Utilisation : placez-le dans un emplacement d'objet rapide
 
 Poids : 25~
 @1017233 = ~Un Manuel d'agilité typique détaille une série d'astuces et de conseils à propos des gestes des mains et des pieds et des différentes manières de les coordonner. Ce bref ouvrage est très recherché par diverses sortes d'individus, y compris des roublards désireux d'accroître leur habileté manuelle et des paladins soucieux de se battre d'une façon plus fluide. Son secret réside dans ses enchantements, qui permettent à l'utilisateur d'augmenter sa Dextérité de 1 point. Hélas, il disparaît sitôt qu'il a joué son rôle.
 
 PARAMÈTRES :
 
-Dextérité : Confère 1 point de manière permanente
-Spécial : Le livre est détruit après son utilisation
-Utilisation : Placez-le dans un emplacement d'objet rapide
+Dextérité : confère 1 point de manière permanente
+Spécial : le livre est détruit après son utilisation
+Utilisation : placez-le dans un emplacement d'objet rapide
 
 Poids : 25~
 @1017235 = ~Un traité de claire pensée typique renferme un grand nombre de textes ésotériques érudits contenant des formules d'algèbre peu usitées ou des études sur telle ou telle biologie extraplanaire. Cet ouvrage magique permet à l'utilisateur d'augmenter son Intelligence de 1 point. Hélas, il disparaît sitôt qu'il a joué son rôle.
 
 PARAMÈTRES :
 
-Intelligence : Confère 1 point de manière permanente
-Spécial : Le livre est détruit après son utilisation
-Utilisation : Placez-le dans un emplacement d'objet rapide
+Intelligence : confère 1 point de manière permanente
+Spécial : le livre est détruit après son utilisation
+Utilisation : placez-le dans un emplacement d'objet rapide
 
 Poids : 25~
 @1017236 = ~Ceci est un choix esthétique qui n'affecte en rien vos attributs. Il peut en revanche influer sur l'attirance sentimentale des personnages non-joueurs envers vous.~
@@ -9814,18 +9816,18 @@ Poids : 25~
 
 PARAMÈTRES :
 
-Charisme : Confère 1 point de manière permanente
-Spécial : Le livre est détruit après son utilisation
-Utilisation : Placez-le dans un emplacement d'objet rapide
+Charisme : confère 1 point de manière permanente
+Spécial : le livre est détruit après son utilisation
+Utilisation : placez-le dans un emplacement d'objet rapide
 
 Poids : 25~
 @1017239 = ~Un traité de compréhension typique contient une analyse concise voire abrupte d'un bon nombre de philosophies, batailles juridiques, événements historiques, politiques gouvernementales et théories de la magie. Même si de tels ouvrages ne présentent guère d'intérêt au yeux d'un public non averti, on dit qu'ils permettent à l'utilisateur, et ce même s'il s'agit d'un demi-ogre, d'augmenter sa Sagesse de 1 point. Un tel exploit résulte cependant d'une magie puissante qui affecte le livre et qui, hélas, le fait disparaître lorsqu'il a joué son rôle.
 
 PARAMÈTRES :
 
-Sagesse : Confère 1 point de manière permanente
-Spécial : Le livre est détruit après son utilisation
-Utilisation : Placez-le dans un emplacement d'objet rapide
+Sagesse : confère 1 point de manière permanente
+Spécial : le livre est détruit après son utilisation
+Utilisation : placez-le dans un emplacement d'objet rapide
 
 Poids : 25~
 @1017240 = ~Cette cape toute simple protège le porteur à l'aide d'enchantements mineurs qui jouent et sur les jets de sauvegarde, et sur la classe d'armure. Elle convient aux mages et à ceux qui ne peuvent pas porter d'armures plus lourdes ou plus restrictives.
@@ -10149,7 +10151,7 @@ Poids : 0~
 
 PARAMÈTRES :
 
-Spécial : Restaure 1 point de vie
+Spécial : restaure 1 point de vie
 
 Poids : 0~
 @1017398 = ~Nauséeux(se)~
@@ -10317,12 +10319,12 @@ Dégâts : 1d6 +2 (projectile)
 Arme de trait : arc
 
 Poids : 0~
-@1017535 = ~Ces flèches noires, tordues, semblent irradier le mal, comme si elles étaient possédées. Elles ont été conçues pour tuer un type de créature spécifique. Dans le cas présent, il s'agit des ogres mages.
+@1017535 = ~Cette flèche noire et tordue semble irradier le mal, comme si elle était possédée par quelque chose de bien plus grand qu'elle. Elle fut conçue pour tuer un type de créature spécifique et un seul. Dans le cas présent, il s'agit des ogres-mages.
 
 PARAMÈTRES :
 
 Capacités de combat :
-- Tue les ogres mages à l'impact
+- Tue sur le coup les ogres-mages
 
 Dégâts : 1d6 (projectile)
 Arme de trait : arc
@@ -10348,7 +10350,7 @@ Dégâts : 1d6 (projectile)
 Arme de trait : arc
 
 Poids : 0~
-@1017538 = ~Cette flèche est particulièrement efficace, car elle explose dès l'impact en une grosse boule de feu et de shrapnel qui affecte toutes les créatures de la zone.
+@1017538 = ~Cette flèche a un effet particulièrement dévastateur sur ses victimes, car elle explose dès l'impact en une énorme boule de feu et d'éclats de débris en tous genres projetés par l'explosion qui affecte toutes les créatures de la zone.
 
 PARAMÈTRES :
 
@@ -10564,13 +10566,13 @@ Nécessite :
  9 en Intelligence
 
 Poids : 1~
-@1017657 = ~La baguette émet un rayon doré qui porte au maximum à 18 mètres ; sa zone d'effet est un rayon de 4,5 mètres. Les créatures visées tirent un jet de sauvegarde contre les baguettes pour éviter de sombrer dans un sommeil comateux durant 2 tours.
+@1017657 = ~La baguette émet un rayon d'énergie dorée sur ses cibles jusqu'à une portée maximale de 24 mètres, affectant un rayon de 4,5 mètres. Les créatures visées doivent réussir un jet de sauvegarde contre les baguettes sous peine de sombrer dans un profond sommeil comateux durant 2 tours.
 
 PARAMÈTRES :
 
 Capacités de charge :
-- Sommeil (jet de sauvegarde contre les baguettes pour annuler)
-  Portée : 18 mètres
+- Sommeil profond (jet de sauvegarde contre les baguettes pour annuler)
+  Portée : 24 mètres
   Zone d'effet : rayon de 4,5 mètres
   Durée : 2 tours
 
@@ -10660,7 +10662,7 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Spécial : Restaure 9 points de vie
+Spécial : restaure 9 points de vie
 
 Poids : 1~
 @1017668 = ~Les arcs courts ont été fabriqués avant les autres, même s'ils ne s'appelaient pas ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas arc long. Cet arc est magique, procurant à son utilisateur un bonus supplémentaire de 1 aux jets d'attaque et dégâts.
@@ -10783,7 +10785,7 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Spécial : Double la vitesse de déplacement et accorde une attaque supplémentaire par round
+Spécial : double la vitesse de déplacement et accorde une attaque supplémentaire par round
 Durée : 1 heure
 
 Poids : 1~
@@ -10791,7 +10793,7 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Spécial : Neutralise les poisons, guérit les maladies, la débilité mentale et restaure 10 points de vie
+Spécial : neutralise les poisons, guérit les maladies, la débilité mentale et restaure 10 points de vie
 
 Poids : 1~
 @1017858 = ~Cette potion, une fois bue, a pour effet d'absorber les attaques externes. Les attaques contondantes sont amorties, et seules les plus puissantes affectent celui qui boit cette potion, qui bénéficie également d'une immunité complète aux attaques à l'électricité durant toute la durée de l'effet, celle-ci étant de 2 heures.
@@ -10815,14 +10817,14 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Spécial : Neutralise les poisons
+Spécial : neutralise les poisons
 
 Poids : 1~
 @1017861 = ~Cette potion rend à celui qui la boit l'ordre et la santé mentale dont le chaos et la folie avaient pu le priver. Dès qu'elle est bue, le porteur se sent empli de calme et de sérénité, ce qui le met à l'abri de l'influence néfaste de la débilité mentale, la confusion, la peur et des charmes. Cette sensation dure pendant une heure, ou jusqu'à sa dissipation par une source extérieure.
 
 PARAMÈTRES :
 
-Spécial : Immunité à la débilité mentale, la confusion, la peur et aux charmes
+Spécial : immunité à la débilité mentale, la confusion, la peur et aux charmes
 Durée : 1 heure
 
 Poids : 1~
@@ -10870,7 +10872,7 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Spécial : Immunité aux sorts de 5ème niveau et inférieurs
+Spécial : immunité aux sorts de 5ème niveau et inférieurs
 Durée : 5 rounds
 
 Poids : 1~
@@ -10985,7 +10987,7 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Spécial : Immunité à la pétrification et aux attaques de regard
+Spécial : immunité à la pétrification et aux attaques de regard
 Durée : 1 tour
 
 Poids : 1~
@@ -12036,6 +12038,7 @@ Poids : 1~
 @1020622 = ~~ [AMB_M34a]
 @1020634 = ~Magasin de volaille~
 @1020635 = ~Taverne de Drakon~
+@1020651 = ~Frisson : Par la Force des Armes~
 @1020657 = ~Ça, c'est la propriété du Consortium des Marchands et moi j'suis le garde. La porte était fermée pour une bonne raison. Vous avez forcé la serrure, donc vous êtes des criminels maintenant. Je vais lâcher mes toutous esquiveurs sur vous, histoire qu'ils soient rassasiés pour la soirée !~
 @1020665 = ~Vous... vous avez tué Ange... Ouiiiiiiin... !~
 @1020666 = ~Nous devons nous rendre aux Caves Souterraines pour retrouver Slythe et Krystin, deux des meurtriers de Sarevok. Eltan pense que Sarevok songe à faire assassiner les Grands-Ducs Belt et Liia. Nous devons nous assurer que cela n'arrive pas. Nous devons également accompagner Eltan jusqu'à la bâtisse du Maître du port, qui se trouve du côté est du port.~
@@ -12639,8 +12642,8 @@ Poids : 3~
 
 PARAMÈTRES :
 
-TAC0 : +1, +4 contre les humanoïdes géants
-Dégâts : 1d4 +2 (contondant), +5 contre les humanoïdes géants
+TAC0 : +1, +4 contre les géants
+Dégâts : 1d4 +2 (contondant), +5 contre les géants
 Facteur de vitesse : 3
 Type de compétence : marteau
 Type : arme à une main
@@ -12700,7 +12703,7 @@ Les formes possibles sont les suivantes :
 - Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
-- Araignée : provoque des dégâts de poison quand elle touche un adversaire
+- Araignée : empoisonne l'adversaire quand elle le touche
 
 En outre, le lanceur peut également choisir les formes d'ours brun, d'ours noir ou de loup.~
 @1022328 = ~Que voulez-vous dire par « les nôtres » ?~
@@ -16173,7 +16176,7 @@ Niveau : 3
 Portée : 36,5 mètres +9 mètres par niveau
 Durée : instantanée
 Temps d'incantation : 3
-Zone d'effet : spéciale
+Zone d'effet : trajectoire de l'éclair
 Jet de sauvegarde : 1/2
 
 En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau d'expérience du jeteur de sorts (dégâts maximum de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). L'éclair prend naissance à une portée et une hauteur déterminées par le magicien et s'étend sur une ligne directe partant du magicien. Par exemple, si un éclair de 12 mètres est lancé à 54 mètres du magicien, son extrémité la plus éloignée est à 66 mètres (54 +12). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.~
@@ -16577,7 +16580,7 @@ Grâce à ce sort, le lanceur peut convoquer 2 à 3 animaux ayant 4 dés de vie 
 
 Niveau : 8
 Portée : contact
-Durée : spéciale
+Durée : variable selon l'intelligence de la cible
 Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
@@ -16878,7 +16881,7 @@ Sphère : charme
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort fige sur place une ou plusieurs créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -16958,7 +16961,7 @@ Sphère : animale
 Portée : 10,5 mètres
 Durée : 2 rounds par niveau
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 mammifère et tout mammifère ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort permet de figer les animaux sur place. Il affecte uniquement les animaux de taille normale et les animaux géants. Les monstres tels que les wivernes, les ankhegs et les vers charognards ne sont pas considérés comme des animaux. L'effet est centré sur la victime choisie par le lanceur. Tous les animaux ennemis situés à moins de 1,2 mètre de la cible sont également affectés. Ceux qui réussissent leur jet de sauvegarde contre les sorts ne sont pas affectés par les effets du sort. Les animaux immobilisés ne peuvent ni se déplacer ni parler, mais ils restent conscients des événements se produisant autour d'eux et peuvent utiliser des capacités ne requérant aucun mouvement ou parole. Le fait d'être immobilisé n'empêche pas que l'état du sujet empire sous l'effet des blessures, des maladies ou des poisons.~
@@ -18380,7 +18383,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 3
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort paralyse 1d4 créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts à -1 ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -18426,7 +18429,7 @@ Niveau : 3
 Portée : 18 mètres
 Durée : 5 rounds
 Temps d'incantation : 3
-Zone d'effet : 1 créature
+Zone d'effet : 1 personne
 Jet de sauvegarde : annule
 
 Ce sort fonctionne d'une manière très similaire au sort de Charme-personne, si ce n'est qu'il n'y a pas de bonus au jet de sauvegarde contre les sorts. Ce sort affecte toute personne sur laquelle il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. La personne peut faire un jet de sauvegarde contre les sorts pour éviter son effet.
@@ -18496,7 +18499,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 2 rounds par niveau
 Temps d'incantation : 3
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 mort-vivant et tout mort-vivant ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort immobilise 1d4 créatures mortes-vivantes sur place. Ses effets sont centrés sur la victime choisie par le lanceur. Tout ennemi mort-vivant se trouvant dans un rayon de 1,2 mètre autour de la cible est également affecté. Ceux qui réussissent leur jet de sauvegarde contre les sorts échappent totalement aux effets du sort. Les créatures ainsi immobilisées ne peuvent ni bouger ni parler, mais restent conscientes de ce qui se passe autour d'elles et peuvent continuer à utiliser toutes les capacités ne nécessitant ni la parole, ni un déplacement quelconque. L'immobilisation n'empêche pas l'aggravation de l'état de santé du sujet due aux blessures.~
@@ -18637,7 +18640,7 @@ Les formes possibles sont les suivantes :
 - Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
-- Araignée : provoque des dégâts de poison quand elle touche un adversaire
+- Araignée : empoisonne l'adversaire quand elle le touche
 
 En outre, le lanceur peut également choisir les formes d'ours brun, d'ours noir ou de loup.~
 @1026466 = ~Arme enchantée
@@ -21825,7 +21828,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 2 rounds par niveau
 Temps d'incantation : 3
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : 1 mort-vivant et tout mort-vivant ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort immobilise 1d4 créatures mortes-vivantes sur place. Ses effets sont centrés sur la victime choisie par le lanceur. Tout ennemi mort-vivant se trouvant dans un rayon de 1,2 mètre autour de la cible est également affecté. Ceux qui réussissent leur jet de sauvegarde contre les sorts échappent totalement aux effets du sort. Les créatures ainsi immobilisées ne peuvent ni bouger ni parler, mais restent conscientes de ce qui se passe autour d'elles et peuvent continuer à utiliser toutes les capacités ne nécessitant ni la parole, ni un déplacement quelconque. L'immobilisation n'empêche pas l'aggravation de l'état de santé du sujet due aux blessures.~
@@ -22207,6 +22210,13 @@ Poids : 2~
 @1030551 = ~Meurs, Sorcier Rouge !~ [DNR217A]
 @1030600 = ~L'Ombre-Terre était moins traître que vous !~
 @1030602 = ~Tiax ne dirigera jamais avec des « amis » comme vous. Il est temps de trouver de nouveaux amis !~
+@1030675 = ~Prise d'une traite, cette potion restitue 27 points de vie. L'effet est instantané et la potion est détruite dans le processus.
+
+PARAMÈTRES :
+
+Spécial : restaure 27 points de vie
+
+Poids : 1~
 @1030677 = ~Cette amulette provient de la ville de Sigil, où elle fut forgée par les membres de la Société de la Sensation. Elle était traditionnellement donnée aux membres à la recherche de nouvelles sensations, prêts pour ce faire à voyager parmi les plans d'existence.
 
 PARAMÈTRES :
@@ -22271,7 +22281,7 @@ PARAMÈTRES :
 
 Capacités d'équipement :
 - Classe d'armure : +2
-- Le porteur est téléporté devant un ennemi aléatoire toutes les 2 rounds (tant qu'il y a des ennemis en vue)
+- Le porteur est téléporté devant un ennemi aléatoire tous les 2 rounds (tant qu'il y a des ennemis en vue)
 - Ne peuvent être ôtées qu'à l'aide d'un sort de Délivrance de la malédiction
 
 Poids : 3~
@@ -22459,7 +22469,7 @@ PARAMÈTRES :
 
 Capacités de charge :
 - Forme éthérée une fois par jour
-  Spécial : le porteur est immunisé contre les armes non-magiques, il peut continuer à jeter des sorts et à utiliser ses armes
+  Spécial : l'utilisateur est immunisé contre les armes non-magiques, il peut continuer à jeter des sorts et à utiliser ses armes
   Durée : 5 rounds
 
 Poids : 3~
@@ -24549,7 +24559,7 @@ PARAMÈTRES :
 
 Capacités de combat :
 - 15 % de chances à chaque coup d'infliger un malus de 1 à la classe d'armure pendant 1 tour (jet de sauvegarde contre les sorts pour annuler)
-- 2 % de chances à chaque coup de déclencher un tremblement de terre, centré sur le porteur
+- 2 % de chances à chaque coup de déclencher un tremblement de terre centré sur le porteur
 
 TAC0 : +3
 Dégâts : 1d4 +4 (contondant)
@@ -27663,9 +27673,9 @@ Poids : 1~
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Classe d'armure : +2 contre les humanoïdes géants
+- Classe d'armure : +2 contre les géants
 - Points de vie : +5 (petites-personnes)
-- Jets de sauvegarde : +2 contre les humanoïdes géants
+- Jets de sauvegarde : +2 contre les géants
 
 Poids : 3~
 @1045915 = ~Il y a des siècles de cela, Barnassus, un clerc de Lathandre, créa un bouclier en bronze poli afin d'affronter une gorgone censée errer dans les catacombes sous sa ville. Barnassus traqua la gorgone jusqu'à son repaire et réalisa un peu tard qu'il n'affrontait pas une gorgone ordinaire, mais une gorgone vampire.
@@ -29059,10 +29069,10 @@ Glint aime son cousin Pritchard, mais il doute de sa sécurité dans le camp all
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Classe d'armure : +2 contre les humanoïdes géants
+- Classe d'armure : +2 contre les géants
 
-TAC0 : +2, +4 contre les humanoïdes géants
-Dégâts : 1d4 +2 (perforant), +4 contre les humanoïdes géants
+TAC0 : +2, +4 contre les géants
+Dégâts : 1d4 +2 (perforant), +4 contre les géants
 Facteur de vitesse : 0
 Type de compétence : dague
 Type : arme à une main
@@ -33728,7 +33738,7 @@ Poids : 9~
 PARAMÈTRES :
 
 Capacités de combat :
-- 5 % de chances par touche d'accélérer la vitesse du porteur pendant 4 rounds
+- 5 % de chances par coup réussi d'accélérer la vitesse du porteur pendant 4 rounds
 
 Capacités d'équipement :
 - Vitesse de déplacement : +2
@@ -33773,7 +33783,7 @@ La signature est complètement illisible.~
 PARAMÈTRES :
 
 Capacités de combat :
-- 15 % de chances par touche de lancer Fatalité sur la cible
+- 15 % de chances par coup réussi de lancer Fatalité sur la cible
 
 TAC0 : +2
 Dégâts : +4 (projectile)
@@ -33792,12 +33802,12 @@ Capacités d'équipement :
 - Classe d'armure : +2
 
 Capacités de combat :
-- 20 % de chances par coup de téléporter le porteur à côté d'un ennemi au hasard et de recevoir un bonus de 4 au TAC0 pendant 1 round
-- 5 % de chances par touche de téléporter le porteur à côté d'un ennemi au hasard et d'être sous forme éthérée pendant 1 round
+- 20 % de chances par coup réussi de téléporter le porteur à côté d'un ennemi au hasard et de recevoir un bonus de 4 au TAC0 pendant 1 round
+- 5 % de chances par coup réussi de téléporter le porteur à côté d'un ennemi au hasard et d'être sous forme éthérée pendant 1 round
 
 Capacités de charge :
 - Forme éthérée
-  Spécial : le porteur est immunisé contre les armes non-magiques, il peut continuer à jeter des sorts et à utiliser ses armes
+  Spécial : l'utilisateur est immunisé contre les armes non-magiques, il peut continuer à jeter des sorts et à utiliser ses armes
   Durée : 1 round
 
 TAC0 : +2
@@ -34231,7 +34241,7 @@ Poids : 5~
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Lorsque le porteur est enragé, ses chances de réussir un coup critique sont augmentées de 10 % (berserkers, barbares et guerriers rashémis)
+- Lorsque le porteur est enragé, ses chances de réussir un coup critique sont augmentées de 10 % (berserkers, barbares et guerriers rashémis uniquement)
 
 Capacités de combat :
 - Inflige 2d4 points de dégâts de froid supplémentaires et ralentit la cible pendant 1 round (pas de jet de sauvegarde) en cas de coup critique
@@ -39390,7 +39400,7 @@ Capacités d'équipement :
 - Immunité à la fatigue
 
 Capacités de combat :
-- 10 % de chances de lancer Cantique à chaque touche, centré sur le porteur
+- 10 % de chances de lancer Cantique à chaque coup réussi, centré sur le porteur
 
 TAC0 : +3
 Dégâts : 2d4 +3 (contondant) +1 (feu)
