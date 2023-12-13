@@ -163,6 +163,7 @@ Il n'a ni bouche, ni dents ; pourtant il mange sa nourriture sans discontinuer.
 @1000853 = ~Des voyageurs, hein ? Vous êtes le premier groupe à venir en ville aujourd'hui. Peu de gens osent braver les routes depuis que les ennuis ont commencé. On n'a pas vu plus de dix nouvelles têtes au cours du dernier mois. Mais on a trouvé pas mal de corps, malheureusement.~
 @1000857 = ~N'allez pas croire tous les bruits qui courent. Beaucoup de gens se font du souci pour rien. Ces commères de Bérégost ont toujours de nouvelles rumeurs à raconter aux voyageurs. Nous, au Brasamical, on a plus de jugeote.~
 @1000858 = ~N'êtes-vous pas déjà passé il y a un moment ? J'ai appris que vous avez nettoyé des maisons vers le sud. Tant mieux.~ ~N'êtes-vous pas déjà passée il y a un moment ? J'ai appris que vous avez nettoyé des maisons vers le sud. Tant mieux.~
+@1000862 = ~Vous n'êtes pas de Nashkel, n'est-ce pas ? J'espère que non, car on ne veut plus du tout avoir affaire à eux. Tout le fer qui vient des mines est pourri. Fragile comme du papier.~
 @1000868 = ~Pardonnez-moi si j'ai l'air à bout de souffle mais j'ai dû battre en retraite. Une douzaine de gnolls m'ont tendu une embuscade plus loin sur le chemin. J'ai réussi à les faire fuir, mais je me suis dit qu'il valait mieux ne pas me battre avec leurs amis ogres. Je les ai semés pour l'instant. Que diriez-vous d'un verre de bon brandy selgontain ?~
 @1000872 = ~J'espère que vous appréciez cette liqueur, c'est l'une des meilleures qui soient. Vous vous demandez probablement pourquoi je me montre aussi généreux. Sûrement pas par « bonté d'âme » me direz-vous. Eh bien, en un sens, c'est ça. Vous avez l'air du genre à vouloir améliorer votre qualité de vie. Eh bien, j'ai une proposition qui pourrait vous intéresser. Voilà, une jeune fille de ma connaissance, ma bien-aimée en fait, voudrait échapper à son père pour vivre seule. Il se trouve qu'il s'agit d'Entar Écudargent, l'un des Ducs de la Porte de Baldur. Sa situation en est d'autant plus compliquée. Toutefois, avec votre aide, nous pourrions la tirer des griffes tyranniques d'Entar. Mais le meilleur est à venir, c'est que, comme Entar va nous poursuivre de toute façon, nous pourrions lui demander une rançon très élevée et ne pas nous inquiéter de l'escapade de notre captive. Après tout, nous ne faisons qu'agir dans l'intérêt de Skie. Mais, inutile d'en discuter maintenant. En fait, je vous apporterai mon soutien quelle que soit l'entreprise jusqu'à ce que vous décidiez de vous rendre à la Porte de Baldur. C'est donnant, donnant...~
 @1000875 = ~Vous n'avez pas oublié notre accord ? Vous avez accepté de m'aider à enlever Skie de la propriété d'Entar Écudargent. Eh bien, c'est l'occasion ou jamais. Je peux nous mener là-bas dès maintenant.~
@@ -220,6 +221,7 @@ Il n'a ni bouche, ni dents ; pourtant il mange sa nourriture sans discontinuer.
 @1001186 = ~Vous n'avez pas l'artefact ! C'est pour ça que j'ai fait appel à vous. Vous ne verrez pas la couleur de l'argent avant de me l'avoir rapporté !~
 @1001190 = ~C'est un risque, je sais, mais il faut penser à élargir les rangs ! On n'aura pas le temps de ramener plus de gens d'Iriaebor. On ferait mieux de recruter ici. Ils ont déjà prouvé ce qu'ils valent.~
 @1001211 = ~Que faites-vous ici ?! Nous allons pénétrer dans la dernière salle et je ne tiens pas à ce que des gens comme vous soient là lorsque nous ferons notre découverte.~
+@1001216 = ~Sorts divins/druidiques~
 @1001230 = ~Hé, vous autres, nous allons jouer à un jeu qui s'appelle « qu'est-ce-que-vous-avez-à-perdre ? » Nous essayons de nous infiltrer parmi les bandits de la région ; aussi, nous aimerions que vous fassiez COMME SI vous aviez peur de nous, et que vous nous donniez votre or, vos armes et le fer. Sinon les VRAIS bandits qui sont derrière nous vont arriver et vont tous vous massacrer... Et eux, ils prendront TOUT.~
 @1001235 = ~Hé, vous autres, nous allons jouer à un jeu qui s'appelle « qu'est-ce-que-vous-avez-à-perdre ? » Nous essayons de nous infiltrer parmi les bandits de la région ; aussi, nous aimerions que vous fassiez COMME SI vous aviez peur de nous, et que vous nous donniez votre or, vos armes et le fer. Sinon les VRAIS bandits qui sont derrière nous vont arriver et vont tous vous massacrer... Et eux, ils prendront TOUT.~
 @1001282 = ~Vous semblez avoir quelque intérêt malsain à vagabonder dans les allées du Consortium. Peut-être vaudrait-il mieux que vous retourniez dans votre chambre.~
@@ -348,6 +350,7 @@ Il n'a ni bouche, ni dents ; pourtant il mange sa nourriture sans discontinuer.
 @1002345 = ~Ho ha ha ha ! Oh, frère Thurm, hin hin, pourquoi ne pas enchanter nos oreilles avec un conte fantastique des temps anciens ? Hin hin ! C'est toujours un plaisir !~ [BASSL01]
 @1002355 = ~Non ! Avec le temps, vous avez oublié, comme tous les autres d'ailleurs ! Mais je peux vous rafraîchir la mémoire et nous formerons de nouveau une famille ! Ne bougez pas !~
 @1002361 = ~Aller à Bérégost pour réparer mes crimes ? Est-ce un crime que de souhaiter préserver toute sa famille ?! Quelles qu'elles soient, j'appliquais mes propres méthodes pour faire régner la paix ! Jusqu'à ce que vous arriviez ! Je vous tuerai, et ma famille m'aidera à le faire !~
+@1002368 = ~Meuh, meuh.~
 @1002369 = ~Bonjour, mon enfant, je suis heureux de voir que vous avez trouvé le temps de rendre hommage au grand Oghma.~
 @1002370 = ~Bonjour, mon enfant, je suis heureux de voir que vous avez trouvé le temps de rendre hommage au grand Oghma.~
 @1002374 = ~Oyez ! Oyez ! Par ordre de Son Majestueux Éclat de Lathandre, Kelddath Ormlyr, gouverneur de Bérégost, et dans l'intérêt de ses habitants, la tête du clerc fou Bassilus est mise à prix d'urgence, pour les crimes contre nature qu'il a commis ! Toute personne apportant des preuves de sa mort au Temple de la Chanson du Matin recevra 5 000 pièces d'or ! Oyez ! Oyez !~
@@ -1917,6 +1920,7 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 @1005023 = ~Mauvaise réponse les gars. *hoquette* Z'auriez dû me donner l'argent quand je vous l'ai demandé. Vous savez ce que ch'uis ? J'vais vous dire un secret... Ch'uis une LICHE. Ouaiiis, j'manipule des magies puissantes, et maintenant, ch'uis en colère. Z'avez une dernière chance, donnez-moi tout votre argent *hoquette* !~
 @1005034 = ~Vous voulez vous battre ? Eh bien, battons-nous !~
 @1005039 = ~Là, ils sont juste devant. Je vous en prie, faites ce qu'il faut pour qu'ils s'en aillent.~
+@1005045 = ~Vous n'allez tout de même pas faire ça, n'est-ce pas ? Regardez comme cet arbre est beau. C'est une vraie merveille de la nature !~
 @1005053 = ~Je crains que nous n'allions nulle part. Je vous demande gentiment de vous écarter de cet arbre et de quitter les lieux.~
 @1005056 = ~Je ne crois pas que je vais me risquer à l'un de vos « cadeaux » aujourd'hui.~
 @1005073 = ~Alors vous poursuivez les bandits. Eh bien, qui est-ce qui vous a engagés pour les traquer ? À moins que vous ne le fassiez par pure bonté d'âme...~
@@ -2291,7 +2295,7 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 @1005535 = ~Kaï !~ [WADOG08]
 @1005536 = ~Ouaf, ouaf !~ [WADOG09]
 @1005537 = ~~ [SKELT01]
-@1005538 = ~~ [SKELT02]
+@1005538 = ~Uuuuuuhhhh.~ [SKELT02]
 @1005539 = ~~ [SKELT03]
 @1005540 = ~~ [SKELT04]
 @1005541 = ~~ [SKELT05]
@@ -3589,7 +3593,7 @@ Thayze savait que si lui et les autres membres du conseil voulaient prendre le c
 Quand la nouvelle de la création du « Conseil des Six » se répandit, le peuple y adhéra sur-le-champ : un groupe qui unirait l'Amn sous une seule autorité, gouvernant pour le bénéfice de tous et non pour celui d'une seule ville ou d'un seul marchand ! Le Conseil dressa une armée (à ses frais) pour réprimer les quelques groupes résistants et contrôle l'Amn depuis vingt-deux ans.~
 @1007285 = ~Histoire de Calimshan :
 
-Le Calimshan, le plus vieux des Empires de la Côte, fut fondé il y a plus de 7 000 ans par les Djen, une race humanoïde du Plan Élémentaire de l'Air. Cette race était célèbre pour sa magie et ne cessa tout au long de son règne de mettre au point de nouveaux sorts dont elle ne disposait pas dans le Plan de l'Air.
+Le Calimshan, le plus vieux des Empires de la Côte, fut fondé il y a plus de 7 000 ans par les Djen, une race humanoïde du Plan élémentaire de l'air. Cette race était célèbre pour sa magie et ne cessa tout au long de son règne de mettre au point de nouveaux sorts dont elle ne disposait pas dans le Plan de l'Air.
 
 Les Djen prospérèrent pendant plus de 1 000 ans à Calimshan, mais leur règne s'acheva avec l'invasion de créatures et de suppôts du Plan du Feu. C'est à cette époque que djinns et éfrits auraient commencé à se vouer une haine acharnée. Selon une autre version, ce sentiment n'aurait fait que s'aggraver. Quelle qu'en soit la cause, la bataille fut longue et sanglante et dura plus de cent ans. Les Djen finirent par s'imposer sur leurs attaquants, mais cela les affaiblit grandement. Ils déclinèrent lentement, au point qu'ils n'ont plus fait parler d'eux depuis bientôt 6 000 ans.
 
@@ -4376,7 +4380,7 @@ Poids : 0~
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Permet de mémoriser un sort divin supplémentaire de 1er, 2ème, 3ème et 4ème niveau
+- Permet de mémoriser un sort divin/druidique supplémentaire de 1er, 2ème, 3ème et 4ème niveau
 
 Poids : 0~
 @1007370 = ~Cet anneau, qui fit maintes fois le malheur de mages négligents, servait en fait à encourager l'humilité. Hergat Norin, grand magicien de Narfell, donnait le Disciplineur aux plus adroits et aux plus prétentieux de ses élèves. Dans leur arrogance aveugle, ils voyaient l'anneau comme une récompense de leur « supériorité manifeste », et non comme la réprimande d'un professeur qui les désapprouvait.
@@ -4972,6 +4976,12 @@ Sarevok~
 @1009363 = ~Doppelgänger~
 @1009364 = ~Doppelgänger majeur~
 @1009365 = ~Doppelgänger majeur~
+@1009371 = ~fin du dialogue~
+@1009373 = ~Aucun sprite~
+@1009380 = ~Main secondaire utilisée.~
+@1009381 = ~Arme à deux mains équipée.~ [GAM_47]
+@1009396 = ~Basilic majeur~
+@1009397 = ~Basilic majeur~
 @1009445 = ~Mercenaire des Griffes Noires~
 @1009457 = ~TAC0~
 @1009458 = ~Nombre d'attaques~
@@ -5047,7 +5057,7 @@ CAPACITÉS :
 - Peut sélectionner une race ennemie, contre laquelle il recevra un bonus de 4 aux jets d'attaque et de dégâts en combat.
 - Peut lancer « Charme-animal » une fois par jour tous les 2 niveaux d'expérience (une utilisation au niveau 1).
 - Peut se cacher dans l'ombre lorsqu'il porte une armure au moins aussi légère qu'une besantine.
-- Peut lancer quelques sorts divins à partir du niveau 8.
+- Peut lancer des sorts druidiques à partir du niveau 8.
 - Doit être d'alignement bon.
 - Dés de vie : d10.
 
@@ -5064,7 +5074,7 @@ CAPACITÉS :
 - Peut lancer « Détection du mal » une fois par jour par niveau d'expérience (quatre utilisations au niveau 1).
 - Peut lancer « Protection contre le mal » une fois par jour par niveau d'expérience.
 - Peut repousser les morts-vivants comme un clerc possédant deux niveaux d'expérience de moins, à partir du niveau 3.
-- Peut lancer quelques sorts divins à partir du niveau 9.
+- Peut lancer des sorts divins à partir du niveau 9.
 - Bonus de 2 aux jets de sauvegarde.
 - Doit être d'alignement loyal bon.
 - Dés de vie : d10.~
@@ -5089,7 +5099,7 @@ CAPACITÉS :
 - Ne peut utiliser que les armes suivantes : cimeterre, dague, gourdin, lance, bâton, fléchette et fronde.
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
 - Ne peut être que compétent (une étoile) dans les styles de combat.
-- Peut lancer des sorts divins.
+- Peut lancer des sorts druidiques.
 - Au niveau 7, il peut changer de forme en loup, en ours noir ou en ours brun une fois par jour.
 - Au niveau 15, il devient immunisé contre les poisons.
 - Au niveau 18, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 21 et 24.
@@ -5647,14 +5657,14 @@ Poids : 2~
 ---~
 @1010332 = ~Toucher~
 @1010336 = ~Dégâts~
-@1010337 = ~Enfoncer~
+@1010337 = ~Forçage de serrures~
 @1010338 = ~Poids autorisé~
 @1010339 = ~Classe d'armure~
 @1010340 = ~Ajustement projectiles~
 @1010341 = ~Ajustement réaction~
 @1010342 = ~Points de vie/Niveau~
 @1010343 = ~Chance d'apprentissage des sorts~
-@1010344 = ~Sorts divins supplémentaires~
+@1010344 = ~Sorts divins/druidiques supplémentaires~
 @1010345 = ~Niveau <SPELLLEVEL>~
 @1010347 = ~Réaction~
 @1010348 = ~Attaquer~
@@ -5793,7 +5803,8 @@ Vous ne pourrez utiliser les capacités de votre première classe que lorsque vo
 
 IMPORTANT : chaque personnage ne peut gagner plus de 161 000 points d'expérience au total dans Baldur's Gate : Enhanced Edition (500 000 points d'expérience pour Baldur's Gate : Le Siège de Paldragon). Les points d'expérience des DEUX classes d'un personnage à classes jumelées sont comptabilisés dans ce total. Veillez à ce qu'il reste assez de points d'expérience pour vous permettre de progresser suffisamment dans votre deuxième classe ! AINSI, UN PERSONNAGE DE NIVEAU 7 DANS SA CLASSE ACTUELLE A TRÈS PEU DE CHANCES D'ATTEINDRE LE NIVEAU 8 DANS UNE SECONDE CLASSE ! Le jeu vous permettra toujours de jumeler des classes si vous le souhaitez, mais vous ne pourrez peut-être pas accéder aux capacités de votre ancienne classe dans Baldur's Gate : Enhanced Edition. Cela peut entraîner une plus grande difficulté et s'avérer gênant par la suite.~
 @1010818 = ~Vous mentez ! Donnez-moi une bonne raison de ne pas vous tuer !~
-@1010831 = ~Vous n'avez pas réussi à copier le sort dans votre livre de mage.~
+@1010830 = ~Vous copiez le sort dans votre livre de sorts profanes.~
+@1010831 = ~Vous n'avez pas réussi à copier le sort dans votre livre de sorts profanes.~
 @1010832 = ~Je ne vais pas vous servir une goutte de plus, vous tenez déjà à peine debout. Vous feriez mieux d'aller cuver plutôt que de sortir et de vous attirer des ennuis.~
 @1010840 = ~Qui ? C'était Sarevok ! Je l'ai reconnu de... quand je... je « visitais » la base du Trône de Fer l'autre jour. Ça va aller, il était trop pressé pour vraiment m'amocher. En tout cas, bonne chance si vous le poursuivez.~
 @1010842 = ~Bah, je me débrouillerai très bien, il n'y a aucun doute.~
@@ -5847,6 +5858,7 @@ Le fait que vous ne puissiez pas choisir une des options ci-dessus peut avoir di
 @1010995 = ~Hum. Tout compte fait, vous ressemblez bien à un idiot, mais pas à celui que je cherchais. J'attendais plus d'astuce de la part de l'ennemi soi-disant le plus dangereux de Sarevok. Je ne vois vraiment pas pourquoi il s'imagine que vous pouvez l'arrêter dans la conquête de la Porte de Baldur... Ça vous ennuie si je ne reste pas pour me battre ? J'ai des choses sérieuses qui m'attendent. Vous savez, on a une guerre à préparer.~
 @1010999 = ~À la base du Trône de Fer, à la Porte de Baldur bien sûr. Il a à faire ailleurs dans la ville, mais sûr qu'on aura notre prime si on l'attend là. Étant donné tout ce qu'il reste encore à faire, ça m'étonnerait qu'on le voie réapparaître avant un moment. La disgrâce de <CHARNAME> va nous faciliter la tâche, mais il faut quand même agir vite. La patience n'est pas le fort de Sarevok. Allons-y.~
 @1011016 = ~Mais... ce n'était pas du tout ce qui était prévu. Sarevok n'irait pas tuer de ses propres mains ceux qu'il ne juge pas dignes d'un traitement personnel. Pour accuser <CHARNAME> et son groupe, il fallait soit que des doppelgängers se fassent passer pour eux, soit qu'ils attaquent Rieltar et les autres sans avoir été provoqués. Vous devriez le savoir. Mais, vous... vous n'êtes pas Prat, c'est ça ? Oh, bon sang ! C'est comme qui dirait, une légère erreur de ma part... Mais, grosso modo, les choses ont marché comme prévu. Excusez-moi si je ne reste pas pour un échange de coups de poing. Au revoir.~
+@1011028 = ~Sorts divins/druidiques connus~
 @1011034 = ~Ma musique est meilleure que la vôtre, Eldoth. J'ai appris à jouer au collège de Berdusk.~ [GARRK30]
 @1011035 = ~Ma lame vous coupera en morceaux !~ [IMOEN18]
 @1011036 = ~Ce qui se passe ici est tout à fait inhabituel, et j'ne veux pas y prendre part.~ [IMOEN19]
@@ -6317,6 +6329,7 @@ Poids : 2~
 @1011877 = ~Entrez pauvre et repartez riche !~ [GAMES03]
 @1011878 = ~Hé, vous avez beaucoup de chance, hein ?~ [GAMES04]
 @1011899 = ~Vous ne tiendrez pas longtemps sans aide et avec votre pauvre matériel. Peut-être pourriez-vous trouver de l'aide auprès des amis dont Gorion a parlé, ceux du Brasamical.~ [CHAP00C]
+@1011943 = ~Sorts divins/druidiques~
 @1011972 = ~lance~
 @1011975 = ~Force~
 @1011977 = ~Dextérité~
@@ -6609,7 +6622,7 @@ Niveau : 1
 Portée : champ visuel du lanceur
 Durée : 5 rounds
 Temps d'incantation : 1
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : annule
 
 Ce sort affecte toute personne sur laquelle il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. La personne peut faire un jet de sauvegarde contre les sorts à +3 pour éviter son effet.
@@ -6646,7 +6659,7 @@ Niveau : 3
 Portée : 18 mètres
 Durée : 5 rounds
 Temps d'incantation : 3
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : annule
 
 Ce sort fonctionne d'une manière très similaire au sort de Charme-personne, si ce n'est qu'il n'y a pas de bonus au jet de sauvegarde contre les sorts. Ce sort affecte toute personne sur laquelle il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. La personne peut faire un jet de sauvegarde contre les sorts pour éviter son effet.
@@ -6672,7 +6685,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 3
-Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
+Zone d'effet : 1 humanoïde et tout humanoïde ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort paralyse 1d4 créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts à -1 ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -6721,7 +6734,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Ce sort crée une sphère de 60 centimètres de diamètre dans la main du jeteur de sorts. Une fois le sort lancé, la sphère se dirige vers sa cible, qu'elle atteint inévitablement. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur de sort. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
+Ce sort crée une sphère de 60 centimètres de diamètre dans la main du jeteur de sorts. Une fois le sort lancé, la sphère se dirige vers sa cible, qu'elle atteint inévitablement. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur de sorts. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
  Niveau 1 : 1d4 points de dégâts, cécité pendant un round.
  Niveau 2 : 1d4 points de dégâts, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0).
  Niveau 3 : 1d6 points de dégâts, brûle la victime pour des dégâts supplémentaires de 1d8.
@@ -7028,7 +7041,7 @@ Notez que même si ce sort dissipe les effets individuels des sorts de Glisse, T
 Niveau : 3
 Sphère : garde
 Portée : 18 mètres
-Durée : permanente jusqu'à son déchargement
+Durée : permanente jusqu'à déclenchement
 Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
@@ -7295,7 +7308,7 @@ Sphère : animale
 Portée : champ visuel du lanceur
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 personne ou mammifère
+Zone d'effet : 1 humanoïde ou mammifère
 Jet de sauvegarde : annule
 
 Ce sort affecte toute personne ou mammifère sur lequel il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Le terme mammifère, quant à lui, inclut toute créature de type animal (rat, chien, loup, worg, ours, panthère, serpent, lion, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. Un ours pourra être charmé, mais pas une wiverne. La créature peut faire un jet de sauvegarde contre les sorts à +3 pour éviter son effet.
@@ -7343,7 +7356,7 @@ Sphère : charme
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
+Zone d'effet : 1 humanoïde et tout humanoïde ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort fige sur place une ou plusieurs créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -7480,7 +7493,7 @@ Sphère : nécromancie
 Portée : 9 mètres
 Durée : permanente
 Temps d'incantation : 9
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : aucun
 
 En lançant un Rappel à la vie, le prêtre peut rappeler à la vie les nains, gnomes, demi-elfes, petites gens, elfes, demi-orques ou humains. Remarque : le corps de la personne doit être entier, car sinon les morceaux manquants seront toujours manquants une fois la personne ressuscitée. La personne n'a qu'1 point de vie lorsqu'elle est ressuscitée, et doit récupérer le reste par guérison naturelle ou magie curative.~
@@ -7811,7 +7824,7 @@ Thayze savait que si lui et les autres membres du conseil voulaient prendre le c
 Quand la nouvelle de la création du « Conseil des Six » se répandit, le peuple y adhéra sur-le-champ : un groupe qui unirait l'Amn sous une seule autorité, gouvernant pour le bénéfice de tous et non pour celui d'une seule ville ou d'un seul marchand ! Le Conseil dressa une armée (à ses frais) pour réprimer les quelques groupes résistants et contrôle l'Amn depuis vingt-deux ans.~
 @1013137 = ~Histoire de Calimshan :
 
-Le Calimshan, le plus vieux des Empires de la Côte, fut fondé il y a plus de 7 000 ans par les Djen, une race humanoïde du Plan Élémentaire de l'Air. Cette race était célèbre pour sa magie et ne cessa tout au long de son règne de mettre au point de nouveaux sorts dont elle ne disposait pas dans le Plan de l'Air.
+Le Calimshan, le plus vieux des Empires de la Côte, fut fondé il y a plus de 7 000 ans par les Djen, une race humanoïde du Plan élémentaire de l'air. Cette race était célèbre pour sa magie et ne cessa tout au long de son règne de mettre au point de nouveaux sorts dont elle ne disposait pas dans le Plan de l'Air.
 
 Les Djen prospérèrent pendant plus de 1 000 ans à Calimshan, mais leur règne s'acheva avec l'invasion de créatures et de suppôts du Plan du Feu. C'est à cette époque que djinns et éfrits auraient commencé à se vouer une haine acharnée. Selon une autre version, ce sentiment n'aurait fait que s'aggraver. Quelle qu'en soit la cause, la bataille fut longue et sanglante et dura plus de cent ans. Les Djen finirent par s'imposer sur leurs attaquants, mais cela les affaiblit grandement. Ils déclinèrent lentement, au point qu'ils n'ont plus fait parler d'eux depuis bientôt 6 000 ans.
 
@@ -9041,7 +9054,7 @@ La paix revint dans la cité et les Aquafondais retournèrent à leurs travaux. 
 @1014906 = ~Eh, y a une invasion d'araignées venimeuses dans ma cave à Bérégost. Bentley m'a dit que je pouvais rester ici jusqu'à ce qu'elles partent, mais j'ai horreur de m'imposer. Vous reconnaîtrez sans peine la maison : juste à l'ouest de l'auberge du Jongleur Jovial. Tenez, emportez ces potions : des antidotes contre les poisons. Gardez tout ce qui restera, et je vous donnerai 120 pièces d'or de plus si vous me rapportez les vieilles bottes que mon mari range là-bas. Si vous rapportez aussi l'un des cadavres et ma vieille bouteille de vin, je vous donnerai peut-être une prime.~
 @1014920 = ~Laissez-moi vous aider à trouver votre « moi » spirituel et à améliorer votre essence karmique avant que les dieux ne...~
 @1014926 = ~Dites donc, je vous avais dit de les compter en les tuant, ces zombies. Il vous en reste encore quelques-uns.~
-@1014930 = ~Sorts divins~
+@1014930 = ~Sorts divins/druidiques~
 @1014938 = ~Auberge de Feldpost~
 @1014945 = ~Haute-Haie~
 @1014952 = ~Il était bizarre, hein ?! Beurk, vous sentez encore son odeur ! Je vous donne 10 pièces d'or pour le ceinturon, et 60 de plus pour trouver la baignoire la plus proche.~
@@ -9251,6 +9264,8 @@ décidez. Allez, Jaheira, il est l'heure de prendre congé.~
 @1016196 = ~ZZZzzzzz... *renifle*~ [MISC_08B]
 @1016197 = ~ZZZZzzzzzz.~ [MISC_09A]
 @1016198 = ~ZZZzzzzz.~ [MISC_08A]
+@1016215 = ~_
+Si vous avez un mage, un clerc ou un druide dans votre groupe, votre personnage doit mémoriser des sorts à l'aide du bouton Repos sur les pages Livre de sorts profanes ou Parchemin de sorts divins/druidiques. Pour atteindre ces pages, cliquez avec le bouton droit sur le portrait de votre personnage, puis sélectionnez l'icône livre de sorts profanes ou parchemin de sorts divins/druidiques qui s'affiche sur la gauche.~ [TEXTPOP]
 @1016221 = ~_
 Les voleurs accèdent à leurs talents à l'aide des icônes placées au bas de leur écran. « Larcin » comprend Crocheter serrure, Vol à la tire et Désamorçage des pièges, en fonction de la cible sur laquelle on applique l'action (coffres, personnes et pièges respectivement). « Détection des pièges » examine une large zone et met en évidence les pièges détectés en rouge. « Furtivité » utilise Se cacher dans l'ombre et Déplacement silencieux pour rendre un voleur effectivement invisible jusqu'à sa prochaine attaque. Cette attaque est automatiquement une attaque sournoise, ce qui augmente considérablement les dégâts provoqués si le coup porte.~ [TEXTPOP]
 @1016222 = ~_
@@ -9769,6 +9784,7 @@ Vos portraits personnalisés apparaîtront dans la liste habituelle de portraits
 @1017194 = ~Les ordinateurs clients ne peuvent pas sauvegarder une partie en mode multijoueur.~
 @1017198 = ~Vous devez avoir la permission du chef pour mettre le groupe au repos en mode multijoueur.~
 @1017212 = ~Nexlit le xvart~
+@1017224 = ~Mémoriser sorts divins/druidiques~
 @1017227 = ~Je ne veux pas vous presser, espèce de sots, mais j'ai un convoi à trouver ! Allez, au trot !~
 @1017230 = ~Cette ceinture, un objet maudit des plus rares, mais un fréquent sujet de discussion, contient une magie puissante. Quiconque a le malheur de s'en ceindre change aussitôt de sexe. On raconte qu'il y a cinquante ans, un bouffon anonyme fut décapité pour en avoir offert une à la maîtresse du duc Lobelahn.
 
@@ -9887,6 +9903,7 @@ Capacités d'équipement :
 - Ne peut être ôté qu'à l'aide d'un sort de Délivrance de la malédiction
 
 Poids : 2~
+@1017247 = ~Ce sont les caractéristiques de base qui servent à définir votre personnage. Les minima et les maxima peuvent varier selon les pré-requis de classe et de race.~
 @1017249 = ~Comme son nom l'indique, le casque anti-charmes protège celui qui le porte de toute tentative de manipulation magique de ses émotions. Souvent, des groupes de mercenaires de haut vol équipent leurs membres de tels casques afin de les protéger de toute ingérence extérieure.
 
 PARAMÈTRES :
@@ -9896,6 +9913,7 @@ Capacités d'équipement :
 - Protection contre les coups critiques
 
 Poids : 4~
+@1017250 = ~Vous pouvez choisir <number> sorts à retranscrire dans votre livre de sorts profanes. Ce seront les sorts que votre personnage connaîtra au début du jeu.~
 @1017251 = ~On raconte que le fameux heaume de Baldurien (fondateur légendaire de la Porte de Baldur) est un objet magique protecteur d'une grande puissance. La nature exacte de l'enchantement qu'il contient n'a pas encore été déterminée.
 
 PARAMÈTRES :
@@ -10410,6 +10428,7 @@ Poids : 15~
 @1017617 = ~Messager petit-homme mort~
 @1017618 = ~L'interaction permet de parler à des cibles neutres et d'attaquer des cibles hostiles. Pour parler à un personnage neutre (identifié par un cercle bleu), cliquez sur le personnage choisi. N'oubliez pas de sélectionner l'un de vos compagnons pour pouvoir engager la discussion. Pour parler à un personnage hostile, choisissez l'icône Parler, puis cliquez sur le personnage choisi. Pour attaquer un personnage neutre, sélectionnez une icône d'arme puis cliquez sur la cible.~
 @1017621 = ~Disposez les objets dans les cases appropriées autour de votre personnage sur la page d'inventaire. Vous pourrez ainsi prendre l'arme de votre choix en cliquant sur la case Arme rapide au bas de l'écran principal de jeu. Un cadre vert se dessine alors autour de l'arme que tient votre personnage ; un cadre orange indique le mode de combat.~
+@1017623 = ~Si vous avez un mage, un clerc ou un druide dans votre groupe, votre personnage doit mémoriser des sorts à l'aide du bouton Repos sur les pages Livre de sorts profanes ou Parchemin de sorts divins/druidiques. Pour atteindre ces pages, cliquez avec le bouton droit sur le portrait de votre personnage, puis sélectionnez l'icône livre de sorts profanes ou parchemin de sorts divins/druidiques qui s'affiche sur la gauche.~
 @1017626 = ~Mages, clercs, druides et bardes peuvent jeter des sorts. Sélectionnez le bouton Jeter un sort, choisissez un sort, puis cliquez sur votre cible. Vous pouvez également configurer des sorts rapides en cliquant avec le bouton droit de la souris sur une unité Sort rapide afin de choisir parmi les sorts mémorisés. Si aucun sort ne figure dans la liste, soit le personnage n'a mémorisé aucun sort, soit-il ne peut pas jeter de sort avant d'atteindre un niveau d'expérience supérieur. Pour jeter un sort rapide, cliquez sur l'unité Sort rapide appropriée, puis sélectionnez votre cible.~
 @1017627 = ~Les bardes peuvent encourager leurs camarades combattants à l'aide du Chant de Bataille. Ils peuvent se déplacer en chantant, mais toute autre action met fin au chant. Les bardes sont roublards, mais ils sont d'abord intéressés par les gens. Voilà pourquoi ils volent à la tire mais ne possèdent pas d'autres talents de vol.~
 @1017628 = ~Les clercs et les paladins sont capables de repousser les morts-vivants. Si vous activez l'icône Repousser morts-vivants, de nombreux morts-vivants s'enfuiront ou bien seront détruits. Dans ce mode, les personnages peuvent se déplacer à leur guise. Toute autre action, attaquer ou jeter un sort par exemple, désactive cette capacité.~
@@ -10436,7 +10455,7 @@ Sphère : loi
 Portée : champ visuel du lanceur
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 personne ou mammifère
+Zone d'effet : 1 humanoïde ou mammifère
 Jet de sauvegarde : annule
 
 La victime visée qui rate un jet de sauvegarde contre les sorts subit les pleins effets du sort d'Obstination bornée, qui la pousse à errer au hasard, à attaquer la personne la plus proche ou à rester immobile, en proie à la confusion.~
@@ -10880,7 +10899,7 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Résistance aux dégâts : +50 % contre tous les dégâts magiques non physiques
+Résistance aux dégâts magiques : +50 %
 Spécial : tous les jets de sauvegarde sont réussis automatiquement
 Durée : 3 tours
 
@@ -11975,13 +11994,13 @@ Poids : 1~
 @1020312 = ~~ [AMB_E05G]
 @1020313 = ~~ [AMB_E05H]
 @1020315 = ~Corps de l'émissaire Tar~
-@1020316 = ~Miaou~ [AMB_E44A]
-@1020317 = ~Miaou~ [AMB_E44D]
-@1020318 = ~Meuuuuh~ [AMB_E42A]
-@1020319 = ~Meuh~ [AMB_E42B]
+@1020316 = ~Miaou.~ [AMB_E44A]
+@1020317 = ~Miaou.~ [AMB_E44D]
+@1020318 = ~Meuuuuh.~ [AMB_E42A]
+@1020319 = ~Meuh.~ [AMB_E42B]
 @1020320 = ~~ [AMB_E45C]
-@1020321 = ~Scouic~ [AMB_E45A]
-@1020322 = ~Scouic~ [AMB_E45B]
+@1020321 = ~Scouic.~ [AMB_E45A]
+@1020322 = ~Scouic.~ [AMB_E45B]
 @1020323 = ~Corps de l'émissaire Tar~
 @1020324 = ~Hum, bonjour. Vous devez être les négociateurs de la ville... Voyons voir la liste, voilà : émissaire... émissaire Tar ? Pile à l'heure. Ravi de vous rencontrer. Je suis Destus Gurn, l'assistant du chef comptable chargé des activités du Trône de Fer sur la Côte des Épées. Deux mots maintenant sur nos procédures de négociation avant que vous montiez. Thaldorn sera avec un comité de six conseillers du Trône de Fer qui nous sont envoyés de l'étranger : Zhalimar Nuageloup, Naaman, Diyab, Aasim et Alaï. Des gens tout à fait respectables et pressés de vous rencontrer. Il y a un septième membre en plus aujourd'hui : un certain M. Lyle Espejo. Il est là pour veiller à ce que tout se passe bien en cette période de transition. Quant à l'ordre du jour...~
 @1020328 = ~Vous n'êtes pas l'émissaire Tar ? Eh bien, vous n'avez rien à faire ici. Je vous conseille de retourner d'où vous venez.~
@@ -12967,7 +12986,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement la Protection contre le mal. Ce sort crée une barrière magique autour de ceux qui le reçoivent, à une distance de 30 centimètres. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : d'abord, toute créature maléfique ou sujette à une aura de mal lançant une attaque contre la créature protégée reçoit un malus de 2 à son jet d'attaque. Ensuite, il est impossible pour les démons invoqués d'attaquer la créature protégée.~
+Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement la Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
 @1022833 = ~Force de champion~
 @1022834 = ~Force de champion
 (Transmutation)
@@ -13140,6 +13159,8 @@ Poids : 1~
 @1023350 = ~J'ai combattu Kaïshas de mauvais gré. Elle avait l'air de croire que c'était inévitable. Elle a parlé d'une possible deuxième chance pour son peuple si Sélaad revenait un jour. C'était leur chef disparu, si je me souviens bien.~
 @1023351 = ~J'ai exterminé Kaïshas et tous ceux de son espèce que j'ai pu trouver. Mais il faut que je me tienne sur mes gardes, car elle a parlé d'un certain Sélaad qui pourrait bien être quelque part dans la nature.~
 @1023352 = ~Je lui ai donné une chance de sauver sa vie, mais Kaïshas a voulu se battre jusqu'au bout. Elle a dit que son peuple pourrait avoir une deuxième chance si Sélaad revenait, alors il faut que je me méfie aussi de lui.~
+@1023353 = ~Félon du miroir~
+@1023354 = ~Félon du miroir~
 @1023355 = ~Votre navire prend la mer dans la lumière matinale et son étrave fend bientôt les vagues. La Mer des Épées vous laisse passer sans incident et, en très peu de temps, vous vous retrouvez au grand large. De nombreux jours passent, mais la Mer Inviolée semble s'étendre à l'infini. Les eaux sont calmes, malgré un vent régulier et stable.
 
 Le vaisseau marchand que Mendas a affrété est un bon navire, mais les membres de son équipage n'ont pas l'habitude de s'aventurer aussi loin des routes commerciales. Les plus superstitieux d'entre eux parlent d'une grande cascade se déversant aux abords de Féérune, d'une nation elfe secrète qui attaquerait tous ceux qui osent l'approcher, ou encore de tortues grandes comme des îles et capables d'engloutir des navires entiers. Bien sûr, ces fables fantaisistes travaillent les esprits. Les marins sont nerveux et l'ambiance à bord se dégrade lentement. Les rumeurs de mutinerie commencent à menacer votre détermination lorsque soudain un danger réel vient surprendre l'esprit de chacun.
@@ -13630,6 +13651,9 @@ Attention :
 Pour participer à une partie multijoueur de Baldur's Gate, les joueurs doivent avoir le même fichier exécutable pour pouvoir se connecter les uns aux autres. Dès que vous aurez installé « La Légende de l'Île Perdue » (Tales of the Sword Coast), vous ne pourrez plus vous connecter aux joueurs qui ne possèdent pas le recueil de missions.~
 @1024126 = ~Chant du barde~
 @1024128 = ~Détection des pièges/Détection des illusions~
+@1024142 = ~Vers les sorts divins/druidiques~
+@1024143 = ~Vers les sorts profanes~
+@1024144 = ~Main secondaire utilisée~ [GAM_47]
 @1024147 = ~Arme à distance de même type déjà en main.~
 @1024152 = ~Votre classe de personnage ne vous permet pas d'utiliser une seconde arme.~
 @1024157 = ~Force insuffisante.~
@@ -13696,7 +13720,7 @@ CAPACITÉS :
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
 - Ne peut placer de point de compétence dans les styles de combat.
 - Peut lancer des sorts profanes.
-- Les ensorceleurs ne retranscrivent pas leurs sorts dans un grimoire comme le font les magiciens. À la place, ils apprennent un petit nombre de sorts à chaque niveau d'expérience qu'ils peuvent lancer sans avoir besoin de les mémoriser.
+- Les ensorceleurs ne retranscrivent pas leurs sorts dans un livre de sorts profanes comme le font les mages. À la place, ils apprennent un petit nombre de sorts à chaque niveau d'expérience qu'ils peuvent lancer sans avoir besoin de les mémoriser.
 - Dés de vie : d4.~
 @1024234 = ~MOINE : Les moines sont des guerriers qui cherchent la perfection à travers la contemplation et l'action. Ce sont des combattants polyvalents, bien entraînés au combat sans arme ni armure. Les moines ne peuvent pas lancer de sorts, mais ils ont des pouvoirs magiques uniques. Ils canalisent une énergie subtile, appelée « Ki », qui leur permet de réaliser des exploits incroyables. Le coup le plus connu des moines est leur aptitude à assommer un adversaire en le frappant sans armes.
 
@@ -13748,7 +13772,7 @@ CAPACITÉS :
 
 RAGE DU BARBARE : Pendant 5 rounds, la rage confère un bonus de 4 en Constitution et en Force, une pénalité de 2 à la classe d'armure et un bonus de 2 aux jets de sauvegarde contre les sorts. La rage immunise aussi aux effets de charme, d'immobilisation, de peur, de labyrinthe, d'étourdissement, de sommeil, de confusion et de drain de niveau.
 
-- Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et des projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
+- Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et de projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
 - Dés de vie : d12.~
 @1024271 = ~Chasseur de primes~
 @1024273 = ~Maître-lames~
@@ -13759,9 +13783,9 @@ Les entropistes sont des mages qui se spécialisent dans l'étude de la magie en
 CAPACITÉS :
 
 - Peut mémoriser un sort supplémentaire par niveau d'expérience.
-- Peut lancer le sort de 1er niveau : « Rupture hasardeuse de Nahal » (doit être sélectionné parmi les sorts connus au niveau 1).
-- Peut lancer le sort de 2ème niveau : « Bouclier du chaos » (déjà inscrit dans le grimoire).
-- Peut lancer le sort de 7ème niveau : « Bouclier majeur du chaos » (déjà inscrit dans le grimoire).
+- Peut lancer le sort de 1er niveau : « Rupture hasardeuse de Nahal » (déjà retranscrit dans le livre de sorts profanes).
+- Peut lancer le sort de 2ème niveau : « Bouclier du chaos » (déjà retranscrit dans le livre de sorts profanes).
+- Peut lancer le sort de 7ème niveau : « Bouclier majeur du chaos » (déjà retranscrit dans le livre de sorts profanes).
 - Chaque fois qu'il lance un sort, il y a 5 % de chances d'engendrer un hiatus entropique.
 
 HIATUS ENTROPIQUE : Un hiatus entropique génère un effet complètement aléatoire à la place des effets du sort initialement lancé. Cet effet peut tout aussi bien être préjudiciable que bénéfique à l'entropiste et à ses alliés.
@@ -13781,7 +13805,7 @@ Désavantages :
 @1024285 = ~TUEUR DE MAGICIENS : Ce guerrier a reçu un entraînement spécifique qui lui permet d'exceller dans la chasse et l'attaque des lanceurs de sorts.
 
 Avantages :
-- Le lanceur de sort touché par ce type de personnage se voit appliquer une probabilité de 25 % cumulatifs de rater ses incantations pendant 5 rounds.
+- Tout lanceur de sorts touché par ce type de personnage se voit appliquer une probabilité de 25 % cumulatifs de rater ses incantations pendant 5 rounds.
 - Bonus de 1 % de résistance à la magie par niveau d'expérience.
 
 Désavantages :
@@ -13820,7 +13844,7 @@ Avantages :
 
 Désavantages :
 - Ne peut utiliser la capacité « Imposition des mains ».
-- Ne peut utiliser de sorts divins.
+- Ne peut lancer de sorts divins.
 - Ne peut repousser les morts-vivants.~
 @1024289 = ~CHASSEUR DE MORTS-VIVANTS : Ce guerrier saint a dédié sa vie à l'anéantissement des morts-vivants et autres créatures surnaturelles, et est immunisé contre beaucoup de leurs plus dangereuses capacités.
 
@@ -13904,7 +13928,7 @@ Avantages :
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Invocation.
 
 Désavantages :
-- Ne peut apprendre ni lancer les sorts des écoles de l'Enchantement.
+- Ne peut apprendre ni lancer les sorts de l'école de l'Enchantement.
 - Souffre d'un malus de 15 % pour apprendre des parchemins des autres écoles.
 
 Nécessite au moins 16 en Constitution.~
@@ -13930,7 +13954,7 @@ Avantages :
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Transmutation.
 
 Désavantages :
-- Ne peut apprendre les sorts de l'école de l'Abjuration.
+- Ne peut apprendre ni lancer les sorts de l'école de l'Abjuration.
 - Souffre d'un malus de 15 % pour apprendre des parchemins des autres écoles.
 
 Nécessite au moins 15 en Dextérité.~
@@ -14088,7 +14112,7 @@ Avantages :
 CONVOCATION D'UN ESPRIT ANIMAL : Le druide totémique peut invoquer un esprit animal (ours, loup, lion ou serpent) pour l'aider pendant 6 tours. L'esprit animal a 1 dé de vie au niveau 1, 3 dés de vie au niveau 3, 5 dés de vie au niveau 5, 7 dés de vie au niveau 7 et 10 dés de vie au niveau 10.
 
 Désavantages :
-- Ne peut pas se transformer.~
+- Ne peut pas se métamorphoser.~
 @1024311 = ~MÉTAMORPHE : Ce druide n'est pas un métamorphe parce qu'il a accès à une grande variété de formes mais plutôt parce qu'il ne se consacre qu'à une seule transformation. Il a accepté d'être infecté par la lycanthropie mais, grâce à son intense entraînement et à son étude approfondie de cette capacité, il est capable de la contrôler. Il devient un loup-garou, l'espèce la plus célèbre de lycanthropes.
 
 Avantages :
@@ -14101,7 +14125,7 @@ Désavantages :
 @1024312 = ~JUSTICIER : Membre d'une secte spéciale, ce druide s'est dévoué au combat contre ceux qui profanent la nature. Ils possèdent des pouvoirs qui dépassent ceux des druides normaux, qu'ils ont gagnés par des rituels intensifs, très épuisants sur le plan physique.
 
 Avantages :
-- Niveau 7 : Peut se transformer, en plus des formes normales, en araignée-sabre, en bébé wiverne, et en salamandre de feu.
+- Niveau 7 : Peut se métamorphoser, en plus des formes normales, en araignée-sabre, en bébé wiverne, et en salamandre de feu.
 - Niveau 19 : Acquiert un usage supplémentaire de métamorphose.
 - Six sorts profanes jusqu'au 6ème niveau sont ajoutés à son répertoire :
   Niveau 1 : Orbe chromatique
@@ -14114,6 +14138,9 @@ Avantages :
 Désavantages :
 - Ne peut porter d'armure plus lourde que celle de cuir.
 - -2 en Force et Constitution.~
+@1024314 = ~Vous pouvez choisir <number> sorts à retranscrire dans votre livre de sorts profanes. Ce seront les sorts que votre personnage connaîtra au début du jeu.
+
+Les sorts de l'école de magie de prédilection des mages spécialisés sont encadrés de vert. Vous devez choisir au moins un de ces sorts avant de poursuivre.~
 @1024315 = ~Vous avez reçu un certain nombre de points de compétence à la création de votre personnage. Ils permettent de mesurer avec quelle maîtrise il manie les armes. Vous ne pouvez attribuer de points de compétence martiale qu'aux armes autorisées par la classe du personnage. Si ce dernier est un guerrier, il pourra affecter jusqu'à 5 points à une même arme. Cela lui donnera une plus grande maîtrise dans l'arme choisie. Souvenez-vous qu'un personnage peut utiliser n'importe quelle arme autorisée par sa classe, qu'il lui ait ou non attribué des points de compétence. Cependant, s'il attaque avec une arme avec laquelle il n'est pas compétent, il recevra une pénalité à ses jets d'attaque.
 
 Tableau des points de compétence : *
@@ -14132,6 +14159,10 @@ Tableau des points de compétence : *
 @1024317 = ~Dans leur rôle de protecteurs du bien, les rôdeurs ont tendance à concentrer leurs efforts sur un type précis de créature, en règle générale présent sur leur terre natale. Avant de passer au niveau 2, chaque rôdeur doit choisir une espèce ennemie. Par la suite, chaque fois qu'il rencontre un représentant de cette espèce, il reçoit un bonus à ses jets d'attaque.
 
 EFFETS : Bonus de 4 aux jets d'attaque et de dégâts contre la race ennemie.~
+@1024321 = ~Vous pouvez choisir <number> sorts à retranscrire dans votre livre de sorts profanes. Les sorts retranscrits sont les seuls à pouvoir être lancés.~
+@1024322 = ~Vous pouvez choisir <number> sorts à retranscrire dans votre livre de sorts profanes. Les sorts retranscrits sont les seuls à pouvoir être lancés.
+
+Les sorts de l'école de magie de prédilection des mages spécialisés sont encadrés de vert.~
 @1024331 = ~DÉTECTION ET DÉSAMORÇAGE DES PIÈGES : un personnage utilise ce talent pour détecter les petits pièges, les pièges à fosses et les alarmes. Ce talent ne permet pas de détecter les pièges mécaniques de grande taille. Les voleurs peuvent également désarmer les pièges détectés avec cette compétence.~
 @1024332 = ~DÉPLACEMENT SILENCIEUX : lorsque le personnage utilise ce talent, il peut se déplacer sans bruit.~
 @1024333 = ~CROCHETAGE DE SERRURES : un voleur peut utiliser cette capacité pour crocheter des cadenas, des serrures à combinaison et des serrures de portes.~
@@ -14168,6 +14199,8 @@ Cochez la case « Ne plus jamais afficher » pour fermer ce menu déroulant, e
 Cliquez sur le bouton « Ne plus jamais afficher » pour fermer ce menu déroulant et ne plus jamais l'afficher...~
 @1024353 = ~Vous êtes sur le point de commencer le tutoriel de Baldur's Gate : Enhanced Edition. Il s'agit d'une simple introduction de certaines des compétences de base dont vous aurez besoin pour jouer et apprécier le jeu. Une fois la zone de tutoriel chargée, un PNJ (Personnage Non-Joueur) vous guidera pour combattre des monstres, lancer des sorts, utiliser les talents de roublard et certaines des interactions les plus courantes que vous rencontrerez dans le jeu.~
 @1024356 = ~Feuille de personnage~
+@1024357 = ~Parchemin de sorts divins/druidiques~
+@1024360 = ~Livre de sorts profanes~
 @1024366 = ~Inaccessible~
 @1024382 = ~Le familier est mort ; vous avez perdu des points de vie et 1 point de Constitution de façon définitive.~
 @1024383 = ~Le familier est mort ; vous avez perdu des points de vie et 1 point de Constitution de façon définitive.~
@@ -14192,9 +14225,12 @@ Cliquez sur le bouton « Ne plus jamais afficher » pour fermer ce menu dérou
 @1024453 = ~Dégâts magiques~
 @1024454 = ~Poison~
 @1024456 = ~Vous avez appris le nombre maximum de sorts de ce niveau pour votre Intelligence.~
+@1024457 = ~Ce sort figure déjà dans votre livre de sorts profanes.~
+@1024458 = ~Votre école de magie de prédilection ne vous permet pas d'apprendre ce sort.~
 @1024461 = ~Cela permet de sauvegarder votre personnage dans le dossier « characters » du répertoire Baldur's Gate. Vous pourrez utiliser ce personnage au cours de parties multijoueurs en cliquant sur le bouton d'importation de l'écran Création de Personnage. Exporter un personnage ne le retire pas de la partie en cours et il ne subira aucune modification.~
 @1024466 = ~Sorts profanes~
-@1024485 = ~Êtes-vous sûr(e) de vouloir retirer définitivement ce sort de votre livre de sorts ?~
+@1024467 = ~Sorts divins/druidiques~
+@1024485 = ~Êtes-vous sûr(e) de vouloir retirer définitivement ce sort de votre livre de sorts profanes ?~
 @1024496 = ~Détecte les pièges / les illusions~
 @1024497 = ~Arrête de détecter les pièges / les illusions~
 @1024500 = ~Arrête de repousser les morts-vivants~
@@ -14204,6 +14240,7 @@ Cliquez sur le bouton « Ne plus jamais afficher » pour fermer ce menu dérou
 @1024504 = ~Arrête son Chant du barde~
 @1024515 = ~Impossible de lancer un sort en combat.~
 @1024519 = ~Échec du sort : impossibilité de lancer des sorts dans une zone de magie morte.~
+@1024533 = ~Vos sorts divins/druidiques ne sont plus disponibles.~
 @1024536 = ~Fatigué(e)~
 @1024546 = ~Pause automatique : incantation de sort~
 @1024574 = ~matinée~
@@ -14211,6 +14248,7 @@ Cliquez sur le bouton « Ne plus jamais afficher » pour fermer ce menu dérou
 @1024591 = ~Jet de sauvegarde contre la paralysie, la mort et les poisons réduit de~
 @1024592 = ~Jet de sauvegarde contre les baguettes, les sceptres et les bâtons réduit de~
 @1024593 = ~Jet de sauvegarde contre la pétrification et la métamorphose réduit de~
+@1024598 = ~Sorts divins/druidiques supplémentaires~
 @1024606 = ~Utilisez un parchemin ou un sort de Restauration pour récupérer les niveaux d'expérience que vous avez perdus. Les temples peuvent également faire quelque chose pour vous.~
 @1024607 = ~Appuyez sur la touche « Q » pour effectuer une sauvegarde rapide de la partie.~
 @1024608 = ~Appuyez sur la touche « H » pour faire disparaître tous les panneaux de l'interface. Appuyez de nouveau sur « H » pour les faire réapparaître.~
@@ -15283,12 +15321,22 @@ Spécialisation (2 étoiles) : Le bonus à la classe d'armure passe à 2.~
 @1025077 = ~En train de se régénérer~
 @1025078 = ~Dialogue en cours~
 @1025079 = ~Dans l'échoppe~
+@1025081 = ~Score de caractéristique absorbé~
 @1025083 = ~Protégé(e) contre l'énergie~
 @1025089 = ~Protection contre la mort~
 @1025094 = ~Manteau~
 @1025101 = ~Déclencheur de sorts~
 @1025122 = ~Globe mineur d'invulnérabilité~
 @1025126 = ~Nauséeux(se)~
+@1025263 = ~Sort de l'école de l'Abjuration dissipé~
+@1025264 = ~Sort de l'école de la Conjuration dissipé~
+@1025265 = ~Sort de l'école de la Divination dissipé~
+@1025266 = ~Sort de l'école de l'Enchantement dissipé~
+@1025267 = ~Sort de l'école de l'Illusion dissipé~
+@1025268 = ~Sort de l'école de l'Invocation dissipé~
+@1025269 = ~Sort de l'école de la Nécromancie dissipé~
+@1025270 = ~Sort de l'école de la Transmutation dissipé~
+@1025271 = ~Sort de l'école généraliste dissipé~
 @1025287 = ~Suldanessalar~
 @1025290 = ~Introduction de Baldur's Gate : Enhanced Edition~
 @1025297 = ~Introduction de Baldur's Gate II : Le Trône de Bhaal~
@@ -15300,7 +15348,7 @@ Spécialisation (2 étoiles) : Le bonus à la classe d'armure passe à 2.~
 @1025361 = ~TUEUR DE MAGICIENS : Ce guerrier a reçu un entraînement spécifique qui lui permet d'exceller dans la chasse et l'attaque des lanceurs de sorts.
 
 Avantages :
-- Le lanceur de sort touché par ce type de personnage se voit appliquer une probabilité de 25 % cumulatifs de rater ses incantations pendant 5 rounds.
+- Tout lanceur de sorts touché par ce type de personnage se voit appliquer une probabilité de 25 % cumulatifs de rater ses incantations pendant 5 rounds.
 - Bonus de 1 % de résistance à la magie par niveau d'expérience.
 
 Désavantages :
@@ -15339,7 +15387,7 @@ Avantages :
 
 Désavantages :
 - Ne peut utiliser la capacité « Imposition des mains ».
-- Ne peut utiliser de sorts divins.
+- Ne peut lancer de sorts divins.
 - Ne peut repousser les morts-vivants.~
 @1025365 = ~CHASSEUR DE MORTS-VIVANTS : Ce guerrier saint a dédié sa vie à l'anéantissement des morts-vivants et autres créatures surnaturelles, et est immunisé contre beaucoup de leurs plus dangereuses capacités.
 
@@ -15473,7 +15521,7 @@ Avantages :
 CONVOCATION D'UN ESPRIT ANIMAL : Le druide totémique peut invoquer un esprit animal (ours, loup, lion ou serpent) pour l'aider pendant 6 tours. L'esprit animal a 1 dé de vie au niveau 1, 3 dés de vie au niveau 3, 5 dés de vie au niveau 5, 7 dés de vie au niveau 7 et 10 dés de vie au niveau 10.
 
 Désavantages :
-- Ne peut pas se transformer.~
+- Ne peut pas se métamorphoser.~
 @1025376 = ~MÉTAMORPHE : Ce druide n'est pas un métamorphe parce qu'il a accès à une grande variété de formes mais plutôt parce qu'il ne se consacre qu'à une seule transformation. Il a accepté d'être infecté par la lycanthropie mais, grâce à son intense entraînement et à son étude approfondie de cette capacité, il est capable de la contrôler. Il devient un loup-garou, l'espèce la plus célèbre de lycanthropes.
 
 Avantages :
@@ -15486,7 +15534,7 @@ Désavantages :
 @1025377 = ~JUSTICIER : Membre d'une secte spéciale, ce druide s'est dévoué au combat contre ceux qui profanent la nature. Ils possèdent des pouvoirs qui dépassent ceux des druides normaux, qu'ils ont gagnés par des rituels intensifs, très épuisants sur le plan physique.
 
 Avantages :
-- Niveau 7 : Peut se transformer, en plus des formes normales, en araignée-sabre, en bébé wiverne, et en salamandre de feu.
+- Niveau 7 : Peut se métamorphoser, en plus des formes normales, en araignée-sabre, en bébé wiverne, et en salamandre de feu.
 - Niveau 19 : Acquiert un usage supplémentaire de métamorphose.
 - Six sorts profanes jusqu'au 6ème niveau sont ajoutés à son répertoire :
   Niveau 1 : Orbe chromatique
@@ -15535,7 +15583,7 @@ Les entropistes sont des mages qui se spécialisent dans l'étude de la magie en
 
 Chaque fois que l'entropiste lance un sort, il a 5 % de chances d'engendrer un hiatus entropique. Un hiatus entropique génère un effet complètement aléatoire à la place des effets du sort initialement lancé. Un dé de pourcentage est lancé pour déterminer les effets. Un score élevé est habituellement préférable à un jet faible. En outre, le niveau d'expérience de l'entropiste varie légèrement lors de chacune de ses incantations, entre +5 et -5 de son véritable niveau d'expérience.
 
-L'entropiste peut lancer trois sorts auxquels LUI SEUL a accès. Il s'agit de Rupture hasardeuse de Nahal, Bouclier du chaos et Bouclier majeur du chaos. À l'exception de la Rupture hasardeuse de Nahal, ces sorts sont inclus d'office dans le grimoire de l'entropiste.~
+L'entropiste peut lancer trois sorts auxquels LUI SEUL a accès. Il s'agit de Rupture hasardeuse de Nahal, Bouclier du chaos et Bouclier majeur du chaos. À l'exception de la Rupture hasardeuse de Nahal, ces sorts sont inclus d'office dans le livre de sorts profanes de l'entropiste.~
 @1025390 = ~BARBARE : Les barbares peuvent être d'excellents guerriers. Bien que moins disciplinés ou entraînés que les guerriers normaux, les barbares peuvent entrer dans une rage meurtrière, devenant ainsi des adversaires plus coriaces et plus puissants.
 
 CAPACITÉS :
@@ -15549,7 +15597,7 @@ CAPACITÉS :
 
 RAGE DU BARBARE : Pendant 5 rounds, la rage confère un bonus de 4 en Constitution et en Force, une pénalité de 2 à la classe d'armure et un bonus de 2 aux jets de sauvegarde contre les sorts. La rage immunise aussi aux effets de charme, d'immobilisation, de peur, de labyrinthe, d'étourdissement, de sommeil, de confusion et de drain de niveau.
 
-- Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et des projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
+- Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et de projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
 - Dés de vie : d12.~
 @1025424 = ~Lorsque le lanceur est impuissant (c'est-à-dire charmé, dominé, confus, étourdi, endormi, etc.).~
 @1025426 = ~Lorsque le lanceur est empoisonné.~
@@ -15732,7 +15780,7 @@ Résistance à la magie : 10 %
 
 Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
 Capacités spéciales :
-- 35 % de résistance aux dégâts tranchants, perforants et projectiles
+- 35 % de résistance aux dégâts tranchants, perforants et de projectiles
 - 100 % de résistance au feu
 - Peut lancer Poussière de verre deux fois par jour (tous les ennemis dans un rayon de 4,5 mètres doivent réussir un jet de sauvegarde contre les souffles sous peine d'avoir un malus de 4 à leur classe d'armure et un malus de 2 à leur TAC0 pendant 30 secondes)
 - Régénère 1 point de vie par round
@@ -15950,7 +15998,7 @@ Temps d'incantation : 9
 Zone d'effet : rayon de 3 mètres
 Jet de sauvegarde : aucun
 
-Ce sort fait disparaître toutes les créatures alliées situées dans un rayon de 3 mètres autour du lanceur de sort. Elles deviennent indécelables à la vue normale ou à l'infravision. Les bénéficiaires de ce sort n'en deviennent pas pour autant silencieux, et certaines conditions peuvent permettre leur détection. Même les alliés ne peuvent voir les créatures affectées par ce sort ou leur équipement, à moins qu'ils ne disposent de compétences ou de sorts leur permettant de voir les choses invisibles. Tout objet abandonné par une créature invisible redevient immédiatement visible. Tous ceux qui sont ramassés par l'un des bénéficiaires de ce sort disparaissent à la vue de tous s'ils sont cachés dans les vêtements ou l'un des sacs de la créature invisible. Ce sort reste actif jusqu'à ce qu'il soit dissipé par magie, que le lanceur ou le bénéficiaire décide d'y mettre un terme, ou lorsque ce dernier attaque une autre créature. Sa durée maximale est de 24 heures. Les créatures invisibles ne peuvent pas ouvrir de portes, parler, manger, monter des escaliers, etc. Si elles attaquent, elles redeviennent immédiatement visibles.~
+Ce sort fait disparaître toutes les créatures alliées situées dans un rayon de 3 mètres autour du lanceur de sorts. Elles deviennent indécelables à la vue normale ou à l'infravision. Les bénéficiaires de ce sort n'en deviennent pas pour autant silencieux, et certaines conditions peuvent permettre leur détection. Même les alliés ne peuvent voir les créatures affectées par ce sort ou leur équipement, à moins qu'ils ne disposent de compétences ou de sorts leur permettant de voir les choses invisibles. Tout objet abandonné par une créature invisible redevient immédiatement visible. Tous ceux qui sont ramassés par l'un des bénéficiaires de ce sort disparaissent à la vue de tous s'ils sont cachés dans les vêtements ou l'un des sacs de la créature invisible. Ce sort reste actif jusqu'à ce qu'il soit dissipé par magie, que le lanceur ou le bénéficiaire décide d'y mettre un terme, ou lorsque ce dernier attaque une autre créature. Sa durée maximale est de 24 heures. Les créatures invisibles ne peuvent pas ouvrir de portes, parler, manger, monter des escaliers, etc. Si elles attaquent, elles redeviennent immédiatement visibles.~
 @1025778 = ~La plupart des gourdins sont de gros bâtons résistants, étroits à une extrémité et plus larges à l'autre. Cette arme simple est utilisée depuis que l'on a découvert les outils. N'importe qui peut trouver un gros morceau de bois et le brandir, d'où l'utilisation très répandue du gourdin.
 
 PARAMÈTRES :
@@ -16096,7 +16144,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement la Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires, à une distance de 30 centimètres. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : d'abord, toute créature maléfique ou sujette à une aura de mal lançant une attaque contre une créature protégée reçoit un malus de 2 à son jet d'attaque. Ensuite, il est impossible pour les démons invoqués d'attaquer une créature protégée.~
+Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement la Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
 @1025827 = ~Charme-personne ou mammifère
 (Enchantement/Charme)
 
@@ -16105,7 +16153,7 @@ Sphère : animale
 Portée : champ visuel du lanceur
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 personne ou mammifère
+Zone d'effet : 1 humanoïde ou mammifère
 Jet de sauvegarde : annule
 
 Ce sort affecte toute personne ou mammifère sur lequel il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Le terme mammifère, quant à lui, inclut toute créature de type animal (rat, chien, loup, worg, ours, panthère, serpent, lion, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. Un ours pourra être charmé, mais pas une wiverne. La créature peut faire un jet de sauvegarde contre les sorts à +3 pour éviter son effet.
@@ -16146,7 +16194,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Ce sort crée une sphère de 60 centimètres de diamètre dans la main du jeteur de sorts. Une fois le sort lancé, la sphère se dirige vers sa cible, qu'elle atteint inévitablement. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur de sort. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
+Ce sort crée une sphère de 60 centimètres de diamètre dans la main du jeteur de sorts. Une fois le sort lancé, la sphère se dirige vers sa cible, qu'elle atteint inévitablement. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur de sorts. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
  Niveau 1 : 1d4 points de dégâts, cécité pendant un round.
  Niveau 2 : 1d4 points de dégâts, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0).
  Niveau 3 : 1d6 points de dégâts, brûle la victime pour des dégâts supplémentaires de 1d8.
@@ -16324,7 +16372,7 @@ Niveau : 1
 Portée : champ visuel du lanceur
 Durée : 5 rounds
 Temps d'incantation : 1
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : annule
 
 Ce sort affecte toute personne sur laquelle il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. La personne peut faire un jet de sauvegarde contre les sorts à +3 pour éviter son effet.
@@ -16465,7 +16513,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire tous les deux niveaux d'expérience. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'une Dissipation de la magie soit lancée, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme Boule de feu.~
+En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire tous les 2 niveaux d'expérience. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'une Dissipation de la magie soit lancée, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme Boule de feu.~
 @1025957 = ~Non-détection
 (Abjuration)
 
@@ -16701,6 +16749,7 @@ Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
 Ce sort est une version plus puissante du sort de Soins des blessures légères. Lorsque le prêtre pose sa main sur une créature, il soigne 17 points de vie ou autres dégâts infligés au corps de la créature. Ce sort ne peut être utilisé sur les créatures non-corporelles, non-vivantes ou extra-planaires.~
+@1026096 = ~Tourbillon d'élémentaire d'air~
 @1026121 = ~Appel du Ménestrel
 (Nécromancie)
 
@@ -16881,7 +16930,7 @@ Sphère : charme
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
+Zone d'effet : 1 humanoïde et tout humanoïde ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort fige sur place une ou plusieurs créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -16947,7 +16996,7 @@ L'éclair tombe en frappant verticalement une des créatures ennemies du prêtre
 Niveau : 3
 Sphère : garde
 Portée : 18 mètres
-Durée : permanente jusqu'à son déchargement
+Durée : permanente jusqu'à déclenchement
 Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
@@ -17033,7 +17082,7 @@ Sphère : loi
 Portée : champ visuel du lanceur
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 personne ou mammifère
+Zone d'effet : 1 humanoïde ou mammifère
 Jet de sauvegarde : annule
 
 La victime visée qui rate un jet de sauvegarde contre les sorts subit les pleins effets du sort d'Obstination bornée, qui la pousse à errer au hasard, à attaquer la personne la plus proche ou à rester immobile, en proie à la confusion.~
@@ -17319,7 +17368,7 @@ Sphère : nécromancie
 Portée : champ visuel du lanceur
 Durée : permanente
 Temps d'incantation : 9
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : spécial
 
 Lorsque le prêtre jette un sort de Rappel à la vie, il peut rendre la vie à un nain, un gnome, un demi-elfe, une petite-personne, un demi-orque, un elfe ou un humain.
@@ -17533,7 +17582,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort ouvre une porte sur le plan élémentaire du feu, conjurant un élémentaire de feu au voisinage du lanceur de sorts. Il y a 60 % de chances qu'un élémentaire de 12 dés de vie apparaisse, 35 % qu'un élémentaire de 16 dés de vie réponde à l'appel, et 5 % qu'un élémentaire de 24 dés de vie vienne faire le ménage. Il n'est pas nécessaire de connaître la langue de la créature conjurée puisque le contrôle de l'élémentaire se fait uniquement par voie télépathique. Les prêtres, à l'inverse des magiciens, n'ont pas besoin de s'engager dans un duel de volontés pour prendre le contrôle de l'élémentaire conjuré. Ce dernier reste sous le contrôle du lanceur jusqu'à l'expiration de la durée du sort.~
+En jetant un sort de Conjuration d'élémentaire de feu, le lanceur ouvre un portail magique vers le Plan élémentaire du feu et invoque un élémentaire de feu à proximité. L'élémentaire de feu a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Contrairement aux lanceurs de sorts profanes, les lanceurs de sorts divins/druidiques n'ont pas à s'engager dans un combat psychique avec l'élémentaire invoqué pour le contrôler.~
 @1026270 = ~Semences de feu
 (Conjuration/Convocation)
 
@@ -17611,7 +17660,7 @@ Avec ce sort, le magicien lance une boule d'énergie contre une créature. Pas d
 
 Type de créature / Dégâts
  Plan primaire / 6d6
- Élemental / 3d4
+ Élémentaire / 3d4
  Mort-vivant / 8d6
  Démon / 10d6~
 @1026283 = ~Miroir physique
@@ -17666,7 +17715,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort ouvre une porte sur le plan élémentaire de Terre, invoquant un élémentaire de terre au voisinage du jeteur de sorts. Il y a 60 % de chances qu'un élémentaire de 12 dés de vie apparaisse, 35 % qu'un élémentaire de 16 dés de vie réponde à l'appel et 5 % qu'un élémentaire de 24 dés de vie vienne faire le ménage. Il n'est pas nécessaire de connaître la langue de la créature invoquée puisque le contrôle de l'élémentaire se fait uniquement par voie télépathique. Les prêtres, à l'inverse des magiciens, n'ont pas besoin de s'engager dans un duel de volontés pour prendre le contrôle de l'élémentaire invoqué. Ce dernier reste sous le contrôle du lanceur jusqu'à l'expiration de la durée du sort.~
+En jetant un sort de Conjuration d'élémentaire de terre, le lanceur ouvre un portail magique vers le Plan élémentaire de la terre et invoque un élémentaire de terre à proximité. L'élémentaire de terre a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Contrairement aux lanceurs de sorts profanes, les lanceurs de sorts divins/druidiques n'ont pas à s'engager dans un combat psychique avec l'élémentaire invoqué pour le contrôler.~
 @1026292 = ~Portail
 (Conjuration/Convocation)
 
@@ -18150,7 +18199,7 @@ Jet de sauvegarde : spécial
 
 Ce sort est le dernier recours de l'entropiste. Lorsqu'il le lance, il libère une bouffée d'énergie chaotique dans l'espoir de s'en emparer et de la façonner pour obtenir l'effet d'un sort désiré. C'est en général un échec, mais il se produit toujours quelque chose au cours du processus.
 
-Le lanceur spécifie le sort qu'il va essayer de simuler avant de commencer son incantation. Le sort simulé doit pouvoir être jeté par le lanceur (c'est-à-dire, figurer dans son livre de sort), mais il n'a pas besoin de l'avoir en mémoire. Après tous les préparatifs nécessaires (désignation de la cible et spécification de tous les paramètres requis par le sort simulé), le lanceur jette la Rupture hasardeuse de Nahal. Une décharge d'énergie magique est libérée, le lanceur tentera de la manipuler et de la modeler pour lui donner la forme souhaitée. L'effet réel du sort est déterminé aléatoirement par un jet de dé sur le tableau de hiatus entropique (voir le manuel pour plus de détails).
+Le lanceur spécifie le sort qu'il va essayer de simuler avant de commencer son incantation. Le sort simulé doit pouvoir être jeté par le lanceur (c'est-à-dire, figurer dans son livre de sorts profanes), mais il n'a pas besoin de l'avoir en mémoire. Après tous les préparatifs nécessaires (désignation de la cible et spécification de tous les paramètres requis par le sort simulé), le lanceur jette la Rupture hasardeuse de Nahal. Une décharge d'énergie magique est libérée, le lanceur tentera de la manipuler et de la modeler pour lui donner la forme souhaitée. L'effet réel du sort est déterminé aléatoirement par un jet de dé sur le tableau de hiatus entropique (voir le manuel pour plus de détails).
 
 Comme le lanceur essaie néanmoins de diriger l'énergie magique, son niveau d'expérience est additionné au jet de dé qui sert à déterminer l'effet réel du sort. Cela signifie que plus le niveau d'expérience du lanceur est haut, plus il a chances d'obtenir un résultat positif. Si le résultat indique une réussite, le lanceur a réussi à modeler l'énergie magique pour obtenir l'effet désiré. Malheureusement, la plupart du temps, l'effet obtenu est complètement imprévu et peut varier de positif à complètement catastrophique : pas de réussite sans prise de risques !~
 @1026380 = ~Hantise
@@ -18331,7 +18380,7 @@ Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : annule
 
-Ce sort provoque chez la victime une surdité totale, qui l'empêche d'entendre le moindre bruit. Elle peut tenter un jet de sauvegarde contre les sorts. Les lanceurs de sort frappés par ce sort ont 50 % de chances de rater l'incantation de leurs sorts. Pour mettre fin à cette surdité, il faut lancer un sort de Dissipation de la magie avec succès ou un sort de Guérison des maladies.~
+Ce sort provoque chez la victime une surdité totale, qui l'empêche d'entendre le moindre bruit. Elle peut tenter un jet de sauvegarde contre les sorts. Les lanceurs de sorts frappés par ce sort ont 50 % de chances de rater l'incantation de leurs sorts. Pour mettre fin à cette surdité, il faut lancer un sort de Dissipation de la magie avec succès ou un sort de Guérison des maladies.~
 @1026411 = ~Poussière scintillante
 (Conjuration/Convocation)
 
@@ -18383,7 +18432,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 3
-Zone d'effet : 1 personne et toute personne ennemie dans un rayon de 1,2 mètre
+Zone d'effet : 1 humanoïde et tout humanoïde ennemi dans un rayon de 1,2 mètre
 Jet de sauvegarde : annule
 
 Ce sort paralyse 1d4 créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts à -1 ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -18429,7 +18478,7 @@ Niveau : 3
 Portée : 18 mètres
 Durée : 5 rounds
 Temps d'incantation : 3
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : annule
 
 Ce sort fonctionne d'une manière très similaire au sort de Charme-personne, si ce n'est qu'il n'y a pas de bonus au jet de sauvegarde contre les sorts. Ce sort affecte toute personne sur laquelle il est lancé. Le terme personne inclut tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un humain (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. La personne peut faire un jet de sauvegarde contre les sorts pour éviter son effet.
@@ -18909,13 +18958,13 @@ Ce sort dissipe tous les sorts d'Illusion ou de Fantasme de niveau inférieur ou
 (Conjuration/Convocation)
 
 Niveau : 5
-Portée : 13 mètres
+Portée : 13,5 mètres
 Durée : 1 tour + 1 round par niveau
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire de feu mineur au service du magicien. Il a 8 dés de vie et sera au service de l'invocateur pour la durée du sort. Cependant, à chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant trois rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien ou l'attaquera. Dans ce dernier cas, il est toujours possible d'utiliser des sorts d'enchantement sur la créature. De tels sorts, utilisés avant la fin de la confrontation mentale, n'auront aucune influence sur son résultat.~
+En jetant un sort de Conjuration d'élémentaire de feu mineur, le lanceur ouvre un portail magique vers le Plan élémentaire du feu et invoque un élémentaire de feu mineur à proximité. L'élémentaire de feu mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1026533 = ~Protection contre l'acide
 (Abjuration)
 
@@ -18957,25 +19006,25 @@ Avec ce sort, le lanceur est immunisé contre le prochain sort dirigé contre lu
 (Conjuration/Convocation)
 
 Niveau : 5
-Portée : 13 mètres
+Portée : 13,5 mètres
 Durée : 1 tour + 1 round par niveau
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire d'air mineur au service du magicien. Il a 8 dés de vie et sera au service de l'invocateur pour la durée du sort. Cependant, à chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant trois rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien ou l'attaquera. Dans ce dernier cas, il est toujours possible d'utiliser des sorts d'enchantement sur la créature. De tels sorts, utilisés avant la fin de la confrontation mentale, n'auront aucune influence sur son résultat.~
+En jetant un sort de Conjuration d'élémentaire d'air mineur, le lanceur ouvre un portail magique vers le Plan élémentaire de l'air et invoque un élémentaire d'air mineur à proximité. L'élémentaire d'air mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1026542 = ~Conjuration d'élémentaire de terre mineur~
 @1026543 = ~Conjuration d'élémentaire de terre mineur
 (Conjuration/Convocation)
 
 Niveau : 5
-Portée : 13 mètres
+Portée : 13,5 mètres
 Durée : 1 tour + 1 round par niveau
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire de terre mineur au service du magicien. Il a 8 dés de vie et sera au service de l'invocateur pour la durée du sort. Cependant, à chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant trois rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien ou l'attaquera. Dans ce dernier cas, il est toujours possible d'utiliser des sorts d'enchantement sur la créature. De tels sorts, utilisés avant la fin de la confrontation mentale, n'auront aucune influence sur son résultat.~
+En jetant un sort de Conjuration d'élémentaire de terre mineur, le lanceur ouvre un portail magique vers le Plan élémentaire de la terre et invoque un élémentaire de terre mineur à proximité. L'élémentaire de terre mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1026544 = ~Renvoi des sorts mineurs
 (Abjuration)
 
@@ -19001,14 +19050,14 @@ Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : 1/2
 
 Ce sort est similaire au sort Boule de feu, une explosion de flammes qui éclate avec un bruit sourd et inflige des dégâts proportionnels au niveau d'expérience du lanceur ; 1d6 points de dégâts de feu par niveau d'expérience du lanceur, jusqu'à un maximum de 15d6. Le lanceur fait un geste de la main et la zone qui l'entoure est envahie de flammes, frappant toutes les créatures à l'exception du lanceur. Les créatures qui ne réussissent pas de jet de sauvegarde contre les sorts subissent la totalité des dégâts de l'explosion. Celles qui réussissent leur jet de sauvegarde contre les sorts parviennent à bondir à l'écart, à se jeter à terre ou à rouler sur le côté, et n'encaissent que la moitié des dégâts.~
-@1026548 = ~Immunité contre les sorts, Abjuration~
-@1026549 = ~Immunité contre les sorts, Conjuration~
-@1026550 = ~Immunité contre les sorts, Divination~
-@1026551 = ~Immunité contre les sorts, Enchantement~
-@1026552 = ~Immunité contre les sorts, Illusion~
-@1026553 = ~Immunité contre les sorts, Évocation~
-@1026554 = ~Immunité contre les sorts, Nécromancie~
-@1026555 = ~Immunité contre les sorts, Transmutation~
+@1026548 = ~Immunité contre les sorts de l'école de l'Abjuration~
+@1026549 = ~Immunité contre les sorts de l'école de la Conjuration~
+@1026550 = ~Immunité contre les sorts de l'école de la Divination~
+@1026551 = ~Immunité contre les sorts de l'école de l'Enchantement~
+@1026552 = ~Immunité contre les sorts de l'école de l'Illusion~
+@1026553 = ~Immunité contre les sorts de l'école de l'Invocation~
+@1026554 = ~Immunité contre les sorts de l'école de la Nécromancie~
+@1026555 = ~Immunité contre les sorts de l'école de la Transmutation~
 @1026556 = ~Rôdeur invisible~
 @1026557 = ~Rôdeur invisible
 (Conjuration/Convocation)
@@ -19020,7 +19069,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort convoque un rôdeur invisible depuis le plan élémentaire de l'air. Ce monstre de 8 dés de vie obéit aveuglément au lanceur en accomplissant toutes les tâches qui lui sont confiées, même si cela doit le conduire à une mort certaine. La créature reste sous le contrôle du lanceur pendant 9 heures (ou jusqu'à ce qu'elle soit tuée) puis retourne sur son plan d'origine, légèrement contrariée d'avoir eu à servir un mortel. Le rôdeur invisible est immunisé contre de nombreux effets (étourdissement, sommeil, charme, etc.).~
+Ce sort convoque un rôdeur invisible depuis le Plan élémentaire de l'air. Ce monstre de 8 dés de vie obéit aveuglément au lanceur en accomplissant toutes les tâches qui lui sont confiées, même si cela doit le conduire à une mort certaine. La créature reste sous le contrôle du lanceur pendant 9 heures (ou jusqu'à ce qu'elle soit tuée) puis retourne sur son plan d'origine, légèrement contrariée d'avoir eu à servir un mortel. Le rôdeur invisible est immunisé contre de nombreux effets (étourdissement, sommeil, charme, etc.).~
 @1026559 = ~Globe d'invulnérabilité
 (Abjuration)
 
@@ -19127,7 +19176,7 @@ Ce sort crée une vaste zone de brouillard opaque hautement acide. Toute créatu
 
 Niveau : 6
 Portée : champ visuel du lanceur
-Durée : permanente, jusqu'à déclenchement
+Durée : permanente jusqu'à déclenchement
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
@@ -19158,7 +19207,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire de feu au service du magicien en ouvrant un portail magique vers le Plan Élémentaire du Feu. La créature a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. À chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant 5 rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien. Tous les ordres donnés à la créature le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension.~
+En jetant un sort de Conjuration d'élémentaire de feu, le lanceur ouvre un portail magique vers le Plan élémentaire du feu et invoque un élémentaire de feu à proximité. L'élémentaire de feu a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1026582 = ~Conjuration d'élémentaire d'air~
 @1026583 = ~Conjuration d'élémentaire d'air
 (Conjuration/Convocation)
@@ -19170,7 +19219,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire d'air au service du magicien en ouvrant un portail magique vers le Plan Élémentaire de l'Air. La créature a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. À chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant 5 rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien. Tous les ordres donnés à la créature le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension.~
+En jetant un sort de Conjuration d'élémentaire d'air, le lanceur ouvre un portail magique vers le Plan élémentaire de l'air et invoque un élémentaire d'air à proximité. L'élémentaire d'air a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1026584 = ~Conjuration d'élémentaire de terre
 (Conjuration/Convocation)
 
@@ -19181,7 +19230,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire de terre au service du magicien en ouvrant un portail magique vers le Plan Élémentaire de la Terre. La créature a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. À chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant 5 rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien. Tous les ordres donnés à la créature le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension.~
+En jetant un sort de Conjuration d'élémentaire de terre, le lanceur ouvre un portail magique vers le Plan élémentaire de la terre et invoque un élémentaire de terre à proximité. L'élémentaire de terre a 60 % de chances de posséder 12 dés de vie, 35 % de chances de posséder 16 dés de vie et 5 % de chances de posséder 24 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1026586 = ~Convocation de vers charognards
 (Conjuration/Convocation)
 
@@ -19203,7 +19252,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque une créature magique très puissante : le nishruu. Bien qu'à première vue il ne semble constitué que d'une sorte de brume, il est en fait une masse de vapeurs rougeâtres bouillonnantes et sans cesse en mouvement. Attiré par l'énergie magique comme un papillon de nuit par une chandelle, le nishruu se nourrit de l'énergie entourant les magiciens. Heureusement, la loyauté de la créature ne fait aucun doute et elle n'attaquera pas son invocateur, même si l'idée ne lui déplairait pas. Les nishruu ne possèdent aucune attaque physique, bien qu'ils puissent être blessés par ces dernières. Chaque fois que le nishruu touche un lanceur de sort et s'enroule autour de lui, ce dernier perd un sort mémorisé (choisi au hasard, du plus haut niveau de sort possible). Le nishruu est insensible aux attaques magiques (sauf au sort de Mort), qui, au contraire, le soignent. Il reste sous le contrôle du magicien pendant la durée du sort, ou jusqu'à sa destruction.~
+Ce sort invoque une créature magique très puissante : le nishruu. Bien qu'à première vue il ne semble constitué que d'une sorte de brume, il est en fait une masse de vapeurs rougeâtres bouillonnantes et sans cesse en mouvement. Attiré par l'énergie magique comme un papillon de nuit par une chandelle, le nishruu se nourrit de l'énergie entourant les magiciens. Heureusement, la loyauté de la créature ne fait aucun doute et elle n'attaquera pas son invocateur, même si l'idée ne lui déplairait pas. Les nishruu ne possèdent aucune attaque physique, bien qu'ils puissent être blessés par ces dernières. Chaque fois que le nishruu touche un lanceur de sorts et s'enroule autour de lui, ce dernier perd un sort mémorisé (choisi au hasard, du plus haut niveau de sort possible). Le nishruu est insensible aux attaques magiques (sauf au sort de Mort), qui, au contraire, le soignent. Il reste sous le contrôle du magicien pendant la durée du sort, ou jusqu'à sa destruction.~
 @1026589 = ~Transmutation de la pierre en chair~
 @1026590 = ~Transmutation de la pierre en chair
 (Transmutation)
@@ -19367,7 +19416,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort convainc un éfrit, un génie énorme aux pouvoirs puissants, de quitter le Plan Élémentaire du Feu pour venir servir le lanceur. L'éfrit sera à son service pour la durée du sort ou jusqu'à ce qu'il soit tué et attaquera les ennemis du lanceur.~
+Ce sort convainc un éfrit, un génie énorme aux pouvoirs puissants, de quitter le Plan élémentaire du feu pour venir servir le lanceur. L'éfrit sera à son service pour la durée du sort ou jusqu'à ce qu'il soit tué et attaquera les ennemis du lanceur.~
 @1026618 = ~Convocation de djinn
 (Conjuration/Convocation)
 
@@ -19378,7 +19427,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort convainc un djinn, un génie énorme aux pouvoirs puissants, de quitter le Plan Élémentaire de l'Air pour venir servir le lanceur. Le djinn sera à son service pour la durée du sort ou jusqu'à ce qu'il soit tué et attaquera les ennemis du lanceur.~
+Ce sort convainc un djinn, un génie énorme aux pouvoirs puissants, de quitter le Plan élémentaire de l'air pour venir servir le lanceur. Le djinn sera à son service pour la durée du sort ou jusqu'à ce qu'il soit tué et attaquera les ennemis du lanceur.~
 @1026620 = ~Convocation d'hakeashar
 (Conjuration/Convocation)
 
@@ -19391,7 +19440,7 @@ Jet de sauvegarde : aucun
 
 Ce sort est similaire au sort profane de 6ème niveau Convocation de nishruu. Le hakeashar est une version plus puissante du nishruu ayant plus de points de vie, de meilleures attaques et une immunité aux armes non-magiques.
 
-Lorsque le sort de Convocation d'hakeashar est lancé, le magicien fait apparaître une créature magique d'une puissance considérable, le hakeashar. Au premier abord il ressemble à une sorte de brouillard, mais en l'examinant plus attentivement on distingue que la masse de vapeurs et de formes grisâtres semble animée d'une forme de vie indépendante. Attirée par la magie comme un papillon de nuit l'est par une flamme, cette créature se nourrit des énergies utilisées par les magiciens (et les autres lanceurs de sorts). Heureusement, sa loyauté ne fait aucun doute et elle n'attaquera pas celui qui l'a invoquée, bien que ce ne soit pas l'envie qui lui manque. Le hakeashar ne dispose d'aucune attaque physique. En revanche, il peut être blessé par ces mêmes attaques. Chaque fois que la créature touche un lanceur de sort et s'enroule autour de lui, deux effets principaux se manifestent. Pour commencer, tous les objets magiques que possède la cible perdent une charge, les détruisant s'il n'en reste qu'une. Le second effet entraîne la perte par la victime d'un sort mémorisé. Bien qu'il soit choisi au hasard, cet effet effacera le sort mémorisé du niveau le plus élevé. Le hakeashar est complètement immunisé contre la magie, mieux encore, la magie guérit la créature. Il restera sous le contrôle du magicien jusqu'à ce qu'il soit tué ou que la durée du sort arrive à expiration.~
+Lorsque le sort de Convocation d'hakeashar est lancé, le magicien fait apparaître une créature magique d'une puissance considérable, le hakeashar. Au premier abord il ressemble à une sorte de brouillard, mais en l'examinant plus attentivement on distingue que la masse de vapeurs et de formes grisâtres semble animée d'une forme de vie indépendante. Attirée par la magie comme un papillon de nuit l'est par une flamme, cette créature se nourrit des énergies utilisées par les magiciens (et les autres lanceurs de sorts). Heureusement, sa loyauté ne fait aucun doute et elle n'attaquera pas celui qui l'a invoquée, bien que ce ne soit pas l'envie qui lui manque. Le hakeashar ne dispose d'aucune attaque physique. En revanche, il peut être blessé par ces mêmes attaques. Chaque fois que la créature touche un lanceur de sorts et s'enroule autour de lui, deux effets principaux se manifestent. Pour commencer, tous les objets magiques que possède la cible perdent une charge, les détruisant s'il n'en reste qu'une. Le second effet entraîne la perte par la victime d'un sort mémorisé. Bien qu'il soit choisi au hasard, cet effet effacera le sort mémorisé du niveau le plus élevé. Le hakeashar est complètement immunisé contre la magie, mieux encore, la magie guérit la créature. Il restera sous le contrôle du magicien jusqu'à ce qu'il soit tué ou que la durée du sort arrive à expiration.~
 @1026622 = ~Contrôle des morts-vivants
 (Nécromancie)
 
@@ -19402,7 +19451,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 1,2 mètre
 Jet de sauvegarde : spécial
 
-Le sort de Contrôle des morts-vivants permet au magicien de prendre le contrôle de créatures mortes-vivantes situées dans la zone d'effet. Un lien télépathique est créé entre le lanceur de sort et les morts-vivants, permettant un contrôle total de ces derniers. Si les morts-vivants disposent de 3 dés de vie ou moins, aucun jet de sauvegarde n'est permis. S'ils ont 4 dés de vie ou plus, un jet de sauvegarde contre les sorts est autorisé pour tenter de résister à la prise de contrôle. Les morts-vivants restent sous le contrôle du magicien pendant toute la durée du sort ou jusqu'à ce qu'ils soient affectés par une Dissipation de la magie.~
+Le sort de Contrôle des morts-vivants permet au magicien de prendre le contrôle de créatures mortes-vivantes situées dans la zone d'effet. Un lien télépathique est créé entre le lanceur de sorts et les morts-vivants, permettant un contrôle total de ces derniers. Si les morts-vivants disposent de 3 dés de vie ou moins, aucun jet de sauvegarde n'est permis. S'ils ont 4 dés de vie ou plus, un jet de sauvegarde contre les sorts est autorisé pour tenter de résister à la prise de contrôle. Les morts-vivants restent sous le contrôle du magicien pendant toute la durée du sort ou jusqu'à ce qu'ils soient affectés par une Dissipation de la magie.~
 @1026624 = ~Invisibilité de masse
 (Illusion/Fantasme)
 
@@ -21346,7 +21395,7 @@ Poids : 30~
 PARAMÈTRES :
 
 Capacités de combat :
-- 10 % de chances à chaque coup de repousser la cible comme si elle avait été frappée par un coup d'aile
+- 10 % de chances à chaque coup de repousser la cible comme si elle avait été frappée par un coup d'aile de dragon
 
 Capacités d'équipement :
 - Rend le porteur indétectable par des moyens magiques tels que la Détection de l'invisibilité et autres divinations
@@ -21551,8 +21600,8 @@ Poids : 3~
 @1030069 = ~Appuyez sur mon bouton Lancer un sort, choisissez un sort, et appuyez sur votre cible. Mon bouton de lancement de sorts est l'icône de Sort en bas de l'écran. Vous devez me sélectionner pour avoir accès à mes sorts.~
 @1030071 = ~Vous n'avez pas encore lancé de sort pour le moment. Sélectionnez mon bouton Lancer un sort, choisissez un sort de soin (Soins des blessures légères), et faites un CLIC GAUCHE sur votre cible. Si vous n'avez pas le sort en mémoire, vous pouvez vous reposer afin de le mémoriser.~ [TTBRAN03]
 @1030072 = ~Vous n'avez pas encore lancé de sort, pour le moment. Appuyez sur mon bouton Lancer un sort, choisissez un sort de soin (Soins des blessures légères), et appuyez sur votre cible. Si vous n'avez pas le sort en mémoire, vous pouvez vous reposer afin de le mémoriser.~ [TTBRAN03]
-@1030074 = ~Tout lanceur de sorts (hormis l'ensorceleur et le shaman) doit mémoriser ses sorts grâce au bouton de repos situé dans le menu de gauche, après avoir choisi ses sorts dans le livre de mage ou le parchemin de prêtre. Sélectionnez les icônes du livre de mage ou du parchemin de prêtre à gauche de l'écran.~
-@1030075 = ~Tout lanceur de sorts (hormis l'ensorceleur et le shaman) doit mémoriser ses sorts grâce au bouton de repos situé dans le menu de gauche, après avoir choisi ses sorts dans le livre de mage ou le parchemin de prêtre. Sélectionnez les icônes du livre de mage ou du parchemin de prêtre à gauche de l'écran.~
+@1030074 = ~Tout lanceur de sorts (hormis l'ensorceleur et le shaman) doit mémoriser ses sorts grâce au bouton de repos situé dans le menu de gauche, après avoir choisi ses sorts dans le livre de sorts profanes ou le parchemin de sorts divins/druidiques. Sélectionnez les icônes du livre de sorts profanes ou du parchemin de sorts divins/druidiques à gauche de l'écran.~
+@1030075 = ~Tout lanceur de sorts (hormis l'ensorceleur et le shaman) doit mémoriser ses sorts grâce au bouton de repos situé dans le menu de gauche, après avoir choisi ses sorts dans le livre de sorts profanes ou le parchemin de sorts divins/druidiques. Sélectionnez les icônes du livre de sorts profanes ou du parchemin de sorts divins/druidiques à gauche de l'écran.~
 @1030080 = ~Très bien. Les sorts que vous sélectionnez seront re-mémorisés à chaque fois que vous vous reposerez, renouvelant ceux qui ont été utilisés. Maintenant, parlons d'une autre capacité. Une compétence très importante du Clerc est la possibilité de Repousser les morts-vivants.~ [TTBRAN06]
 @1030081 = ~Les paladins peuvent également Repousser les morts-vivants. Activer cette icône va entraîner la fuite voire la destruction de nombreux morts-vivants.~
 @1030083 = ~Je vais faire apparaître un squelette. Essayez de le détruire en utilisant la compétence Repousser les morts-vivants.~
@@ -21583,7 +21632,7 @@ Poids : 3~
 @1030150 = ~Vous pouvez aussi configurer des Sorts Rapides en restant appuyé sur un emplacement de Sort Rapide. Cela permet de choisir dans la liste des sorts mémorisés. Si aucun sort n'apparaît, soit le personnage n'a aucun sort en mémoire, soit il n'a pas un niveau d'expérience suffisant pour en lancer.~
 @1030154 = ~Vous n'avez pas encore lancé de sort sur Belt. Sélectionnez mon (celui de Xan) bouton Lancer un sort, choisissez un sort, et faites un CLIC GAUCHE sur votre cible.~ [TTXAN03]
 @1030155 = ~Vous n'avez pas encore lancé de sort sur Belt. Sélectionnez mon (celui de Xan) bouton Lancer un sort, choisissez un sort, et appuyez sur votre cible.~ [TTXAN03]
-@1030157 = ~Tout lanceur de sorts (hormis l'ensorceleur et le shaman) doit mémoriser ses sorts grâce au bouton de repos situé dans le menu de gauche, après avoir choisi ses sorts dans le livre de mage ou le parchemin de prêtre. Sélectionnez les icônes du livre de mage ou du parchemin de prêtre à gauche de l'écran.~
+@1030157 = ~Tout lanceur de sorts (hormis l'ensorceleur et le shaman) doit mémoriser ses sorts grâce au bouton de repos situé dans le menu de gauche, après avoir choisi ses sorts dans le livre de sorts profanes ou le parchemin de sorts divins/druidiques. Sélectionnez les icônes du livre de sorts profanes ou du parchemin de sorts divins/druidiques à gauche de l'écran.~
 @1030163 = ~Faites un CLIC DROIT sur le parchemin et cela va vous mener à l'écran de description de l'objet. En bas de cet écran, vous verrez un bouton intitulé « Écrire Magie ». Cliquez dessus, et votre mage (moi) sera dorénavant capable de lancer le sort Flèche enflammée (après l'avoir mémorisé bien sûr).~
 @1030164 = ~Gardez appuyé sur le parchemin et cela va vous mener à l'écran de description de l'objet. En bas de cet écran, vous verrez un bouton intitulé « Écrire Magie ». Appuyez dessus, et votre mage (moi) sera dorénavant capable de lancer le sort Flèche enflammée (après l'avoir mémorisé bien sûr).~
 @1030165 = ~Je n'ai pas encore appris ce sort. Souvenez-vous, faites juste un CLIC DROIT sur le parchemin, puis cliquez sur le bouton « Écrire Magie » en bas de l'écran de description.~ [TTXAN07]
@@ -21657,7 +21706,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire tous les deux niveaux d'expérience. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'une Dissipation de la magie soit lancée, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme Boule de feu.~
+En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire tous les 2 niveaux d'expérience. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'une Dissipation de la magie soit lancée, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme Boule de feu.~
 @1030203 = ~Protection contre l'électricité
 (Abjuration)
 
@@ -21958,13 +22007,13 @@ Ce sort dissipe tous les sorts d'Illusion ou de Fantasme de niveau inférieur ou
 (Conjuration/Convocation)
 
 Niveau : 5
-Portée : 13 mètres
+Portée : 13,5 mètres
 Durée : 1 tour + 1 round par niveau
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire de feu mineur au service du magicien. Il a 8 dés de vie et sera au service de l'invocateur pour la durée du sort. Cependant, à chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant trois rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien ou l'attaquera. Dans ce dernier cas, il est toujours possible d'utiliser des sorts d'enchantement sur la créature. De tels sorts, utilisés avant la fin de la confrontation mentale, n'auront aucune influence sur son résultat.~
+En jetant un sort de Conjuration d'élémentaire de feu mineur, le lanceur ouvre un portail magique vers le Plan élémentaire du feu et invoque un élémentaire de feu mineur à proximité. L'élémentaire de feu mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1030245 = ~Protection contre l'acide
 (Abjuration)
 
@@ -21994,25 +22043,25 @@ La Lame fantôme octroie un bonus de 3 aux jets d'attaque et de dégâts et poss
 (Conjuration/Convocation)
 
 Niveau : 5
-Portée : 13 mètres
+Portée : 13,5 mètres
 Durée : 1 tour + 1 round par niveau
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire d'air mineur au service du magicien. Il a 8 dés de vie et sera au service de l'invocateur pour la durée du sort. Cependant, à chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant trois rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien ou l'attaquera. Dans ce dernier cas, il est toujours possible d'utiliser des sorts d'enchantement sur la créature. De tels sorts, utilisés avant la fin de la confrontation mentale, n'auront aucune influence sur son résultat.~
+En jetant un sort de Conjuration d'élémentaire d'air mineur, le lanceur ouvre un portail magique vers le Plan élémentaire de l'air et invoque un élémentaire d'air mineur à proximité. L'élémentaire d'air mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1030250 = ~Conjuration d'élémentaire de terre mineur~
 @1030251 = ~Conjuration d'élémentaire de terre mineur
 (Conjuration/Convocation)
 
 Niveau : 5
-Portée : 13 mètres
+Portée : 13,5 mètres
 Durée : 1 tour + 1 round par niveau
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort invoque un élémentaire de terre mineur au service du magicien. Il a 8 dés de vie et sera au service de l'invocateur pour la durée du sort. Cependant, à chaque invocation, il y a 15 % de chances pour que l'élémentaire échappe au contrôle du magicien et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer son invocateur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle. Invocateur et élémentaire sont bloqués pendant trois rounds après l'apparition du second. C'est à la fin de cette période que l'élémentaire sera aux ordres du magicien ou l'attaquera. Dans ce dernier cas, il est toujours possible d'utiliser des sorts d'enchantement sur la créature. De tels sorts, utilisés avant la fin de la confrontation mentale, n'auront aucune influence sur son résultat.~
+En jetant un sort de Conjuration d'élémentaire de terre mineur, le lanceur ouvre un portail magique vers le Plan élémentaire de la terre et invoque un élémentaire de terre mineur à proximité. L'élémentaire de terre mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Cependant, à chaque fois que ce sort est lancé il y a 15 % de chances pour que l'élémentaire échappe au contrôle du lanceur et l'attaque. S'il ne peut l'atteindre, il fera tout son possible pour y arriver. L'élémentaire hors de contrôle essaiera de tuer le lanceur tant que le sort sera actif ou tant qu'il sera en vie. Ce sort requiert une concentration intense après l'incantation afin d'implanter le contrôle, le lanceur et l'élémentaire sont bloqués pendant 3 rounds dans un combat psychique. C'est à la fin de cette période que l'élémentaire sera aux ordres du lanceur si ce dernier gagne le combat psychique, sinon l'élémentaire deviendra hostile et tentera de le tuer. Cela n'empêche pas l'utilisation de sorts de charme une fois le combat psychique terminé. Si un sort de charme est lancé avant la fin du combat psychique, celui-ci n'aura aucun effet.~
 @1030253 = ~Renvoi des sorts mineurs
 (Abjuration)
 
@@ -22059,7 +22108,7 @@ Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : annule
 
-Ce sort provoque chez la victime une surdité totale, qui l'empêche d'entendre le moindre bruit. Elle peut tenter un jet de sauvegarde contre les sorts. Les lanceurs de sort frappés par ce sort ont 50 % de chances de rater l'incantation de leurs sorts. Pour mettre fin à cette surdité, il faut lancer un sort de Dissipation de la magie avec succès ou un sort de Guérison des maladies.~
+Ce sort provoque chez la victime une surdité totale, qui l'empêche d'entendre le moindre bruit. Elle peut tenter un jet de sauvegarde contre les sorts. Les lanceurs de sorts frappés par ce sort ont 50 % de chances de rater l'incantation de leurs sorts. Pour mettre fin à cette surdité, il faut lancer un sort de Dissipation de la magie avec succès ou un sort de Guérison des maladies.~
 @1030261 = ~Poussière scintillante
 (Conjuration/Convocation)
 
@@ -22595,6 +22644,7 @@ Contenu :
 - Trois ensembles de voix masculines
 - Trois ensembles de voix féminines~
 @1031104 = ~Vous pouvez librement choisir entre les différentes séries de sons au-dessus pour déterminer la voix de votre personnage. Appuyez sur le bouton « lecture » pour entendre des échantillons parmi ces séries de sons.~
+@1031108 = ~Si vous avez un mage, un clerc ou un druide dans votre groupe, votre personnage doit mémoriser des sorts à l'aide du bouton Repos sur les pages Livre de sorts profanes ou Parchemin de sorts divins/druidiques. Pour atteindre ces pages, cliquez avec le bouton droit sur le portrait de votre personnage, puis sélectionnez l'icône livre de sorts profanes ou parchemin de sorts divins/druidiques qui s'affiche sur la gauche.~
 @1031114 = ~Les voleurs accèdent à leurs talents à l'aide des icônes placées au bas de leur écran. « Larcin » comprend Crocheter serrure, Vol à la tire et Désamorçage des pièges, en fonction de la cible sur laquelle on applique l'action (coffres, personnes et pièges respectivement). « Détection des pièges » examine une large zone et met en évidence les pièges détectés en rouge. « Furtivité » utilise Se cacher dans l'ombre et Déplacement silencieux pour rendre un voleur effectivement invisible jusqu'à sa prochaine attaque. Cette attaque est automatiquement une attaque sournoise, ce qui augmente considérablement les dégâts provoqués si le coup porte.~
 @1031115 = ~Les voleurs accèdent à leurs talents à l'aide des icônes placées au bas de leur écran. « Larcin » comprend Crocheter serrure, Vol à la tire et Désamorçage des pièges, en fonction de la cible sur laquelle on applique l'action (coffres, personnes et pièges respectivement). « Détection des pièges » examine une large zone et met en évidence les pièges détectés en rouge. « Furtivité » utilise Se cacher dans l'ombre et Déplacement silencieux pour rendre un voleur effectivement invisible jusqu'à sa prochaine attaque. Cette attaque est automatiquement une attaque sournoise, ce qui augmente considérablement les dégâts provoqués si le coup porte.~
 @1031116 = ~Les Bardes peuvent encourager leurs camarades pendant un combat en utilisant le Chant du barde. Ils peuvent se déplacer en chantant, mais toute autre action interrompra le chant. Bien qu'ils puissent être roublards, les Bardes se préoccupent avant tout des autres. Pour cette raison, ils peuvent effectuer du Vol à la tire, mais n'ont pas accès aux autres talents de roublard.~
@@ -22603,6 +22653,7 @@ Contenu :
 @1031124 = ~Pour vous aider à vous souvenir des informations importantes, de nombreux éléments vont être ajoutés automatiquement à votre journal. Pour accéder au journal, appuyez sur l'icône Journal à gauche de l'écran. Les entrées sont rangées par chapitres, selon le chapitre dans lequel vous avez initié l'événement.~
 @1031125 = ~L'action par défaut est de parler pour des cibles neutres, et d'attaquer pour des cibles hostiles. Pour parler à un personnage neutre (identifié par un cercle bleu), appuyez sur lui. N'oubliez pas de sélectionner un des membres de votre groupe pour entamer le dialogue. Si vous souhaitez parler à un personnage hostile, sélectionnez l'icône « Dialogue » et appuyez ensuite sur le personnage. Si vous souhaitez attaquer un personnage neutre, sélectionnez une arme et appuyez ensuite sur le personnage.~
 @1031126 = ~L'action par défaut est de parler pour des cibles neutres, et d'attaquer pour des cibles hostiles. Pour parler à un personnage neutre (identifié par un cercle bleu), appuyez sur lui. N'oubliez pas de sélectionner un des membres de votre groupe pour entamer le dialogue. Si vous souhaitez parler à un personnage hostile, sélectionnez l'icône « Dialogue » et appuyez ensuite sur le personnage. Si vous souhaitez attaquer un personnage neutre, sélectionnez une arme et appuyez ensuite sur le personnage.~
+@1031130 = ~Si vous avez un mage, un clerc ou un druide dans votre groupe, votre personnage doit mémoriser des sorts à l'aide du bouton Repos sur les pages Livre de sorts profanes ou Parchemin de sorts divins/druidiques. Pour atteindre ces pages, cliquez avec le bouton droit sur le portrait de votre personnage, puis sélectionnez l'icône livre de sorts profanes ou parchemin de sorts divins/druidiques qui s'affiche sur la gauche.~
 @1031131 = ~Pour vous aider à vous souvenir des informations importantes, de nombreux éléments vont être ajoutés automatiquement à votre journal. Pour accéder au journal, appuyez sur l'icône Journal à gauche de l'écran. Les entrées sont rangées par chapitres, selon le chapitre dans lequel vous avez initié l'événement.~
 @1031132 = ~Les Mages, Clercs, Druides et Bardes peuvent tous lancer des sorts. Sélectionnez leur bouton « Lancer un sort », choisissez un sort, et appuyez sur votre cible. Vous pouvez aussi configurer des sorts rapides en gardant appuyé sur un emplacement de sort rapide. Cela affichera la liste des sorts actuellement en mémoire, dans laquelle vous pourrez choisir. Si aucun sort ne s'affiche, soit votre personnage n'a aucun sort en mémoire, soit il n'a pas le niveau d'expérience suffisant pour en lancer. Pour lancer un sort rapide, appuyez sur l'emplacement de sort rapide adéquat et sélectionnez ensuite votre cible.~
 @1031135 = ~Vous pouvez choisir librement parmi la liste de sons présentée pour la voix de votre personnage. Appuyez sur le bouton « Lecture » pour écouter des échantillons de ces sons.~
@@ -22664,7 +22715,7 @@ Capacités d'équipement :
 - Temps d'incantation : -1
 
 Poids : 3~
-@1031170 = ~Cet anneau rouge poli est couvert de fines gravures représentant des flammes et des nappes de lave. Les mages et autres voyageurs planaires utilisent ces anneaux pour se protéger dans le plan élémentaire du feu, et pour commander aux élémentaires de feu.
+@1031170 = ~Cet anneau rouge poli est couvert de fines gravures représentant des flammes et des nappes de lave. Les mages et autres voyageurs planaires utilisent ces anneaux pour se protéger dans le Plan élémentaire du feu, et pour commander aux élémentaires de feu.
 
 PARAMÈTRES :
 
@@ -22694,7 +22745,7 @@ PARAMÈTRES :
 
 Capacités d'équipement :
 - Jet de sauvegarde contre les souffles : +5
-- Résistance aux dégâts des projectiles : +25 %
+- Résistance aux dégâts de projectiles : +25 %
 - Résistance aux dégâts magiques : +50 %
 
 Poids : 2~
@@ -23221,7 +23272,7 @@ Caractéristiques requises pour le jumelage : Force, Dextérité, Charisme.~
 
 Avantages :
 - Dés de vie : d12.
-- Gagne 5 % de résistance aux dégâts tranchants, perforants, contondants et projectiles par tranche de 5 niveaux d'expérience, jusqu'à un maximum de 20 % au niveau 20.
+- Gagne 5 % de résistance aux dégâts tranchants, perforants, contondants et de projectiles par tranche de 5 niveaux d'expérience, jusqu'à un maximum de 20 % au niveau 20.
 - « Position défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 POSITION DÉFENSIVE : Le protecteur nain gagne un bonus de 2 à ses jets de sauvegarde, 50 % de résistance à toute forme de dégâts physiques, et une pénalité de 50 % à sa vitesse de déplacement pendant un tour.
@@ -23671,6 +23722,7 @@ Petr Havlíček - Pecca
 Alexander Heddini - Shin
 K. Marshall
 Christophe Marchi~
+@1032291 = ~Ce sort figure déjà dans votre livre de sorts profanes.~
 @1032299 = ~MOINE : Les moines utilisent leurs poings et leurs pieds pour attaquer leurs ennemis au corps-à-corps. Les moines n'utilisent généralement pas d'arme ni d'armure, mais leurs capacités naturelles s'améliorent drastiquement lorsqu'ils gagnent des niveaux d'expérience.~
 @1032301 = ~DRUIDE : Le druide sert la cause de la nature et de la neutralité. La nature sauvage est sa communauté. Il utilise ses pouvoirs spéciaux pour protéger ceux qui aident la nature et s'opposer à ceux qui cherchent à lui nuire.~
 @1032302 = ~Classe perdue : Chevalier noir~
@@ -23691,7 +23743,7 @@ Christophe Marchi~
 - Support pour les langues suivantes : Portugais Brésilien, Tchèque, Français, Italien, Polonais et Espagnol.
 - Les personnages à classes jumelées reçoivent désormais le montant correct de points de vie lors de l'importation.
 - Lorsque les personnages entrent dans une zone par le côté est, ils sont désormais correctement placés au bord de la zone.
-- Les sorts qui peuvent être recopiés dans le livre de sorts d'un magicien voient désormais leur icône d'inventaire colorée en vert.
+- Les sorts qui peuvent être retranscrits dans le livre de sorts profanes voient désormais leur icône d'inventaire colorée en vert.
 - Les entrées de journal créées par un utilisateur durant une partie multijoueur n'apparaissent désormais plus comme des entrées invalides.
 - Lorsqu'un personnage arrive au terme d'un carquois de munitions, il passera désormais automatiquement au carquois suivant.
 - Le jeu ne reste plus en pause après un repos (cela afin d'éviter que les apparitions d'adversaires ne soient dupliquées lorsque le repos est interrompu).~
@@ -23849,7 +23901,7 @@ CAPACITÉS :
 - Ne peut utiliser que les armes suivantes : dague, gourdin, lance, hache, bâton, fléchette, fronde et arc court.
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
 - Ne peut être que compétent (une étoile) dans les styles de combat.
-- Peut lancer des sorts de druide.
+- Peut lancer des sorts druidiques.
 - Le shaman n'apprend pas automatiquement tous les sorts débloqués par niveau de sort comme un druide. À la place, il sélectionne de nouveaux sorts à apprendre à chaque niveau d'expérience ; un shaman peut lancer des sorts sans avoir besoin de les mémoriser.
 - Le shaman a un accès immédiat à un nombre de sorts spécifiques à sa classe, qu'il peut lancer comme n'importe quel autre sort : Protection de l'esprit, Brouillard putride, Lucidité spirituelle, Feu spirituel, Rappel de l'esprit, Verrou spirituel et Portail éthéré.
 - Il acquiert la capacité Détection des illusions en débutant avec 20 %. Puis il gagne 4 % par niveau d'expérience pour atteindre un maximum de 100 % au niveau 20.
@@ -23905,7 +23957,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Ce sort invoque un nuage de brouillard putride qui glace et entrave toutes personnes dans sa zone d'effet sauf le lanceur de sort. Les créatures dans le brouillard subissent 1d3 dégâts de froid par round. En outre, il y a 20 % de chances qu'elles aient à réussir un jet de sauvegarde contre la paralysie, sans quoi elles sont ralenties pendant 1 round. Les créatures immunisées aux dégâts de froid ne souffrent d'aucun effet néfaste de ce sort.~
+Ce sort invoque un nuage de brouillard putride qui glace et entrave toutes personnes dans sa zone d'effet sauf le lanceur de sorts. Les créatures dans le brouillard subissent 1d3 dégâts de froid par round. En outre, il y a 20 % de chances qu'elles aient à réussir un jet de sauvegarde contre la paralysie, sans quoi elles sont ralenties pendant 1 round. Les créatures immunisées aux dégâts de froid ne souffrent d'aucun effet néfaste de ce sort.~
 @1032353 = ~Lucidité spirituelle
 (Abjuration)
 
@@ -23939,7 +23991,7 @@ Sphère : convocation
 Portée : champ visuel du lanceur
 Durée : permanente
 Temps d'incantation : 9
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : aucun
 
 Le shaman rappelle l'esprit d'une personne décédée s'il s'attarde à proximité du corps. En lançant ce sort, le shaman reconnecte l'esprit à son corps et ramène la personne à la vie avec 1 point de vie. La guérison naturelle ou la magie curative peuvent restaurer le reste de la vitalité de la cible.~
@@ -23967,7 +24019,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort transporte une créature, choisie par le lanceur de sort, sur le Plan Éthéré. La créature disparaît pendant la durée du sort, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la victime ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leurs résistances à la magie afin que le chaman puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets du labyrinthe.~
+Ce sort transporte une créature, choisie par le lanceur de sorts, sur le Plan Éthéré. La créature disparaît pendant la durée du sort, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la victime ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leurs résistances à la magie afin que le chaman puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets du labyrinthe.~
 @1032362 = ~Châtiment éthéré~
 @1032363 = ~Châtiment éthéré
 (Conjuration)
@@ -24077,7 +24129,7 @@ Niveau : 1
 Portée : contact
 Durée : 100 secondes
 Temps d'incantation : 1
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : annule
 
 Safana peut charmer n'importe quelle personne qu'elle peut embrasser. Il peut s'agir de tout humain, demi-humain ou humanoïde bipède de taille inférieure ou égale à celle d'un homme (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.) Ainsi, un guerrier de niveau 10 pourra être charmé, mais pas un ogre. La personne reçoit un jet de sauvegarde contre les sorts à +2 pour éviter son effet. Si elle échoue, elle considère Safana comme une véritable amie qu'elle doit protéger. Safana peut lui donner des ordres auxquels elle obéira le plus vite possible.
@@ -24143,6 +24195,7 @@ Poids : 7~
 @1032537 = ~Lorsque vous aurez gagné assez de points d'expérience, un symbole (+) apparaîtra sur un coin du portrait de votre personnage, cela indiquera que vous pouvez passer au niveau supérieur. Pour le faire, appuyez sur le bouton Niveau supérieur sur l'écran de la Feuille de personnage.~
 @1032538 = ~Le passage au niveau supérieur peut donner des points de compétence supplémentaires, des points de talents de roublard, des emplacements de sorts ou d'autres capacités, en fonction de votre classe. Chaque niveau d'expérience accorde également des points de vie supplémentaires, ce qui rend plus facile la survie face aux dangers du monde.~
 @1032539 = ~La Feuille de personnage est semblable à l'inventaire. Ici vous pouvez voir les compétences et les caractéristiques de votre personnage. Vérifiez les capacités de vos compagnons en sélectionnant leurs portraits.~
+@1032540 = ~Utilisez les boutons de cet écran pour afficher les scores de caractéristique, les niveaux, l'expérience, et tous les autres aspects de votre personnage que vous pourriez trouver utiles. Cet écran vous permet également de jumeler, si votre personnage est humain.~
 @1032542 = ~Pas de temps à perdre ! Je dois vous parler des Emplacements rapides !~
 @1032543 = ~Les Emplacements rapides ! Que voulez-vous savoir ?~
 @1032551 = ~Tout bouclier ou arme en main gauche que vous avez pris en main sera désactivé si vous vous équipez d'une arme à deux mains ou à distance qui n'autorise pas l'emploi de la main gauche. Mais n'ayez crainte ; dès que vous vous équiperez d'une arme qui permet d'utiliser l'objet dans votre main gauche, il sera réactivé.~
@@ -24158,12 +24211,12 @@ Poids : 7~
 @1032572 = ~Une fois que j'ai mémorisé un sort, comment fais-je pour le lancer ?~
 @1032574 = ~Comment puis-je apprendre de nouveaux sorts ?~
 @1032576 = ~Que puis-je vous enseigner d'autre sur l'incantation des sorts ?~
-@1032577 = ~Les Mages et les Bardes mémorisent des sorts en sélectionnant l'icône du Livre de sorts de Mage sur le côté gauche de l'écran ; Les Clercs, les Druides, et les Paladins et Rôdeurs de haut niveau le font avec l'icône du Parchemin de Prêtre directement sous le Livre de sorts.~
+@1032577 = ~Les Mages et les Bardes mémorisent des sorts en sélectionnant l'icône du Livre de sorts profanes sur le côté gauche de l'écran ; Les Clercs, les Druides, et les Paladins et Rôdeurs de haut niveau le font avec l'icône du Parchemin de sorts divins/druidiques directement sous le Livre de sorts profanes.~
 @1032578 = ~Sélectionnez le nom d'un sort pour voir sa description. Pour mémoriser un sort, cliquez sur le bouton Mémoriser. Chaque incantation d'un sort donné doit être préparée séparément ; pour lancer Projectiles magiques à deux reprises, vous devez le mémoriser deux fois. Choisissez des sorts de niveau supérieur en utilisant les onglets en haut de l'écran.~
 @1032583 = ~Contrairement aux jeteurs de sorts traditionnels, les ensorceleurs et les shamans peuvent lancer n'importe quel sort qu'ils connaissent tant qu'il leur reste un emplacement disponible du niveau de ce sort.~
 @1032584 = ~Les emplacements de sorts sont regroupés par niveau de sort ; si vous n'avez plus d'emplacements de sorts de 3ème niveau, vous pouvez toujours lancer des sorts de 2ème niveau. Le fait de se reposer restaure tous les emplacements de sorts.~
 @1032585 = ~Pour les Clercs, les Druides, ainsi que les Paladins et Rôdeurs de haut niveau, l'attribution des sorts, déterminée par la classe et l'alignement, est figée. Lorsque vous obtenez l'accès à un nouveau niveau de sorts, vous apprenez tous les sorts attribués de ce niveau.~
-@1032587 = ~Pour retranscrire un sort dans votre livre de sorts, ouvrez la description du parchemin depuis l'écran d'inventaire. Sélectionnez le bouton Écrire Magie et, si votre tentative est couronnée de succès, le sort sera inscrit dans votre livre de sorts. Le parchemin est détruit dans l'opération ; si vous échouez, vous aurez besoin d'un autre parchemin pour essayer à nouveau.~
+@1032587 = ~Pour retranscrire un sort dans votre livre de sorts profanes, ouvrez la description du parchemin depuis l'écran d'inventaire. Sélectionnez le bouton Écrire Magie et, si votre tentative est couronnée de succès, le sort sera inscrit dans votre livre de sorts profanes. Le parchemin est détruit dans l'opération ; si vous échouez, vous aurez besoin d'un autre parchemin pour essayer à nouveau.~
 @1032588 = ~Les ensorceleurs et les shamans sélectionnent un ou plusieurs sorts à apprendre à chaque nouveau niveau d'expérience. Une fois appris, ces sorts sont disponibles pour le reste de leur carrière.~
 @1032592 = ~Pouvez-vous me renseigner sur les entrées de quête ?~
 @1032594 = ~Que puis-je faire, si je veux garder une note pour plus tard, mais que je ne veux pas la garder dans mon sac à dos ?~
@@ -24213,6 +24266,7 @@ Poids : 7~
 @1032689 = ~Comment puis-je rechercher des objets dans des conteneurs ?~
 @1032691 = ~Y a-t-il d'autres informations que je peux vous donner à propos des déplacements et des sujets connexes ?~
 @1032693 = ~Sélectionnez la porte que vous souhaitez ouvrir, et si elle n'est pas fermée à clef, elle s'ouvrira.~
+@1032705 = ~Vous pouvez choisir un certain nombre de sorts à mettre dans votre parchemin de sorts divins/druidiques. Ce seront les sorts que votre personnage connaîtra au début du jeu.~
 @1032716 = ~Lorsqu'un personnage gagne un niveau d'expérience, cette option détermine s'il obtient automatiquement le maximum de points de vie supplémentaires possibles. Si elle est désactivée, le jeu suit les règles d'AD&D en la matière.~
 @1032730 = ~Chance de coup critique augmentée~
 @1032743 = ~Ombre
@@ -24586,7 +24640,7 @@ Malheureusement, Mosela découvrit rapidement que Listrom savait bien mieux cré
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Jet de sauvegarde contre les sorts de transmutation : +2
+- Jet de sauvegarde contre les sorts de l'école de la Transmutation : +2
 
 TAC0 : +2, +3 contre les créatures artificielles
 Dégâts : 1d6 +2 (contondant), +3 contre les créatures artificielles
@@ -24752,7 +24806,7 @@ CAPACITÉS :
 - Ne peut utiliser que les armes suivantes : dague, gourdin, lance, hache, bâton, fléchette, fronde et arc court.
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
 - Ne peut être que compétent (une étoile) dans les styles de combat.
-- Peut lancer des sorts de druide.
+- Peut lancer des sorts druidiques.
 - Le shaman n'apprend pas automatiquement tous les sorts débloqués par niveau de sort comme un druide. À la place, il sélectionne de nouveaux sorts à apprendre à chaque niveau d'expérience ; un shaman peut lancer des sorts sans avoir besoin de les mémoriser.
 - Le shaman a un accès immédiat à un nombre de sorts spécifiques à sa classe, qu'il peut lancer comme n'importe quel autre sort : Protection de l'esprit, Brouillard putride, Lucidité spirituelle, Feu spirituel, Rappel de l'esprit, Verrou spirituel et Portail éthéré.
 - Il acquiert la capacité Détection des illusions en débutant avec 20 %. Puis il gagne 4 % par niveau d'expérience pour atteindre un maximum de 100 % au niveau 20.
@@ -24897,7 +24951,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 9 mètres
 Jet de sauvegarde : spécial
 
-Ce sort fait apparaître un nuage de brouillard putride qui glace et entrave toute personne dans sa zone d'effet sauf le lanceur de sort. Les créatures dans le brouillard subissent 1d3 points de dégâts de froid par round. En outre, il y a 20 % de chances qu'elles doivent réussir un jet de sauvegarde contre la paralysie, sans quoi elles seront ralenties pendant 1 round. Les créatures immunisées contre les dégâts de froid ne souffrent d'aucun effet néfaste de ce sort.~
+Ce sort fait apparaître un nuage de brouillard putride qui glace et entrave toute personne dans sa zone d'effet sauf le lanceur de sorts. Les créatures dans le brouillard subissent 1d3 points de dégâts de froid par round. En outre, il y a 20 % de chances qu'elles doivent réussir un jet de sauvegarde contre la paralysie, sans quoi elles seront ralenties pendant 1 round. Les créatures immunisées contre les dégâts de froid ne souffrent d'aucun effet néfaste de ce sort.~
 @1035358 = ~Verrou spirituel
 (Enchantement)
 
@@ -24933,7 +24987,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort transporte une créature, choisie par le lanceur de sort, sur le Plan Éthéré. La créature disparaît pendant la durée du sort, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la victime ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Matériel Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leurs résistances à la magie afin que le shaman puisse les cibler avec ce sort. En outre, Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets du labyrinthe.~
+Ce sort transporte une créature, choisie par le lanceur de sorts, sur le Plan Éthéré. La créature disparaît pendant la durée du sort, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la victime ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Matériel Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leurs résistances à la magie afin que le shaman puisse les cibler avec ce sort. En outre, Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets du labyrinthe.~
 @1035365 = ~Forme spirituelle
 
 Portée : 0
@@ -27050,8 +27104,11 @@ Soudain, les coups s'arrêtent. Vous entendez une clef qui déverrouille la port
 @1044925 = ~Vous êtes dans mon monde. Je vous ai fait venir pour vous sauver de ce monstre. C'est ce que font les héros.~ ~Vous êtes dans mon monde. Je vous ai fait venir pour vous sauver de ce monstre. C'est ce que font les héroïnes.~
 @1044931 = ~Que voulez-vous savoir ?~
 @1044937 = ~Je m'appelle Raeanndra.~
+@1044949 = ~Je suis née à Sigil, la Cité des Portes, mais nos chemins se sont croisés alors que je parcourais le Plan élémentaire de la terre. C'est là que j'ai rencontré ce monstre de pierre.~ [BD44949]
+@1044950 = ~Que faisiez-vous sur le Plan élémentaire de la terre ?~
 @1044953 = ~J'ai une autre question pour vous.~
 @1044961 = ~Ce n'est pas mon monde. Que m'avez-vous fait ?~
+@1044965 = ~Ce... Ce n'est pas le Plan élémentaire de l'air. Où suis-je ? Dans le Plan Primaire ? Que m'avez-vous fait ?~ [BD44965]
 @1044986 = ~Récitez-le-moi !~
 @1044987 = ~Voyons si je m'en souviens... C'est l'histoire d'un djinn puissant...~
 @1044988 = ~Oui ?~
@@ -27204,7 +27261,7 @@ Poids : 3~
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Jet de sauvegarde contre les sorts de nécromancie : +3
+- Jet de sauvegarde contre les sorts de l'école de la Nécromancie : +3
 - Sagesse : +1 (prêtres de Heaum uniquement)
 
 Capacités de charge :
@@ -27264,7 +27321,7 @@ Capacités de charge :
 Poids : 0~
 @1045229 = ~Quête de la vision de Zaviak
 
-J'ai attiré le djinn Nazramu du Plan Élémentaire de l'Air.
+J'ai attiré le djinn Nazramu du Plan élémentaire de l'air.
 
 Intrigué par la vie sur le Plan Matériel Primaire, il a décidé de rester quelque temps.~
 @1045231 = ~Ces bracelets appartenaient autrefois à un barde ambulant célèbre pour sa langue acerbe et sa repartie. Une nuit pluvieuse, le barde trouva refuge dans une auberge en ruine sur la route vers Valombre. Il joua en échange d'un repas, ajoutant une pincée de sarcasmes, comme à son habitude. Une cliente de la taverne, une vieille dame, se leva au milieu du spectacle et lui lança ceci : « Vous trouvez cela malin d'insulter et de rabaisser les gens de la sorte ? Dans ce cas, faites-le jusqu'à la fin de vos jours ! » Le barde ne parvint pas à retirer ses bracelets protecteurs maudits et se retrouva forcé de dire de piètres facéties jusqu'à obtenir assez d'argent pour convaincre un magicien de les lui enlever.
@@ -27759,18 +27816,23 @@ Poids : 2~
 @1046254 = ~Tu es un véritable rayon de soleil, pas vrai ?~ [BD46254]
 @1046255 = ~Tu ne prends donc rien au sérieux ?~ [BD46255]
 @1046259 = ~Parfois, je me demande vraiment pourquoi je m'entête à te parler.~ [BD46259]
-@1046269 = ~Grimoire du magicien~
-@1046270 = ~Parchemins du prêtre~
+@1046269 = ~Livre de sorts profanes~
+@1046270 = ~Parchemin de sorts divins/druidiques~
 @1046296 = ~Voici une liste des éléments qui affectent votre classe d'armure (CA). Plus votre classe d'armure est basse, plus les ennemis ont du mal à vous toucher.~
 @1046306 = ~Voici la feuille de personnage du personnage sélectionné. Elle retrace ses compétences, ses résistances et les effets en cours.~
 @1046308 = ~Voici une liste des éléments qui affectent votre classe d'armure (CA). Plus votre classe d'armure est basse, plus les ennemis ont du mal à vous toucher.~
 @1046310 = ~Voici votre TAC0 (Toucher une Armure de Classe 0). Plus votre TAC0 est faible, plus il est facile de toucher les ennemis.~
 @1046316 = ~Lorsque l'option est disponible, vous pouvez jumeler des classes ou augmenter le niveau d'expérience de votre personnage ici.~
-@1046317 = ~Le livre de sorts est divisé en niveaux de sorts. Voici la liste des sorts de 1er niveau. Le livre de sorts est principalement utilisé par les mages et les ensorceleurs.~
-@1046323 = ~Le parchemin de prêtre est divisé en niveaux de sorts. Voici la liste des sorts de 1er niveau.~
+@1046317 = ~Le livre de sorts profanes est divisé en niveaux de sorts. Voici la liste des sorts de 1er niveau. Le livre de sorts profanes est principalement utilisé par les mages et les ensorceleurs.~
+@1046319 = ~Voici les emplacements de sorts mémorisés. Pour préparer un sort, vous devez le sélectionner dans le livre de sorts profanes et le personnage doit se reposer pour le mémoriser.~
+@1046323 = ~Le parchemin de sorts divins/druidiques est divisé en niveaux de sorts. Voici la liste des sorts de 1er niveau.~
 @1046324 = ~Voici les sorts divins que connaît votre personnage. Il apprendra des sorts supplémentaires à mesure qu'il gagnera des niveaux d'expérience.~
+@1046325 = ~Voici les emplacements de sorts mémorisés. Pour préparer un sort, vous devez le sélectionner dans le parchemin de sorts divins/druidiques et le personnage doit se reposer pour le mémoriser.~
 @1046342 = ~Les magiciens, les bardes et les ensorceleurs peuvent lancer des sorts profanes. Les mages et les bardes doivent apprendre de nouveaux sorts à partir de parchemins, tandis que les ensorceleurs les apprennent au fur et à mesure qu'ils gagnent des niveaux d'expérience.~
-@1046347 = ~En combat, protégez vos lanceurs de sort des attaquants à l'aide de vos personnages de mêlée.~
+@1046344 = ~Les lanceurs de sorts peuvent convoquer des alliés sur le champ de bataille.~
+@1046345 = ~Utiliser des sorts défensifs est important pour empêcher les attaquants de blesser les lanceurs de sorts, qui sont généralement faibles en combat rapproché.~
+@1046347 = ~En combat, protégez vos lanceurs de sorts des attaquants à l'aide de vos personnages de mêlée.~
+@1046352 = ~Les lanceurs de sorts sont vulnérables aux attaques physiques. Évitez les combats de mêlée.~
 @1046368 = ~Les dagues sont des lames pointues à double tranchant, contrairement aux couteaux, plus petits, qui n'en ont qu'un. Cette dague est magique, et donne des bonus de vitesse, de précision et de dégâts. De plus, étant magique, elle peut toucher des adversaires immunisés contre les armes non-magiques, comme les vampires, les élémentaires et les momies.
 
 PARAMÈTRES :
@@ -28406,7 +28468,9 @@ J'ai parlé au principal lanceur de sorts de Fort-du-Pont, Wynan Hess. Malheureu
 @1049734 = ~On dirait qu'il y en a pour 500 pièces d'or de plus. Mais j'vous aime bien, alors d'accord. Rev'nez demain, vos bottes s'ront prêtes.~
 @1049739 = ~Rev'nez d'main. Elles s'ront prêtes. En attendant, faites attention à vous.~
 @1049740 = ~Tiens ? J'peux faire quelque chose pour vous ?~
+@1049763 = ~Il y a quelque chose de vrai dans c'que vous dites. J'ai jamais été très bon pour déterminer les résultats, moi. J'essaierai p't-être un jour. Maintenant, si vous m'excusez, j'ai du travail. Faites attention à vous.~
 @1049764 = ~Je vous le rappellerai, héros.~ ~Je vous le rappellerai, héroïne.~
+@1049776 = ~Pour sûr. Elles iront très bien. Mais... vaudrait p't-être mieux quand même les essayer, juste par prudence. Faites attention à vous, maintenant.~
 @1049793 = ~Bonne <DAYNIGHTALL> à vous. Je suis Sempek de la milice de Gué-de-la-Dague. Voici Damius. Joignez-vous à nous et buvons un verre.~
 @1049815 = ~Il y a un gnome appelé Gardnerson dans notre contingent de Gué-de-la-Dague.~
 @1049820 = ~Quoi ? Non. Il s'appelle Pritchard. Cet imbécile prétentieux se croit meilleur que nous. Il pense que c'est lui qui commande ici. Bon, après la générale Main-de-pierre, bien sûr.~
@@ -30164,7 +30228,7 @@ Poids : 3~
 
 M'Khiin a trouvé des trésors qu'elle peut utiliser.
 
-Dans la ville naine souterraine, nous avons trouvé une armure complète de gobelin possédée par son ancien propriétaire, Kruntur. Bien que l'armure offrît une solide protection à M'Khiin, elle a préféré ne pas la porter, choisissant plutôt de suivre sa voie de lanceuse de sort. Elle a donc pris des robes et un bâton.~
+Dans la ville naine souterraine, nous avons trouvé une armure complète de gobelin possédée par son ancien propriétaire, Kruntur. Bien que l'armure offrît une solide protection à M'Khiin, elle a préféré ne pas la porter, choisissant plutôt de suivre sa voie de lanceuse de sorts. Elle a donc pris des robes et un bâton.~
 @1056522 = ~M'Khiin Doublelarve
 
 M'Khiin a trouvé des trésors qu'elle peut utiliser.
@@ -30348,7 +30412,9 @@ Des gobelins m'ont temporairement barré la route, exigeant que je paie un péag
 Grâce à <CHARNAME> et à ses voyages, je vais pouvoir réaliser une expérience que j'avais en tête. Engager une troupe de mercenaires et les dresser contre <PRO_HIMHER>. Vos laquais ne survivront sans doute pas à cette entreprise, mais vous semblez avoir un certain talent pour échapper à la mort. Évaluez les forces et les faiblesses de l'enfant de Bhaal et envoyez votre rapport à mon contact à Athkatla. Ne vous avisez pas de me décevoir à nouveau, cher serviteur de l'ombre. Vous connaissez bien le prix de l'échec.~
 @1057234 = ~Les Irréguliers
 
-Une membre du Poing Enflammé, la lieutenante Otilda, m'a demandé de chercher querelle avec des mercenaires demi-orques. Otilda pense que l'on ne peut pas faire confiance aux demi-orques. Je ferai en sorte qu'ils soient bannis du camp.~
+Une membre du Poing Enflammé, la lieutenante Otilda, m'a demandé de chercher querelle avec des mercenaires demi-orques. Otilda pense que l'on ne peut pas faire confiance aux demi-orques. Je ferai en sorte qu'ils soient bannis du camp.~ ~Les Irréguliers
+
+Une membre du Poing Enflammé, la lieutenante Otilda, m'a demandée de chercher querelle avec des mercenaires demi-orques. Otilda pense que l'on ne peut pas faire confiance aux demi-orques. Je ferai en sorte qu'ils soient bannis du camp.~
 @1057235 = ~Les Irréguliers
 
 Je dois rapporter ce que je sais à Otilda.
@@ -30748,7 +30814,7 @@ J'ai informé Shapur de la mort des drows fugueurs. Elle a réagi violemment, ce
 
 Les drows fugueurs sont revenus vers Shapur. Elle m'a dit merci à contrecœur, et les drows ont quitté les lieux.~
 @1058090 = ~Il est bon de savoir que vous tenez notre amitié en aussi grande estime.~ [BD58090]
-@1058099 = ~Vous êtes le héros de la Porte de Baldur, n'est-ce-pas ? Je vous pensais loin d'ici, en pleine mission.~ ~Vous êtes l'héroïne de la Porte de Baldur, n'est-ce-pas ? Je vous pensais loin d'ici, en pleine mission.~
+@1058099 = ~Vous êtes le héros de la Porte de Baldur, n'est-ce pas ? Je vous pensais loin d'ici, en pleine mission.~ ~Vous êtes l'héroïne de la Porte de Baldur, n'est-ce pas ? Je vous pensais loin d'ici, en pleine mission.~
 @1058100 = ~Vous cherchez la générale Main-de-pierre ? Elle est juste là.~
 @1058104 = ~Je vous reconnais. Vous êtes le héros de la Porte de Baldur ! Vous et maman allez combattre Caelar, n'est-ce pas ?~ [BD58104] ~Je vous reconnais. Vous êtes l'héroïne de la Porte de Baldur ! Vous et maman allez combattre Caelar, n'est-ce pas ?~ [BD58104]
 @1058120 = ~Mais c'est le héros de la Porte de Baldur !~ ~Mais c'est l'héroïne de la Porte de Baldur !~
@@ -32028,6 +32094,7 @@ Poids : 130~
 Nous allons devoir nous rediriger vers le Pont de Boreskyr.
 
 Avec la destruction du pont de la Voie Côtière, nous devons aller au nord pour traverser le Fleuve Sinueux en empruntant le Pont de Boreskyr. C'est à Boreskyr que Cyric et Bhaal ont combattu, et que Bhaal a été détruit. Il sera intéressant de contempler de mes propres yeux le lieu où mon père est mort.~
+@1059880 = ~Pouding noir~
 @1059882 = ~Le pari de Thrix
 
 J'ai perdu l'un de mes compagnons lors d'un pari avec un diable.
@@ -33586,7 +33653,11 @@ J'ai découvert un scarabée-rhinocéros géant. C'est lui qui fait tout ce brui
 
 Je dois chercher querelle avec des mercenaires demi-orques non loin.
 
-Une membre du Poing Enflammé, la lieutenante Otilda, m'a demandé de chercher querelle avec des mercenaires demi-orques. Otilda pense que l'on ne peut pas faire confiance aux demi-orques, je ferai en sorte qu'ils soient bannis du camp.~
+Une membre du Poing Enflammé, la lieutenante Otilda, m'a demandé de chercher querelle avec des mercenaires demi-orques. Otilda pense que l'on ne peut pas faire confiance aux demi-orques, je ferai en sorte qu'ils soient bannis du camp.~ ~Les Irréguliers
+
+Je dois chercher querelle avec des mercenaires demi-orques non loin.
+
+Une membre du Poing Enflammé, la lieutenante Otilda, m'a demandée de chercher querelle avec des mercenaires demi-orques. Otilda pense que l'on ne peut pas faire confiance aux demi-orques, je ferai en sorte qu'ils soient bannis du camp.~
 @1061776 = ~Les Irréguliers
 
 Je devrais retourner informer la lieutenante Otilda de mes actions.
@@ -34399,7 +34470,7 @@ Nécessite :
  5 en Force
 
 Poids : 2~
-@1061989 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un fût. L'arc est généralement fabriqué en bois de frêne ou d'if. La corde, quant à elle, est maintenue en tension sur le fût à l'aide d'une pièce rigide appelée un arbrier. Lorsque le tireur actionne l'arbrier en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). Cette arbalète-ci a été enchantée par un maître ensorceleur avec des énergies vitales du plan élémentaire de l'air. Ces énergies guident les carreaux pour les aider à frapper leurs cibles et à occasionner des dégâts plus importants.
+@1061989 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un fût. L'arc est généralement fabriqué en bois de frêne ou d'if. La corde, quant à elle, est maintenue en tension sur le fût à l'aide d'une pièce rigide appelée un arbrier. Lorsque le tireur actionne l'arbrier en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). Cette arbalète-ci a été enchantée par un maître ensorceleur avec des énergies vitales du Plan élémentaire de l'air. Ces énergies guident les carreaux pour les aider à frapper leurs cibles et à occasionner des dégâts plus importants.
 
 PARAMÈTRES :
 
@@ -35492,6 +35563,7 @@ Poids : 10~
 @1063464 = ~Quel pitoyable héros vous faites.~ ~Quelle pitoyable héroïne vous faites.~
 @1063469 = ~J'ai entendu dire que vous étiez un héros. Pour moi, les vrais héros sont les soldats qui font leur propre lessive.~ ~J'ai entendu dire que vous étiez une héroïne. Pour moi, les vraies héroïnes sont les soldates qui font leur propre lessive.~
 @1063518 = ~Paldragon est à nous !~
+@1063558 = ~J'suppose qu'j'ai pas trop l'air d'un tueur de vermine en c'moment, mais écoutez, quand j'ai rejoint c'projet, j'ai cru comprendre que j'allais avoir à faire à, euh, vous savez... des trucs qui rampent et tout. Des ankhegs, des vers charognards, et p't-être un serpent ou deux.~
 @1063563 = ~N'importe quel outil peut finir le travail, mais le bon outil permet un travail bien fait.~
 @1063574 = ~Content d'vous rencontrer. Très content, au vu des circonstances.~
 @1063581 = ~mais bon, si une AUTRE personne voulait aller chercher c'coffre pendant qu'j'récupère, j'pourrais m'laisser convaincre d'en partager l'contenu avec elle.~
@@ -37219,7 +37291,7 @@ J'ai trouvé la patrouille disparue, mais je n'ai pas besoin d'eux. Je peux les 
 @1067323 = ~*une boîte en or de piètre qualité couverte de poussière est posée au milieu d'une pile de parchemins couverts d'encre à moitié estompée à une extrémité de la table*~
 @1067324 = ~Plusieurs parchemins sont recouverts de notes écrites par une main méthodique. De nombreux écrits sont devenus illisibles avec le temps ou consistent en des équations arcaniques que vous ne comprenez pas. Certaines lignes du dessous de la pile peuvent cependant être déchiffrées :
 
-« Bien que l'alliage d'or se soit révélé plus difficile à travailler que prévu, je reste convaincu qu'une fois rendu assez malléable, il s'agira d'une substance idéale pour construire un phylactère. La chaleur du Plan Élémentaire du Feu devrait le rendre plus flexible. Je vais utiliser un portail pour accéder à cet enfer sous peu. Je me dois d'abord de trouver un endroit privé où je pourrai travailler en paix. »~
+« Bien que l'alliage d'or se soit révélé plus difficile à travailler que prévu, je reste convaincu qu'une fois rendu assez malléable, il s'agira d'une substance idéale pour construire un phylactère. La chaleur du Plan élémentaire du feu devrait le rendre plus flexible. Je vais utiliser un portail pour accéder à cet enfer sous peu. Je me dois d'abord de trouver un endroit privé où je pourrai travailler en paix. »~
 @1067325 = ~Les côtés de cette boîte en métal doré maladroitement conçue sont si inégaux que le dessus ne peut se refermer complètement. Une fois fondue, elle pourrait avoir une certaine valeur, mais elle ne vaut rien dans son état actuel.
 
 PARAMÈTRES :
@@ -38190,7 +38262,7 @@ Capacités d'équipement :
 - Jets de sauvegarde : +2
 
 Poids : 1~
-@1069572 = ~Le pouvoir peut corrompre jusqu'au plus noble des mages et la longue vie des elfes de Féérune leur a permis d'être témoins des catastrophes qui se produisent lorsqu'un mage perd le contrôle. Cette épée longue élégante, munie d'une garde en argent décorée de gemmes bleu clair, a été fabriquée pour affronter les lanceurs de sort qui abusent de leur don. L'épée aide tout chasseur qui traque les magies ayant mal tourné, et se montre particulièrement puissante entre les mains d'un tueur de magiciens ou d'un inquisiteur.
+@1069572 = ~Le pouvoir peut corrompre jusqu'au plus noble des mages et la longue vie des elfes de Féérune leur a permis d'être témoins des catastrophes qui se produisent lorsqu'un mage perd le contrôle. Cette épée longue élégante, munie d'une garde en argent décorée de gemmes bleu clair, a été fabriquée pour affronter les lanceurs de sorts qui abusent de leur don. L'épée aide tout chasseur qui traque les magies ayant mal tourné, et se montre particulièrement puissante entre les mains d'un tueur de magiciens ou d'un inquisiteur.
 
 PARAMÈTRES :
 
@@ -38232,7 +38304,7 @@ Vous avez le sentiment que Schael Corwin reculerait devant peu de choses pour sa
 D'après Dorn, Ur-Gothoz lui a ordonné de tuer une personne dans le camp des croisés, pendant la cérémonie de l'Illumination. C'est en tentant de le faire que Dorn fut remarqué et emprisonné. Il a maintenant hâte de se venger de ceux qui ont osé le mettre en cage.~
 @1069599 = ~Quand on l'interroge quant à son passé, DYNAHÉIR vous dit seulement qu'elle mène à bien une mission personnelle. Ses buts, bien qu'inconnus, semblent coïncider avec les vôtres, et elle a l'air heureuse de voyager avec vous.
 
-Dynahéir et son garde du corps, Minsc, viennent de Rashéménie. Ils parlent parfois de leur patrie. Dynahéir appartient à un ordre de lanceuses de sort, les Sorcières de Rashéménie, ennemies acharnées des Sorciers Rouges de Thay. La seule mention de ces Sorciers Rouges haïs embrase le regard de Dynahéir et la fait parler d'un ton cassant.~
+Dynahéir et son garde du corps, Minsc, viennent de Rashéménie. Ils parlent parfois de leur patrie. Dynahéir appartient à un ordre de lanceuses de sorts, les Sorcières de Rashéménie, ennemies acharnées des Sorciers Rouges de Thay. La seule mention de ces Sorciers Rouges haïs embrase le regard de Dynahéir et la fait parler d'un ton cassant.~
 @1069600 = ~À propos de son passé, Edwin se contente de marmonner que vous en savez déjà bien plus qu'il n'est bon pour vous. Edwin marmonne souvent tout seul, semblant préférer sa propre conversation à celle des autres.
 
 Malgré son comportement excentrique, Edwin est un mage puissant et intelligent : on ne devient pas un Sorcier Rouge de Thay par hasard. Il admet à contrecœur que lui et plusieurs autres Sorciers Rouges étaient en voyage, lorsqu'ils furent assaillis par des croisés et forcés de se joindre à leur cause. Deux de ses alliés se soumirent, un troisième fut tué. Edwin s'enfuit et jura de se venger de Caelar.
@@ -38571,7 +38643,7 @@ Sphère : convocation
 Portée : champ visuel du lanceur
 Durée : permanente
 Temps d'incantation : 9
-Zone d'effet : 1 personne
+Zone d'effet : 1 humanoïde
 Jet de sauvegarde : aucun
 
 Le shaman rappelle l'esprit d'une personne décédée s'il s'attarde à proximité du corps. En lançant ce sort, le shaman reconnecte l'esprit à son corps et ramène la personne à la vie avec 1 point de vie. La guérison naturelle ou la magie curative peuvent restaurer le reste de la vitalité de la cible.~
@@ -39000,6 +39072,7 @@ Heldvar n'apprécie pas que je garde ses bottes porte-bonheur.
 
 Sa colère est justifiée, ça ne fait aucun doute, mais mon bien-être est plus important que le sien. Néanmoins, ajouter le vol de bottes à la liste de mes crimes supposés ne va rien arranger à ma réputation, au camp.~
 @1070448 = ~*le dessus de la décoration en marbre se trouvant au centre de la pièce est concave et contient de l'eau claire... des fentes sur le côté du piédestal semblent conçues pour accueillir des sceptres d'une forme complexe*~
+@1070452 = ~Vous pouvez choisir un certain nombre de sorts à mettre dans votre livre de sorts profanes. Ce seront les sorts que votre personnage connaîtra au début du jeu.~
 @1070460 = ~Non, mais de ce côté, c'est MOI qui vous tue ! Pour le Grand-Duc Écudargent et le Poing Enflammé !~ [BD70460]
 @1070470 = ~Au revoir. Profitez bien du reste de la <DAYNIGHTALL>.~
 @1070472 = ~Attendez ! Vous et les rashémis partagez un ennemi commun, Edwin. N'êtes-vous pas capable de vous tolérer pour vaincre la Dame Étincelante ?~
@@ -39041,6 +39114,7 @@ Je dois continuer à chercher les membres de la famille de Glint, pendant mes vo
 Pritchard Gardnersonson est mort, prouvant qu'en temps de guerre, le plus grand danger ne provient pas forcément de l'ennemi. Il pourrait ne pas être le dernier parent de Glint à périr dans ce conflit.~
 @1070545 = ~Et la cabale de nécromanciens que j'ai rencontrée dans d'antiques ruines sous Paldragon était aussi une coïncidence ?~
 @1070546 = ~Pourquoi choisissez-vous de blâmer la Dame pour chaque mésaventure qui a pu vous arriver, enfant de Bhaal ? La croisade ne se livre pas aux arts noirs de la nécromancie, pas plus qu'elle ne cherche à verser le sang sans raison. Tout ce que ma Dame demande, c'est que vous soyez à la hauteur de votre réputation de héros de la Porte de Baldur.~ ~Pourquoi choisissez-vous de blâmer la Dame pour chaque mésaventure qui a pu vous arriver, enfant de Bhaal ? La croisade ne se livre pas aux arts noirs de la nécromancie, pas plus qu'elle ne cherche à verser le sang sans raison. Tout ce que ma Dame demande, c'est que vous soyez à la hauteur de votre réputation d'héroïne de la Porte de Baldur.~
+@1070554 = ~Emprisonnement de l'âme~
 @1070564 = ~Ce passage est rempli de décombres, il est impossible pour qui que ce soit d'explorer les portions extérieures des sous-sols du château Paldragon.~
 @1070566 = ~Le mécanisme qui permettait à la croisade de se déplacer facilement entre le château Paldragon et ses dédales souterrains a été détruit pendant les combats récents.~
 @1070598 = ~Le siège de Paldragon
@@ -39428,7 +39502,7 @@ Plutarque~
 
 Je dois empêcher les tonneaux d'être endommagés.
 
-Le magicien de la croisade a réussi à ouvrir un portail temporaire vers le Plan Élémentaire du Feu, lequel crache des flammes et laisse passer ses habitants dans le plan matériel. Avec la chaleur intense qui en émane, il suffirait de la plus petite égratignure pour que le contenu des tonneaux s'embrase et engouffre tous les environs dans un enfer rageur.~
+Le magicien de la croisade a réussi à ouvrir un portail temporaire vers le Plan élémentaire du feu, lequel crache des flammes et laisse passer ses habitants dans le plan matériel. Avec la chaleur intense qui en émane, il suffirait de la plus petite égratignure pour que le contenu des tonneaux s'embrase et engouffre tous les environs dans un enfer rageur.~
 @1071371 = ~L'amulette de Mizhena
 
 J'ai rendu son amulette à Mizhena.
