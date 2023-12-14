@@ -6447,7 +6447,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1012149 = ~Protection contre les projectiles non-magiques
 (Abjuration)
 
@@ -7058,7 +7058,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1012202 = ~Protection contre le feu
 (Abjuration)
 
@@ -10423,6 +10423,7 @@ Poids : 15~
 @1017570 = ~Mettre le jeu en pause~
 @1017576 = ~Le groupe a acquis un objet : <ITEM>~
 @1017577 = ~Le groupe a perdu un objet : <ITEM>~
+@1017583 = ~Le combattant attaque ses ennemis, les poursuivant si nécessaire. Si un compagnon est blessé, un Rôdeur ou un Paladin essaye de le soigner avec un sort ou avec la capacité d'Imposition des mains. (<script>)~
 @1017601 = ~Sitôt l'ennemi en vue, le mage se protège à l'aide du sort défensif le plus puissant dont il dispose (armure, bouclier, armure fantomatique, etc.). Il entreprend ensuite de jeter des sorts offensifs aux ennemis les plus proches. Attaqué au corps à corps, il s'enfuit jusqu'à être en sécurité. (<script>)~
 @1017616 = ~Pour faire une pause au milieu de la partie, il suffit d'appuyer sur la BARRE D'ESPACEMENT ou de cliquer sur l'horloge. Pour reprendre la partie, il faut procéder de la même manière. La page d'inventaire n'enlève pas la pause. La fonction « pause » est particulièrement utile lors des combats, car elle vous permet d'organiser au mieux votre attaque. Donnez les ordres quand vous êtes en pause. À la reprise de la partie, vos personnages obéiront à vos ordres. Si vous n'utilisez pas la BARRE D'ESPACEMENT, vous trouverez ce jeu très difficile.~
 @1017617 = ~Messager petit-homme mort~
@@ -12986,7 +12987,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement la Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
+Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement le sort Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1022833 = ~Force de champion~
 @1022834 = ~Force de champion
 (Transmutation)
@@ -13991,7 +13992,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 15 % en Déplacement silencieux et Se cacher dans l'ombre.
-- Peut utiliser la capacité de « Convocation de familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
+- Peut utiliser la capacité de « Familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
 - Niveau 8 : Peut lancer « Convocation d'animaux I ».
 - Niveau 10 : Peut lancer « Convocation d'animaux II ».
 - Niveau 12 : Peut lancer « Convocation d'animaux III ».
@@ -15430,7 +15431,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 15 % en Déplacement silencieux et Se cacher dans l'ombre.
-- Peut utiliser la capacité de « Convocation de familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
+- Peut utiliser la capacité de « Familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
 - Niveau 8 : Peut lancer « Convocation d'animaux I ».
 - Niveau 10 : Peut lancer « Convocation d'animaux II ».
 - Niveau 12 : Peut lancer « Convocation d'animaux III ».
@@ -16120,7 +16121,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1025823 = ~Vision véritable
 (Divination)
 
@@ -16144,7 +16145,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement la Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
+Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement le sort Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1025827 = ~Charme-personne ou mammifère
 (Enchantement/Charme)
 
@@ -17727,7 +17728,7 @@ Temps d'incantation : 5
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le prêtre invoque une créature des plans extérieurs, le diantrefosse, afin qu'elle attaque ses ennemis. S'il ne se s'abrite pas derrière un sort de Protection contre le mal, le démon risque de se retourner contre le lanceur de ce sort et ses camarades, les réduisant en morceaux avant de festoyer de leurs restes encore fumants.~
+Grâce à ce sort, le lanceur convoque une créature extraplanaire, le diantrefosse, afin qu'elle attaque ses ennemis mais aussi lui-même, s'il ne fait pas attention. Le lanceur et ses camarades doivent s'abriter derrière un sort de Protection contre le mal afin d'empêcher le diantrefosse de les remarquer. Si le lanceur et ses camarades ne parviennent pas à se protéger de cette manière, le diantrefosse les réduira en morceaux avant de festoyer sur leurs restes encore fumants.~
 @1026294 = ~Beauté de la nature
 (Illusion/Fantasme)
 
@@ -18066,7 +18067,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre la cible protégée reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible la créature protégée. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1026367 = ~Bouclier
 (Évocation)
 
@@ -19332,7 +19333,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort téléporte un démon déchaîné qui attaquera et tuera tout ce qui se trouve sous ses yeux à l'exception des créatures bénéficiant d'une Protection contre le mal. C'est un sort très dangereux qu'il vaut mieux garder pour les situations désespérées.~
+Lorsque ce sort est lancé, il convoque un puissant fiélon déchaîné (Nabassu) qui attaquera et tuera tout ce qui se trouve sous ses yeux. Toute créature bénéficiant d'un sort de Protection contre le mal ne sera pas prise pour cible par le démon. C'est un sort très dangereux qu'il vaut mieux garder pour les situations désespérées.~
 @1026604 = ~Manteau
 (Abjuration)
 
@@ -19517,7 +19518,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort est une version plus musclée du sort de 7ème niveau, Cacofiélon. Il invoque un démon ou un diable fou de rage détruisant tout sur son passage. Il attaquera tous ceux qui se trouvent à proximité à l'exception des créatures protégées contre le mal. Seuls les magiciens suicidaires ou vraiment désespérés font appel à ce sort.~
+Ce sort est une version plus musclée du sort de 7ème niveau Cacofiélon. Ce sort convoque un fiélon ou un diable (Glabrezu) fou de rage détruisant tout sur son passage. Le démon attaquera tous ceux qui se trouvent à proximité à l'exception des créatures protégées par un sort de Protection contre le mal. Seuls les lanceurs de sorts suicidaires ou vraiment désespérés font appel à ce sort en dernier recours.~
 @1026638 = ~Manteau amélioré
 (Abjuration)
 
@@ -19651,7 +19652,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le magicien invoque un monstre des plans extérieurs : le diantrefosse. L'un des plus puissants démons connus, afin qu'il attaque ses ennemis. S'il ne se s'abrite pas derrière un sort de Protection contre le mal, le démon risque de se retourner contre le lanceur de ce sort et ses camarades, et se repaître de leurs cadavres.~
+Grâce à ce sort, le lanceur convoque une créature extraplanaire, le diantrefosse, afin qu'elle attaque ses ennemis mais aussi lui-même, s'il ne fait pas attention. Le lanceur et ses camarades doivent s'abriter derrière un sort de Protection contre le mal afin d'empêcher le diantrefosse de les remarquer. Si le lanceur et ses camarades ne parviennent pas à se protéger de cette manière, le diantrefosse les réduira en morceaux avant de festoyer sur leurs restes encore fumants.~
 @1026660 = ~Immunité absolue
 (Abjuration)
 
@@ -21621,6 +21622,7 @@ Poids : 3~
 @1030124 = ~Ceci est une potion de grands soins. Pour ingurgiter une potion, restes simplement appuyé dessus, et appuies sur « Boire ». Tu peux également placer la potion dans une case d'objet rapide et y accéder ainsi sans passer par l'écran d'inventaire.~ [TTIMOEA1]
 @1030126 = ~Bonjour. Il ne faut surtout pas oublier ce que nous venons d'apprendre, car cela aura une grande importance d'ici peu... Quand vous entrerez dans le monde réel.~ [JAHEIRG2]
 @1030129 = ~Le bouton de capacités spéciales situé dans l'angle inférieur droit de l'écran permet de tirer parti des talents particuliers de chaque personnage. En appuyant dessus, les capacités spéciales du personnage sélectionné apparaîtront.~ [JAHEIRG3]
+@1030130 = ~Chaque classe possède ses propres capacités. Les druides ont la possibilité de se métamorphoser, les rôdeurs peuvent charmer les animaux, les paladins peuvent soigner et guérir les maladies avec Imposition des mains ou Guérison des maladies.~
 @1030132 = ~Quand vous avez votre personnage Barde sélectionné, une icône de Harpe va apparaître en bas de l'écran, au milieu. Appuyer sur ce bouton active le Chant du barde.~
 @1030133 = ~Les Bardes peuvent encourager leurs camarades en combat en utilisant le Chant du barde. Ils peuvent se déplacer en chantant, mais toute autre action interrompra le chant.~
 @1030135 = ~Nous ne savons rien de cette armure, mais Xan devrait pouvoir l'identifier sans problème. Vous devriez la lui donner pour qu'il l'identifie.~ [JAHEIRG4]
@@ -23329,16 +23331,16 @@ Désavantages :
 Avantages :
 - Niveau 2 : « Rayon de la Conscience Solaire » une fois par jour.
 
-RAYON DE LA CONSCIENCE SOLAIRE : Le moine de la Conscience Solaire projette un rayon de lumière de sa paume, infligeant à une cible unique 1d8 dégâts de feu tous les 2 niveaux d'expérience pour un maximum de 5d8 au niveau 10. Les morts-vivants subissent 6 points de dégâts supplémentaires.
+RAYON DE LA CONSCIENCE SOLAIRE : Le moine de la Conscience Solaire projette un rayon de lumière de sa paume, infligeant à une cible unique 1d8 points de dégâts de feu tous les 2 niveaux d'expérience, avec un maximum de 5d8 au niveau 10. Les morts-vivants subissent 6 points de dégâts supplémentaires.
 
 - Niveau 5 : « Poings enflammés » une fois par jour.
 
-POINGS ENFLAMMÉS : Le moine de la Conscience Solaire concentre sa lumière intérieure dans ses attaques à mains nues, transformant ses poings en armes enflammées qui infligent 2d6 dégâts de feu supplémentaires pendant un round. La durée de cette capacité augmente jusqu'à 2 rounds au niveau 9, 3 rounds au niveau 12, 4 rounds au niveau 15 et 5 rounds au niveau 25. Cette capacité spéciale modifie automatiquement les attaques de base ; il n'y a pas besoin de changer d'arme.
+POINGS ENFLAMMÉS : Le moine de la Conscience Solaire concentre sa lumière intérieure dans ses attaques à mains nues, transformant ses poings en armes enflammées qui infligent 2d6 points de dégâts de feu supplémentaires pendant un round. La durée de cette capacité augmente jusqu'à 2 rounds au niveau 9, 3 rounds au niveau 12, 4 rounds au niveau 15 et 5 rounds au niveau 25. Cette capacité spéciale modifie automatiquement les attaques de base ; il n'y a pas besoin de changer d'arme.
 
 - Niveau 6 : Peut avoir recours à « Rayon de la Conscience Solaire » deux fois par jour.
 - Niveau 8 : « Soleil Ascendant » une fois par jour.
 
-SOLEIL ASCENDANT : Le moine de la Conscience Solaire se nimbe de flammes qui agissent comme un Bouclier de feu (rouge), lui conférant 50 % de résistance au feu et le protégeant des attaques à moins d'1,5 mètre : un adversaire qui frappe le personnage avec une arme ou un sort subit 1d8 +2 dégâts de feu.
+SOLEIL ASCENDANT : Le moine de la Conscience Solaire se nimbe de flammes qui agissent comme un Bouclier de feu (rouge), lui conférant 50 % de résistance au feu et le protégeant des attaques à moins de 1,5 mètre : un adversaire qui frappe le personnage avec une arme ou un sort subit 1d8 +2 points de dégâts de feu.
 
 - Niveau 10 : Peut avoir recours à « Rayon de la Conscience Solaire » trois fois par jour.
 - Niveau 13 : « Faisceau de la Conscience Solaire » une fois par jour.
@@ -24066,9 +24068,9 @@ Jet de sauvegarde : aucun
 Un sort de Dissipation de la magie annule les effets magiques affectant toutes les créatures dans la zone d'effet : effets des sorts, des potions et de certains objets magiques comme les baguettes. Mais il n'affecte pas les objets magiques enchantés ou les protections contre les sorts (Renvoi des sorts, Déviation de sorts, etc.). Les chances de réussite du sort dépendent du niveau d'expérience du lanceur de la Dissipation de la magie et du niveau d'expérience du créateur des effets à dissiper. Le pourcentage de chances de réussite de base est de 50 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie au-dessus du niveau d'expérience du créateur des effets à dissiper, les chances de réussite augmentent de 5 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie en dessous du niveau d'expérience du créateur des effets à dissiper, un malus de 10 % est appliqué aux chances de réussite. Cependant, quelle que soit la différence de niveau d'expérience, il y a toujours au minimum 5 % de chances d'échec ou de réussite. Ainsi, si le lanceur de la Dissipation de la magie a plus de 10 niveaux d'expérience que le créateur des effets à dissiper, il n'a que 5 % de chances d'échec. De la même façon, si le lanceur de la Dissipation de la magie a 4 niveaux d'expérience de moins que le créateur des effets à dissiper, il n'a que 10 % de chances de réussite. Dans la pratique, le sort n'a que très peu de chances de réussir si le créateur des effets à dissiper a plus de 5 niveaux d'expérience que le lanceur de la Dissipation de la magie.
 
 Notez que même si ce sort dissipe les effets individuels des sorts de Glisse, Toile d'araignée, Nuage puant et autres, il ne dissipe pas pour autant la zone d'effet de ces sorts.~
-@1032373 = ~Ancien élémentaire de feu~
-@1032375 = ~Ancien élémentaire d'air~
-@1032376 = ~Ancien élémentaire de terre~
+@1032373 = ~Élémentaire de feu ancien~
+@1032375 = ~Élémentaire d'air ancien~
+@1032376 = ~Élémentaire de terre ancien~
 @1032378 = ~Les ennemis ont du mal à ralentir le porteur de cet anneau. Les runes gravées dans la bande d'argent protège des sorts visant à entraver la mobilité, ce qui confère à son titulaire une liberté de mouvement refusée aux autres personnes affectées par cette magie.
 
 PARAMÈTRES :
@@ -38664,6 +38666,9 @@ Avec ce sort, le shaman renforce la détermination spirituelle d'une créature e
 @1070272 = ~Ce croquis exécuté de main de maître représente un gnoll et un kobold qui se tiennent côte à côte, près d'une ruine antique.~
 @1070281 = ~~
 @1070284 = ~Depuis votre, euh, incarcération, j'ai... découvert un entropiste. Mort. Disséqué.~ [BD70284]
+@1070340 = ~Élémentaire de feu ancien~
+@1070342 = ~Élémentaire d'air ancien~
+@1070343 = ~Élémentaire de terre ancien~
 @1070347 = ~L'origine de cette robe violet sombre se perd dans les brumes de l'histoire, mais une vague odeur de magie rassise flotte dans l'air, autour de ce vêtement élimé. Celui qui la portait n'était clairement pas étranger à la Toile. Un examen attentif révèle des motifs de flammes stylisées tissés dans la trame. On dirait que cet artifice complexe a toujours été difficile à discerner, mais même si tel n'était pas le cas au début, des années d'usure ont rendu ces flammes à peine visibles.
 
 PARAMÈTRES :
