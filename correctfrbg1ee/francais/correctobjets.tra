@@ -20,7 +20,7 @@ Nécessite :
 Poids : 7~
 
 // DWSW1H01.ITM (BG2:EE @46665)
-@101 = ~La longue lame incurvée à un seul tranchant est caractéristique à la fois du sabre et du cimeterre, bien que leurs origines proviennent de régions différentes de Féérûne. Alors que le sabre était plutôt fait pour les cavaliers, surtout en raison de sa souplesse, le cimeterre était plus courant en Orient. Le « shamshir », comme on l'appelait à l'origine, est plus grand, plus courbe et doté d'une longue pointe acérée. Résultat : il est un peu moins maniable, mais en général plus efficace et mortel au combat.
+@101 = ~La longue lame incurvée à un seul tranchant est caractéristique à la fois du sabre et du cimeterre, bien que leurs origines proviennent de régions différentes de Féérune. Alors que le sabre est plutôt destiné aux cavaliers, surtout en raison de sa polyvalence et de ses propriétés mécaniques plus adaptées au combat équestre, le cimeterre a une influence orientale plus marquée. Le « shamshir », comme on appelait le cimeterre à l'origine, est plus grand, plus courbe et doté d'une longue pointe acérée permettant de frapper d'estoc. Le cimeterre est équipé d'une garde servant à protéger la main de son porteur, d'une poignée pour son maniement, ainsi que d'un pommeau généralement recourbé faisant office de contrepoids. Cela en fait une arme un peu moins maniable et plus lente qu'un sabre, mais en général plus efficace au combat grâce à ses frappes de taille mortelles.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -36,7 +36,7 @@ Nécessite :
 Poids : 4~
 
 // DWSW1H02.ITM (BG2:EE @46675)
-@102 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Certaines épées longues peuvent avoir une lame à simple tranchant, mais la plupart ont une lame à double tranchant ainsi qu'un estoc pointu et acéré. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. Malgré son extrémité pointue, cette arme est conçue pour frapper de taille, et non d'estoc. De ce fait, l'épée longue est une arme considérée comme tranchante, et non perforante.
+@102 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Certaines épées longues peuvent avoir une lame à simple tranchant, mais la plupart ont une lame à double tranchant ainsi qu'un estoc pointu et acéré à son extrémité. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. En plus de sa lame, l'épée longue comporte une garde servant à protéger la main de son porteur, une poignée pour son maniement, ainsi qu'un pommeau faisant office de contrepoids. Malgré son extrémité pointue, cette arme est plutôt conçue pour frapper de taille que d'estoc.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -52,7 +52,7 @@ Nécessite :
 Poids : 4~
 
 // DWBLUN01.ITM (BG2:EE @46688)
-@103 = ~Le fléau d'armes est constitué d'un solide manche de bois relié à une barre de fer, à une tringle de bois garnie de piquants, ou à une boule de métal hérissée de pointes. Entre le manche et l'accessoire qui l'accompagne se trouve une simple bande de cuir, une bielle ou encore plus communément, une chaîne. Cette arme était à l'origine un outil agricole pour battre le grain.
+@103 = ~Le fléau d'armes est constitué d'un solide manche de bois relié à une barre de fer, à une tringle de bois garnie de piquants, ou à une boule de métal hérissée de pointes. Le manche mesure en moyenne 70 centimètres, bien qu'on en trouve de toutes les tailles. Entre le manche et l'accessoire qui l'accompagne se trouve une simple bande de cuir, une bielle ou encore plus communément, une chaîne. Une version plus rare et plus dangereuse de cette arme, tant pour le porteur que pour sa cible, dénommée le goupillon, comporte deux à trois chaînes lestées d'une tête. La configuration singulière du fléau d'armes en tant qu'arme articulée lui confére avantages comme inconvénients, la flexibilité du lien permet à la tête de contourner l'arme ou le bouclier que l'adversaire placerait en barrage, rendant ainsi la parade difficile tout en augmentant la force du coup donné. Il peut même arriver que la tête et le lien s'enroulent autour de l'arme de l'adversaire, offrant alors la possibilité de désarmer l'adversaire en tirant violemment. Cependant, son maniement est complexe et demande un grand espace, sous peine de se blesser. Cette arme était à l'origine un outil agricole pour battre le grain.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -68,7 +68,7 @@ Nécessite :
 Poids : 15~
 
 // DWSPER01.ITM (BG2:EE @46698)
-@104 = ~La lance, l'une des premières armes jamais créées, dont l'usage remonte aux époques les plus primitives, était initialement constituée d'un épieu ou d'un bâton de bois taillé en pointe à l'une de ses extrémités. Avec la découverte et la maîtrise des métaux, les races civilisées ont commencé à remplacer les pointes en bois par des pointes en fer et en acier, d'où le terme « fer de lance ». Arrivés à ce stade, les armuriers ont alors pu expérimenter différents types de fers de lance, ce qui a permis l'élaboration de certains types d'armes d'hast. Cette lance elfe noir est une version améliorée de la lance traditionnelle, souvent utilisée par les fantassins elfes noirs.
+@104 = ~La lance, l'une des premières armes jamais créées, dont l'usage remonte aux époques les plus primitives, était initialement constituée d'un épieu ou d'un bâton de bois taillé en pointe à l'une de ses extrémités. Avec la découverte et la maîtrise des métaux, les races civilisées ont commencé à remplacer les pointes en bois durci et en silex par des pointes en fer et en acier, d'où le terme « fer de lance ». Arrivés à ce stade, les armuriers ont alors pu expérimenter différents modèles de fers de lance, ce qui a permis l'élaboration de certains types d'armes d'hast. Les lances sont conçues pour frapper exclusivement d'estoc.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -84,7 +84,7 @@ Nécessite :
 Poids : 5~
 
 // DWXBOW01.ITM (BG2:EE @46704)
-@105 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un fût. L'arc est généralement fabriqué en bois de frêne ou d'if. La corde, quant à elle, est maintenue en tension sur le fût à l'aide d'une pièce rigide appelée un arbrier. Lorsque le tireur actionne l'arbrier en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine).
+@105 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if, ou encore en matériaux composites, parfois même renforcé de métal pour augmenter sa puissance. La corde, quant à elle, est maintenue en tension sur l'arbrier à l'aide d'une petite pièce amovible appelée une noix. Lorsque le porteur actionne la noix en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). Les extrémités de l'arc sont dotées d'échancrures où est fixée la corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. L'arbalète légère, contrairement à ses dérivés d'arbalètes dites lourdes, peut s'armer en bandant la corde à la force des bras et inflige moins de dégâts. Cependant, la vitesse de rechargement du trait est plus rapide, permettant une cadence de tir bien plus élevée.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -114,7 +114,7 @@ Nécessite :
 Poids : 7~
 
 // DWBOLT01.ITM / DWBOLT02.ITM / DWBOLT03.ITM (BG2:EE @46717)
-@107 = ~Les carreaux, également connus sous le nom de dondaines, sont les munitions tirées par les arbalètes quel que soit le type de l'arme, lourde ou légère.
+@107 = ~Le carreau, également connu sous le nom de dondaine, est la munitions tirée par les arbalètes quel que soit le type de l'arme, lourde ou légère. Plus court que la flèche, il est muni d'une pointe à une extrémité et d'un empennage à deux pennes et d'une encoche à l'autre.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -139,7 +139,7 @@ Nécessite :
 Poids : 70~
 
 // DWDART01.ITM
-@109 = ~La fléchette est un petit projectile facilement dissimulable, lancée par la simple action mécanique des muscles plutôt que tirée par un arc ou une autre arme de trait.
+@109 = ~La fléchette, également connue sous le nom de plumbata, est un petit projectile facilement dissimulable, lancée par la simple action mécanique des muscles plutôt que tirée par un arc ou une autre arme de trait. Plus courte que la flèche, elle est munie d'une pointe et d'un lestage en plomb à une extrémité et d'un empennage à trois pennes à l'autre.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
