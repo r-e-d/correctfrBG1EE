@@ -260,11 +260,11 @@ Comparez les différentes versions des cinématiques (BG/BG:EE/CorrectfrBG1EE).
 
 #### BG2
 
-<img src="correctfrbg2ee/readme/images/vidbg.png">
+<img src="correctfrbg1ee/readme/images/vidbg.png">
 
 #### CorrectfrBG2EE
 
-<img src="correctfrbg2ee/readme/images/vidcorrectfrbg1ee.png">
+<img src="correctfrbg1ee/readme/images/vidcorrectfrbg1ee.png">
 
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
