@@ -237,6 +237,35 @@ Ce composant supprime les ensembles de voix en anglais.
 - Suppression des ensembles de voix en anglais de BG:EE et BG:SoD.
 - Suppression des ensembles de voix en anglais de Adventurers of Neverwinter pour le personnage principal ajoutées par le patch 2.6.
 
+##
+
+#### [50] Restauration des cinematiques classiques
+
+Ce composant restaure les cinematiques classiques de la version orignale de Baldur's Gate.
+
+- Inclusion des vidéos doublées en français de BG.
+- Réduction des artefacts de compression et augmentation de la résolution des cinématiques.
+
+<div align="right"><a href="#top">Retour en haut de page</a></div>
+
+<hr>
+
+## <a name="images" id="images"></a>Captures d'écran et vidéos
+
+##
+
+#### <a name="cinématiques" id="cinématiques"></a>Cinématiques
+
+Comparez les différentes versions des cinématiques (BG/BG:EE/CorrectfrBG1EE).
+
+#### BG2
+
+<img src="correctfrbg1ee/readme/images/vidbg.png">
+
+#### CorrectfrBG2EE
+
+<img src="correctfrbg1ee/readme/images/vidcorrectfrbg1ee.png">
+
 <div align="right"><a href="#top">Retour en haut de page</a></div>
 
 <hr>
