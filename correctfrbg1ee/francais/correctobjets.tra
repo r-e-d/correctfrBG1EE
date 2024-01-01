@@ -36,7 +36,7 @@ Nécessite :
 Poids : 4~
 
 // DWSW1H02.ITM (BG2:EE @46675)
-@102 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Certaines épées longues peuvent avoir une lame à simple tranchant, mais la plupart ont une lame à double tranchant ainsi qu'un estoc pointu et acéré à son extrémité. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. En plus de sa lame, l'épée longue comporte une garde servant à protéger la main de son porteur, une poignée pour son maniement, ainsi qu'un pommeau faisant office de contrepoids. Malgré son extrémité pointue, cette arme est plutôt conçue pour frapper de taille que d'estoc.
+@102 = ~L'épée longue est généralement appelée épée à double tranchant, épée de guerre ou épée militaire. Contrairement à la catégorie des sabres aux lames à simple tranchant, les épées longues se distinguent par une lame à double tranchant. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. En plus de sa lame, l'épée longue comporte une garde servant à protéger la main de son porteur, une poignée pour son maniement, ainsi qu'un pommeau faisant office de contrepoids. Malgré son extrémité pointue, cette arme est plutôt conçue pour frapper de taille que d'estoc.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -84,7 +84,7 @@ Nécessite :
 Poids : 5~
 
 // DWXBOW01.ITM (BG2:EE @46704)
-@105 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if, ou encore en matériaux composites, parfois même renforcé de métal pour augmenter sa puissance. La corde, quant à elle, est maintenue en tension sur l'arbrier à l'aide d'une petite pièce amovible appelée une noix. Lorsque le porteur actionne la noix en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). Les extrémités de l'arc sont dotées d'échancrures où est fixée la corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. L'arbalète légère, contrairement à ses dérivés d'arbalètes dites lourdes, peut s'armer en bandant la corde à la force des bras et inflige moins de dégâts. Cependant, la vitesse de rechargement du trait est plus rapide, permettant une cadence de tir bien plus élevée.
+@105 = ~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué d'une seule pièce en bois de frêne ou d'if, ou encore en matériaux composites, parfois même renforcé de métal pour augmenter sa puissance. La corde, quant à elle, est maintenue en tension sur l'arbrier à l'aide d'une petite pièce amovible appelée une noix. Lorsque le porteur actionne la noix en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). Les extrémités de l'arc sont dotées d'échancrures où est fixée la corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. L'arbalète légère, contrairement à ses dérivés d'arbalètes dites lourdes, peut s'armer en bandant la corde à la force des bras, inflige moins de dégâts et a une portée moindre. Cependant, la vitesse de rechargement du trait est plus rapide, permettant une cadence de tir bien plus élevée.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -114,7 +114,7 @@ Nécessite :
 Poids : 7~
 
 // DWBOLT01.ITM / DWBOLT02.ITM / DWBOLT03.ITM (BG2:EE @46717)
-@107 = ~Le carreau, également connu sous le nom de dondaine, est la munitions tirée par les arbalètes quel que soit le type de l'arme, lourde ou légère. Plus court que la flèche, il est muni d'une pointe à une extrémité et d'un empennage à deux pennes et d'une encoche à l'autre.
+@107 = ~Le carreau, également connu sous le nom de dondaine, est la munition tirée par les arbalètes quel que soit le type de l'arme, lourde ou légère. Plus court que la flèche, il est muni d'une pointe à une extrémité et d'un empennage à deux pennes et d'une encoche à l'autre.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
@@ -139,7 +139,7 @@ Nécessite :
 Poids : 70~
 
 // DWDART01.ITM
-@109 = ~La fléchette, également connue sous le nom de plumbata, est un petit projectile facilement dissimulable, lancée par la simple action mécanique des muscles plutôt que tirée par un arc ou une autre arme de trait. Plus courte que la flèche, elle est munie d'une pointe et d'un lestage en plomb à une extrémité et d'un empennage à trois pennes à l'autre.
+@109 = ~La fléchette, également connue sous le nom de plumbata, est un petit projectile facilement dissimulable, lancée par la simple action mécanique des muscles plutôt que tirée par un arc ou une autre arme de trait. Plus courte que la flèche, elle est munie d'une pointe et d'un lestage en plomb à une extrémité et d'un empennage à trois pennes de l'autre.
 
 Comme pour la plupart des équipements elfes noirs, cet objet est fait d'adamantium, un alliage d'adamantite qui se transforme rapidement en poussière quand il est exposé à la lumière naturelle.
 
