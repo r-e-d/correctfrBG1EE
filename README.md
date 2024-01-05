@@ -243,7 +243,7 @@ Ce composant supprime les ensembles de voix en anglais.
 
 Ce composant restaure les cinematiques classiques de la version orignale de Baldur's Gate.
 
-- Inclusion des vidéos doublées en français de BG.
+- Inclusion des vidéos doublées en français de BG1.
 - Réduction des artefacts de compression et augmentation de la résolution des cinématiques.
 
 <div align="right"><a href="#top">Retour en haut de page</a></div>
@@ -258,11 +258,11 @@ Ce composant restaure les cinematiques classiques de la version orignale de Bald
 
 Comparez les différentes versions des cinématiques (BG/BG:EE/CorrectfrBG1EE).
 
-#### BG2
+#### BG1
 
 <img src="correctfrbg1ee/readme/images/vidbg.png">
 
-#### CorrectfrBG2EE
+#### CorrectfrBG1EE
 
 <img src="correctfrbg1ee/readme/images/vidcorrectfrbg1ee.png">
 
