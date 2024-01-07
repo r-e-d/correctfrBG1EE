@@ -13110,6 +13110,8 @@ Poids : 5~
 @1022763 = ~Attendez, ATTENDEZ... J'ai quelque chose dans l'œil. Attendez... une minute... Ces fichus cils ! Je savais que je n'aurais pas dû les laisser repousser ! Je reviendrai pour en finir avec vous, croyez-moi !~
 @1022764 = ~Métamorphose~
 @1022766 = ~~
+@1022782 = ~Loup-garou majeur~
+@1022783 = ~Loup-garou majeur~
 @1022786 = ~On dit que ce gourdin enchanté existe depuis l'époque de la chute de Néthéril et de la naissance du grand désert d'Anauroch. Si la civilisation en a gravement souffert, les vraies victimes de cette époque furent les créatures de la nature, condamnées à regarder impuissantes la destruction de leurs habitats naturels. Au fur et à mesure que leurs habitats reculaient, celles qui restèrent encore debout subirent l'invasion de hordes de créatures en fuite, dont les plus impatientes ravageaient les terres encore fertiles et emportaient tout sur leur passage. On dit que ce gourdin provient de l'arbre d'une dryade, le dernier don à la cause de la nature fait par un esprit des bois qui ne pouvait repousser les envahisseurs de ses terres. Sa douleur était douce et amère, car son bois n'aurait pas tant souffert s'il n'avait été si beau et luxuriant. Des érudits peu respectueux ont depuis donné à cet objet ce nom ironique, mais les défenseurs les plus fidèles de Dame Nature goûtent peu à cet humour.
 
 PARAMÈTRES :
@@ -16556,7 +16558,7 @@ Si le lanceur nuit ou essaie de nuire à la personne sous le charme par une acti
 @1025911 = ~Métamorphose en flagelleur mental~
 @1025912 = ~Métamorphose en golem de fer~
 @1025913 = ~Métamorphose en troll géant~
-@1025914 = ~Métamorphose en loup-garou majeur~
+@1025914 = ~Métamorphose en muloup majeur~
 @1025915 = ~Métamorphose en élémentaire de feu~
 @1025916 = ~Métamorphose en élémentaire de terre~
 @1025923 = ~Lame enflammée
@@ -23876,7 +23878,7 @@ Dégâts : 2d6 (perforant), frappe comme une arme +2
 Capacités spéciales :
 - Immunité à l'étourdissement, au sommeil, à l'immobilisation, à la paralysie.
 - Régénère 1 point de vie par seconde.~
-@1032265 = ~Métamorphose en loup-garou majeur
+@1032265 = ~Métamorphose en muloup majeur
 
 Force : 19
 Dextérité : 19
