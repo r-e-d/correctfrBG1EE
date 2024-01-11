@@ -3502,6 +3502,9 @@ Poids : 0~
 @1007084 = ~Un mineur esclave nous a dit qu'il existait une façon de détruire la mine du Trône de Fer à Bois-Manteau. Un bouchon en acier bloque le flot d'une rivière souterraine. Si le bouchon était retiré, l'eau inonderait toute la mine. Le maître de la mine est le seul à posséder la clef du bouchon.~
 @1007086 = ~Des mineurs ici à Nashkel nous ont parlé de « créatures à tête de chien ».~
 @1007089 = ~Sous l'effet de l'envoûtement, Nimbul nous a vaguement raconté qu'il était employé par une « maison de fer ». Il a été envoyé pour nous tuer car, apparemment, nous représentons une menace pour cette « maison de fer ».~
+@1007097 = ~Potion de pouvoir, lanceur de sorts profanes~
+@1007098 = ~Potion de pouvoir, lanceur de sorts divins/druidiques~
+@1007100 = ~Potion de pouvoir, combattant~
 @1007101 = ~Potion de régénération~
 @1007102 = ~Potion de perspicacité~
 @1007108 = ~Gemme œil de lynx~
@@ -7391,7 +7394,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort permet au prêtre d'enchanter provisoirement un petit caillou. La Pierre magique peut ensuite être lancée sur un opposant. La pierre provoque 1d4 points de dégâts à la cible qu'elle touche. Les pierres sont considérées comme des armes +1 pour déterminer si une créature peut être frappée (certaines créatures, par exemple, ne peuvent être frappées que par des armes magiques), bien qu'elles ne rapportent aucun bonus d'attaque ou de dégâts.~
+Ce sort permet au prêtre d'enchanter provisoirement un petit caillou. La Pierre magique peut ensuite être lancée sur un opposant. La pierre provoque 1d4 points de dégâts à la cible qu'elle touche. Les pierres sont considérées comme des armes d'enchantement +1 pour déterminer si une créature peut être frappée (certaines créatures, par exemple, ne peuvent être frappées que par des armes magiques), bien qu'elles ne rapportent aucun bonus d'attaque ou de dégâts.~
 @1012318 = ~Lame enflammée
 (Évocation)
 
@@ -7790,7 +7793,6 @@ Ce sort crée 5 baies magiques que le lanceur peut emporter avec lui. Pour chaqu
 @1012659 = ~Oh mon enfant chéri... tu es DANS DE SALES DRAPS ! Mais où avais-tu la tête ?! Aller traîner dans un Temple d'Umberlie ?! Si cela ne risquait pas de te tuer, je t'administrerais une fessée mémorable !~
 @1012670 = ~Magique ou pas, je suis en droit de réclamer plus qu'une « petite » quantité d'or. Si tellement d'aventuriers font des dons, l'église doit regorger de pièces d'or. Donnez-les moi et le marché est conclu.~
 @1012674 = ~*tousse* que... ?~
-@1012682 = ~Baies magiques~
 @1012712 = ~Delsvirftanyon~
 @1012718 = ~Joueur~
 @1012741 = ~Je vous salue ! On dirait qu'les voyages ont réussi à tout le monde. Je ne m'attendrais cependant pas à des effusions pour le meurtre de Sarevok. J'imagine que l'incident sera immédiatement étouffé. Mais sachez que de nombreux citoyens éminents des Royaumes sont conscients du service que vous avez rendu et vous en sont reconnaissants. Un avertissement amical, toutefois. Ces mêmes citoyens sont à l'écoute. Veillez à ne pas devenir une menace comme votre frère, sinon un autre groupe de jeunes héros sera envoyé pour s'occuper de vous. Bonne chance.~
@@ -8881,6 +8883,7 @@ La paix revint dans la cité et les Aquafondais retournèrent à leurs travaux. 
 @1014006 = ~Jet de sauvegarde contre les baguettes, les sceptres et les bâtons~
 @1014009 = ~Jet de sauvegarde contre la paralysie, la mort et les poisons~
 @1014021 = ~Modification de l'Intelligence~
+@1014023 = ~Sous l'effet d'un sort de Hâte~
 @1014024 = ~Modification de la Dextérité~
 @1014027 = ~Dégâts reçus~
 @1014029 = ~Modification de la Constitution~
@@ -9014,6 +9017,8 @@ La paix revint dans la cité et les Aquafondais retournèrent à leurs travaux. 
 @1014641 = ~Vous avez vendu votre âme par amour de l'or, han. Tous les nains sont frères, mais VOUS, je ne vous considérerai jamais comme un membre de la famille.~ [YESLK29]
 @1014643 = ~Jet d'attaque~
 @1014650 = ~Paralysé(e)~
+@1014667 = ~Sous l'effet d'un sort de Hâte~
+@1014672 = ~Charmé(e)~
 @1014692 = ~La foire estivale se tient actuellement à Nashkel. J'sais pas si elle pourra s'dérouler correctement, avec tous les problèmes qu'ont connus ces régions dernièrement. Les gens vont pas prendre le risque de voyager pour aller à un festival.~
 @1014694 = ~On offre une grosse récompense pour la tête des types qui ont tué les chefs du Trône de Fer. 5 000 pièces d'or, peut-être même plus. Ils vont avoir tous les chasseurs de primes à leurs trousses.~
 @1014700 = ~Vous avez entendu parler du prêtre dont la tête est mise à prix pour 5 000 pièces d'or ? Il s'appelle Bassilus et je suppose qu'il a causé toutes sortes de dégâts dans la région. Lui et une horde de morts-vivants. Ça m'fait froid dans le dos, rien que d'y penser.~
@@ -9758,7 +9763,7 @@ Poids : 90~
 @1016755 = ~Ceux qui ont inventé le mot « stupidité » devaient sûrement penser à vous. Je ne tiens pas à faire partie de ce groupe.~
 @1016790 = ~Comment, j'ai une fille ? C'est... c'est aaahhhh... Merveilleux.~
 @1016796 = ~Que voulez-vous apprendre de moi ? Je peux vous parler des superbes forêts du Téthyr ou des nombreuses damoiselles qui ont succombé à mes charmes. J'ai également étudié les wivernes qui hantent la région. Elles ont des dards sur la queue qui leur permettent d'empoisonner leurs victimes. Ces bêtes cruelles adorent infliger des souffrances atroces à leurs proies. Je n'ai pas grand-chose d'autre à dire.~
-@1016798 = ~Baies magiques~
+@1016798 = ~Baie magique~
 @1016801 = ~Hé... les gars. Vous vous souv'nez d'moi, c'est vot' vieux pote Husam. *hoquette* Ça fait vraiment plaisir d'vous revoir. S'en est passé d'puis vot' départ ! Hé, ouaais, ch'ai entendu d'drôles de trucs. Paraît qu'vous êtes recherchés pour meurtres. Ah, alors, z'êtes des meurtriers. Bah, j'vous aime bien quand même. Hé, j'ai encore d'autres infos pour vous. Ça vous intéresse ?~
 @1016806 = ~Comme vous vous en doutez sans doute, il y a quelques règles auxquelles il faut vous soumettre. Tout d'abord, vous n'avez pas le droit d'emporter les livres hors de la salle où ils se trouvent. Ensuite, certaines salles sont marquées d'une rune et sont par conséquent interdites d'accès. Enfin, vous ne devez pas rester dans l'enceinte de Château-Suif plus de dix jours. Suivez-moi, je vous accompagne jusqu'à vos quartiers.~
 @1016821 = ~Vous êtes le... ? Et vous êtes assez stupide pour l'admettre ? Eh bien mon jeune ami, vous avez peut-être trouvé refuge dans la bibliothèque, mais une fois dehors, vous n'aurez nulle part où aller !~ ~Vous êtes la... ? Et vous êtes assez stupide pour l'admettre ? Eh bien jeune fille, vous avez peut-être trouvé refuge dans la bibliothèque, mais une fois dehors, vous n'aurez nulle part où aller !~
@@ -10854,7 +10859,7 @@ Spécial : double la vitesse de déplacement et accorde une attaque supplément
 Durée : 1 heure
 
 Poids : 1~
-@1017857 = ~L'élixir de santé est une puissante mixture faite pour purifier le corps de toute impureté. Il neutralise tous les poisons, guérit toutes les maladies et, une fois l'organisme de celui qui le boit purgé, rend à ce dernier 10 points de vie afin d'accélérer le processus de rétablissement.
+@1017857 = ~L'élixir de santé est une puissante mixture faite pour purifier le corps de toute impureté. Il neutralise tous les poisons, guérit toutes les maladies et, une fois l'organisme de celui qui le boit purgé, il rend à ce dernier 10 points de vie afin d'accélérer le processus de rétablissement.
 
 PARAMÈTRES :
 
@@ -10941,13 +10946,25 @@ Spécial : immunité aux sorts de 5ème niveau et inférieurs
 Durée : 5 rounds
 
 Poids : 1~
-@1017868 = ~Ce puissant élixir donne au buveur une résistance de 50 % à n'importe quel type de dégâts magiques. Ses effets durent 3 tours, ce qui le rend un peu plus utile au combat que dans d'autres situations.
+@1017868 = ~Ce très puissant élixir donne au buveur une résistance de 50 % à n'importe quel type de dégâts magiques. De plus, les jets de sauvegarde du bénéficiaire sont grandement augmentés. Ses effets durent 3 tours, ce qui le rend un peu plus utile au combat que dans d'autres situations.
 
 PARAMÈTRES :
 
 Résistance aux dégâts magiques : +50 %
-Spécial : tous les jets de sauvegarde sont réussis automatiquement
+Résistance à l'acide : +50 %
+Résistance à l'électricité : +50 %
+Résistance au feu : +50 %
+Résistance au froid : +50 %
+Jets de sauvegarde : +20
 Durée : 3 tours
+
+Poids : 1~
+@1017869 = ~Cette potion offre une résistance de 50 % à toute la magie, immunité partielle qui peut opérer aussi bien à l'avantage qu'au détriment de celui qui la boit. L'effet dure deux heures, ou jusqu'à sa dissipation par une source extérieure.
+
+PARAMÈTRES :
+
+Résistance à la magie : +50 %
+Durée : 2 heures
 
 Poids : 1~
 @1017870 = ~Cette potion transforme celui qui la boit en maître voleur. Les talents affectés sont le Vol à la tire et le Crochetage de serrures, qui se voient améliorés de manière très significative, et ce, durant 3 heures. Toutefois, seuls les bardes et les voleurs peuvent en bénéficier.
@@ -11281,7 +11298,7 @@ Nécessite :
 @1018287 = ~VOUS ENTENDEZ ÇA, ZAL ! Ils ne vous prennent pas au sérieux apparemment ! C'est le moment de leur donner une bonne leçon ! Je regrette, mais ça va faire mal !~
 @1018288 = ~Oh, je ne pourrais pas vous dire tout ce que je vois. Les données sont brutes et doivent être interprétées et examinées trois fois. C'est déjà un miracle que j'arrive à assimiler toutes ces informations sans effets négatifs. Quoi qu'il en soit, l'avenir promet des choses intéressantes. Si j'osais, je dirais que les cieux également regardent avec intérêt. Des conflits cruciaux pointent à l'horizon.~
 @1018291 = ~Oui, je dois être plus fiévreux que le plus cinglé des fous ! Toute ma vie ébranlée par un volatile maléfique venu des Enfers qui déclarait être la voix de la raison ! Comme une vie gâchée peut être douloureuse et agitée !~
-@1018292 = ~Hé, visez un peu ça ! Je crois que j'ai jamais vu un plus joli groupe d'aventuriers ! Hum, vous n'avez pas l'air bien équipés. Eh bien, vous avez de la chance, je peux résoudre tous vos problèmes. J'ai une grande collection de potions et de parchemins. Tout ça pour pas cher. Je peux vous donner tout de suite une potion de soins supérieurs pour 25 pièces d'or, ou un parchemin de Protection contre la pétrification pour 25 pièces d'or, ou encore un parchemin de protection contre la magie pour 100 pièces d'or. Qu'est-ce que vous en dites ?~
+@1018292 = ~Hé, visez un peu ça ! Je crois que j'ai jamais vu un plus joli groupe d'aventuriers ! Hum, vous n'avez pas l'air bien équipés. Eh bien, vous avez de la chance, je peux résoudre tous vos problèmes. J'ai une grande collection de potions et de parchemins. Tout ça pour pas cher. Je peux vous donner tout de suite une potion de grands soins pour 25 pièces d'or, ou un parchemin de protection contre la pétrification pour 25 pièces d'or, ou encore un parchemin de protection contre la magie pour 100 pièces d'or. Qu'est-ce que vous en dites ?~
 @1018294 = ~... la meilleure des écoles...~
 @1018306 = ~Vous ne savez pas ce que vous ratez !~
 @1018310 = ~Grande protection contre les basilics. À bientôt.~
@@ -12882,7 +12899,7 @@ Ce sort permet au lanceur de prendre la forme d'une autre créature. Il gagne ai
 Pendant toute la durée du sort, le lanceur peut changer de forme à volonté, autant de fois qu'il le désire. Dans certains cas, le lanceur gagnera des capacités d'attaques naturelles, et dans d'autres, la possibilité de se servir d'armes. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la Gelée moutarde, par exemple) sont également acquises.
 
 Les formes possibles sont les suivantes :
-- Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme +3
+- Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme d'enchantement +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
 - Araignée : empoisonne l'adversaire quand elle le touche
@@ -13904,7 +13921,7 @@ Niveau 3-5 : 1d8.
 Niveau 6-8 : 1d10.
 Niveau 9-14 : 1d12.
 Niveau 15 et plus : 1d20.
-- Au niveau 9, le poing du moine est considéré comme une arme +1 et bénéficie donc d'un bonus de 1 à ses jets d'attaque et de dégâts. Ce bonus évolue pour atteindre 2 au niveau 12, 3 au niveau 15 et 4 au niveau 25.
+- Au niveau 9, le poing du moine est considéré comme une arme d'enchantement +1 et bénéficie donc d'un bonus de 1 à ses jets d'attaque et de dégâts. Ce bonus évolue pour atteindre 2 au niveau 12, 3 au niveau 15 et 4 au niveau 25.
 - Bonus de 2 aux jets de sauvegarde contre les sorts.
 - Parade de projectiles : Bonus de 1 à la classe d'armure contre les projectiles par tranche de 3 niveaux d'expérience.
 - La classe d'armure initiale d'un moine est de 9 au niveau 1, et diminue ensuite de 1 tous les 2 niveaux d'expérience.
@@ -14257,7 +14274,7 @@ Avantages :
 - Peut lancer « Vision véritable » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Épée animée » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-ÉPÉE ANIMÉE : Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée ni rangée). Cette arme est enchantée comme une arme +4 et fournit un bonus de 4 au TAC0, mais pas de dégâts bonus. Dotée de 3 attaques par rounds, elle inflige 2d4 points de dégâts et dure 1 round par niveau d'expérience du prêtre. Tant que le prêtre l'a en main, il ne peut pas lancer le moindre sort.
+ÉPÉE ANIMÉE : Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée ni rangée). Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais pas de dégâts bonus. Dotée de 3 attaques par rounds, elle inflige 2d4 points de dégâts et dure 1 round par niveau d'expérience du prêtre. Tant que le prêtre l'a en main, il ne peut pas lancer le moindre sort.
 
 Désavantages :
 - Doit être d'alignement loyal bon, loyal neutre, loyal mauvais ou neutre strict.~
@@ -14410,6 +14427,8 @@ Cliquez sur le bouton « Ne plus jamais afficher » pour fermer ce menu dérou
 @1024519 = ~Échec du sort : impossibilité de lancer des sorts dans une zone de magie morte.~
 @1024533 = ~Vos sorts divins/druidiques ne sont plus disponibles.~
 @1024536 = ~Fatigué(e)~
+@1024540 = ~Augmentation du niveau de lanceur de sorts de <LEVELDIF>.~
+@1024541 = ~Diminution du niveau de lanceur de sorts de <LEVELDIF>.~
 @1024546 = ~Pause automatique : incantation de sort~
 @1024574 = ~matinée~
 @1024576 = ~soirée~
@@ -15732,7 +15751,7 @@ Avantages :
 - Peut lancer « Vision véritable » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Épée animée » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-ÉPÉE ANIMÉE : Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée ni rangée). Cette arme est enchantée comme une arme +4 et fournit un bonus de 4 au TAC0, mais pas de dégâts bonus. Dotée de 3 attaques par rounds, elle inflige 2d4 points de dégâts et dure 1 round par niveau d'expérience du prêtre. Tant que le prêtre l'a en main, il ne peut pas lancer le moindre sort.
+ÉPÉE ANIMÉE : Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée ni rangée). Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais pas de dégâts bonus. Dotée de 3 attaques par rounds, elle inflige 2d4 points de dégâts et dure 1 round par niveau d'expérience du prêtre. Tant que le prêtre l'a en main, il ne peut pas lancer le moindre sort.
 
 Désavantages :
 - Doit être d'alignement loyal bon, loyal neutre, loyal mauvais ou neutre strict.~
@@ -16856,6 +16875,7 @@ Jet de sauvegarde : aucun
 
 Ce sort donne au personnage un score de 18 en Force et y ajoute un bonus de 50 %. La cible reçoit tous les bonus de Force appropriés. Ainsi, si elle a un score en Force compris entre 18/50 et 18/00, ce score sera fixé à 18/00 pour la durée du sort. Si elle avait entre 18/01 et 18/50, alors le score de Force sera de 18/50 plus le pourcentage original. Si la Force était inférieure à 18, alors elle sera fixée à 18/50. Par contre, si la cible avait une Force de 19 ou plus, elle sera effectivement diminuée.~
 @1026016 = ~Modification supplémentaire de la Force~
+@1026019 = ~Sous l'effet d'un sort de Hâte~
 @1026023 = ~Arrêt du temps
 (Transmutation)
 
@@ -16986,7 +17006,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort permet au prêtre d'enchanter provisoirement un petit caillou, qui est ensuite lancé sur un adversaire. La pierre inflige 1d4 points de dégâts à la cible qu'elle touche. Les pierres sont considérées comme des armes +1 pour déterminer si une créature peut être frappée (certaines créatures, par exemple, ne peuvent être frappées que par des armes magiques), bien qu'elles ne rapportent aucun bonus d'attaque ou de dégâts.~
+Ce sort permet au prêtre d'enchanter provisoirement un petit caillou, qui est ensuite lancé sur un adversaire. La pierre inflige 1d4 points de dégâts à la cible qu'elle touche. Les pierres sont considérées comme des armes d'enchantement +1 pour déterminer si une créature peut être frappée (certaines créatures, par exemple, ne peuvent être frappées que par des armes magiques), bien qu'elles ne rapportent aucun bonus d'attaque ou de dégâts.~
 @1026131 = ~Apaisement
 (Abjuration)
 
@@ -17487,7 +17507,7 @@ Temps d'incantation : 7
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort est l'inverse du sort Soins des blessures graves. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit 17 points de dégâts magique. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
+Ce sort est l'inverse du sort Soins des blessures graves. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit 17 points de dégâts magique. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
 @1026225 = ~Manteau de terreur
 (Conjuration)
 
@@ -17612,7 +17632,7 @@ Temps d'incantation : 8
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort est l'inverse du sort Soins des blessures critiques. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit 27 points de dégâts magique. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
+Ce sort est l'inverse du sort Soins des blessures critiques. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit 27 points de dégâts magique. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
 @1026246 = ~Mise à mort
 (Nécromancie)
 
@@ -17624,7 +17644,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme +6, bonus de 3 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 3 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit automatiquement 2d6 +9 points de dégâts. De plus, elle doit réussir un jet de sauvegarde contre les sorts ou être instantanément tuée. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
+Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 3 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 3 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit automatiquement 2d6 +9 points de dégâts. De plus, elle doit réussir un jet de sauvegarde contre les sorts ou être instantanément tuée. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
 @1026248 = ~Injonction majeure
 (Enchantement/Charme)
 
@@ -17783,7 +17803,7 @@ Temps d'incantation : 9
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort est l'inverse du sort Guérison. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime voit ses points de vie réduits à 1. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
+Ce sort est l'inverse du sort Guérison. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime voit ses points de vie réduits à 1. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
 @1026275 = ~Aube illusoire
 (Évocation)
 
@@ -18863,7 +18883,7 @@ Ce sort permet au lanceur de prendre la forme d'une autre créature. Il gagne ai
 Pendant toute la durée du sort, le lanceur peut changer de forme à volonté, autant de fois qu'il le désire. Dans certains cas, le lanceur gagnera des capacités d'attaques naturelles, et dans d'autres, la possibilité de se servir d'armes. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la Gelée moutarde, par exemple) sont également acquises.
 
 Les formes possibles sont les suivantes :
-- Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme +3
+- Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme d'enchantement +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
 - Araignée : empoisonne l'adversaire quand elle le touche
@@ -19520,7 +19540,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un bonus inférieur ou égal à +2 (armes non-magiques incluses). L'incroyable puissance de ce sort, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler au beau milieu d'un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +2 (armes non-magiques incluses). L'incroyable puissance de ce sort, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler au beau milieu d'un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026605 = ~Protégé(e) par un sort de Manteau~
 @1026608 = ~Sphère du chaos
 (Transmutation)
@@ -19582,7 +19602,7 @@ Temps d'incantation : 7
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort fait apparaître une sorte de champ de force scintillant en forme d'épée dans les mains du lanceur. Cette épée octroie un bonus de 4 aux jets d'attaque et de dégâts, peut atteindre ses ennemis comme une arme +5 et inflige 5d4 points de dégâts tranchants à chaque attaque réussie. Une fois le sort lancé, l'épée flotte dans les airs sous le contrôle du lanceur, ce dernier peut continuer à accomplir d'autres actions pendant la durée du sort. L'Épée de Mordenkainen est particulièrement résistante, car elle est immunisée contre de nombreux effets (comme l'étourdissement, le sommeil, les charmes, les attaques psioniques, etc.) et possède également 100 % de résistance à tous les types de dégâts hormis ceux magiques.~
+Ce sort fait apparaître une sorte de champ de force scintillant en forme d'épée dans les mains du lanceur. Cette épée octroie un bonus de 4 aux jets d'attaque et de dégâts, peut atteindre ses ennemis comme une arme d'enchantement +5 et inflige 5d4 points de dégâts tranchants à chaque attaque réussie. Une fois le sort lancé, l'épée flotte dans les airs sous le contrôle du lanceur, ce dernier peut continuer à accomplir d'autres actions pendant la durée du sort. L'Épée de Mordenkainen est particulièrement résistante, car elle est immunisée contre de nombreux effets (comme l'étourdissement, le sommeil, les charmes, les attaques psioniques, etc.) et possède également 100 % de résistance à tous les types de dégâts hormis ceux magiques.~
 @1026616 = ~Convocation d'éfrit
 (Conjuration/Convocation)
 
@@ -19705,7 +19725,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un bonus inférieur ou égal à +3 (armes non-magiques incluses). Ce sort étant incroyablement puissant, sa durée est très limitée dans le temps. Le temps d'incantation est par contre très court, permettant ainsi de gagner quelques précieuses secondes de répit pendant un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +3 (armes non-magiques incluses). Ce sort étant incroyablement puissant, sa durée est très limitée dans le temps. Le temps d'incantation est par contre très court, permettant ainsi de gagner quelques précieuses secondes de répit pendant un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026639 = ~Protégé(e) par un sort de Manteau amélioré~
 @1026641 = ~Déclencheur de sorts
 (Invocation/Évocation)
@@ -19839,7 +19859,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un bonus inférieur ou égal à +5 (armes non-magiques incluses). Ce sort étant incroyablement puissant, sa durée est très limitée dans le temps. Le temps d'incantation est par contre très court, permettant ainsi de gagner quelques précieuses secondes de répit pendant un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +5 (armes non-magiques incluses). Ce sort étant incroyablement puissant, sa durée est très limitée dans le temps. Le temps d'incantation est par contre très court, permettant ainsi de gagner quelques précieuses secondes de répit pendant un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026661 = ~Protégé(e) par un sort d'Immunité absolue~
 @1026663 = ~Chaîne de contingences
 (Évocation)
@@ -19885,7 +19905,7 @@ Temps d'incantation : 4
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort crée une déchirure planaire ayant la forme d'une lame noire d'environ un mètre de long. Elle apparaît dans les mains du lanceur et se manipule comme une épée normale pendant toute la durée du sort. Le lanceur est considéré comme ayant atteint la grande maîtrise dans l'usage de cette arme. Cette épée octroie un bonus de 5 aux jets d'attaque et de dégâts, peut atteindre ses ennemis comme une arme +6 et inflige 2d12 points de dégâts tranchants à ses victimes. Pour chaque attaque portée avec la Lame noire du désastre, la victime doit réussir un jet de sauvegarde contre la mort à +4 ou être désintégrée. Il y a également 11 % de chances à chaque coup porté que 4 niveaux d'expérience de la cible soient drainés et que le lanceur soit soigné de 20 points de vie.~
+Ce sort crée une déchirure planaire ayant la forme d'une lame noire d'environ un mètre de long. Elle apparaît dans les mains du lanceur et se manipule comme une épée normale pendant toute la durée du sort. Le lanceur est considéré comme ayant atteint la grande maîtrise dans l'usage de cette arme. Cette épée octroie un bonus de 5 aux jets d'attaque et de dégâts, peut atteindre ses ennemis comme une arme d'enchantement +6 et inflige 2d12 points de dégâts tranchants à ses victimes. Pour chaque attaque portée avec la Lame noire du désastre, la victime doit réussir un jet de sauvegarde contre la mort à +4 ou être désintégrée. Il y a également 11 % de chances à chaque coup porté que 4 niveaux d'expérience de la cible soient drainés et que le lanceur soit soigné de 20 points de vie.~
 @1026671 = ~Changement de forme
 (Transmutation)
 
@@ -21720,9 +21740,12 @@ Nécessite :
 Poids : 3~
 @1029154 = ~Il vous en a fallu du temps espèce de pathétique tas de péripatétiques ! Êtes-vous prêts pour votre tout premier combat dans mon arène ? J'ai une foule qui attend et je veux leur montrer une bagarre passionnante.~ [BPL101]
 @1029166 = ~Cela aurait certainement pu tourner plus mal. Vous avez prouvé que vous pouviez éradiquer le plus faible des adversaires. Voyons voir maintenant comment vous vous débrouillez contre ceux qui ont mangé à leur faim cette dernière dizaine de jours !~ [BPT0B102]
+@1029172 = ~Mon dieu, l'expression sur leur visage lorsqu'ils ont compris qu'ils ne reverraient plus jamais les dégoûtantes cavernes qu'ils appellent maison ! Je pense que ça mérite un bonus.~ [BPT1B202]
+@1029175 = ~Même si le sortilège est plus puissant que l'épée, on perd quelque chose avec un subtil duel de magie. Quelle est cette insaisissable qualité ? L'impact viscéral des coups corporels, le craquement des os et le déchirement de la chair. Admirez cette équipe de pulvérisant pugilistes prête à pilonner les précieuses vies de nos preux défenseurs !~ [BPT1B401]
 @1029190 = ~Certains de mes amis sont venus me confier qu'ils trouvaient que je favorisais la qualité au détriment de la quantité. Qui a dit que vous ne pouviez pas avoir les deux ? Avec ses cinq sources infinies d'animation, voici mon ami, et le vôtre, le splendide ogre-mage !~ [BPT2B401]
 @1029195 = ~Toutes mes excuses, <RACE> ! Je perds rarement mon sang-froid en public. C'est juste que je suis si... impressionné par vos exploits que j'ai du mal à m'exprimer. Je devrais être content car, avec vous, j'ai créé le spectacle de divertissement ultime !~ [BPL301]
 @1029201 = ~Comment cela est-il possible ? N'est-ce pas toujours « basilic lapide magicien » ? C'était quoi, Najim ?~ [BPT3B102]
+@1029205 = ~Venue des plus hautes étendues du Grand Glacier, je vous présente une gâterie glacée comme vous n'en avez jamais eue auparavant. Frissonnez devant la formidable férocité de ces frigorifiant félons.~ [BPT3B301]
 @1029217 = ~J'aimerais faire un combat de niveau 1.~
 @1029218 = ~J'aimerais faire un combat de niveau 2.~
 @1029219 = ~J'aimerais faire un combat de niveau 3.~
@@ -23704,7 +23727,7 @@ Dextérité : 17
 
 Classe d'armure de base : 4
 Attaques par round : 2
-Dégâts : 1d4 (perforant), frappe comme une arme +1, +1 dégât de poison toutes les 2 secondes pendant 5 rounds (jet de sauvegarde contre les poisons à +1 pour annuler)
+Dégâts : 1d4 (perforant), +1 toutes les 2 secondes pendant 5 rounds (poison, jet de sauvegarde contre les poisons à +1 pour annuler), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Immunité aux toiles d'araignées
@@ -23716,7 +23739,7 @@ Dextérité : 17
 
 Classe d'armure de base : 3
 Attaques par round : 2
-Dégâts : 1d6 (perforant), frappe comme une arme +2, +5 dégâts de poison par seconde pendant 20 secondes (jet de sauvegarde contre les poisons à -4 pour annuler)
+Dégâts : 1d6 (perforant), +5 par seconde pendant 20 secondes (poison, jet de sauvegarde contre les poisons à -4 pour annuler), frappe comme une arme d'enchantement +2
 
 Capacités spéciales :
 - Immunité à l'immobilisation, à la paralysie, au ralentissement, au drain de niveau, aux toiles d'araignées, à l'enchevêtrement et aux sorts de Glisse.~
@@ -23727,7 +23750,7 @@ Dextérité : 19
 
 Classe d'armure de base : 2
 Attaques par round : 1
-Dégâts : 1d8 (perforant), frappe comme une arme +3
+Dégâts : 1d8 (perforant), frappe comme une arme d'enchantement +3
 
 Capacités spéciales :
 - TAC0 : +1
@@ -23741,7 +23764,7 @@ Dextérité : 9
 
 Classe d'armure de base : 4
 Attaques par round : 1
-Dégâts (à distance) : 5d4 (contondant), frappe comme une arme +3, +1 de poison toutes les 2 secondes pendant 5 rounds (jet de sauvegarde contre les poisons à +2 pour annuler), ralentissement pendant 200 secondes (jet de sauvegarde contre les souffles à -2 pour annuler)
+Dégâts (à distance) : 5d4 (contondant), +1 toutes les 2 secondes pendant 5 rounds (poison, jet de sauvegarde contre les poisons à +2 pour annuler), ralentissement pendant 200 secondes (jet de sauvegarde contre les souffles à -2 pour annuler), frappe comme une arme d'enchantement +3
 
 Capacités spéciales :
 - Résistance au froid : 50 %
@@ -23760,7 +23783,7 @@ Capacités spéciales :
 Ce sort dure 1 round par niveau d'expérience du lanceur de sorts. Il le protège contre l'électricité, le feu, le froid et les projectiles non-magiques.~
 @1032249 = ~Épée animée
 
-Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée, volontairement ou non). Cette arme est enchantée comme une arme +4 et fournit un bonus de 4 au TAC0, mais aucun bonus aux dégâts. Elle inflige 2d4 points de dégâts à toute cible qu'elle touche. L'arme fixe le nombre d'attaques par round du prêtre à 3 et dure 1 round par niveau d'expérience. Tant que le personnage l'a en main, il ne peut pas lancer le moindre sort.~
+Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée, volontairement ou non). Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais aucun bonus aux dégâts. Elle inflige 2d4 points de dégâts à toute cible qu'elle touche. L'arme fixe le nombre d'attaques par round du prêtre à 3 et dure 1 round par niveau d'expérience. Tant que le personnage l'a en main, il ne peut pas lancer le moindre sort.~
 @1032250 = ~Don de Lathandre
 
 Ce sort dure 1 round par niveau d'expérience et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Il protège également contre le drain de niveau.~
@@ -23778,7 +23801,7 @@ Dextérité : 18
 
 Classe d'armure de base : 6
 Attaques par round : 2
-Dégâts : 1d8 (perforant), frappe comme une arme +1
+Dégâts : 1d8 (perforant), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Résistance au froid : 100 %
@@ -23792,7 +23815,7 @@ Dextérité : 12
 
 Classe d'armure de base : 6
 Attaques par round : 3
-Dégâts : 1d6 (perforant), frappe comme une arme +1
+Dégâts : 1d6 (perforant), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Vitesse de déplacement augmentée~
@@ -23803,7 +23826,7 @@ Dextérité : 12
 
 Classe d'armure de base : 7
 Attaques par round : 3
-Dégâts : 1d6 (perforant), frappe comme une arme +1
+Dégâts : 1d6 (perforant), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Vitesse de déplacement augmentée~
@@ -23817,7 +23840,7 @@ Dextérité : 17
 
 Classe d'armure de base : 1
 Attaques par round : 2
-Dégâts : 1d10 +1 (perforant ou tranchant), +1 (feu), frappe comme une arme +3
+Dégâts : 1d10 +1 (perforant ou tranchant), +1 (feu), frappe comme une arme d'enchantement +3
 
 Capacités spéciales :
 - TAC0 : +1
@@ -23829,7 +23852,7 @@ Dextérité : 9
 
 Classe d'armure de base : 5
 Attaques par round : 1
-Dégâts : 4d6 (contondant), frappe comme une arme +1
+Dégâts : 4d6 (contondant), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Vitesse de déplacement augmentée~
@@ -23840,10 +23863,11 @@ Dextérité : 10
 
 Classe d'armure de base : 5
 Attaques par round : 4
-Dégâts : 1d2 (contondant), frappe comme une arme +2, -5 en Intelligence
+Dégâts : 1d2 (contondant), frappe comme une arme d'enchantement +2
 
 Capacités spéciales :
-- Souffle psionique (étourdit la cible pendant 5 rounds si elle rate son jet de sauvegarde contre les sorts)~
+- Souffle psionique (étourdit la cible pendant 5 rounds si elle rate son jet de sauvegarde contre les sorts)
+- Dévorer le cerveau (la cible subit -5 en Intelligence pendant 30 secondes)~
 @1032263 = ~Métamorphose en golem de fer
 
 Force : 24
@@ -23851,7 +23875,7 @@ Dextérité : 9
 
 Classe d'armure de base : 3
 Attaques par round : 1
-Dégâts : 4d10 (contondant), frappe comme une arme +4
+Dégâts : 4d10 (contondant), frappe comme une arme d'enchantement +4
 
 Capacités spéciales :
 - Résistance au feu : 125 %
@@ -23865,7 +23889,7 @@ Capacités spéciales :
 - Résistance aux dégâts contondants : 20 %
 - Résistance aux dégâts perforants : 20 %
 - Résistance aux dégâts de projectiles : 20 %
-- Immunité aux armes +2 ou inférieures, aux attaques sournoises, au sommeil, à la peur, à l'immobilisation, aux charmes, à la paralysie et aux poisons.~
+- Immunité aux armes d'enchantement +2 ou inférieures, aux attaques sournoises, au sommeil, à la peur, à l'immobilisation, aux charmes, à la paralysie et aux poisons.~
 @1032264 = ~Métamorphose en troll géant
 
 Force : 18
@@ -23873,7 +23897,7 @@ Dextérité : 20
 
 Classe d'armure de base : 4
 Attaques par round : 3
-Dégâts : 2d6 (perforant), frappe comme une arme +2
+Dégâts : 2d6 (perforant), frappe comme une arme d'enchantement +2
 
 Capacités spéciales :
 - Immunité à l'étourdissement, au sommeil, à l'immobilisation, à la paralysie.
@@ -23885,7 +23909,7 @@ Dextérité : 19
 
 Classe d'armure de base : 2
 Attaques par round : 3
-Dégâts : 1d12 (tranchant), frappe comme une arme +1
+Dégâts : 1d12 (tranchant), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Résistance au feu : 50 %
@@ -23894,7 +23918,7 @@ Capacités spéciales :
 - Résistance à l'acide : 50 %
 - Résistance au feu magique : 50 %
 - Résistance au froid magique : 50 %
-- Immunité aux armes +1 ou inférieures.
+- Immunité aux armes d'enchantement +1 ou inférieures.
 - Régénère 8 points de vie par seconde.~
 @1032266 = ~Métamorphose en élémentaire de feu
 
@@ -23903,12 +23927,12 @@ Dextérité : 9
 
 Classe d'armure de base : 2
 Attaques par round : 1
-Dégâts : 3d8 (contondant), +1d6 (feu), frappe comme une arme +4
+Dégâts : 3d8 (contondant), +1d6 (feu), frappe comme une arme d'enchantement +4
 
 Capacités spéciales :
 - Résistance au feu : 100 %
 - Résistance au feu magique : 100 %
-- Immunité aux armes +2 ou inférieures~
+- Immunité aux armes d'enchantement +2 ou inférieures~
 @1032267 = ~Métamorphose en élémentaire de terre
 
 Force : 19
@@ -23916,10 +23940,10 @@ Dextérité : 9
 
 Classe d'armure de base : 2
 Attaques par round : 1
-Dégâts : 4d8 (contondant), frappe comme une arme +4
+Dégâts : 4d8 (contondant), frappe comme une arme d'enchantement +4
 
 Capacités spéciales :
-- Immunité aux armes +2 ou inférieures.~
+- Immunité aux armes d'enchantement +2 ou inférieures.~
 @1032270 = ~Orage de pluie bouillonnante
 
 Le personnage invoque une tempête de pluie bouillonnante et nocive. Les adversaires dans la zone d'effet subissent 2d6 dégâts de poison, et doivent réussir un jet de sauvegarde contre les souffles sous peine d'être étourdis pendant un round.~
@@ -24033,7 +24057,7 @@ Dextérité : 16
 
 Classe d'armure de base : 1
 Attaques par round : 2
-Dégâts : 1d6 (tranchant), frappe comme une arme +2
+Dégâts : 1d6 (tranchant), frappe comme une arme d'enchantement +2
 
 Capacités spéciales :
 - Résistance à la magie : 20 %~
@@ -24044,7 +24068,7 @@ Dextérité : 20
 
 Classe d'armure de base : -6
 Attaques par round : 3
-Dégâts : 1d8 (tranchant), frappe comme une arme +2
+Dégâts : 1d8 (tranchant), frappe comme une arme d'enchantement +2
 
 Capacités spéciales :
 - Résistance au feu : 50 %
@@ -24625,11 +24649,11 @@ Dextérité : 16
 
 Classe d'armure de base : 3
 Attaques par round : 4
-Dégâts : 2d6 (perforant), frappe comme une arme +1
+Dégâts : 2d6 (perforant), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Immunité aux toiles d'araignées
-- Hâte permanente~
+- Sous l'effet d'un sort de Hâte~
 @1032892 = ~Eh ! Vous vous battez bien. Pourquoi ne pas l'avoir fait lorsque cela importait, elfe ? Mais ça suffit, j'ai du travail à faire... je prends une patrouille et je pars pour la mine. Mes bandits vont s'occuper de vous maintenant.~
 @1032899 = ~Baldur's Gate : Adventurers of Neverwinter~
 @1032900 = ~Brand-new art and voice sets from Beamdog to build your character around! Customize your Baldur's Gate: Enhanced Edition experience with this collection of eleven new character portraits and seven new voice sets. Mark Meer returns to deliver character voices for fan-favorites, Alveus Malcanter and Baeloth!
@@ -26619,7 +26643,7 @@ De quoi s'agit-il ?~ [BD38743]
 
 Les croisés ont tous été transformés en limons.
 
-J'ai rejoint les croisés malades avec la potion de soin, mais ils ont refusé de payer le prix. Ce refus leur aura finalement coûté la vie, leur maladie les a consumés et ils ont tous été transformés en limons.~
+J'ai rejoint les croisés malades avec la potion de soins, mais ils ont refusé de payer le prix. Ce refus leur aura finalement coûté la vie, leur maladie les a consumés et ils ont tous été transformés en limons.~
 @1040367 = ~S'il vous plaît. Faites votre possible.~
 @1040373 = ~Mes blessures brûlent...~
 @1040377 = ~Je... je me sens déjà mieux. Mes vertiges s'estompent. Oui, je pense pouvoir me lever maintenant. Merci, camarade. Vous avez fait plus que je n'osais imaginer.~
@@ -26706,6 +26730,7 @@ Poids : 10~
 @1040886 = ~La catapulte des croisés, chargée d'explosifs, est directement pointée sur la porte extérieure du château Paldragon.~
 @1040898 = ~Si vous avez besoin de quoi que ce soit lors de votre périple vers Paldragon, venez me voir, je verrai ce que je peux faire.~
 @1040901 = ~*ces imposantes portes sont visiblement capables de résister à n'importe quelle attaque n'impliquant pas l'usage de lourdes machines de siège... ou d'une bonne quantité d'explosifs*~
+@1040907 = ~Une potion de soins serait-elle utile ?~
 @1040917 = ~Argh... pfiou... merci. Je m'excuse pour le désordre. Nous avons été piégés dans ces maudites lianes pendant des jours.~
 @1040918 = ~Pas besoin de me remercier. Vous avez eu de la chance que je passe par là.~
 @1040919 = ~Euh, vous avez encore un morceau de feuille sur le visage. Sur le coin de votre bouche. L'autre coin. Voilà.~
@@ -28398,7 +28423,7 @@ Poids : 0~
 Je dois rapporter les têtes des bons druides à Ferrusk.
 
 J'ai accepté de retourner à la surface et de tuer Jamven et Chorster pour le druide sombre. Leurs têtes devraient prouver que j'ai bien accompli cette sinistre mission.~
-@1048434 = ~Cette fiole contient une potion de soin spéciale contre le poison fongique trouvé dans les grottes sous le château Paldragon. Une gorgée suffit à guérir un malade.
+@1048434 = ~Cette fiole contient une potion de soins spéciale contre le poison fongique trouvé dans les grottes sous le château Paldragon. Une gorgée suffit à guérir un malade.
 
 PARAMÈTRES :
 
@@ -28413,6 +28438,7 @@ PARAMÈTRES :
 Poids : 5~
 @1048439 = ~Un aveu étonnant, venant de vous.~
 @1048471 = ~Je sais, c'est la raison pour laquelle je vous en parle. Arrêtons de perdre du temps et trouvons le traître.~
+@1048483 = ~Vous me prenez pour une alchimiste ? Peut-être une potion de soins, mais la fiole est étrange. Le traître l'a peut-être achetée dans ce camp.~ [BD48483]
 @1048511 = ~Hé, je fais de mon mieux !~
 @1048516 = ~Préparer un camp de cette taille représente énormément de travail. Parlez vite, parlez bien.~
 @1048518 = ~La vie d'un héros de ma stature n'est pas de tout repos non plus. Prenez une minute de votre temps pour m'aider avec cette fiole extrêmement importante.~ ~La vie d'une héroïne de ma stature n'est pas de tout repos non plus. Prenez une minute de votre temps pour m'aider avec cette fiole extrêmement importante.~
@@ -28439,9 +28465,11 @@ Poids : 5~
 @1048674 = ~Tous ces objets proviennent de la même personne. Cela fait de vous un traître, Rendahl.~
 @1048677 = ~Vous posez plus de problèmes que prévu, « héros », mais votre destin est toujours scellé. Caelar triomphera !~ ~Vous posez plus de problèmes que prévu, « héroïne », mais votre destin est toujours scellé. Caelar triomphera !~
 @1048678 = ~Il est là ! Attaquez !~ ~Elle est là ! Attaquez !~
+@1048684 = ~Souhaitez-vous cette potion de soins ?~
 @1048692 = ~La grâce du Rusé me permet de soigner les blessés.~
 @1048707 = ~Le Dieu Pleureur est Ilmater, dieu de la souffrance et de l'endurance. Chaque toux déchirante me rapproche de ma foi.~
 @1048725 = ~Vous m'avez convaincu. Je dois penser au bien de tous plutôt qu'à ma foi personnelle. Vous pouvez me soigner.~
+@1048727 = ~Tenez, prenez cette potion de soins.~
 @1048732 = ~D-D'accord. Vous m'avez convaincu de penser au bien de tous plutôt qu'à ma foi personnelle.~
 @1048733 = ~Aucun véritable adepte d'Ilmater ne refuserait à autrui la possibilité de souffrir. J'accepte le marché.~
 @1048734 = ~Allons-y !~
@@ -28580,7 +28608,7 @@ Dans les grottes sous Paldragon, j'ai trouvé plusieurs croisés blessés, empoi
 
 Les croisés ont succombé à leur maladie.
 
-J'ai rejoint les croisés malades avec la potion de soin dont ils avaient besoin, mais trop tard. Leur maladie les a consumés, ils ont tous été transformés en limon.~
+J'ai rejoint les croisés malades avec la potion de soins dont ils avaient besoin, mais trop tard. Leur maladie les a consumés, ils ont tous été transformés en limon.~
 @1049338 = ~Voilà qui explique pourquoi je me sens si faible. N'y a-t-il rien à faire pour mettre fin à ce fléau ?~
 @1049357 = ~La Tour Myconide
 
@@ -30015,7 +30043,7 @@ Durant sa dernière mission, Ambrose renvoya le collier à Esthia avec un mot lu
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Niveau du lanceur : +1 (clercs et paladins)
+- Niveau de lanceur de sorts divins : +1
 - Permet de mémoriser deux sorts divins supplémentaires de 1er niveau
 
 Poids : 0~
@@ -30614,7 +30642,7 @@ L'expédition est continuellement ralentie par les victimes de la croisade. Un f
 Est-il possible que la cause de Caelar Argent soit juste ? Ou bien est-ce un habile subterfuge servant ses propres desseins, comme l'avait fait Sarevok autrefois ?~ [BD56974]
 @1056976 = ~Maladie du limon
 
-J'ai rejoint les croisés malades avec la potion de soin pour les guérir.~
+J'ai rejoint les croisés malades avec la potion de soins pour les guérir.~
 @1056986 = ~*l'eau du bassin est trouble et il y a très peu de lumière dans la grotte... vous avez beau essayer, vous ne voyez pas ce que dissimule la surface*~
 @1056987 = ~*l'eau du bassin est trouble et il y a très peu de lumière dans la grotte... grâce à l'infravision, vous apercevez un tunnel sous la surface... vous pourriez plonger et explorer le tunnel*~
 @1056991 = ~*des orques et des trolls s'affrontent dans cette clairière... une odeur nauséabonde s'étend depuis le nord-est*~
@@ -31499,7 +31527,7 @@ J'ai aidé Neera à se libérer de l'esprit d'Adoy. Elle est maintenant aussi ca
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Niveau du lanceur : +1 (mage, ensorceleur, barde)
+- Niveau de lanceur de sorts profanes : +1
 - Connaissances : +10
 
 Capacités de charge :
@@ -38187,14 +38215,14 @@ Poids : 2~
 Je devrais apporter ce remède au chef des croisés empoisonnés.
 
 J'ai le remède à la maladie du limon qui afflige les croisés. Une fois que leur chef l'aura, il pourra s'occuper de ses soldats.~
-@1069203 = ~Il y a des siècles, des aventuriers qui exploraient une tombe pénétrèrent dans sa crypte centrale. Là, ils furent assaillis par des fantômes et des spectres. Ils combattirent bravement, mais succombèrent les uns après les autres. Des années plus tard, la fille d'un des aventuriers engagea une équipe pour s'aventurer dans la tombe et récupérer leurs corps. Elle donna pour consigne de ne toucher qu'aux dépouilles, et les esprits de la tombe les laissèrent faire sans intervenir. Elle conserva le bandeau de son défunt père comme souvenir de sa bravoure.
+@1069203 = ~Il y a des siècles, des aventuriers qui exploraient une tombe pénétrèrent dans sa crypte centrale. Là, ils furent assaillis par des fantômes et des spectres. Ils combattirent bravement, mais succombèrent les uns après les autres sous les coups des fantômes. Des années plus tard, la fille d'un des aventuriers engagea une équipe pour s'aventurer dans la tombe et récupérer leurs corps. Elle donna pour consigne de ne toucher qu'aux dépouilles, et les esprits de la tombe les laissèrent faire sans intervenir. Elle conserva le bandeau de son défunt père comme souvenir de sa bravoure.
 
 PARAMÈTRES :
 
 Capacités d'équipement :
 - TAC0 : +2
-- Niveau du lanceur : +1
-- Les esprits convoqués sont constamment sous les effets du sort Bénédiction
+- Niveau de lanceur de sorts divins/druidiques : +1
+- Les esprits invoqués bénéficient en permanence des effets du sort de Bénédiction
 
 Poids : 1~
 @1069205 = ~Cette large ceinture de cuir a été teinte en magenta profond. Elle a été fabriquée il y a plus de dix ans par un voleur humain qui voyait ses larcins comme autant d'occasions d'adorer Mask. Tous ses cambriolages étaient vus comme des prières à Mask, et il entassait le fruit de ses rapines dans un autel secret dédié au dieu des voleurs. Il préférait s'habiller en violet, convaincu que c'était la couleur préférée de sa divinité. Il fabriqua cette ceinture pour aller avec sa vêture. Ce voleur fut finalement pris et tué lors d'un de ses coups, et sa ceinture fut confisquée par le guet de la ville. La nuit suivante, la ceinture disparut d'un coffre fermé situé dans la caserne, raflée par Mask, afin qu'elle puisse continuer à le servir. Aujourd'hui, la ceinture arrive souvent entre les mains de ceux qui sauront s'en servir à bon escient.
