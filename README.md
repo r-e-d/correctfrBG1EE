@@ -274,11 +274,11 @@ Comparez les captures d'écran des textes (BG:EE/CorrectfrBG1EE).
 
 #### <a name="images3" id="images3"></a>BG:EE :
 
-<img src="correctfrbg2ee/readme/images/2.6b.png">
+<img src="correctfrbg1ee/readme/images/2.6b.png">
 
 #### CorrectfrBG1EE :
 
-<img src="correctfrbg2ee/readme/images/2.6bpatched.png">
+<img src="correctfrbg1ee/readme/images/2.6bpatched.png">
 
 ##
 
