@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<a href="#intro">Présentation</a> &#8226; <a href="#compat">Compatibilité</a> &#8226; <a href="#components">Composants</a> &#8226; <!--<a href="#images">Captures d'écran et vidéos</a> &#8226;--> <a href="#credits">Crédits et remerciements</a> &#8226; <a href="#versions">Historique des versions</a></br>
+<a href="#intro">Présentation</a> &#8226; <a href="#compat">Compatibilité</a> &#8226; <a href="#components">Composants</a> &#8226; <a href="#images">Captures d'écran et vidéos</a> &#8226; <a href="#credits">Crédits et remerciements</a> &#8226; <a href="#versions">Historique des versions</a></br>
 </div>
 
 
@@ -254,9 +254,9 @@ Ce composant restaure les cinematiques classiques de la version orignale de Bald
 
 #### <a name="textes" id="textes"></a>Textes
 
-Comparez les captures d'écran des textes (BG:EE/CorrectfrBG1EE).
+Comparez les captures d'écran des textes (BG:SoD/CorrectfrBG1EE).
 
-#### BG:EE :
+#### BG:SoD :
 
 <img src="correctfrbg1ee/readme/images/2.6.png">
 
@@ -264,7 +264,7 @@ Comparez les captures d'écran des textes (BG:EE/CorrectfrBG1EE).
 
 <img src="correctfrbg1ee/readme/images/2.6patched.png">
 
-#### <a name="images2" id="images2"></a>BG:EE :
+#### <a name="images2" id="images2"></a>BG:SoD :
 
 <img src="correctfrbg1ee/readme/images/2.6a.png">
 
@@ -272,7 +272,7 @@ Comparez les captures d'écran des textes (BG:EE/CorrectfrBG1EE).
 
 <img src="correctfrbg1ee/readme/images/2.6apatched.png">
 
-#### <a name="images3" id="images3"></a>BG:EE :
+#### <a name="images3" id="images3"></a>BG:SoD :
 
 <img src="correctfrbg1ee/readme/images/2.6b.png">
 
