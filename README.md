@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<a href="#intro">Présentation</a> &#8226; <a href="#compat">Compatibilité</a> &#8226; <a href="#components">Composants</a> &#8226; <!--<a href="#images">Captures d'écran et vidéos</a> &#8226;--> <a href="#credits">Crédits et remerciements</a> &#8226; <a href="#versions">Historique des versions</a></br>
+<a href="#intro">Présentation</a> &#8226; <a href="#compat">Compatibilité</a> &#8226; <a href="#components">Composants</a> &#8226; <a href="#images">Captures d'écran et vidéos</a> &#8226; <a href="#credits">Crédits et remerciements</a> &#8226; <a href="#versions">Historique des versions</a></br>
 </div>
 
 
@@ -28,13 +28,13 @@ Ce mod a pour objectif de corriger la traduction française de Baldur's Gate : E
 
 En effet, le <a href="https://forums.beamdog.com/discussion/81909/patch-2-6-launches-today" target="_blank">patch 2.6</a> de BG:SoD sorti en avril 2021, propose une nouvelle traduction française officielle réalisée par le prestataire de <a href="https://www.beamdog.com/" target="_blank">Beamdog</a> : <a href="https://mogi-group.com/" target="_blank">Mogi Group</a>. Désespérément attendu depuis mars 2016 par la communauté française, ce nouveau patch traduit notamment le contenu de Baldur's Gate : Siege of Dragonspear.
 
-Bien que cette nouvelle traduction officielle ouvre de nouvelles perspectives, elle comporte également certaines régressions majeures, comparée à ses prédécesseures. Comme par exemple : l'absence totale de doublage audio en français (<a href="#doublage">par exemple la comparaison du doublage BG:SoD/CorrectfrBG1EE //todo</a>) ou encore de dialogue accordé au féminin pour le personnage joueur (<a href="#images">par exemple la réponse 4 //todo</a>), qui étaient pourtant bien présents dans le jeu original.
+Bien que cette nouvelle traduction officielle ouvre de nouvelles perspectives, elle comporte également certaines régressions majeures, comparée à ses prédécesseures. Comme par exemple : l'absence totale de doublage audio en français (<a href="#doublage">par exemple la comparaison du doublage BG:SoD/CorrectfrBG1EE //todo</a>) ou encore de dialogue accordé au féminin pour le personnage joueur (<a href="#images2">par exemple ce dialogue</a>), qui étaient pourtant bien présents dans le jeu original.
 
-Par ailleurs, de nombreux choix pris dans BG:SoD ne sont pas compatibles avec le travail effectué par les traducteurs et relecteurs francophones bénévoles depuis maintenant plus de 20 ans. Comme par exemple : le vouvoiement systématique (<a href="#images">par exemple Imoen qui vouvoie le personnage joueur, ou l'inverse //todo</a>), ou encore des changements de noms propres (<a href="#images2">par exemple « Château Paldragon » qui devient « Château Vougedragon » //todo</a>), pour ne citer qu'eux.
+Par ailleurs, de nombreux choix pris dans BG:SoD ne sont pas compatibles avec le travail effectué par les traducteurs et relecteurs francophones bénévoles depuis maintenant plus de 20 ans. Comme par exemple : le vouvoiement systématique (<a href="#images">par exemple Imoen qui vouvoie le personnage joueur, ou l'inverse</a>), ou encore des changements de noms propres (<a href="#images3">par exemple « Château Paldragon » qui devient « Château Vougedragon »</a>), pour ne citer qu'eux.
 
 Nous constatons donc que la fidélité et la qualité de cette nouvelle traduction officielle ne correspondent pas aux attentes de la communauté.
 
-La traduction de BG:EE, quant à elle, souffre encore de quelques doublages audio en français manquants (<a href="#doublage">par exemple la comparaison du doublage BG:EE/BG1/CorrectfrBG1EE //todo</a>), qui étaient pourtant bien présents dans le jeu original, ou encore de quelques fautes.
+La traduction de BG:EE, quant à elle, souffre encore de quelques doublages audio en français manquants (<a href="#doublage2">par exemple la comparaison du doublage BG:EE/BG1/CorrectfrBG1EE //todo</a>), qui étaient pourtant bien présents dans le jeu original, ou encore de quelques fautes.
 
 Notre objectif est d'être aussi fidèle que possible aux textes originaux, sans pour autant être obstinément fermé à certaines propositions de cette nouvelle traduction officielle, afin d'en tirer le meilleur parti. De plus, de nombreuses corrections et améliorations supplémentaires ont été intégrées aux textes et aux doublages originaux de BG:EE, voir la section <a href="#components">Composants</a> pour plus de détails.
 
@@ -252,11 +252,39 @@ Ce composant restaure les cinematiques classiques de la version orignale de Bald
 
 ## <a name="images" id="images"></a>Captures d'écran et vidéos
 
+#### <a name="textes" id="textes"></a>Textes
+
+Comparez les captures d'écran des textes (BG:SoD/CorrectfrBG1EE).
+
+#### BG:SoD :
+
+<img src="correctfrbg1ee/readme/images/2.6.png">
+
+#### CorrectfrBG1EE :
+
+<img src="correctfrbg1ee/readme/images/2.6patched.png">
+
+#### <a name="images2" id="images2"></a>BG:SoD :
+
+<img src="correctfrbg1ee/readme/images/2.6a.png">
+
+#### CorrectfrBG1EE :
+
+<img src="correctfrbg1ee/readme/images/2.6apatched.png">
+
+#### <a name="images3" id="images3"></a>BG:SoD :
+
+<img src="correctfrbg1ee/readme/images/2.6b.png">
+
+#### CorrectfrBG1EE :
+
+<img src="correctfrbg1ee/readme/images/2.6bpatched.png">
+
 ##
 
 #### <a name="cinématiques" id="cinématiques"></a>Cinématiques
 
-Comparez les différentes versions des cinématiques (BG/BG:EE/CorrectfrBG1EE).
+Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 
 #### BG1
 
