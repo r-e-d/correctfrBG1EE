@@ -2440,6 +2440,7 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 @1005726 = ~Des rumeurs ? Pfff ! Il n'y a aucun mage ici qui souhaite parler, ou qui désire qu'on parle de lui, à moins bien sûr, que vous n'ayez de la magie à vendre.~
 @1005749 = ~Je ne suis qu'un garde. Je n'ai pas grand-chose à vous dire.~
 @1005789 = ~Je suis Taurgosz Khosann, et j'ai tué dix hommes d'un simple coup de marteau de guerre. Beaucoup de mes hommes pensent que nous travaillons pour le Zhentarim, c'est ce qu'on leur a dit au cas où ils se feraient capturer. En réalité, c'est le Trône de Fer qui nous paie par l'intermédiaire de Tazok. Ils veulent que nous interceptions tous les transports de fer qui arrivent dans la région.~
+@1005790 = ~Ne m'ennuyez pas, petit homme.~ ~Ne m'ennuyez pas, petite femme.~
 @1005797 = ~Je m'appelle euh, euh... Bassilus. Je vénère le glorieux Cyric. J'habitais à Château-Zhentil avec ma famille, mais hélas... les géants sont venus et tout le monde est mort. Je... je me suis enfui et... tout le monde est mort. Mais maintenant, ils sont de retour. Je les ai tous RAMENÉS ! Je vous aiderai aussi ! Bougez pas !~
 @1005807 = ~Quelque chose provoque la mort des hommes dans les mines et les gardes amniens se révèlent impuissants.~
 @1005810 = ~Les gardes de Nashkel n'ont pas réussi à localiser leur capitaine dément, Brage.~
@@ -4730,6 +4731,7 @@ Poids : 0~
 @1008246 = ~Salut ! Vous aussi, vous avez fui, hein ? Je trouve ces cérémonies d'un ennuyeux... mais mère m'oblige à y assister. Je n'aime pas non plus ce Sarevok. Il y a chez lui quelque chose de... pas très net. Il met de l'ambiance en apparence, mais en réalité, c'est toujours aussi ennuyeux.~
 @1008270 = ~Oh, quelle santé ! J'parie que vous passez vos nuits à... lustrer votre trique, hein ? Dehors ! Et ne revenez pas avant d'être... plus détendu. Faites-vous aider d'un ami, c'est plus... agréable. Hé hé.~
 @1008279 = ~Dehors ! J'attends la visite d'un galant homme et je ne veux pas qu'il soit effrayé. Il est... si sensible.~
+@1008331 = ~Soyez les bienvenus, du moins tant qu'vous payez l'addition ! Faites bien attention aux coins sombres de la taverne. La plupart du temps, la garde ne se mêle pas de ce qui s'y passe. Y a-t-il quelque chose que je puisse faire pour vous ?~
 @1008337 = ~Nous avons perdu plus qu'une citoyenne ordinaire, nous avons perdu la Dame. L'endroit est souvent béni par l'étrange chant d'un fantôme, une jeune elfe qui pleure un amour perdu noyé dans l'océan. Sa voix est très belle et c'est la principale raison pour laquelle j'ai acheté cet établissement. Elle n'a pas émis un son depuis plus de deux dizaines de jours. C'est sûrement un présage, bien que je ne sache pas de quoi. Je pensais que les problèmes économiques de notre pays étaient trop dérisoires pour affecter les morts, mais les choses sont souvent plus compliquées qu'elles ne le paraissent. Ou plus simples, bien que cela aille un peu à l'encontre de mon raisonnement. Oubliez ça. Bon séjour.~
 @1008344 = ~Je n'ai rien à craindre de cette racaille. Ils auront affaire à MA lame pour toute menace proférée.~
 @1008346 = ~Salut, les amis. Si vous permettez, vous avez l'air du vagabond bien armé, ce qui veut dire que vous *rote* faites soit le métier de fou de traîner dans les donjons pouilleux, soit celui plus facile d'épée de la nuit. Hé ! Dans tous les cas, vous avez des objets délestés à leurs propriétaires. Je peux donc vous aider. Si vous possédez quelque chose d'un peu trop « connu » pour être vendu, je vous le prends, à un prix d'ami bien sûr.~
@@ -6253,7 +6255,7 @@ Poids : 1~
 PARAMÈTRES :
 
 Poids : 115~
-@1011828 = ~Petits êtres rosâtres, vous allez mourir. Le fils du Meurtre offre 10 000 pièces d'or pour la tête de <CHARNAME>. Nous allons donc la lui prendre.~
+@1011828 = ~Petits êtres rosâtres, vous allez tous mourir. Le Fils du Meurtre offre 10 000 pièces d'or pour la tête de <CHARNAME>. Nous allons donc la lui prendre.~
 @1011830 = ~La session multijoueur a été annulée. Les numéros de version des programmes serveur et client ne correspondent pas.
 
 Version programme serveur : <SERVERVERSION>
@@ -6715,13 +6717,13 @@ Le bénéficiaire de ce sort est extraordinairement chanceux dans tout ce qu'il 
 (Enchantement/Charme)
 
 Niveau : 1
-Portée : 18 mètres
+Portée : champ visuel du lanceur
 Durée : 5 rounds par niveau
 Temps d'incantation : 1
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
-Lorsque le magicien lance un sort de Sommeil, il provoque un état comateux chez un ou plusieurs ennemis (autres que les morts-vivants et certaines créatures à l'abri des effets de ce sort particulier). Toutes les créatures qu'il veut affecter doivent se trouver dans un rayon de 4,5 mètres. Les créatures dans la zone d'effet doivent réussir un jet de sauvegarde contre la mort à -3 sous peine de s'endormir. Les monstres possédant 5 dés de vie ou plus ne sont pas affectés. Les attaques portées aux adversaires endormis n'échouent jamais.~
+Lorsque le lanceur jette le sort Sommeil, il provoque un état comateux chez un ou plusieurs ennemis (autres que les morts-vivants et certaines créatures à l'abri des effets de ce sort particulier). Toutes les créatures qu'il veut affecter doivent se trouver dans un rayon de 4,5 mètres. Les créatures dans la zone d'effet doivent réussir un jet de sauvegarde contre la mort à -3 sous peine de perdre connaissance pendant 5 rounds par niveau d'expérience du lanceur. Les créatures possédant 5 dés de vie (ou niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1012173 = ~Incinérateur d'Agannazar
 (Évocation)
 
@@ -6948,10 +6950,10 @@ Niveau : 1
 Portée : 15 mètres
 Durée : instantanée
 Temps d'incantation : 1
-Zone d'effet : arc de 90°
+Zone d'effet : arc de 90° de 8 mètres de long
 Jet de sauvegarde : spécial
 
-Grâce à ce sort, un éventail de couleurs vives jaillit de la main du magicien. Entre une et six créatures (1d6) situées dans la zone sont affectées dans l'ordre croissant de leur proximité au magicien. Toute créature dans la zone d'effet de 4 dés de vie (ou 4 niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds.~
+Grâce à ce sort, une gerbe de couleurs vives en forme d'éventail jaillit de la main du lanceur. 1d6 créatures situées dans la zone d'effet sont affectées dans l'ordre croissant de leur proximité au lanceur. Toute créature dans la zone d'effet de 4 dés de vie (ou 4 niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds. Les créatures ayant 5 dés de vie (ou 5 niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1012192 = ~Porte dimensionnelle
 (Transmutation)
 
@@ -7336,7 +7338,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Ce sort permet au lanceur d'ordonner à une créature de « mourir » (dormir) pendant un round. À la fin du round, la créature se réveille, indemne. Les créatures de 6 dés de vie (ou niveaux d'expérience) ou plus ont le droit de faire un jet de sauvegarde contre les sorts pour échapper à ses effets. Les adversaires plongés dans un sommeil magique peuvent être attaqués avec des bonus substantiels, comme le fait de pouvoir réussir automatiquement toute attaque physique à leur encontre.~
+Ce sort permet au lanceur d'ordonner à une créature de « mourir » (perdre connaissance) pendant un round. À la fin du round, la créature se réveille, indemne. Les créatures de 6 dés de vie (ou niveaux d'expérience) ou plus ont le droit de faire un jet de sauvegarde contre les sorts pour échapper à ses effets. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1012227 = ~Gardien du portail~
 @1012238 = ~Galken~
 @1012241 = ~Davaëorn~
@@ -7394,7 +7396,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort permet au prêtre d'enchanter provisoirement un petit caillou. La Pierre magique peut ensuite être lancée sur un opposant. La pierre provoque 1d4 points de dégâts à la cible qu'elle touche. Les pierres sont considérées comme des armes d'enchantement +1 pour déterminer si une créature peut être frappée (certaines créatures, par exemple, ne peuvent être frappées que par des armes magiques), bien qu'elles ne rapportent aucun bonus d'attaque ou de dégâts.~
+En jetant ce sort, le lanceur crée un petit caillou magique qui s'envole et frappe la créature ciblée. La pierre inflige 1d4 points de dégâts magiques à la cible qu'elle touche. Les pierres sont considérées comme magiques pour déterminer si une créature peut être touchée (certaines créatures, par exemple, ne peuvent être frappées que par des dégâts magiques).~
 @1012318 = ~Lame enflammée
 (Évocation)
 
@@ -11099,6 +11101,7 @@ Votre salaire habituel est doublé en la circonstance. Si tout se passe bien, es
 Rieltar~
 @1017932 = ~Pas le temps, pas le temps ! Je dois courir jusqu'à l'Amn et faire un rapport sur des situations tout à fait désespérées ! Les attaques de bandits se multiplient, le minerai de fer s'amenuise, tout le monde s'élève contre le manque d'armes. Pas étonnant que les relations soient tendues à l'extrême. Je pars en Amn.~
 @1017936 = ~Ha ! Vous m'avez fait peur, mon enfant !~
+@1017938 = ~Ceux qui nous ont précédés étaient des ignares, comme vous. Ceux qui nous ont précédés étaient des faibles, comme vous. Ceux qui nous ont précédés n'étaient pas Zhalimar, ni Gardush, ni Naaman, ni Diyab, ni Aasim ou encore Alaï. Ceux qui nous ont précédés sont morts, tout comme vous le serez bientôt. C'est ce qui a été décrété, et c'est ce qui sera fait. C'est Sarevok qui l'exige !~
 @1017941 = ~J'ai une tâche pour vous et ceux que vous avez choisis.
 
 Vous, fidèle entre les fidèles, devez tenir bon à ma place.
@@ -11310,8 +11313,14 @@ Nécessite :
 @1018323 = ~D'accord, voilà. Il y a un très grand mage qui habite juste au-dessus de cette colline. Des objets magiques sont éparpillés un peu partout, je parie. Le problème, c'est qu'il a deux monstres de chair hideux qui montent la garde, et pas d'ombre où me cacher ! La force brute est inutile contre ces monstres. Rien ne marche. Il doit y avoir un moyen d'être plus malin que les sots, mais je ne sais pas comment. Oh, je ferais mieux de trouver quelque part un village de petites gens à embêter. Je vous laisse ça.~
 @1018326 = ~S'il vous plaît, attendez un moment. Je dois vous parler. C'est très important !~
 @1018327 = ~Pardonnez mon manque de tact. Il me semble que j'étais très perturbée avant même que vous ne vous approchiez de moi. Je suis lasse des questions, surtout quand les gens trouvent que les réponses sont trop vagues. Les étoiles ne sont pas un livre de référence, tout n'y est pas écrit noir sur blanc. Si c'était le cas, chacun pourrait lire la page désirée et plus personne n'aurait besoin de moi. Vu les circonstances, je ne peux pas vous dire grand-chose sur vos problèmes actuels.~
+@1018351 = ~Je regrette de raviver des souvenirs aussi douloureux. Je voudrais vous aider et, ce faisant, en finir avec ces rêves qui me hantent. Tenez, prenez ceci. Lorsque vous combattrez contre les six crapules qui sont au service du meurtrier de votre père, lisez ce parchemin, il vous protégera de leur courroux. À présent, au revoir, peut-être nous reverrons-nous un jour.~
 @1018413 = ~Vous avez eu une enfance raisonnablement heureuse avec lui, bien qu'un peu difficile. Mais vous étiez un véritable petit trublion ! Je me demande d'où ça vient ? Voyons voir ce qu'on peut apprendre sur vous avant ce Gorion. Bien avant, je vois... Je vois... Dieux tout-puissants ! Je-vois-une-vie-longue-et-heureuse-pour-vous-et-les-vôtres. Ça fera 10 pièces d'or, je dois y aller.~
 @1018425 = ~Chut ! J'suis en train d'espionner Bassilus et ses revenants. Y sont marrants !~
+@1018426 = ~NOOOoooon.
+
+KAHRK !
+
+Ô TOUT-PUISSANT KAHRK !~
 @1018427 = ~J'ai plus de maison où aller, plus depuis que Maman et Johnny ont disparu. J'les ai cherchés mais j'ai trouvé que des revenants. L'un d'entre eux porte le caleçon de Johnny, quand même, mais je veux même pas savoir comment il l'a eu... Faites attention de ne pas faire peur à Bassilus, d'accord ?~
 @1018430 = ~Des revenants ? « marrants » ? Tiens, c'est une première ! Qu'est-ce que ceux-là ont de si drôle ?~
 @1018442 = ~Bassilus n'arrête pas de répéter combien son enfance a été heureuse, mais tous les revenants ne font que grogner et marmonner, comme s'ils n'écoutaient pas vraiment. C'est ce que mon frère Johnny faisait avant de disparaître, marmonner comme ça quand il écoutait pas vraiment... Restez ici. J'vais aller parler de cet endroit à ma copine Netty. Elle va trouver ça vraiment drôle, avec la disparition de son papa et tout ça.~
@@ -12134,6 +12143,7 @@ Poids : 1~
 @1020127 = ~*déglutit* Hé ben, c'est un camp de bandits, des tentes ici, des tentes là, il n'y a pas de fichu plan d'ensemble.~
 @1020133 = ~Dans ce camp, la loyauté entre les bandits est à peu près aussi solide que le fer qu'ils volent. Il m'a fallu les « encourager », mais l'un des bandits a fini par me révéler que la tente de Tazok se trouvait au nord-est du campement. Si je dois découvrir quoi que ce soit sur cet enfer, je ne peux qu'espère que ce sera là-bas.~
 @1020135 = ~Dans ce camp, la loyauté entre les bandits est à peu près aussi solide que le fer qu'ils volent. Il m'a fallu procéder à un peu d'« incitation », mais l'un des bandits a fini par me révéler que la tente de Tazok se situait au nord-est du camp. Qu'il y ait des gardes à l'intérieur ne me surprend pas, mais le captif qui s'y trouve pourra, lui, oui, s'avérer utile. Bon, je ne devrais pas traîner ici, la plume à la main. Sinon, ce ne sera pas de l'encre, mais mon propre sang qui tâchera ma tunique.~
+@1020140 = ~Je me moque de qui vous êtes, personne n'entre dans la tente de Tazok ! Sous peine de mort...~
 @1020142 = ~Vous feriez mieux de venir alors car je n'ai pas l'intention de tourner les talons.~
 @1020147 = ~C'est donc vous ? Je devrais vous planter mon couteau dans le cœur ! Alors, Sarevok s'est-il arrangé pour que vous les tuiez, ou a-t-il commis le meurtre de ses propres mains et vous a-t-il ensuite fait accuser ? Peu importe, je vais vous tuer de toute façon ! Cette nuit, quelqu'un doit payer la mort de mon père !~
 @1020150 = ~Euh... salut ! Moi, c'est Tersus... Z'êtes... z'êtes les nouveaux ?~
@@ -12141,6 +12151,7 @@ Poids : 1~
 @1020171 = ~Lieutenant <CHARNAME>, chef de la sécurité.~ ~Lieutenante <CHARNAME>, cheffe de la sécurité.~
 @1020172 = ~Euh, en fait je suis la personne accusée d'avoir tué les dirigeants du Trône de Fer.~
 @1020184 = ~Vraiment ? À ce que j'ai ouï dire, Sarevok a joué un rôle bien plus actif que n'importe qui d'autre dans cette tuerie. Que venez-vous faire ici ? Nous massacrer pour rétablir votre réputation ? Nous avons, en somme, un ennemi commun que mes supérieurs ne seraient pas fâchés de voir « quitter » l'organisation, pour ainsi dire... J'aurais tendance à inscrire cet avant-poste du Trône de Fer à l'inventaire des pertes. Si, bien entendu, Sarevok disparaissait, on pourrait peut-être quand même le rebâtir...~
+@1020199 = ~Oui, je suppose que oui, mais je ne serai pas long. Les acolytes dont je parle résident au cinquième étage avec Thaldorn. Ils sont six et partagent leur folie par paire : deux clercs, deux mages et deux hommes de main. Il y a cependant un je-ne-sais-quoi qui cloche chez eux... s'ils n'étaient là que pour l'argent, je n'aurais rien à y redire. Mais non, il y a autre chose... ce serait un vice trop humain pour eux. Ils ont un plan secret, et je ne sais pas en quoi il consiste... Ah ! Même en cet instant, je peux sentir leurs regards vénéneux posés sur moi. Votre pécule ne saurait me retenir davantage, j'en ai bien peur.~
 @1020202 = ~Hors de ma vue ! Je quitte le navire tant qu'il en est encore temps !~
 @1020211 = ~Me calmer ? Me calmer, alors que les acolytes de Sarevok usent de leur magie à mon encontre ? Certainement pas, étranger, certainement pas !~ ~Me calmer ? Me calmer, alors que les acolytes de Sarevok usent de leur magie à mon encontre ? Certainement pas, étrangère, certainement pas !~
 @1020212 = ~Sarevok, sur le point de devenir Grand-Duc ? Comment est-ce possible ?~
@@ -12178,11 +12189,12 @@ Poids : 1~
 @1020321 = ~Scouic.~ [AMB_E45A]
 @1020322 = ~Scouic.~ [AMB_E45B]
 @1020323 = ~Corps de l'émissaire Tar~
-@1020324 = ~Hum, bonjour. Vous devez être les négociateurs de la ville... Voyons voir la liste, voilà : émissaire... émissaire Tar ? Pile à l'heure. Ravi de vous rencontrer. Je suis Destus Gurn, l'assistant du chef comptable chargé des activités du Trône de Fer sur la Côte des Épées. Deux mots maintenant sur nos procédures de négociation avant que vous montiez. Thaldorn sera avec un comité de six conseillers du Trône de Fer qui nous sont envoyés de l'étranger : Zhalimar Nuageloup, Naaman, Diyab, Aasim et Alaï. Des gens tout à fait respectables et pressés de vous rencontrer. Il y a un septième membre en plus aujourd'hui : un certain M. Lyle Espejo. Il est là pour veiller à ce que tout se passe bien en cette période de transition. Quant à l'ordre du jour...~
+@1020324 = ~Hum, bonjour. Vous devez être les négociateurs de la ville... Voyons voir la liste, voilà : émissaire... émissaire Tar ? Pile à l'heure. Ravi de vous rencontrer. Je suis Destus Gurn, l'assistant du chef comptable chargé des activités du Trône de Fer sur la Côte des Épées. Deux mots maintenant sur nos procédures de négociation avant que vous ne montiez les escaliers. Thaldorn sera avec un comité de six conseillers du Trône de Fer qui nous sont envoyés de l'étranger : Zhalimar Nuageloup, Gardush, Naaman, Diyab, Aasim et Alaï. Des gens tout à fait respectables et pressés de vous rencontrer. Il y a un septième membre en plus aujourd'hui : un certain M. Lyle Espejo. Il est là pour veiller à ce que tout se passe bien en cette période de transition. Quant à l'ordre du jour...~
 @1020328 = ~Vous n'êtes pas l'émissaire Tar ? Eh bien, vous n'avez rien à faire ici. Je vous conseille de retourner d'où vous venez.~
 @1020330 = ~Oui, c'est vrai. Bien, émissaire Tar. Montez et ne me laissez plus vous retenir ici davantage. Il se prépare de grandes choses et je suis très fier d'avoir fait votre connaissance, au nom du Trône de Fer et j'espère, pour le bien de tous, que les... négociations... se dérouleront rapidement. Oui, merci.~
 @1020336 = ~Je suis l'émissaire Tar. Je suis ici pour négocier un traité sur le fer avec Thaldorn pour le compte des Grands-Ducs.~
 @1020338 = ~Combien d'émissaires Tar avons-nous maintenant ? Trois ? Imbécile, Dame Tar se trouve sous votre nez et s'apprêtait à partir, n'est-ce pas, très chère ? Franchement, cela n'a que trop duré !~
+@1020339 = ~Et qui êtes-vous pour dire cela ? J'ai écrasé tous ceux qui vous ont précédé !~
 @1020343 = ~<CHARNAME>, vous dites ? Ah, oui, Sarevok nous avait bien dit que vous essayeriez de vous mêler de ce qui ne vous regarde pas. Mais ça s'arrêtera là.~
 @1020361 = ~Ce puissant élixir est similaire à la potion d'héroïsme, en ce qu'il simule une augmention de niveau d'expérience à celui qui la boit. L'accroissement affecte les points de vie, le TAC0 et les talents de roublard, mais ne modifie pas le multiplicateur des dégâts d'attaque sournoise. L'effet s'applique aux scores de base, avant tout modificateur éventuel.
 
@@ -13338,7 +13350,7 @@ Poids : 1~
 @1023347 = ~J'ai parlé à Kaïshas Gan, l'actuelle meneuse du village, et elle m'a demandé de l'aider à débarrasser l'île des « bêtes ». J'ai refusé, mais il se peut que j'y réfléchisse à deux fois si je veux qu'on m'aide à quitter cet endroit.~
 @1023348 = ~Des loups-garous ! Tous des loups-garous ! Et je suis contaminé ! Ils étaient à bord du navire de Baldurien quand il s'est renversé, et l'équipage a préféré saborder le navire plutôt que de les combattre. Ils vivent ici depuis des centaines d'années, mais cette fois, je veux les voir tomber devant moi !~
 @1023349 = ~Des loups-garous ! Ils descendent de l'ancien équipage du navire de Baldurien, mais ce sont tous des loups-garous. C'est d'ailleurs pour cette raison que leur navire fut sabordé ! Ils m'ont « fait cadeau » de leur lycanthropie pour que je sois des leurs. Sûr qu'on aurait pu faire quelque chose, mais les autres membres de leur village ne voulaient pas en entendre parler. Maintenant, il faut que je me débrouille pour leur échapper.~
-@1023350 = ~J'ai combattu Kaïshas de mauvais gré. Elle avait l'air de croire que c'était inévitable. Elle a parlé d'une possible deuxième chance pour son peuple si Sélaad revenait un jour. C'était leur chef disparu, si je me souviens bien.~
+@1023350 = ~J'ai combattu Kaïshas à contrecœur. Elle semblait penser qu'il n'y avait pas d'autre solution. Elle a parlé d'une possible deuxième chance pour son peuple si Sélaad revenait un jour. C'était leur chef disparu, si je me souviens bien.~
 @1023351 = ~J'ai exterminé Kaïshas et tous ceux de son espèce que j'ai pu trouver. Mais il faut que je me tienne sur mes gardes, car elle a parlé d'un certain Sélaad qui pourrait bien être quelque part dans la nature.~
 @1023352 = ~Je lui ai donné une chance de sauver sa vie, mais Kaïshas a voulu se battre jusqu'au bout. Elle a dit que son peuple pourrait avoir une deuxième chance si Sélaad revenait, alors il faut que je me méfie aussi de lui.~
 @1023353 = ~Félon du miroir~
@@ -13377,7 +13389,15 @@ Poids : 3~
 @1023401 = ~J'ai rencontré l'historien du village, un certain Durlyle. Je le trouve assommant, mais j'ai accepté de lui rendre un petit service. Il semble qu'un symbole important pour son village, une cape, ait été arrachée de la hutte du chef durant la récente tempête. Elle se trouve sans doute hors des murs. Il faudra donc que je prenne garde aux « bêtes » dont les gens du coin n'arrêtent pas de parler. J'espère que ça ne prendra pas trop de temps.~
 @1023404 = ~Les villageois sont arrivés ici il y a bien longtemps, après leur naufrage. Ils venaient de l'ouest lointain et ont été amenés par des soi-disant « explorateurs ». Il y eut une grande tempête... Leurs anciens disaient qu'elle aurait pu « venir de l'intérieur » ou quelque chose comme ça. Leur peuple allait être rejeté... un peu comme du lest dont on se débarrasse... alors ils ont lutté. Il ont survécu et se sont installés ici.~
 @1023408 = ~On dirait que cette machinerie est reliée à la chambre mortuaire, au nord. Il y a un levier à tirer, mais il faut une clef pour le libérer.~
+@1023410 = ~Le mystère de cette île est maintenant élucidé. Mendas, aussi connu sous le nom de Sélaad, nous y a envoyés sous le faux prétexte de récupérer des preuves de ce que l'on pensait être le naufrage de Baldurien. Il s'agissait bel et bien du bateau de l'aventurier, bien que son sort personnel demeure toujours inconnu. Lors de ce funeste voyage, son équipage fut infecté par la lycanthropie. Le vaisseau s'échoua sur l'île et les deux espèces de lycanthropes, loups-garous et muloups, s'affrontèrent pour leur survie. Les loups-garous, plus organisés, construisirent le village auprès duquel nous fîmes récemment naufrage. Les muloups, plus dispersés, s'installèrent dans les ruines du navire de Baldurien et les deux meutes survécurent dans une coexistence difficile depuis lors. Mendas, ou Sélaad, prit finalement le risque de partir à la recherche du continent. Il y parvint tant bien que mal et, ayant appris que l'île avait été découverte, il inventa une histoire plausible et nous envoya voler les cartes maritimes, puis nous chargea de nous rendre sur l'île pour les faire parvenir à sa compagne louve-garou. Celle-ci nous fit éliminer les muloups et nous infecta ensuite par la lycanthropie, pensant que nous allions nous joindre à la meute ou mourir en la combattant. Après l'avoir tuée, nous avons pris les cartes et sommes rentrés pour découvrir finalement le vrai visage de Mendas. Il semble que le destin ne se lasse pas de me jouer des tours.~
 @1023411 = ~Ils n'ont pas précisé ce qu'ils entendent exactement par « être des leurs ». Les étrangers ne sont pas des leurs. Sans doute un rituel quelconque pour devenir citoyen.~
+@1023422 = ~Il semble que nous ayons été trompés. Kaïshas est morte et son acabit meurtrier avec elle.~
+@1023426 = ~Il semble que nous ayons été trompés. Kaïshas est morte et son acabit meurtrier avec elle.~
+@1023430 = ~Il semble que nous ayons été trompés. Kaïshas est morte et son acabit meurtrier avec elle.~
+@1023434 = ~Le livre ne sert à rien ! Votre tâche était de sauver la famille du maître. Où est Kaïshas, la compagne du maître ?~
+@1023435 = ~Il semble que nous ayons été trompés. Kaïshas est morte et son acabit meurtrier avec elle.~
+@1023437 = ~Votre tâche était claire : voyager jusqu'à l'île-demeure et retrouver la famille du maître. Si vous échouiez, Kaïshas devait vous prendre les cartes maritimes. Humanoïdes inutiles ! Sélaad ne souffre pas l'échec.~
+@1023438 = ~Idiot ! On nous a fait partir sous un faux prétexte et maintenant c'est de notre faute ? Kaïshas nous a attaqués et nous avons été contraints de nous défendre. Mendas a été trahi par sa propre ruse.~
 @1023446 = ~J'ai accepté d'aller chercher des fleurs pour Delainie. C'est pas vraiment ce que j'appelle du travail. J'aurais pu lui en apporter de ma propre initiative. Je crois qu'elle commence à me plaire, cette fille. Que je ne sois pas « des leurs », ça ne la dérange pas. Les fleurs qu'elle veut poussent hors de l'enceinte, alors je vais y aller pour les cueillir.~
 @1023447 = ~J'ai accepté d'aller chercher des fleurs pour Durlyle. C'est pas vraiment ce que j'appelle du travail. J'aurais pu lui en apporter de ma propre initiative. Je crois qu'il commence à me plaire, ce type. Que je ne sois pas « des leurs », ça ne le dérange pas. Les fleurs qu'il veut poussent hors de l'enceinte, alors je vais y aller pour les cueillir.~
 @1023451 = ~Qui êtes-vous ? Êtes-vous Durlag lui-même ?~
@@ -13502,7 +13522,8 @@ Poids : 3~
 @1023753 = ~Mais pourquoi ? Je pense que je peux surmonter l'attraction de cet endroit si j'ai assez d'énergie magique. Vous avez peut-être des objets, ou votre corps lui-même peut m'aider. La nature du pouvoir n'a pas d'importance, et j'ai assez parlé !~
 @1023765 = ~Ah oui ? Et il n'est pas venu la chercher lui-même ? Bien sûr que non. Il n'a réussi à quitter cet endroit qu'en se dépouillant de ses plus puissants dweomers. Il était plus sage de vous envoyer, car vous avez moins de pouvoirs. Nul doute qu'il vous sortira de là par un stratagème quelconque, une fois votre tâche accomplie, la magie étant alors concentrée ailleurs. Ai-je deviné votre façon de voyager ? Mais la connaissez-vous au moins ?~
 @1023780 = ~Métamorphose~
-@1023786 = ~C'est très généreux, mais même si vous partez, vous nous exterminerez de toute façon. D'autres viendront, d'autres imbéciles, juste pour lutter contre les êtres « diaboliques » que nous sommes. Non, nous devons rester seuls ici et vous aussi. Dans le sommeil de la mort, vous ne connaîtrez pas la solitude. Si Sélaad revient, nous réessayerons peut-être. En attendant, nous restons ici.~
+@1023784 = ~Pourquoi nous battre ? Nous ne pouvons pas vous laisser partir en sachant tout cela, vous en savez trop. Nous aurions pu vivre en paix, mais maintenant vous avez combattu et n'accepterez jamais. D'autres viendront pour tuer ou pour capturer. Les aventuriers comme vous viennent toujours tôt ou tard, n'est-ce pas ? Non, je dois me battre, et vous devez mourir ! Nous pourrons encore garder quelque espoir si Sélaad revient, mais vous ne pouvez plus nous aider.~ ~Pourquoi nous battre ? Nous ne pouvons pas vous laisser partir en sachant tout cela, vous en savez trop. Nous aurions pu vivre en paix, mais maintenant vous avez combattu et n'accepterez jamais. D'autres viendront pour tuer ou pour capturer. Les aventurières comme vous viennent toujours tôt ou tard, n'est-ce pas ? Non, je dois me battre, et vous devez mourir ! Nous pourrons encore garder quelque espoir si Sélaad revient, mais vous ne pouvez plus nous aider.~
+@1023786 = ~C'est très généreux de votre part, mais si vous partez, vous nous exterminerez de toute façon. D'autres viendront, d'autres imbéciles viendront juste pour combattre les êtres « diaboliques » que nous sommes. Non, nous devons rester seuls ici et vous aussi. Dans le sommeil de la mort, vous ne connaîtrez pas la solitude. Si Sélaad revient, nous réessaierons peut-être. Mais en attendant, nous restons ici.~
 @1023790 = ~Rôdeur invisible~
 @1023793 = ~Transmutation de la chair en pierre~
 @1023804 = ~Hahahaha ! La Mort vous souhaite la bienvenue ! Ha ha ha ha !~ [SHAEL_01]
@@ -13793,8 +13814,10 @@ Bien sûr, peut-être que les murs n'écoutent pas ces réflexions et que mes é
 @1024011 = ~Le voyage du retour se déroule heureusement sans incident, mais vous ne cessez de penser aux événements qui se sont déroulés sur l'île que vous avez laissée derrière vous. En apparence, vous avez accompli votre mission et découvert l'épave du légendaire navire de Baldurien, à défaut du sort de ce dernier. Cette information vous a cependant coûté cher, à vous et aux habitants de l'île. Contrairement à leur chef disparu, ils ne quitteront jamais leur terre natale, mais c'est sans doute mieux ainsi pour tout le monde.~ [TSCNA_07]
 @1024012 = ~Vous avez la vie sauve et une forte récompense vous attend sur le continent. Mendas est impatient d'écouter le récit de votre triomphe. L'histoire promet d'être passionnante.~ [TSCNA_09]
 @1024015 = ~Cette porte ne peut être ni crochetée, ni ouverte à l'aide de sorts simples comme le « déblocage ».~
+@1024021 = ~Je ne suis pas un marin. Je suis resté préparer l'arrivée de mon peuple. Pendant des générations, nous avons été prisonniers de l'île. Il est temps de retourner sur la terre natale des ancêtres. Ils avaient besoin de cartes et j'avais besoin d'aventuriers qui ne posaient pas trop de questions. Et pourtant vous avez échoué. Pourquoi l'avez-vous tuée ? Je sais qu'elle vous a donné le don de lycanthropie. Je le sens sur vous, comme je sens aussi un sentiment de culpabilité. Le sang de Kaïshas souillera votre âme pour toujours.~
 @1024024 = ~*tousse* Qui... qui êtes-vous ? Ah, un vagabond, un peu comme moi. Vous feriez mieux de reprendre votre route, car les visiteurs ne sont pas appréciés par ici. Plutôt rester en vie et partir, comme moi.~
 @1024029 = ~Même si je vous laisse courir, vous n'irez pas loin. Vous êtes sous l'emprise de lycanthropie. Vous perdrez vite le contrôle. Il faudrait pour vous soigner tuer le chef des loups-garous. Donc moi ! Vous n'avez aucune chance. Vous allez mourir ici. L'heure d'un châtiment sanglant est proche ! Venez Baresh ! Mon amour sera vengé !~
+@1024031 = ~Le journal de bord n'a aucune importance ! Baldurien non plus ! Il a refusé le don que les ancêtres lui ont offert. Vous deviez juste donner les cartes maritimes à Kaïshas et tuer Karoug pour qu'il ne puisse pas les suivre. Kaïshas aurait amené la meute ici, j'avais préparé un endroit pour eux. Misérables ! Vous n'avez pas pu accomplir des tâches aussi simples ? Au lieu de cela, vous avez tué ma famille et volé le bateau pour sauver vos cruelles personnes !~
 @1024034 = ~Vous êtes blessé ! Puis-je faire quelque chose pour vous ?~
 @1024047 = ~Si vous vivez assez longtemps pour lutter contre les créatures qui habitent cet endroit, vous pourrez remercier votre bonne étoile. Même les murs vous tiendront en échec. Les pièges classiques ne mettent à l'épreuve que la dextérité, mais il ne s'agit pas seulement d'une enfilade de pièges mécaniques. Durlag, aussi violent que sanguinaire, avait bien l'intention de tuer tous ceux qui entraient dans ses murs, pas seulement de les en empêcher.~
 @1024049 = ~Vous devriez avoir peur, la peur est saine. Elle empêche de faire des erreurs, et ici, les erreurs se paient de votre vie. Vous devrez y faire des choix dont votre vie dépendra. Durlag ne croyait apparemment pas aux secondes chances.~
@@ -16253,16 +16276,16 @@ Nécessite :
  14 en Force
 
 Poids : 12~
-@1025796 = ~Cette pierre a été créée avec le sortilège d'Orbe desséchant de Sol.
+@1025796 = ~Cette pierre a été créée avec le sort Orbe desséchant de Sol.
 
 PARAMÈTRES :
 
 Capacités de combat :
-- Aveugle les adversaires vivants pendant 1d6 rounds (jet de sauvegarde contre les sorts pour annuler)
-- Aveugle les adversaires morts-vivants pendant 12 rounds (jet de sauvegarde contre les sorts pour 6 rounds)
+- Aveugle la cible pendant 1d6 rounds (jet de sauvegarde contre les sorts pour annuler)
+- Aveugle la cible morte-vivante pendant 12 rounds (jet de sauvegarde contre les sorts pour la moitié)
 
 TAC0 : +3
-Dégâts : 6d6 dégâts de feu contre les adversaires vivants (jet de sauvegarde contre les sorts pour la moitié), 12d6 dégâts de feu contre les adversaires morts-vivants (jet de sauvegarde contre les sorts pour 9d6 dégâts).
+Dégâts : 6d6 (feu, jet de sauvegarde contre les sorts pour la moitié), +6d6 (feu) contre les morts-vivants
 Facteur de vitesse : 0
 
 Poids : 0~
@@ -16896,13 +16919,13 @@ Ce sort stoppe l'écoulement du temps pour un round dans la zone concernée. À 
 (Enchantement/Charme)
 
 Niveau : 1
-Portée : 18 mètres
+Portée : champ visuel du lanceur
 Durée : 5 rounds par niveau
 Temps d'incantation : 1
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
-Lorsque le magicien lance un sort de Sommeil, il provoque un état comateux chez un ou plusieurs ennemis (autres que les morts-vivants et certaines créatures à l'abri des effets de ce sort particulier). Toutes les créatures qu'il veut affecter doivent se trouver dans un rayon de 4,5 mètres. Les créatures dans la zone d'effet doivent réussir un jet de sauvegarde contre la mort à -3 sous peine de s'endormir. Les monstres possédant 5 dés de vie ou plus ne sont pas affectés. Les attaques portées aux adversaires endormis n'échouent jamais.~
+Lorsque le lanceur jette le sort Sommeil, il provoque un état comateux chez un ou plusieurs ennemis (autres que les morts-vivants et certaines créatures à l'abri des effets de ce sort particulier). Toutes les créatures qu'il veut affecter doivent se trouver dans un rayon de 4,5 mètres. Les créatures dans la zone d'effet doivent réussir un jet de sauvegarde contre la mort à -3 sous peine de perdre connaissance pendant 5 rounds par niveau d'expérience du lanceur. Les créatures possédant 5 dés de vie (ou niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1026080 = ~Mot de pouvoir : étourdissement
 (Conjuration/Convocation)
 
@@ -16982,7 +17005,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Ce sort permet au lanceur d'ordonner à une créature de « mourir » (dormir) pendant un round. À la fin du round, la créature se réveille, indemne. Les créatures de 6 dés de vie (ou niveaux d'expérience) ou plus ont le droit de faire un jet de sauvegarde contre les sorts pour échapper à ses effets. Les adversaires plongés dans un sommeil magique peuvent être attaqués avec des bonus substantiels, comme le fait de pouvoir réussir automatiquement toute attaque physique à leur encontre.~
+Ce sort permet au lanceur d'ordonner à une créature de « mourir » (perdre connaissance) pendant un round. À la fin du round, la créature se réveille, indemne. Les créatures de 6 dés de vie (ou niveaux d'expérience) ou plus ont le droit de faire un jet de sauvegarde contre les sorts pour échapper à ses effets. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1026128 = ~Enchevêtrement
 (Transmutation)
 
@@ -17006,7 +17029,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort permet au prêtre d'enchanter provisoirement un petit caillou, qui est ensuite lancé sur un adversaire. La pierre inflige 1d4 points de dégâts à la cible qu'elle touche. Les pierres sont considérées comme des armes d'enchantement +1 pour déterminer si une créature peut être frappée (certaines créatures, par exemple, ne peuvent être frappées que par des armes magiques), bien qu'elles ne rapportent aucun bonus d'attaque ou de dégâts.~
+En jetant ce sort, le lanceur crée un petit caillou magique qui s'envole et frappe la créature ciblée. La pierre inflige 1d4 points de dégâts magiques à la cible qu'elle touche. Les pierres sont considérées comme magiques pour déterminer si une créature peut être touchée (certaines créatures, par exemple, ne peuvent être frappées que par des dégâts magiques).~
 @1026131 = ~Apaisement
 (Abjuration)
 
@@ -17182,11 +17205,10 @@ Sphère : climat
 Portée : 24 mètres
 Durée : 1 round par tranche de 4 niveaux
 Temps d'incantation : 9
-Zone d'effet : rayon de 108 mètres
+Zone d'effet : rayon de 110 mètres
 Jet de sauvegarde : 1/2
 
-Appel de la foudre doit être lancé à l'extérieur, sinon il reste sans effet et le sort est perdu. Il permet à l'invocateur de faire tomber des éclairs, 1 par round. Le sort a une durée d'un round par tranche de 4 niveaux d'expérience du prêtre. Chaque éclair provoque 2d8 points de dégâts électriques, plus 1d8 points de dégâts par niveau d'expérience du jeteur de sorts. Ainsi, un jeteur de sorts de niveau 8 fera tomber 2 éclairs de 10d8 (2d8 +8d8) chacun.
-L'éclair tombe en frappant verticalement une des créatures ennemies du prêtre. Le premier ennemi frappé par un éclair sera la cible désignée lors de l'incantation. Ensuite, n'importe quel ennemi (mais pas les alliés) sera susceptible d'être frappé par les éclairs suivants.~
+Le sort Appel de la foudre doit être lancé à l'extérieur, sinon il reste sans effet et le sort est perdu. Il permet au lanceur de faire tomber du ciel un éclair par round. Le sort a une durée d'un round par tranche de 4 niveaux d'expérience du lanceur. Chaque éclair inflige 2d8 points de dégâts électriques, plus 1d8 points de dégâts électriques supplémentaires par niveau d'expérience du lanceur. Ainsi, un lanceur de niveau 8 fera tomber deux éclairs de 10d8 (2d8 +8d8) points de dégâts électriques chacun. L'éclair tombe du ciel en frappant verticalement une des créatures ennemies du lanceur. La première créature frappée par la foudre sera la cible désignée lors de l'incantation. Ensuite, n'importe quel ennemi (mais pas les alliés) sera susceptible d'être frappé par les éclairs suivants. La foudre ne frappera jamais le même ennemi deux fois de suite. Elle peut frapper deux fois le même ennemi au cours du même sort, mais seulement s'il y a un deuxième ennemi à atteindre entre les deux éclairs. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subis.~
 @1026166 = ~Glyphe de garde
 (Abjuration, Évocation)
 
@@ -17519,7 +17541,7 @@ Temps d'incantation : 6
 Zone d'effet : le lanceur
 Jet de sauvegarde : annule
 
-Le Manteau de terreur permet au magicien d'irradier une aura personnelle de peur dans un rayon de 4,5 mètres. Tous les autres personnages et les créatures touchées par cette aura doivent réussir un jeu de sauvegarde contre les sorts ou s'enfuir en panique pour 4 rounds. Les membres du groupe sont immunisés contre ces effets, mais l'aura de peur peut néanmoins les déranger.~
+Le sort Manteau de terreur permet au lanceur d'irradier une aura personnelle de peur dans un rayon de 4,5 mètres. Toutes les créatures touchées par cette aura doivent réussir un jet de sauvegarde contre les sorts ou s'enfuir en panique pour 4 rounds. Les membres du groupe sont immunisés contre ces effets, mais l'aura de peur peut néanmoins les perturber.~
 @1026226 = ~Restauration mineure~
 @1026227 = ~Restauration mineure
 (Nécromancie)
@@ -17656,7 +17678,7 @@ Temps d'incantation : 1
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
-Comme pour le sort de 1er niveau Injonction, ce sort permet au lanceur d'ordonner à une créature de « mourir » (dormir). À ceci près que cette Injonction majeure dure 1 round par niveau d'expérience du lanceur et qu'elle peut affecter plusieurs créatures hostiles. Les créatures de 6 dés de vie (ou niveaux d'expérience) ou plus ont le droit de faire un jet de sauvegarde contre les sorts pour échapper à ses effets. À la fin du dernier round, la créature s'éveille sans aucune séquelle. La zone d'effet est similaire à celle d'un Nuage puant ou d'une Boule de feu. Les adversaires plongés dans un sommeil magique peuvent être attaqués avec des bonus substantiels, comme le fait de pouvoir réussir automatiquement toute attaque physique à leur encontre.~
+Comme pour le sort divin de 1er niveau Injonction, ce sort permet au lanceur d'ordonner à une créature de « mourir » (perdre connaissance). À ceci près que Injonction majeure dure 1 round par niveau d'expérience du lanceur et qu'elle peut affecter plusieurs créatures hostiles. Les créatures affectées peuvent tenter un jet de sauvegarde contre les sorts pour échapper à ses effets. À la fin du dernier round, les créatures s'éveillent sans aucune séquelle. La zone d'effet est similaire à celle d'un Nuage puant ou d'une Boule de feu. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1026250 = ~Magie des vertueux
 (Transmutation)
 
@@ -17754,7 +17776,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
-Ce sort crée un mur de lames tournantes, acérées comme des rasoirs. Elles pivotent à grande vitesse autour du lanceur, créant ainsi une barrière impénétrable. Toute créature tentant de traverser la barrière reçoit 8d8 points de dégâts. Les créatures se trouvant dans la zone de la barrière au moment où elle apparaît doivent faire un jet de sauvegarde contre les sorts. S'il est réussi, aucun dégât n'est infligé. La barrière reste en place pendant 1 tour.~
+Ce sort permet au lanceur d'ériger un mur de lames tournoyantes, acérées comme des rasoirs. Elles scintillent et virevoltent à grande vitesse autour du lanceur, créant ainsi une barrière impénétrable qui se déplace avec lui. Toute créature, alliée comme ennemie, tentant de traverser la Barrière de lames reçoit 8d8 points de dégâts tranchants à chaque round passé dans la zone d'effet de cette dernière. Les créatures se trouvant dans la zone d'effet de la Barrière de lames peuvent tenter un jet de sauvegarde contre les sorts. S'il est réussi, alors aucun dégât n'est infligé pour ce round. La Barrière de lames reste en place pendant 1 tour. Les sorts Barrière de lames et Sphère de lames sont cumulables.~
 @1026266 = ~Conjuration d'animaux
 (Conjuration/Convocation)
 
@@ -18204,11 +18226,11 @@ Niveau : 1
 Portée : 15 mètres
 Durée : instantanée
 Temps d'incantation : 1
-Zone d'effet : arc de 90°
+Zone d'effet : arc de 90° de 8 mètres de long
 Jet de sauvegarde : spécial
 
-Grâce à ce sort, un éventail de couleurs vives jaillit de la main du magicien. Entre une et six créatures (1d6) situées dans la zone sont affectées dans l'ordre croissant de leur proximité au magicien. Toute créature dans la zone d'effet de 4 dés de vie (ou 4 niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds.~
-@1026351 = ~Niveau d'expérience (ou dés de vie) trop élevé pour la Vapeur colorée~
+Grâce à ce sort, une gerbe de couleurs vives en forme d'éventail jaillit de la main du lanceur. 1d6 créatures situées dans la zone d'effet sont affectées dans l'ordre croissant de leur proximité au lanceur. Toute créature dans la zone d'effet de 4 dés de vie (ou 4 niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds. Les créatures ayant 5 dés de vie (ou 5 niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
+@1026351 = ~Niveau d'expérience (ou dés de vie) trop élevé pour le sort Vapeur colorée~
 @1026353 = ~Cécité
 (Illusion/Fantasme)
 
@@ -19367,7 +19389,7 @@ Temps d'incantation : 6
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Ce sort crée une vaste zone de brouillard opaque hautement acide. Toute créature présente dans la zone d'effet subit 8 points de dégâts d'acide par round passé dans les vapeurs toxiques de la Brume mortelle. De plus, ce sort tue instantanément toutes les créatures convoquées présentes dans la zone d'effet, quels que soient leurs dés de vie ou leurs éventuelles immunités.~
+Ce sort crée une vaste zone de brouillard opaque hautement acide. Toute créature présente dans la zone d'effet subit 8 points de dégâts d'acide par round passé dans les vapeurs toxiques de la Brume mortelle. De plus, ce sort tue instantanément toutes les créatures convoquées présentes dans la zone d'effet, quels que soient leurs dés de vie ou leurs éventuelles immunités (hormis les démons, dévas, planétaires et quelques autres créatures invoquées de haut niveau).~
 @1026578 = ~Contingence
 (Évocation)
 
@@ -20601,6 +20623,9 @@ Mendas nous a envoyés au Bureau des Comptes du Consortium des Marchands, à la 
 @1027262 = ~L'érudit reclus
 
 Mendas a recopié les cartes maritimes et a loué un bateau et son équipage pour nous. Il va attendre notre retour aux quais de Barbe d'Ulgoth.~
+@1027263 = ~L'érudit reclus
+
+Le mystère de cette île est maintenant élucidé. Mendas, aussi connu sous le nom de Sélaad, nous y a envoyés sous le faux prétexte de récupérer des preuves de ce que l'on pensait être le naufrage de Baldurien. Il s'agissait bel et bien du bateau de l'aventurier, bien que son sort personnel demeure toujours inconnu. Lors de ce funeste voyage, son équipage fut infecté par la lycanthropie. Le vaisseau s'échoua sur l'île et les deux espèces de lycanthropes, loups-garous et muloups, s'affrontèrent pour leur survie. Les loups-garous, plus organisés, construisirent le village auprès duquel nous fîmes récemment naufrage. Les muloups, plus dispersés, s'installèrent dans les ruines du navire de Baldurien et les deux meutes survécurent dans une coexistence difficile depuis lors. Mendas, ou Sélaad, prit finalement le risque de partir à la recherche du continent. Il y parvint tant bien que mal et, ayant appris que l'île avait été découverte, il inventa une histoire plausible et nous envoya voler les cartes maritimes, puis nous chargea de nous rendre sur l'île pour les faire parvenir à sa compagne louve-garou. Celle-ci nous fit éliminer les muloups et nous infecta ensuite par la lycanthropie, pensant que nous allions nous joindre à la meute ou mourir en la combattant. Après l'avoir tuée, nous avons pris les cartes et sommes rentrés pour découvrir finalement le vrai visage de Mendas. Il semble que le destin ne se lasse pas de me jouer des tours.~
 @1027264 = ~Les problèmes de la région : rumeurs et événements
 
 Sous l'effet du charme, un marchand a vaguement parlé de pénurie de fer, de bandits et de guerre.~
@@ -25085,6 +25110,7 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 @1034179 = ~Vous avez vu les tatouages sur les avant-bras de votre agresseur ?~
 @1034206 = ~Commençons. <CHARNAME>, je crois que vous connaissez déjà votre hôte, le Duc Belt, ainsi que les Grands-Ducs Eltan et Entar Écudargent ?~ [BD34206]
 @1034212 = ~Laissez-moi faire les présentations. <CHARNAME>, voici les Grands-Ducs de la Porte de Baldur : Eltan, Liia Jannath, Entar Écudargent et sa fille, Skie.~
+@1034219 = ~Vous vous souvenez de moi, <CHARNAME> ? Vous devez certainement vous rappeler de moi.~ [BD34219]
 @1034225 = ~Je suis Entar Écudargent. Voici le Grand-Duc Belt, que vous connaissez déjà. Et les Grands-Ducs Eltan et Liia Jannath.~
 @1034228 = ~Les Grands-Ducs de la Porte de Baldur me convoquent ? Voilà qui est inquiétant.~
 @1034231 = ~Les Grands-Ducs de la Porte de Baldur ? J'aurais demandé des autographes si j'avais une plume et un peu d'encre.~
@@ -25131,6 +25157,8 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 @1034714 = ~Vous savez où me trouver lorsque vous voudrez partir.~
 @1034716 = ~Ah ? Serait-ce le héros de la Porte de Baldur que je vois ?~ [BD34716] ~Ah ? Serait-ce l'héroïne de la Porte de Baldur que je vois ?~ [BD34716]
 @1034748 = ~Au petit matin, je partirai vers le nord afin de me rendre au château Paldragon. J'aimerais que vous m'y rejoigniez.~
+@1034753 = ~J'ai ouï parler de cette femme. Certains pensent qu'elle est d'ascendance divine... peut-être même une enfant de Bhaal... Elle mérite que l'on s'intéresse davantage à son cas. C'est d'ailleurs la raison pour laquelle je suis toujours dans la région.~ [BD34753]
+@1034756 = ~Bien entendu *soupire*. Nous serions perdus sans le hamster.~ [BD34756]
 @1034761 = ~Nos alliés se rassembleront au Palais Ducal à l'aube.~
 @1034762 = ~Dans ce cas, nous vous retrouverons là-bas. Faites attention à vous.~
 @1034766 = ~Je pars bientôt vers le nord pour rejoindre le château Paldragon. J'aimerais que vous me rejoigniez.~
@@ -25174,8 +25202,12 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 @1035302 = ~Imoen. C'est bon de te voir saine et sauve. Comment vas-tu ?~
 @1035304 = ~Tu as l'air en forme, Imoen. Prête à faire payer Caelar ?~
 @1035305 = ~Oh, j'ai connu pire. Tu sais bien comme je peux me mettre dans de beaux draps ! Mais ce n'est pas le moment de parler de ça.~ [BD35305]
-@1035318 = ~Je guéris, mais tu as besoin de guérir également. Je ne parle pas seulement des blessures infligées par Sarevok, car il ne s'agit que d'entailles et de cicatrices, mais aussi de ton identité... Laisse quelqu'un d'autre s'occuper de la « Dame Étincelante ». S'il te plaît.~ [BD35318]
-@1035323 = ~Je savais que vous diriez ça. Je... je m'excuse. Je ne peux pas venir avec vous.~ [BD35323]
+@1035318 = ~Je guéris, mais tu as besoin de guérir également. Je ne parle pas seulement des blessures infligées par Sarevok, car il ne s'agit que d'entailles et de cicatrices, mais aussi d'accepter... tu sais... ce que tu es. Laisse quelqu'un d'autre s'occuper de la « Dame Étincelante ». S'il te plaît.~ [BD35318]
+@1035323 = ~Je savais que tu dirais ça. Je... je m'excuse. Je ne peux pas venir avec toi.~ [BD35323]
+@1035324 = ~Et je ne te le demande pas. Tu seras plus en sécurité ici.~
+@1035325 = ~Bien. Je n'aurais pas voulu de toi de toute façon. Tu n'aurais fait que me ralentir.~
+@1035326 = ~Tu ne veux pas venir avec moi ? Mais qu'est-ce que tu racontes ?~
+@1035327 = ~Eh bien, tu le serais aussi en restant là, grand bêta ! Mais rien n'y fera, n'est-ce pas ? Je connais ce regard. Je ne fais que gaspiller ma salive.~ [BD35327] ~Eh bien, tu le serais aussi en restant là, grande bêtasse ! Mais rien n'y fera, n'est-ce pas ? Je connais ce regard. Je ne fais que gaspiller ma salive.~ [BD35327]
 @1035330 = ~Je te dirais bien d'ignorer la ville et ses problèmes. Mais tu ne le feras pas, n'est-ce pas ? Je connais ce regard. Je ne fais que gaspiller ma salive.~ [BD35330]
 @1035333 = ~Promets-moi de faire attention. D'accord ? Je ne sais pas ce que je ferais si... Tu sais, nous avons perdu trop de monde...~ [BD35333]
 @1035339 = ~Je m'en vais. Prends soin de toi, <CHARNAME>.~ [BD35339]
@@ -25944,6 +25976,7 @@ Les silhouettes fantomatiques appelées par le shaman tourbillonnent autour du c
 @1037258 = ~Bouh dit que ce n'est pas la voie que devrait emprunter un héros digne de ce nom.~ [BD37258] ~Bouh dit que ce n'est pas la voie que devrait emprunter une héroïne digne de ce nom.~ [BD37258]
 @1037261 = ~Trahir les personnes que vous deviez sauver... Bouh dit que ce n'est pas la voie que devrait emprunter un héros digne de ce nom.~ [BD37261] ~Trahir les personnes que vous deviez sauver... Bouh dit que ce n'est pas la voie que devrait emprunter une héroïne digne de ce nom.~ [BD37261]
 @1037301 = ~Grand-Duc Écudargent. Veuillez me pardonner si ma question est indélicate, mais n'avez-vous pas... n'avez-vous pas été tué ?~
+@1037307 = ~Je n'étais qu'une enfant à l'époque. Maintenant, je suis une femme. J'ai même rejoint... Enfin, oubliez. Je vous le dirai plus tard, quand je serai sûre que nous sommes seuls.~ [BD37307] ~Je n'étais qu'une enfant à l'époque. Maintenant, je suis une femme. J'ai même rejoint... Enfin, oubliez. Je vous le dirai plus tard, quand je serai sûre que nous sommes seules.~ [BD37307]
 @1037313 = ~J'ai cru vous entendre parler de Caelar à papa et aux autres ducs. Allez-vous à Paldragon ?~ [BD37313]
 @1037318 = ~Ah, le héros de la Porte de Baldur. C'est bien vous, non ? Est-ce bien le titre que vous revendiquez ?~ ~Ah, l'héroïne de la Porte de Baldur. C'est bien vous, non ? Est-ce bien le titre que vous revendiquez ?~
 @1037332 = ~Non. Vous êtes <CHARNAME>, le héros que cette ville adule, l'obstacle inattendu qui se pose face à mon plan soigneusement élaboré. J'étais là pour Sarevok, mais vous l'avez vaincu. Dites-moi, qu'avez-vous ressenti en le tuant ? Quelles émotions ont parcouru votre corps en voyant le sien devenir poussière ?~ ~Non. Vous êtes <CHARNAME>, l'héroïne que cette ville adule, l'obstacle inattendu qui se pose face à mon plan soigneusement élaboré. J'étais là pour Sarevok, mais vous l'avez vaincu. Dites-moi, qu'avez-vous ressenti en le tuant ? Quelles émotions ont parcouru votre corps en voyant le sien devenir poussière ?~
@@ -27336,6 +27369,8 @@ Soudain, les coups s'arrêtent. Vous entendez une clef qui déverrouille la port
 @1044748 = ~L'aventurier Daeros Paldragon a construit un château à l'extrémité de la Haute Lande, entre la Porte de Baldur et Eauprofonde. Il est mort il y a bien des années, le bâtiment est en ruine, seuls les monstres et les bandits s'y rendent. Du moins, c'était le cas jusqu'à ce que la croisade l'utilise comme base.~
 @1044753 = ~Oui. C'est une colonie près du Pont de Boreskyr. Pendant le Temps des Troubles, Cyric et Bhaal s'y sont affrontés. L'étendue d'eau à l'ouest de Fort-du-Pont est contaminée, elle n'est plus potable.~
 @1044754 = ~Vous avez mentionné le château Paldragon ?~
+@1044779 = ~C'est une Argent, une famille connue pour être au service de Lathandre, le Seigneur de l'Aube. La plupart de ses ancêtres étaient des paladins de l'Ordre de l'Astre.~
+@1044780 = ~C'est une Argent, une famille connue pour être au service de Lathandre, le Seigneur de l'Aube. La plupart de ses ancêtres étaient des paladins de l'Ordre de l'Astre. On raconte qu'elle aurait du sang divin. Elle est convaincue que ses adeptes peuvent tout surmonter.~
 @1044802 = ~Les vétérans qui ont sécurisé le château Paldragon il y a dix ans de cela, quand les diables pullulaient, aspirent à trouver une nouvelle cause.~
 @1044854 = ~Genre, ouah.~
 @1044859 = ~Ces lunettes enchantées vous permettent de voir des créatures invisibles ?~
@@ -28004,6 +28039,7 @@ Poids : 2~
 @1045943 = ~Je vais tout vous expliquer. J'en ai plus qu'assez de la voix de ce singe. Korlasz, la collaboratrice de Sarevok, s'est réfugiée dans ce tombeau. Les Grands-Ducs nous ont demandé de l'éliminer. Voilà ce que nous faisons dans cet horrible endroit. Personnellement, j'espère que ce problème sera réglé au plus vite, pour que nous reprenions notre route.~
 @1045958 = ~Je mets un terme à l'héritage de Sarevok une bonne fois pour toutes depuis trois mois, et à chaque fois, une cible des Grands-Ducs refait son apparition tous les quinze jours.~
 @1045988 = ~... Voilà pourquoi il ne faut pas s'associer aux forces maléfiques !~
+@1046002 = ~Vous voulez que je recule devant vous ? Vous plaisantez, clairement.~
 @1046004 = ~... Je vous écoute.~
 @1046010 = ~Si nous devons mourir, vous mourrez avec nous !~
 @1046021 = ~Aidez-moi ! Pitié !~
@@ -29947,6 +29983,8 @@ J'ai rencontré un homme étrange qui rôdait dans mes quartiers du Palais Ducal
 @1055693 = ~Caelar quelque chose. Ils l'appellent la Dame Étincelante. La sale peste, c'est comme ça que je l'appelle moi. Elle et ses adeptes ont semé le chaos de la Delimbiyr jusqu'au Fleuve Sinueux.~
 @1055711 = ~Les Grands-Ducs y remédieront dans les plus brefs délais, sans aucun doute. Je n'ai plus rien à vous dire. Partez.~
 @1055717 = ~Ah, oui, le héros de la Porte, n'est-ce pas ? De Lancie... pardon, le TORSIN de Lancie a dit que vous pourriez passer. Phossey Creusefond, enchantée de vous rencontrer.~ ~Ah, oui, l'héroïne de la Porte, n'est-ce pas ? De Lancie... pardon, le TORSIN de Lancie a dit que vous pourriez passer. Phossey Creusefond, enchantée de vous rencontrer.~
+@1055722 = ~Tu ne le connais pas ? Il disait être un de tes amis. Nous avons connu des personnages assez étranges, alors je n'ai pas été surprise de voir apparaître quelqu'un qui te cherchait.~ [BD55722]
+@1055725 = ~Eh. Un mystère pour une autre <DAYNIGHTALL>. Comment vas-tu ?~
 @1055755 = ~Euh... Quoi ? Où ça... ? Roark ! Ce ver perfide, il va tous nous tuer...~
 @1055772 = ~Bonne <DAYNIGHTALL>, mon seigneur. Je suis Alyth Elendara, tenancière de cet établissement. Comment puis-je être utile au héros de la Porte de Baldur ?~ ~Bonne <DAYNIGHTALL>, ma dame. Je suis Alyth Elendara, tenancière de cet établissement. Comment puis-je être utile à l'héroïne de la Porte de Baldur ?~
 @1055784 = ~Je compatis.~
@@ -30151,6 +30189,7 @@ J'ai rencontré une femme nommée Ammon qui cherchait du lichen de cobalt pour t
 @1056029 = ~Merci, Duchesse Jannath. Comment allez-vous ? Cela fait une éternité que nous n'avons pas discuté.~
 @1056030 = ~Je me porte aussi bien que peut se porter la cible d'un assassin, Grande-Duchesse Jannath.~
 @1056033 = ~Que savons-nous de ses intentions ?~
+@1056036 = ~Peu de choses. Elle prétend être un instrument des dieux, envoyée pour une mission divine. Reste à savoir de quels dieux elle parle. Quant à sa mission ? Chacune des nombreuses bouches qui la soutiennent ou qui la maudissent en mentionne une différente.~ [BD56036]
 @1056038 = ~Ayez la foi, maîtresse Jannath. Des jours meilleurs nous attendent. Dites-moi, que savez-vous de Caelar Argent ?~
 @1056039 = ~En parlant d'entraînement, comment se passe celui d'Imoen ?~
 @1056044 = ~Vous ne pensez pas que je devrais l'amener à Paldragon ?~
@@ -30807,9 +30846,9 @@ Poids : 1~
 @1057471 = ~Qui êtes-vous ? Que nous voulez-vous ?~
 @1057472 = ~Je suis <CHARNAME>, héros de la Porte de Baldur. L'or que vous avez volé à Ophyllis m'appartenait. J'aimerais le récupérer, et obtenir justice pour l'homme innocent que vous avez sauvagement attaqué.~ ~Je suis <CHARNAME>, héroïne de la Porte de Baldur. L'or que vous avez volé à Ophyllis m'appartenait. J'aimerais le récupérer, et obtenir justice pour l'homme innocent que vous avez sauvagement attaqué.~
 @1057473 = ~Qui je suis ? On m'appelle <CHARNAME>, entre autres choses, héros de la Porte de Baldur, pourfendeur de Sarevok et destructeur du Trône de Fer. Je veux récupérer l'or que vous avez pris à Ophyllis. MON or.~ ~Qui je suis ? On m'appelle <CHARNAME>, entre autres choses, héroïne de la Porte de Baldur, pourfendeuse de Sarevok et destructrice du Trône de Fer. Je veux récupérer l'or que vous avez pris à Ophyllis. MON or.~
-@1057474 = ~Je suis la personne qui se dressera sur la dépouille de chacun d'entre vous, à moins que l'or que vous avez volé ne me soit rendu immédiatement.~
+@1057474 = ~Je suis l'homme qui se dressera sur la dépouille de chacun d'entre vous, à moins que l'or que vous avez volé ne me soit rendu immédiatement.~ ~Je suis la femme qui se dressera sur la dépouille de chacun d'entre vous, à moins que l'or que vous avez volé ne me soit rendu immédiatement.~
 @1057476 = ~Le voyage jusqu'à la Porte de Baldur fut long et difficile, et le temps que nous avons passé ici n'a pas été de tout repos. C'est notre premier repas digne de ce nom depuis deux mois, si ce n'est plus.~
-@1057478 = ~Vous avez donné le reste de l'argent aux nécessiteux.~
+@1057478 = ~Vous avez donné le reste de l'argent aux nécessiteux ?~
 @1057479 = ~Vous vous méprenez, camarade. L'or que vous avez pris à Ophyllis n'était pas le sien. Il m'appartenait et j'en ai besoin maintenant.~
 @1057480 = ~Le seul sort dont je me soucie est le mien. Si vous ne pouvez pas me rendre mon argent, j'essaierai de tirer satisfaction de votre massacre. Je compte repeindre les murs de cette taverne avec votre sang !~
 @1057482 = ~À ceux qui en avaient le plus besoin. Cet or a sauvé de nombreuses vies, ou du moins, il en a rallongé certaines. Si nous devons être punis pour cela, ainsi soit-il. Je mourrai avec joie, en sachant que j'ai agi pour une noble cause.~
@@ -30965,7 +31004,7 @@ Poids : 1~
 @1057670 = ~Personne ne mérite d'être traité comme vous l'avez été. Je ne dirai rien au Poing.~
 @1057671 = ~Je ne dirai rien au Poing... mais mon silence a un prix.~
 @1057672 = ~Je ne peux rien promettre. Je dois m'en aller, maintenant.~
-@1057673 = ~Oh, merci, merci, <PRO_LADYLORD>. Vous avez aujourd'hui rendu une vie misérable bien meilleure. Je n'oublierai jamais cet acte de bonté. Adieu.~
+@1057673 = ~Oh, merci, merci, mon seigneur. Vous avez rendu une vie misérable bien meilleure cette <DAYNIGHTALL>. Je n'oublierai jamais cet acte de bonté. Adieu.~ ~Oh, merci, merci, ma dame. Vous avez rendu une vie misérable bien meilleure cette <DAYNIGHTALL>. Je n'oublierai jamais cet acte de bonté. Adieu.~
 @1057674 = ~Q-Quoi ? Mais je ne peux pas... Non ! Oh, très bien... Tenez, prenez. 85 pièces d'or, c'est tout ce que j'ai. J'aurais préféré ne jamais avoir croisé votre chemin. Je vais devoir tout recommencer. Hors de ma vue, je ne veux plus rien avoir à faire avec vous.~
 @1057675 = ~Ne me dénoncez pas, je vous en supplie ! Je suis à votre merci. Je sais que vous ferez ce qu'il faut.~
 @1057676 = ~Je vais devoir vous demander de circuler, à moins que vous n'ayez affaire avec le Poing.~
@@ -31401,7 +31440,7 @@ J'ai parlé à un clerc de la Cavalière Rouge, Tristian. Conscrit de force lors
 @1058867 = ~Maintenant que vous en parlez, j'ai effectivement entendu parler de la disparition de deux ou trois sélunites. L'un d'eux avait été aperçu luttant contre plusieurs individus en robe, d'après mes souvenirs...~ [BD58867]
 @1058899 = ~Je suis une Capitaine du Poing Enflammé, si c'est ce que vous voulez savoir.~ [BD58899]
 @1058938 = ~Vraiment ? Vous le pensez ? C'est... je... je ne m'inquiétais pas pour MOI, pas vraiment. Je parlais de nous tous ensemble, vous voyez.~ [BD58938]
-@1058947 = ~Qu'il est agréable d'être à nouveau sur la route, Minsc, avec vous, et avec <CHARNAME>.~ [BD58947]
+@1058947 = ~Qu'il est agréable d'être à nouveau sur la route, Minsc, avec vous, et avec notre ami <CHARNAME>.~ [BD58947] ~Qu'il est agréable d'être à nouveau sur la route, Minsc, avec vous, et avec notre amie <CHARNAME>.~ [BD58947]
 @1058951 = ~C'est comme au bon vieux temps. De l'action ! De l'aventure ! Écraser les méchants ! S'il y a du danger, Bouh et moi vous protégerons.~ [BD58951]
 @1059062 = ~Ce n'est pas une vie facile, pour vous comme pour moi, vous dites vrai. Le danger nous guette à chaque tournant. Il n'y aura pas de vie domestique bien tranquille pour nous, en tout cas pas pendant un moment.~ [BD59062]
 @1059109 = ~Je... Quoi ? Non, je voulais dire que nous pourrions... C'est un malentendu.~
@@ -31772,6 +31811,7 @@ La Capitaine Corwin a insisté pour m'accompagner. Elle veut veiller sur moi, su
 J'ai refusé l'aide de la Capitaine Corwin, mais je pourrai changer d'avis plus tard.
 
 La Capitaine Corwin a insisté pour m'accompagner. Elle veut veiller sur moi, sur l'ordre des Grands-Ducs. Apparemment, les ducs doutent que la personne ayant tué Sarevok puisse s'en sortir seule face à Caelar et sa croisade. Ou bien ils ne me font pas confiance. J'ai refusé l'offre de Corwin, je ne veux pas qu'elle me suive à la trace. Si j'ai besoin d'elle, je pourrai certainement la retrouver au camp, avec le reste des troupes.~
+@1059664 = ~Papa ne vous a pas tout dit. A-t-il mentionné que, d'après lui, Caelar pourrait être une enfant de Bhaal ? C'est bien ce que je me disais. Nous ne pouvons pas discuter ici. Je vous en dirai davantage plus tard.~ [BD59664]
 @1059696 = ~Campagne de recrutement
 
 Minsc ne me rejoindra que si Dynahéir le fait également.
@@ -32701,6 +32741,7 @@ J'ai trouvé l'ombre d'un énorme dragon femelle qui gardait l'extérieur d'une 
 @1061001 = ~Capitaine Schael Corwin, du Poing Enflammé, permettez-moi de vous présenter Dynahéir, wychlaran de Rashéménie. Prenez quelques minutes pour faire connaissance.~
 @1061002 = ~Vous savez exactement ce que nous avons là. Vous avez voulu m'amener ici pour les recruter.~
 @1061003 = ~Vous pourrez faire connaissance sur votre temps libre. J'ai des choses plus importantes à régler.~
+@1061004 = ~Et voici Bouh. Dis bonjour, Bouh. *scouic scouic*~ [BD61004]
 @1061005 = ~Le chemin jusqu'à Paldragon est long, <CHARNAME>. Vous comptez vraiment emmener le hamster ?~
 @1061006 = ~L'aide de Minsc nous sera précieuse, tout comme celle de Bouh, j'en ai la certitude.~
 @1061007 = ~J'ai bien peur que le hamster et le rôdeur soient inséparables.~
@@ -34942,13 +34983,13 @@ Poids : 3~
 
 Niveau : quête
 Sphère : garde, création
-Portée : lanceur
+Portée : 0
 Durée : 1 tour
 Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
-Le prêtre utilise ce sort pour créer une sphère de lames acérées comme des rasoirs. Elles pivotent à grande vitesse autour du lanceur, créant ainsi une barrière dévastatrice. Toute créature tentant de traverser la barrière subit 10d10 points de dégâts. Les créatures se trouvant dans la zone de la barrière au moment où elle apparaît ont droit à un jet de sauvegarde contre les sorts à -2. S'il est réussi, les lames sont évitées et aucun dégât n'est subit. La barrière reste en place pendant 1 tour.~
+Ce sort permet au lanceur d'ériger un mur de lames tournoyantes, acérées comme des rasoirs. Elles scintillent et virevoltent à grande vitesse autour du lanceur, créant ainsi une barrière impénétrable qui se déplace avec lui. Toute créature, alliée comme ennemie, tentant de traverser la Sphère de lames reçoit 10d10 points de dégâts tranchants à chaque round passé dans la zone d'effet de cette dernière. Les créatures se trouvant dans la zone d'effet de la Sphère de lames peuvent tenter un jet de sauvegarde contre les sorts à -2. S'il est réussi, alors aucun dégât n'est infligé pour ce round. La Sphère de lames reste en place pendant 1 tour. Les sorts Barrière de lames et Sphère de lames sont cumulables.~
 @1062051 = ~Trompe-la-mort
 Dans un effort extraordinaire, un voleur de haut niveau peut éviter une mort quasi certaine. Cet effet dure 5 rounds durant lesquels les jets de sauvegarde contre la mort reçoivent un bonus de 5, les points de vie sont augmentés de 20 et le voleur devient immunisé contre la magie de mort.~
 @1062053 = ~Cet anneau de protection améliore la classe d'armure et les jets de sauvegarde de son porteur contre tous les types d'attaques. Les propriétés magiques de l'anneau l'empêchent d'être porté avec d'autres objets magiques accordant une protection, dont les armures enchantées.
@@ -35760,6 +35801,7 @@ J'ai empêché un cambriolage au Bazar Magique. Le propriétaire de la boutique,
 @1062703 = ~J'ai du mal à le croire. Vous êtes vraiment le héros de la Porte de Baldur !~ ~J'ai du mal à le croire. Vous êtes vraiment l'héroïne de la Porte de Baldur !~
 @1062704 = ~Sarevok n'avait aucune chance contre quelqu'un comme vous.~
 @1062707 = ~En vous voyant, j'ai tout de suite su que vous étiez un véritable héros.~ ~En vous voyant, j'ai tout de suite su que vous étiez une véritable héroïne.~
+@1062712 = ~Vous n'êtes pas aussi grand que je l'imaginais. Vous êtes un peu plus gros, par contre.~ ~Vous n'êtes pas aussi grande que je l'imaginais. Vous êtes un peu plus grosse, par contre.~
 @1062716 = ~Vous avez sauvé notre cité ! Vive le héros de la Porte !~ ~Vous avez sauvé notre cité ! Vive l'héroïne de la Porte !~
 @1062721 = ~Sarevok est en vie, et vous êtes son larbin ! Je peux le prouver !~ ~Sarevok est en vie, et vous êtes sa soubrette ! Je peux le prouver !~
 @1062725 = ~Pourquoi devrions-nous croire un traître mot de ce que vous dites ?~
@@ -37121,10 +37163,13 @@ Je dois me rendre au château Paldragon.
 
 Grimgor a été vaincu, et les reste des croisés s'enfuit vers le château Paldragon. La coalition se dirige dans cette direction. Je devrais retrouver les commandants aux portes du château Paldragon.~
 @1066751 = ~Nous devons parler de ton voyage vers le château Paldragon. Ne le fais pas. N'y vas pas.~ [BD66751]
+@1066752 = ~Voici le héros qui ne demande qu'à partir ! Les maléfiques derrières sont bottés par ceux qui se lèvent tôt, ha ha ! N'est-ce pas, Bouh ? *scouic*~ [BD66752] ~Voici l'héroïne qui ne demande qu'à partir ! Les maléfiques derrières sont bottés par ceux qui se lèvent tôt, ha ha ! N'est-ce pas, Bouh ? *scouic*~ [BD66752]
 @1066755 = ~Plus vite nous arriverons au château Paldragon, plus vite nous pourrons apprendre si Caelar est également une enfant de Bhaal, tout comme Sarevok et vous.~ [BD66755]
 @1066766 = ~Je n'en ai qu'une, mais nous devrions pouvoir trouver des enfants des rues pour jouer avec vous si ça vous fait plaisir. Non ? Très bien, dans ce cas.~ [BD66766]
 @1066768 = ~Bien, je ne voudrais pas ennuyer le grand héros de la Porte de Baldur. Nous allons partir. Viens, Rohma, éloigne-toi d'eux.~ ~Bien, je ne voudrais pas ennuyer la grande héroïne de la Porte de Baldur. Nous allons partir. Viens, Rohma, éloigne-toi d'eux.~
 @1066769 = ~Voici donc le grand héros de la Porte de Baldur, le pourfendeur de Sarevok. C'est un réel plaisir que de vous rencontrer.~ [BD66769] ~Voici donc la grande héroïne de la Porte de Baldur, la pourfendeuse de Sarevok. C'est un réel plaisir que de vous rencontrer.~ [BD66769]
+@1066771 = ~Le pourfendeur de qui ? Je pense que vous vous faites une bien mauvaise idée de moi, mon ami.~ ~La pourfendeuse de qui ? Je pense que vous vous faites une bien mauvaise idée de moi, mon ami.~
+@1066776 = ~Hmm, étrange. Je ne vois en vous qu'une larme de conscience divine, et pourtant, vous avez vaincu votre frère de sang. Comment ? Comment avez-vous pu l'emporter là où tant d'autres avant vous ont été vaincus ?~ [BD66776]
 @1066829 = ~Le château Paldragon vous offre plus qu'une occasion de reconnaissance et de sabotage. Vous pouvez y espionner le serpent caché dans le cœur de Caelar. Utilisez vos dons et vous pourrez en apprendre plus sur le véritable danger que vous affrontez.~ [BD66829]
 @1066831 = ~Vraiment ? Vous pouvez recruter des alliés et vous procurer de l'équipement en ville.~
 @1066837 = ~Oui. J'ai terminé mes préparatifs. Mettons-nous en route pour Paldragon.~
@@ -38222,7 +38267,7 @@ PARAMÈTRES :
 Capacités d'équipement :
 - TAC0 : +2
 - Niveau de lanceur de sorts divins/druidiques : +1
-- Les esprits invoqués bénéficient en permanence des effets du sort de Bénédiction
+- Les esprits convoqués bénéficient en permanence des effets du sort Bénédiction
 
 Poids : 1~
 @1069205 = ~Cette large ceinture de cuir a été teinte en magenta profond. Elle a été fabriquée il y a plus de dix ans par un voleur humain qui voyait ses larcins comme autant d'occasions d'adorer Mask. Tous ses cambriolages étaient vus comme des prières à Mask, et il entassait le fruit de ses rapines dans un autel secret dédié au dieu des voleurs. Il préférait s'habiller en violet, convaincu que c'était la couleur préférée de sa divinité. Il fabriqua cette ceinture pour aller avec sa vêture. Ce voleur fut finalement pris et tué lors d'un de ses coups, et sa ceinture fut confisquée par le guet de la ville. La nuit suivante, la ceinture disparut d'un coffre fermé situé dans la caserne, raflée par Mask, afin qu'elle puisse continuer à le servir. Aujourd'hui, la ceinture arrive souvent entre les mains de ceux qui sauront s'en servir à bon escient.
