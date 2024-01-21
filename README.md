@@ -383,6 +383,12 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
+#### Version 0.9 &nbsp;(21 janvier 2024)
+
+  - Nouveau composant : Restauration des cinematiques classiques.
+  - Uniformisation BGEE et BG2EE.
+  - Corrections diverses.
+
 #### Version 0.8 &nbsp;(4 octobre 2023)
 
   - Corrections pour les sons utilisés dans des cutscene du composant Suppression des doublages en anglais.
