@@ -239,9 +239,9 @@ Ce composant supprime les ensembles de voix en anglais.
 
 ##
 
-#### [50] Restauration des cinematiques classiques
+#### [50] Restauration des cinématiques classiques
 
-Ce composant restaure les cinematiques classiques de la version orignale de Baldur's Gate.
+Ce composant restaure les cinématiques classiques de la version orignale de Baldur's Gate.
 
 - Inclusion des vidéos doublées en français de BG1.
 - Réduction des artefacts de compression et augmentation de la résolution des cinématiques.
@@ -314,6 +314,7 @@ Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 	- Selphira
 	- Rivvers
 	- Krabator
+	- Mickaël « Mickabouille » Leduque
 - L'équipe des précédents bénévoles traducteurs et relecteurs français de BG:EE :
 	- Lionel « La Voix 2 la sagesse » Bayle-Denise
 	- Denis « Isaya » Ribayrol
@@ -385,7 +386,7 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 #### Version 0.9 &nbsp;(21 janvier 2024)
 
-  - Nouveau composant : Restauration des cinematiques classiques.
+  - Nouveau composant : Restauration des cinématiques classiques.
   - Uniformisation BGEE et BG2EE.
   - Corrections diverses.
 
