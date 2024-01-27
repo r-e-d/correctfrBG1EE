@@ -224,6 +224,9 @@ Il n'a ni bouche, ni dents ; pourtant il mange sa nourriture sans discontinuer.
 @1001216 = ~Sorts divins/druidiques~
 @1001230 = ~Hé, vous autres, nous allons jouer à un jeu qui s'appelle « qu'est-ce-que-vous-avez-à-perdre ? » Nous essayons de nous infiltrer parmi les bandits de la région ; aussi, nous aimerions que vous fassiez COMME SI vous aviez peur de nous, et que vous nous donniez votre or, vos armes et le fer. Sinon les VRAIS bandits qui sont derrière nous vont arriver et vont tous vous massacrer... Et eux, ils prendront TOUT.~
 @1001235 = ~Hé, vous autres, nous allons jouer à un jeu qui s'appelle « qu'est-ce-que-vous-avez-à-perdre ? » Nous essayons de nous infiltrer parmi les bandits de la région ; aussi, nous aimerions que vous fassiez COMME SI vous aviez peur de nous, et que vous nous donniez votre or, vos armes et le fer. Sinon les VRAIS bandits qui sont derrière nous vont arriver et vont tous vous massacrer... Et eux, ils prendront TOUT.~
+@1001254 = ~Subit <AMOUNT> point(s) de dégâts <TYPE> infligé(s) par <DAMAGER> (résiste à <RESISTED> point(s) de dégâts)~
+@1001255 = ~Subit <AMOUNT> point(s) de dégâts <TYPE> infligé(s) par <DAMAGER> (bonus de <RESISTED> point(s) de dégâts)~
+@1001256 = ~Subit <AMOUNT> point(s) de dégâts <TYPE> infligé(s) par <DAMAGER>~
 @1001282 = ~Vous semblez avoir quelque intérêt malsain à vagabonder dans les allées du Consortium. Peut-être vaudrait-il mieux que vous retourniez dans votre chambre.~
 @1001283 = ~Votre mémoire, Aldeth, s'est peut-être quelque peu embrumée. Vous semblez oublier et même inventer des éléments de votre passé ; prenez par exemple, vos « amis d'enfance ». Un mensonge des plus stupides.~
 @1001293 = ~Êtes-vous sûr, Aldeth ? J'aurais juré que c'était aujourd'hui.~
@@ -6502,7 +6505,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur crée un champ de force magique qui le protège comme une armure de plates (classe d'armure 2). Ce sort peut être cumulé avec les bonus de Dextérité à la classe d'armure et, dans le cas des guerriers-mages, avec le bonus du bouclier. L'Armure fantomatique n'entrave pas les mouvements, ne pèse rien, n'encombre pas le bénéficiaire, et n'empêche pas non plus de lancer des sorts. Elle dure jusqu'à ce que le sort soit dissipé par une source extérieure ou jusqu'à expiration de sa durée normale.~
+Grâce à ce sort, le lanceur crée un champ de force magique qui le protège comme une armure de plates (classe d'armure 2). Ce sort peut être cumulé avec les bonus de Dextérité à la classe d'armure et, dans le cas des guerriers-mages, avec le bonus du bouclier. L'Armure fantomatique n'entrave pas les mouvements, ne pèse rien, n'encombre pas le lanceur, et n'empêche pas non plus de lancer des sorts. Elle dure jusqu'à ce que le sort soit dissipé par une source extérieure ou jusqu'à expiration de sa durée normale.~
 @1012154 = ~Glisse
 (Conjuration/Convocation)
 
@@ -6524,7 +6527,7 @@ Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche ne possède aucun bonus aux jets d'attaque ou de dégâts, mais elle inflige 2d4 points de dégâts d'acide. L'effet de l'acide dure un round par tranche de 3 niveaux d'expérience du lanceur, à moins d'être neutralisé, infligeant 2d4 points de dégâts d'acide supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
+Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche inflige 2d4 points de dégâts acides à l'impact. L'effet de l'acide durera un round supplémentaire par tranche de 3 niveaux d'expérience du lanceur, à moins d'être dissipé par une source extérieure, infligeant 2d4 points de dégâts acides supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
 @1012156 = ~Convocation de monstres I
 (Conjuration/Convocation)
 
@@ -6745,18 +6748,18 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Ce sort crée une sphère de 60 centimètres de diamètre dans la main du jeteur de sorts. Une fois le sort lancé, la sphère se dirige vers sa cible, qu'elle atteint inévitablement. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur de sorts. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
- Niveau 1 : 1d4 points de dégâts, cécité pendant un round.
- Niveau 2 : 1d4 points de dégâts, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0).
- Niveau 3 : 1d6 points de dégâts, brûle la victime pour des dégâts supplémentaires de 1d8.
- Niveau 4 : 1d6 points de dégâts, cécité pendant 1 tour.
- Niveau 5 : 1d8 points de dégâts, étourdissement pendant 3 rounds.
- Niveau 6 : 1d8 points de dégâts, inflige de la faiblesse (pénalité de 4 au TAC0).
- Niveau 7 : 1d10 points de dégâts, paralysie pendant 2 tours.
- Niveau 10 : 1d12 points de dégâts d'acide, pétrifie la cible.
- Niveau 12 : 2d8 points de dégâts d'acide, tue instantanément la victime.
+Ce sort crée une sphère de 60 centimètres de diamètre dans la main du lanceur qui fonce inévitablement vers sa cible. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial additionnel contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
+ Niveau 1 : 1d4 points de dégâts magiques, cécité pendant 1 round.
+ Niveau 2 : 1d4 points de dégâts magiques, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0) pendant 10 secondes.
+ Niveau 3 : 1d6 points de dégâts magiques, brûle la victime pour 1d8 points de dégâts de feu supplémentaires.
+ Niveau 4 : 1d6 points de dégâts magiques, cécité pendant 1 tour.
+ Niveau 5 : 1d8 points de dégâts magiques, étourdissement pendant 3 rounds.
+ Niveau 6 : 1d8 points de dégâts magiques, inflige de la faiblesse (pénalité de 4 au TAC0) pendant 1 tour.
+ Niveau 7-9 : 1d10 points de dégâts magiques, étourdissement pendant 2 tours.
+ Niveau 10-11 : 1d12 points de dégâts acides, pétrifie la cible.
+ Niveau 12 et plus : 2d8 points de dégâts acides, tue instantanément la victime.
 
-Remarque : la victime effectue un jet de sauvegarde contre les sorts à +6 contre tous les effets, mais n'a pas droit à un jet de sauvegarde contre les dégâts eux-mêmes.~
+Remarque : la victime peut effectuer un jet de sauvegarde contre les sorts à +6 contre tous les effets additionels, mais n'a pas droit à un jet de sauvegarde contre les dégâts eux-mêmes.~
 @1012175 = ~Nuage mortel
 (Évocation)
 
@@ -6797,10 +6800,10 @@ Niveau : 4
 Portée : champ visuel du lanceur
 Durée : 4 rounds
 Temps d'incantation : 4
-Zone d'effet : rayon de 9 mètres
+Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-En lançant ce sort, le magicien crée une averse de grêlons sur une zone de 18 mètres de diamètre pendant quatre rounds et inflige 2d8 points de dégâts de froid à toute créature dans la zone d'effet. Par ailleurs quiconque reste dans la zone d'effet subit 2d8 points de dégâts de froid chaque round pendant 4 rounds.~
+En jetant ce sort, le lanceur crée une violente averse de grêlons dans une zone de 9 mètres de diamètre pendant 4 rounds et inflige 2d8 points de dégâts de froid à toute créature située dans la zone d'effet. Par ailleurs, quiconque reste dans la zone d'effet subit 2d8 points de dégâts de froid chaque round pendant 4 rounds.~
 @1012179 = ~Éclair
 (Évocation)
 
@@ -6929,7 +6932,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le magicien absorbe la force vitale d'une cible pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts, tandis que le mage gagne 4 points de vie. Si le mage dépasse son total maximum de points de vie avec ce sort, il perd tout point de vie en trop au bout d'un tour.~
+Grâce à ce sort, le lanceur absorbe la force vitale d'une créature pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts magiques, tandis que le lanceur gagne 4 points de vie. Si le lanceur dépasse son total maximum de points de vie avec ce sort, alors il gagne la différence en points de vie temporaires, ces points de vie temporaires lui sont retirés après 1 tour. La plupart des créatures artificielles et des morts-vivants sont immunisés contre ce sort.~
 @1012190 = ~Toucher vampirique
 (Nécromancie)
 
@@ -6997,7 +7000,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Avec ce sort, un magicien inflige 1d8 points de dégâts électriques +1 par niveau d'expérience du lanceur à une créature en la touchant. En outre, le coup de poing en lui-même inflige 1d2 dégâts (le bonus de Force aux dégâts s'applique). Le magicien ne dispose que d'une seule décharge : une fois l'adversaire touché, l'énergie du sort a été utilisée. Si le magicien le rate, le sort est gaspillé. Il dispose également d'un round par niveau d'expérience pour toucher la créature ciblée avant que le sort ne se dissipe.~
+Lorsqu'il jette ce sort, le lanceur doit effectuer un jet d'attaque contre une créature afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6) et le lanceur dispose de 1 round par niveau d'expérience du lanceur pour effectuer un jet d'attaque avec cet objet. Si le jet d'attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si le jet d'attaque est réussi, la créature subit 1d8 points de dégâts électriques +1 par niveau d'expérience du lanceur. En outre, la poigne en elle-même inflige 1d2 points de dégâts non-létaux (le bonus de Force aux dégâts s'applique, les dégâts non-létaux infligent une perte de connaissance au lieu de tuer leur victime). Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
 @1012196 = ~Lenteur
 (Transmutation)
 
@@ -7405,10 +7408,10 @@ Sphère : élémentaire (feu)
 Portée : 0
 Durée : 4 rounds + 1 round par tranche de 2 niveaux
 Temps d'incantation : 4
-Zone d'effet : lame de type « épée », longue de 90 centimètres
+Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort permet au lanceur de faire surgir de sa main un rayon de feu brûlant. Ce rayon, semblable à une lame, se manie comme si le lanceur était compétent avec une épée, d'où l'absence de bonus ou de malus à son maniement. Si le lanceur réussit à frapper une créature avec la Lame enflammée dans un combat de mêlée, celle-ci subit 1d4 points de dégâts tranchants plus 1d2 +4 points de dégâts de feu supplémentaires. Toutefois, il ne s'agit pas d'une arme magique au sens propre du terme, ainsi, les créatures qui ne peuvent être frappées que par des armes magiques ne sont pas affectées.~
+Ce sort permet au lanceur de faire surgir de sa main un rayon de feu brûlant. Ce rayon, semblable à une lame, se manie comme si le lanceur était compétent avec une épée, d'où l'absence de bonus ou de malus à son maniement. Si le lanceur réussit un jet d'attaque contre une créature avec la Lame enflammée dans un combat de mêlée, celle-ci subit 1d4 points de dégâts tranchants plus 1d2 +4 points de dégâts de feu supplémentaires. Toutefois, il ne s'agit pas d'une arme magique au sens propre du terme, ainsi, les créatures qui ne peuvent être frappées que par des armes magiques ne sont pas affectées.~
 @1012319 = ~Colonne de feu
 (Évocation)
 
@@ -11832,7 +11835,7 @@ Poids : 0~
 
 PARAMÈTRES :
 
-Dégâts : 1d8 (projectile), +4d4 dégâts électriques (jet de sauvegarde contre les souffles pour la moitié)
+Dégâts : 1d8 (projectile), +4d4 (électrique, jet de sauvegarde contre les souffles pour la moitié)
 Arme de trait : arbalète
 
 Poids : 0~
@@ -14872,7 +14875,8 @@ Leilu
 Johnbob
 Selphira
 Rivvers
-Krabator%
+Krabator
+Mickaël « Mickabouille » Leduque%
 @1024702 = "~ Traduction espagnole ~
 www.clandlan.net
 
@@ -14917,18 +14921,8 @@ Dans un second temps, nous avons traduit l'intégralité des textes rajoutés pa
 
 Durant toutes les étapes de notre travail, nous avons eu à cœur de respecter la terminologie et le vocabulaire spécifique de Donjons & Dragons et de l'univers des Royaumes Oubliés.
 
-Cependant, malgré notre motivation à délivrer un travail que nous espérons être de qualité, il est possible qu'il subsiste encore quelques erreurs. Si vous en repérez une, n'hésitez pas à nous le signaler sur le forum officiel, à cette adresse : https://forums.beamdog.com/categories/fr-baldur-s-gate%3A-enhanced-edition
-Nous en ferons la correction dans les plus brefs délais.
-
-Nous signalons enfin que le travail de l'équipe de traduction française se limite strictement aux textes écrits de Baldur's Gate : Enhanced Edition. Nous ne sommes en aucun cas responsables des problèmes de voix françaises manquantes dans le jeu. Aujourd'hui cela concerne la version Android et peut-être la version iOS. Les versions pour ordinateurs (Windows, Linux, Mac) incluent les voix françaises déjà présentes dans Baldur's Gate et son extension La Légende de l'Île Perdue (Tales of the Sword Coast) ; les voix rajoutées par l'Enhanced Edition resteront en anglais.
-
-Cependant, SaphirAngel, un autre passionné du jeu comme nous, a mis au point un patch permettant d'avoir la plupart des voix des personnages de Baldur's Gate en français. Vous pouvez trouver son patch, ainsi que les recommandations pour l'installer, à cette adresse :
-https://forums.beamdog.com/discussion/10605/p1
-Depuis lors, Isaya, un autre passionné et membre de la Couronne de Cuivre, en a réalisé une version revue dans la forme, qui a été reprise par Beamdog dans les versions pour ordinateur (à quelques détails près). Le patch et les instructions d'installation se trouvent à cette adresse :
-http://forum.baldursgate.com/discussion/23146/voix-francaises-pour-bgee-v1-2
-
-Nous leur adressons, au nom de tous les joueurs francophones, nos remerciements les plus sincères.
-(Notez que ces patchs ne concernent également que déjà présentes dans Baldur's Gate et son extension La Légende de l'Île Perdue (Tales of the Sword Coast))."
+Cependant, malgré notre motivation à délivrer un travail que nous espérons être de qualité, il est possible qu'il subsiste encore quelques erreurs. Si vous en repérez une, n'hésitez pas à nous le signaler sur le forum de la communauté française, à cette adresse : https://www.baldursgateworld.fr/viewtopic.php?t=33795
+Nous en ferons la correction dans les plus brefs délais."
 @1024705 = %~Baldur's Gate : Enhanced Edition~
 ~Traduction polonaise~
 
@@ -16409,18 +16403,18 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Ce sort crée une sphère de 60 centimètres de diamètre dans la main du jeteur de sorts. Une fois le sort lancé, la sphère se dirige vers sa cible, qu'elle atteint inévitablement. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur de sorts. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
- Niveau 1 : 1d4 points de dégâts, cécité pendant un round.
- Niveau 2 : 1d4 points de dégâts, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0).
- Niveau 3 : 1d6 points de dégâts, brûle la victime pour des dégâts supplémentaires de 1d8.
- Niveau 4 : 1d6 points de dégâts, cécité pendant 1 tour.
- Niveau 5 : 1d8 points de dégâts, étourdissement pendant 3 rounds.
- Niveau 6 : 1d8 points de dégâts, inflige de la faiblesse (pénalité de 4 au TAC0).
- Niveau 7 : 1d10 points de dégâts, paralysie pendant 2 tours.
- Niveau 10 : 1d12 points de dégâts d'acide, pétrifie la cible.
- Niveau 12 : 2d8 points de dégâts d'acide, tue instantanément la victime.
+Ce sort crée une sphère de 60 centimètres de diamètre dans la main du lanceur qui fonce inévitablement vers sa cible. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial additionnel contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
+ Niveau 1 : 1d4 points de dégâts magiques, cécité pendant 1 round.
+ Niveau 2 : 1d4 points de dégâts magiques, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0) pendant 10 secondes.
+ Niveau 3 : 1d6 points de dégâts magiques, brûle la victime pour 1d8 points de dégâts de feu supplémentaires.
+ Niveau 4 : 1d6 points de dégâts magiques, cécité pendant 1 tour.
+ Niveau 5 : 1d8 points de dégâts magiques, étourdissement pendant 3 rounds.
+ Niveau 6 : 1d8 points de dégâts magiques, inflige de la faiblesse (pénalité de 4 au TAC0) pendant 1 tour.
+ Niveau 7-9 : 1d10 points de dégâts magiques, étourdissement pendant 2 tours.
+ Niveau 10-11 : 1d12 points de dégâts acides, pétrifie la cible.
+ Niveau 12 et plus : 2d8 points de dégâts acides, tue instantanément la victime.
 
-Remarque : la victime effectue un jet de sauvegarde contre les sorts à +6 contre tous les effets, mais n'a pas droit à un jet de sauvegarde contre les dégâts eux-mêmes.~
+Remarque : la victime peut effectuer un jet de sauvegarde contre les sorts à +6 contre tous les effets additionels, mais n'a pas droit à un jet de sauvegarde contre les dégâts eux-mêmes.~
 @1025865 = ~Toile d'araignée
 (Évocation)
 
@@ -16531,7 +16525,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le magicien absorbe la force vitale d'une cible pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts, tandis que le mage gagne 4 points de vie. Si le mage dépasse son total maximum de points de vie avec ce sort, il perd les points de vie supplémentaires au bout de 1 tour.~
+Grâce à ce sort, le lanceur absorbe la force vitale d'une créature pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts magiques, tandis que le lanceur gagne 4 points de vie. Si le lanceur dépasse son total maximum de points de vie avec ce sort, alors il gagne la différence en points de vie temporaires, ces points de vie temporaires lui sont retirés après 1 tour. La plupart des créatures artificielles et des morts-vivants sont immunisés contre ce sort.~
 @1025895 = ~Horreur
 (Nécromancie)
 
@@ -16614,7 +16608,7 @@ Temps d'incantation : 4
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort permet au lanceur de faire surgir de sa main un rayon de feu brûlant. Ce rayon, semblable à une lame, se manie comme si le lanceur était compétent avec une épée, d'où l'absence de bonus ou de malus à son maniement. Si le lanceur réussit à frapper une créature avec la Lame enflammée dans un combat de mêlée, celle-ci subit 1d4 points de dégâts tranchants plus 1d2 +4 points de dégâts de feu supplémentaires. Toutefois, il ne s'agit pas d'une arme magique au sens propre du terme, ainsi, les créatures qui ne peuvent être frappées que par des armes magiques ne sont pas affectées.~
+Ce sort permet au lanceur de faire surgir de sa main un rayon de feu brûlant. Ce rayon, semblable à une lame, se manie comme si le lanceur était compétent avec une épée, d'où l'absence de bonus ou de malus à son maniement. Si le lanceur réussit un jet d'attaque contre une créature avec la Lame enflammée dans un combat de mêlée, celle-ci subit 1d4 points de dégâts tranchants plus 1d2 +4 points de dégâts de feu supplémentaires. Toutefois, il ne s'agit pas d'une arme magique au sens propre du terme, ainsi, les créatures qui ne peuvent être frappées que par des armes magiques ne sont pas affectées.~
 @1025924 = ~Drain de niveau~
 @1025926 = ~Métamorphose d'autrui
 (Transmutation)
@@ -16828,7 +16822,7 @@ Temps d'incantation : 4
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-En lançant ce sort, le magicien crée une averse de grêlons sur une zone de 9 mètres de diamètre pendant quatre rounds et inflige 2d8 points de dégâts de froid à toute créature dans la zone d'effet. Par ailleurs quiconque reste dans la zone d'effet subit 2d8 points de dégâts de froid chaque round pendant 4 rounds.~
+En jetant ce sort, le lanceur crée une violente averse de grêlons dans une zone de 9 mètres de diamètre pendant 4 rounds et inflige 2d8 points de dégâts de froid à toute créature située dans la zone d'effet. Par ailleurs, quiconque reste dans la zone d'effet subit 2d8 points de dégâts de froid chaque round pendant 4 rounds.~
 @1025984 = ~Convocation d'animaux I
 (Conjuration/Convocation)
 
@@ -17529,7 +17523,7 @@ Temps d'incantation : 7
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort est l'inverse du sort Soins des blessures graves. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit 17 points de dégâts magique. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
+Ce sort est l'inverse du sort Soins des blessures graves. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit effectuer un jet d'attaque contre une créature afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et le lanceur dispose de 2 rounds pour effectuer un jet d'attaque avec cet objet. Si le jet d'attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si le jet d'attaque est réussi, la créature subit 17 points de dégâts magiques. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
 @1026225 = ~Manteau de terreur
 (Conjuration)
 
@@ -17654,7 +17648,7 @@ Temps d'incantation : 8
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort est l'inverse du sort Soins des blessures critiques. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit 27 points de dégâts magique. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
+Ce sort est l'inverse du sort Soins des blessures critiques. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit effectuer un jet d'attaque contre une créature afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et le lanceur dispose de 2 rounds pour effectuer un jet d'attaque avec cet objet. Si le jet d'attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si le jet d'attaque est réussi, la créature subit 27 points de dégâts magiques. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
 @1026246 = ~Mise à mort
 (Nécromancie)
 
@@ -17666,7 +17660,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
-Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 3 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 3 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime subit automatiquement 2d6 +9 points de dégâts. De plus, elle doit réussir un jet de sauvegarde contre les sorts ou être instantanément tuée. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
+Lorsqu'il jette ce sort, le lanceur doit effectuer un jet d'attaque contre une créature afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 3 au TAC0) et le lanceur dispose de 3 rounds pour effectuer un jet d'attaque avec cet objet. Si le jet d'attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si le jet d'attaque est réussi, la créature subit 2d6 +9 points de dégâts magiques. De plus, elle doit réussir un jet de sauvegarde contre les sorts ou être instantanément tuée. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
 @1026248 = ~Injonction majeure
 (Enchantement/Charme)
 
@@ -17825,7 +17819,7 @@ Temps d'incantation : 9
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort est l'inverse du sort Guérison. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit toucher un adversaire afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et l'attaque suivante doit être effectuée par le lanceur avec cet objet dans les 2 rounds suivants. Si la première attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si l'attaque est réussie, la victime voit ses points de vie réduits à 1. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
+Ce sort est l'inverse du sort Guérison. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Lorsqu'il jette ce sort, le lanceur doit effectuer un jet d'attaque contre une créature afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6, bonus de 2 au TAC0) et le lanceur dispose de 2 rounds pour effectuer un jet d'attaque avec cet objet. Si le jet d'attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si le jet d'attaque est réussi, la créature voit ses points de vie réduits à 1. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
 @1026275 = ~Aube illusoire
 (Évocation)
 
@@ -18308,7 +18302,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Avec ce sort, un magicien inflige 1d8 points de dégâts électriques +1 par niveau d'expérience du lanceur à une créature en la touchant. En outre, le coup de poing en lui-même inflige 1d2 dégâts (le bonus de Force aux dégâts s'applique). Le magicien ne dispose que d'une seule décharge : une fois l'adversaire touché, l'énergie du sort a été utilisée. Si le magicien le rate, le sort est gaspillé. Il dispose également d'un round par niveau d'expérience pour toucher la créature ciblée avant que le sort ne se dissipe.~
+Lorsqu'il jette ce sort, le lanceur doit effectuer un jet d'attaque contre une créature afin d'en appliquer les effets. Un objet est alors créé (peut atteindre ses ennemis comme une arme d'enchantement +6) et le lanceur dispose de 1 round par niveau d'expérience du lanceur pour effectuer un jet d'attaque avec cet objet. Si le jet d'attaque échoue, l'objet disparaît et le sort est perdu. En revanche, si le jet d'attaque est réussi, la créature subit 1d8 points de dégâts électriques +1 par niveau d'expérience du lanceur. En outre, la poigne en elle-même inflige 1d2 points de dégâts non-létaux (le bonus de Force aux dégâts s'applique, les dégâts non-létaux infligent une perte de connaissance au lieu de tuer leur victime). Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés. Ce sort ne peut être dissipé par une source extérieure qu'entre son incantation et l'attaque nécessaire à ses effets.~
 @1026373 = ~Toucher glacial
 (Nécromancie)
 
@@ -18510,7 +18504,7 @@ Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche ne possède aucun bonus aux jets d'attaque ou de dégâts, mais elle inflige 2d4 points de dégâts d'acide. L'effet de l'acide dure un round par tranche de 3 niveaux d'expérience du lanceur, à moins d'être neutralisé, infligeant 2d4 points de dégâts d'acide supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
+Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche inflige 2d4 points de dégâts acides à l'impact. L'effet de l'acide durera un round supplémentaire par tranche de 3 niveaux d'expérience du lanceur, à moins d'être dissipé par une source extérieure, infligeant 2d4 points de dégâts acides supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
 @1026395 = ~Image miroir
 (Illusion/Fantasme)
 
@@ -18715,7 +18709,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur crée un champ de force magique qui le protège comme une armure de plates (classe d'armure 2). Ce sort peut être cumulé avec les bonus de Dextérité à la classe d'armure et, dans le cas des guerriers-mages, avec le bonus du bouclier. L'Armure fantomatique n'entrave pas les mouvements, ne pèse rien, n'encombre pas le bénéficiaire, et n'empêche pas non plus de lancer des sorts. Elle dure jusqu'à ce que le sort soit dissipé par une source extérieure ou jusqu'à expiration de sa durée normale.~
+Grâce à ce sort, le lanceur crée un champ de force magique qui le protège comme une armure de plates (classe d'armure 2). Ce sort peut être cumulé avec les bonus de Dextérité à la classe d'armure et, dans le cas des guerriers-mages, avec le bonus du bouclier. L'Armure fantomatique n'entrave pas les mouvements, ne pèse rien, n'encombre pas le lanceur, et n'empêche pas non plus de lancer des sorts. Elle dure jusqu'à ce que le sort soit dissipé par une source extérieure ou jusqu'à expiration de sa durée normale.~
 @1026431 = ~Protection contre le feu
 (Abjuration)
 
@@ -19389,7 +19383,7 @@ Temps d'incantation : 6
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Ce sort crée une vaste zone de brouillard opaque hautement acide. Toute créature présente dans la zone d'effet subit 8 points de dégâts d'acide par round passé dans les vapeurs toxiques de la Brume mortelle. De plus, ce sort tue instantanément toutes les créatures convoquées présentes dans la zone d'effet, quels que soient leurs dés de vie ou leurs éventuelles immunités (hormis les démons, dévas, planétaires et quelques autres créatures invoquées de haut niveau).~
+Ce sort crée une vaste zone de brouillard opaque hautement acide. Toute créature présente dans la zone d'effet subit 8 points de dégâts acides par round passé dans les vapeurs toxiques de la Brume mortelle. De plus, ce sort tue instantanément toutes les créatures convoquées présentes dans la zone d'effet, quels que soient leurs dés de vie ou leurs éventuelles immunités (hormis les démons, dévas, planétaires et quelques autres créatures invoquées de haut niveau).~
 @1026578 = ~Contingence
 (Évocation)
 
@@ -21934,7 +21928,7 @@ Temps d'incantation : 4
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-En lançant ce sort, le magicien crée une averse de grêlons sur une zone de 9 mètres de diamètre pendant quatre rounds et inflige 2d8 points de dégâts de froid à toute créature dans la zone d'effet. Par ailleurs quiconque reste dans la zone d'effet subit 2d8 points de dégâts de froid chaque round pendant 4 rounds.~
+En jetant ce sort, le lanceur crée une violente averse de grêlons dans une zone de 9 mètres de diamètre pendant 4 rounds et inflige 2d8 points de dégâts de froid à toute créature située dans la zone d'effet. Par ailleurs, quiconque reste dans la zone d'effet subit 2d8 points de dégâts de froid chaque round pendant 4 rounds.~
 @1030201 = ~Peau de pierre
 (Transmutation)
 
@@ -23975,6 +23969,9 @@ Le personnage invoque une tempête de pluie bouillonnante et nocive. Les adversa
 @1032276 = ~Poussière de verre
 
 La créature pulvérise de la poudre de verre pilé, obligeant sa cible à réussir un jet de sauvegarde contre les souffles sous peine de souffrir une pénalité de 4 à la classe d'armure et de 2 au TAC0 pendant que les petits morceaux de verre pénètrent sous sa peau.~
+@1032280 = ~Acide de mimique
+
+La créature lance un globe d'acide corrosif sur la cible, qui subit 3d12 points de dégâts acides sans jet de sauvegarde.~
 @1032283 = ~Tilly Underwood
 Andrew Beale - Anduin
 Gaëtan Landry - Headbomb
@@ -24400,6 +24397,19 @@ Safana peut charmer n'importe quelle personne qu'elle peut embrasser. Il peut s'
 
 Si Safana (ou un de ses alliés) nuit ou essaie de nuire à la personne sous le charme par une action non déguisée, ou si un sort de Dissipation de la magie est jeté avec succès à la personne sous le charme, le charme est rompu. Si plusieurs effets de charmes affectent simultanément une créature, le charme le plus récent prend le dessus. Notez que le sujet se souvient parfaitement des événements qui ont eu lieu lorsqu'il était sous le charme. Notez aussi que la créature ne peut pas quitter la zone dans laquelle elle a été charmée.~
 @1032399 = ~Exécute la Danse shamanique~
+@1032428 = ~de feu~
+@1032429 = ~perforants~
+@1032430 = ~tranchants~
+@1032431 = ~contondants~
+@1032432 = ~de projectiles~
+@1032433 = ~électriques~
+@1032434 = ~de froid~
+@1032435 = ~magiques~
+@1032436 = ~acides~
+@1032437 = ~de poison~
+@1032438 = ~de feu magique~
+@1032439 = ~de froid magique~
+@1032440 = ~non-létaux~
 @1032444 = ~La masse d'armes descend directement du simple gourdin, elle n'est rien de plus qu'une solide hampe de bois avec une tête en pierre, en fer ou encore en acier fixée à l'extrémité. La longueur de l'arme varie, mais la plupart d'entre elles mesurent entre 60 centimètres et 90 centimètres de long. La forme de la tête peut varier considérablement, ronde, pyramidale ou piriforme, certaines sont lisses, d'autres hérissées de pointes, et d'autres encore sont à rebords. Certaines possèdent même une pointe surmontant la tête afin de frapper d'estoc, cependant leur conception est avant tout pour porter des coups de taille dévastateurs contre les armures. Les masses d'armes, simples à fabriquer, bon marché et d'un maniement aisé, sont des armes relativement courantes, notamment chez les membres du clergé.
 
 Le manche de cette masse d'armes magique semble guider celui qui la manie, en devenant une extension de sa main.
@@ -24832,11 +24842,11 @@ PARAMÈTRES :
 Capacités de combat :
 - Inflige 1d4 points de dégâts de froid supplémentaires aux élémentaires de feu
 - Inflige 1d4 points de dégâts de feu supplémentaires aux élémentaires d'eau
-- Inflige 1d4 points de dégâts d'acide supplémentaires aux élémentaires de terre
+- Inflige 1d4 points de dégâts acides supplémentaires aux élémentaires de terre
 - Inflige 1d4 points de dégâts électriques supplémentaires aux élémentaires d'air
 
 TAC0 : +2
-Dégâts : 1d4 +2 (perforant), +1 dégât électrique, de feu, de froid ou d'acide (aléatoire)
+Dégâts : 1d4 +2 (perforant), +1 dégât électrique, de feu, de froid ou acide (aléatoire)
 Facteur de vitesse : 0
 Type de compétence : dague
 Type : arme à une main
@@ -27353,8 +27363,8 @@ Soudain, les coups s'arrêtent. Vous entendez une clef qui déverrouille la port
 @1044682 = ~Vous avez de la chance d'être le héros de la Porte de Baldur et d'avoir le Poing Enflammé pour surveiller vos arrières. D'habitude, on ne tolère pas la violence, ici.~ ~Vous avez de la chance d'être l'héroïne de la Porte de Baldur et d'avoir le Poing Enflammé pour surveiller vos arrières. D'habitude, on ne tolère pas la violence, ici.~
 @1044685 = ~Siège de Paldragon~
 @1044686 = ~Description du siège de Paldragon~
-@1044699 = ~Subit <AMOUNT> points de dégâts de type <TYPE> infligés par <DAMAGER> (résiste à <RESISTED> point(s) de dégâts)~
-@1044700 = ~Subit <AMOUNT> points de dégâts de type <TYPE> infligés par <DAMAGER>~
+@1044699 = ~Subit <AMOUNT> point(s) de dégâts <TYPE> infligé(s) par <DAMAGER> (résiste à <RESISTED> point(s) de dégâts)~
+@1044700 = ~Subit <AMOUNT> point(s) de dégâts <TYPE> infligé(s) par <DAMAGER>~
 @1044707 = ~Les mers sont bien agitées à cette époque de l'année.~ [MALSAL01]
 @1044708 = ~Rien de tel que ces escapades terrestres. Un grog et une jeune donzelle sur les genoux feraient de moi un homme comblé.~ [MALSAL02]
 @1044709 = ~Je n'peux pas m'absenter trop longtemps ou l'capitaine aura ma peau.~ [MALSAL03]
@@ -30281,7 +30291,7 @@ Poids : 2~
 PARAMÈTRES :
 
 Capacités de combat :
-- 15 % de chances que la cible reçoive 1 point de dégâts d'acide supplémentaire par coup et par round durant les 3 prochains rounds
+- 15 % de chances que la cible reçoive 1 point de dégât acide supplémentaire par round durant les 3 prochains rounds
 
 TAC0 : +2
 Dégâts : 1d4 +2 (perforant), +1 (acide)
@@ -39567,6 +39577,7 @@ Les lambeaux des pages de ce volume ne vous en apprennent pas plus, du moins, c'
 @1071004 = ~Par ici.~
 @1071005 = ~Ne faites pas de bruit.~
 @1071017 = ~Ma cape se prend sans cesse dans les branches.~
+@1071075 = ~Ma maîtrise de la Toile défaille ! C'est inacceptable !~
 @1071087 = ~HouuuuUUUuuuUUUUu.~
 @1071114 = ~(Le plafond de la grotte ne présente aucune faiblesse que vous pourriez exploiter, mais si le pendule de pierre est précis, placer le tonneau de BOUM à cet endroit devrait avoir un effet dévastateur sur les défenses des croisés à Paldragon.)~
 @1071117 = ~Le siège de Paldragon
