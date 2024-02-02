@@ -6527,7 +6527,7 @@ Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche inflige 2d4 points de dégâts acides à l'impact. L'effet de l'acide durera un round supplémentaire par tranche de 3 niveaux d'expérience du lanceur, à moins d'être dissipé par une source extérieure, infligeant 2d4 points de dégâts acides supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
+Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche inflige 2d4 points de dégâts acides à l'impact. L'effet de l'acide durera un round par tranche de 3 niveaux d'expérience du lanceur, à moins d'être dissipé par une source extérieure, infligeant 2d4 points de dégâts acides supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
 @1012156 = ~Convocation de monstres I
 (Conjuration/Convocation)
 
@@ -6770,7 +6770,7 @@ Temps d'incantation : 5
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Ce sort génère un nuage de vapeurs jaune verdâtre tourbillonnantes, si toxique qu'il tue automatiquement toute créature possédant moins de 4 dés de vie, et oblige les créatures possédant de 5 à 6 dés de vie à lancer un jet de sauvegarde contre les poisons à -4 ou à mourir. Retenir sa respiration n'empêche pas le sort d'agir. Les créatures ayant un niveau d'expérience supérieur à 6 (ou 6 dés de vie) doivent quitter le nuage immédiatement ou subir 1d10 points de dégâts de poison à chaque round si elles restent dans la zone d'effet.~
+Ce sort génère un épouvantable nuage de vapeurs jaune verdâtre tourbillonnantes, si toxique qu'il tue automatiquement toute créature possédant 4 dés de vie (ou niveaux d'expérience) ou moins sans jet de sauvegarde, et oblige les créatures possédant entre 5 et 6 dés de vie (ou niveaux d'expérience) à réussir un jet de sauvegarde contre les poisons à -4 ou à mourir. Retenir sa respiration n'a aucun effet sur la létalité du sort. Les créatures possédant 6 dés de vie (ou niveaux d'expérience) ou plus doivent quitter le nuage immédiatement ou subir 1d10 points de dégâts de poison à chaque round qu'elles passent dans la zone d'effet du sort. Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1012176 = ~Cône de froid
 (Évocation)
 
@@ -6836,7 +6836,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
-En jetant ce sort, le lanceur crée un nuage de vapeurs nauséabondes à une distance maximale de 27,5 mètres de l'endroit où il se trouve. Toute créature prise dans ce nuage doit lancer un jet de sauvegarde contre les poisons à +2, sous peine de chanceler et d'être incapable d'attaquer à cause de ses nausées, pendant 1d2 rounds. Si elle réussit son jet de sauvegarde contre les poisons, la créature peut quitter le nuage sans en subir les effets néfastes ; mais, si elle y reste, elle doit effectuer un nouveau jet de sauvegarde contre les poisons à chaque round. Les effets néfastes du poison peuvent être ralentis ou neutralisés à l'aide d'un sort de Dissipation de la magie lancé avec succès, mais si le sujet reste dans le nuage, il est toujours susceptible d'en subir les effets.~
+En jetant ce sort, le lanceur crée un nuage de vapeurs nauséabondes à une distance maximale de 27,5 mètres de l'endroit où il se trouve. Toute créature prise dans ce nuage doit lancer un jet de sauvegarde contre les poisons à +2, sous peine de chanceler et d'être incapable d'attaquer à cause de ses nausées, pendant 1d2 rounds. Si elle réussit son jet de sauvegarde contre les poisons, la créature peut quitter le nuage sans en subir les effets néfastes ; mais, si elle y reste, elle doit effectuer un nouveau jet de sauvegarde contre les poisons à chaque round. Les effets néfastes du poison peuvent être ralentis ou neutralisés à l'aide d'un sort de Dissipation de la magie lancé avec succès, mais si le sujet reste dans le nuage, il est toujours susceptible d'en subir les effets. Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1012182 = ~Bouclier
 (Évocation)
 
@@ -6932,7 +6932,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur absorbe la force vitale d'une créature pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts magiques, tandis que le lanceur gagne 4 points de vie. Si le lanceur dépasse son total maximum de points de vie avec ce sort, alors il gagne la différence en points de vie temporaires, ces points de vie temporaires lui sont retirés après 1 tour. La plupart des créatures artificielles et des morts-vivants sont immunisés contre ce sort.~
+Grâce à ce sort, le lanceur absorbe la force vitale d'une créature pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts magiques, tandis que le lanceur gagne 4 points de vie. Si le lanceur dépasse son total maximum de points de vie avec ce sort, alors il gagne la différence en points de vie temporaires, ces points de vie temporaires lui sont retirés après 1 tour. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre ce sort.~
 @1012190 = ~Toucher vampirique
 (Nécromancie)
 
@@ -6956,7 +6956,7 @@ Temps d'incantation : 1
 Zone d'effet : arc de 90° de 8 mètres de long
 Jet de sauvegarde : spécial
 
-Grâce à ce sort, une gerbe de couleurs vives en forme d'éventail jaillit de la main du lanceur. 1d6 créatures situées dans la zone d'effet sont affectées dans l'ordre croissant de leur proximité au lanceur. Toute créature dans la zone d'effet de 4 dés de vie (ou 4 niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds. Les créatures ayant 5 dés de vie (ou 5 niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
+Grâce à ce sort, une gerbe de couleurs vives en forme d'éventail jaillit de la main du lanceur. 1d6 créatures situées dans la zone d'effet sont affectées dans l'ordre croissant de leur proximité au lanceur. Toute créature dans la zone d'effet de 4 dés de vie (ou niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds. Les créatures ayant 5 dés de vie (ou niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1012192 = ~Porte dimensionnelle
 (Transmutation)
 
@@ -7022,7 +7022,7 @@ Temps d'incantation : 9
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort donne au personnage un score de 18 en Force et y ajoute un bonus de 50 %. La cible reçoit tous les bonus de Force appropriés. Ainsi, si elle a un score en Force compris entre 18/50 et 18/00, ce score sera fixé à 18/00 pour la durée du sort. Si elle avait entre 18/01 et 18/50, alors le score de Force sera de 18/50 plus le pourcentage original. Si la Force était inférieure à 18, alors elle sera fixée à 18/50. Par contre, si la cible avait une Force de 19 ou plus, elle sera effectivement diminuée.~
+Ce sort fixe la Force du bénéficiaire à 18 et ajoute un bonus de 50 % à la Force exceptionnelle (18/50). Le bénéficiaire reçoit ainsi tous les bonus de Force associés (TAC0, dégâts, etc.). Par exemple, si le bénéficiaire a un score en Force compris entre 18/50 et 18/00, ce score sera fixé à 18/00 pour la durée du sort. Si le bénéficiaire a un score en Force compris entre 18/01 et 18/50, alors le score de Force sera de 18/50 plus le pourcentage initial. Si le bénéficiaire a un score en Force inférieur à 18, alors il sera fixé à 18/50. Cependant, si le bénéficiaire a un score en Force de 19 ou plus, il sera diminué à 18/50.~
 @1012198 = ~Vocaliser
 (Transmutation)
 
@@ -10443,12 +10443,12 @@ Dégâts : 1d6 +2 (projectile), +1d6 dégâts de feu (jet de sauvegarde contre 
 Arme de trait : arc
 
 Poids : 0~
-@1017541 = ~Ce projectile long et fin est enchanté de façon à « forer » l'armure de sa cible... en direction du cœur.
+@1017541 = ~Cette flèche est longue et fine, elle est imprégnée de propriétés magiques qui lui permettent de « forer » à travers l'armure de sa cible en direction du cœur.
 
 PARAMÈTRES :
 
 TAC0 : +4
-Dégâts : 1d6 (projectile), +6 dégâts perforants (jet de sauvegarde contre la mort pour annuler)
+Dégâts : 1d6 (projectile), +6 (perforant, jet de sauvegarde contre la mort pour annuler)
 Arme de trait : arc
 
 Poids : 0~
@@ -16294,6 +16294,11 @@ Zone d'effet : spéciale
 Jet de sauvegarde : 1/2
 
 Des arcs électriques jaillissent du bout des doigts du lanceur, bondissant vers ses ennemis en les brûlant avec de l'électricité. La Chaîne d'éclairs cause 1d6 de dégâts électriques par tranche de 2 niveaux d'expérience du lanceur. Un jet de sauvegarde contre les sorts réussi permet de diviser par 2 les dégâts subis. Ainsi, un magicien de niveau 12 infligera 6d6 points de dégâts électriques (3d6 si jet de sauvegarde contre les sorts réussi) à chaque ennemi.~
+@1025802 = ~Un niveau d'expérience absorbé~
+@1025803 = ~Deux niveaux d'expérience absorbés~
+@1025804 = ~Trois niveaux d'expérience absorbés~
+@1025805 = ~Quatre niveaux d'expérience absorbés~
+@1025806 = ~Cinq niveaux d'expérience absorbés~
 @1025809 = ~Soins des blessures légères
 (Nécromancie)
 
@@ -16525,7 +16530,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur absorbe la force vitale d'une créature pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts magiques, tandis que le lanceur gagne 4 points de vie. Si le lanceur dépasse son total maximum de points de vie avec ce sort, alors il gagne la différence en points de vie temporaires, ces points de vie temporaires lui sont retirés après 1 tour. La plupart des créatures artificielles et des morts-vivants sont immunisés contre ce sort.~
+Grâce à ce sort, le lanceur absorbe la force vitale d'une créature pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts magiques, tandis que le lanceur gagne 4 points de vie. Si le lanceur dépasse son total maximum de points de vie avec ce sort, alors il gagne la différence en points de vie temporaires, ces points de vie temporaires lui sont retirés après 1 tour. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre ce sort.~
 @1025895 = ~Horreur
 (Nécromancie)
 
@@ -16890,7 +16895,7 @@ Temps d'incantation : 9
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort donne au personnage un score de 18 en Force et y ajoute un bonus de 50 %. La cible reçoit tous les bonus de Force appropriés. Ainsi, si elle a un score en Force compris entre 18/50 et 18/00, ce score sera fixé à 18/00 pour la durée du sort. Si elle avait entre 18/01 et 18/50, alors le score de Force sera de 18/50 plus le pourcentage original. Si la Force était inférieure à 18, alors elle sera fixée à 18/50. Par contre, si la cible avait une Force de 19 ou plus, elle sera effectivement diminuée.~
+Ce sort fixe la Force du bénéficiaire à 18 et ajoute un bonus de 50 % à la Force exceptionnelle (18/50). Le bénéficiaire reçoit ainsi tous les bonus de Force associés (TAC0, dégâts, etc.). Par exemple, si le bénéficiaire a un score en Force compris entre 18/50 et 18/00, ce score sera fixé à 18/00 pour la durée du sort. Si le bénéficiaire a un score en Force compris entre 18/01 et 18/50, alors le score de Force sera de 18/50 plus le pourcentage initial. Si le bénéficiaire a un score en Force inférieur à 18, alors il sera fixé à 18/50. Cependant, si le bénéficiaire a un score en Force de 19 ou plus, il sera diminué à 18/50.~
 @1026016 = ~Modification supplémentaire de la Force~
 @1026019 = ~Sous l'effet d'un sort de Hâte~
 @1026023 = ~Arrêt du temps
@@ -17976,7 +17981,7 @@ Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
 
-Le Symbole : terreur est un puissant enchantement permettant au prêtre d'inscrire ce symbole sur le sol ou sur toute autre surface. Il restera là jusqu'à ce que quelqu'un s'en approche suffisamment puis explosera, affectant tous ceux qui sont situés dans sa zone d'effet et n'ont pas réussi un jet de sauvegarde contre les sorts à -4 par une peur de 2 rounds + 1 round tous les 3 niveaux d'expérience du lanceur.~
+Symbole : terreur est un puissant enchantement qui permet au lanceur d'inscrire un symbole sur le sol ou tout autre surface. Le symbole restera en place jusqu'à ce qu'une créature s'en approche trop près, auquel cas il explosera. Toutes les créatures situées dans la zone d'effet doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être submergées par la peur pendant 2 rounds, plus 1 round par tranche de 3 niveaux d'expérience du lanceur.~
 @1026301 = ~Rayon de soleil
 (Invocation, Transmutation)
 
@@ -18090,7 +18095,7 @@ Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
 
-Symbole : étourdissement est un puissant enchantement qui permet au prêtre d'inscrire un symbole sur le sol ou toute autre surface. Il explosera si une créature s'en approche trop près. Si la créature ne réussit pas un jet de sauvegarde contre les sorts à -4, elle sera étourdie pendant 2 rounds + 1 round par tranche de 3 niveaux d'expérience du lanceur.~
+Symbole : étourdissement est un puissant enchantement qui permet au lanceur d'inscrire un symbole sur le sol ou tout autre surface. Le symbole restera en place jusqu'à ce qu'une créature s'en approche trop près, auquel cas il explosera. Toutes les créatures situées dans la zone d'effet doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être étourdies pendant 2 rounds, plus 1 round par tranche de 3 niveaux d'expérience du lanceur.~
 @1026318 = ~Symbole : mort
 (Conjuration/Convocation)
 
@@ -18102,7 +18107,7 @@ Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
 
-Symbole : mort est un puissant enchantement qui permet au prêtre d'inscrire un symbole sur le sol ou toute autre surface. Il explosera si une créature s'en approche trop près. Si la créature ne réussit pas un jet de sauvegarde contre la mort, elle mourra. Les créatures possédant plus de 60 points de vie sont immunisées contre les effets de ce sort.~
+Symbole : mort est un puissant enchantement qui permet au lanceur d'inscrire un symbole sur le sol ou tout autre surface. Le symbole restera en place jusqu'à ce qu'une créature s'en approche trop près, auquel cas il explosera. Toutes les créatures situées dans la zone d'effet doivent effectuer un jet de sauvegarde contre la mort ou être tuées instantanément. Les créatures ayant plus de 60 points de vie actuels sont immunisées contre cet effet.~
 @1026320 = ~Tremblement de terre
 (Transmutation)
 
@@ -18223,7 +18228,7 @@ Temps d'incantation : 1
 Zone d'effet : arc de 90° de 8 mètres de long
 Jet de sauvegarde : spécial
 
-Grâce à ce sort, une gerbe de couleurs vives en forme d'éventail jaillit de la main du lanceur. 1d6 créatures situées dans la zone d'effet sont affectées dans l'ordre croissant de leur proximité au lanceur. Toute créature dans la zone d'effet de 4 dés de vie (ou 4 niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds. Les créatures ayant 5 dés de vie (ou 5 niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
+Grâce à ce sort, une gerbe de couleurs vives en forme d'éventail jaillit de la main du lanceur. 1d6 créatures situées dans la zone d'effet sont affectées dans l'ordre croissant de leur proximité au lanceur. Toute créature dans la zone d'effet de 4 dés de vie (ou niveaux d'expérience) ou moins doit réussir un jet de sauvegarde contre les sorts, sous peine de perdre connaissance pour 5 rounds. Les créatures ayant 5 dés de vie (ou niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
 @1026351 = ~Niveau d'expérience (ou dés de vie) trop élevé pour le sort Vapeur colorée~
 @1026353 = ~Cécité
 (Illusion/Fantasme)
@@ -18504,7 +18509,7 @@ Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche inflige 2d4 points de dégâts acides à l'impact. L'effet de l'acide durera un round supplémentaire par tranche de 3 niveaux d'expérience du lanceur, à moins d'être dissipé par une source extérieure, infligeant 2d4 points de dégâts acides supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
+Grâce à ce sort, le lanceur crée une flèche magique qui atteint sa cible à coup sûr. La flèche inflige 2d4 points de dégâts acides à l'impact. L'effet de l'acide durera un round par tranche de 3 niveaux d'expérience du lanceur, à moins d'être dissipé par une source extérieure, infligeant 2d4 points de dégâts acides supplémentaires à chaque round. Ainsi, un lanceur de niveau 3 à 5 crée des flèches dont l'acide dure deux rounds, un lanceur de niveau 6 à 8 crée des flèches dont l'acide dure trois rounds, etc.~
 @1026395 = ~Image miroir
 (Illusion/Fantasme)
 
@@ -18526,7 +18531,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
-En jetant ce sort, le lanceur crée un nuage de vapeurs nauséabondes à une distance maximale de 27,5 mètres de l'endroit où il se trouve. Toute créature prise dans ce nuage doit lancer un jet de sauvegarde contre les poisons à +2, sous peine de chanceler et d'être incapable d'attaquer à cause de ses nausées, pendant 1d2 rounds. Si elle réussit son jet de sauvegarde contre les poisons, la créature peut quitter le nuage sans en subir les effets néfastes ; mais, si elle y reste, elle doit effectuer un nouveau jet de sauvegarde contre les poisons à chaque round. Les effets néfastes du poison peuvent être ralentis ou neutralisés à l'aide d'un sort de Dissipation de la magie lancé avec succès, mais si le sujet reste dans le nuage, il est toujours susceptible d'en subir les effets.~
+En jetant ce sort, le lanceur crée un nuage de vapeurs nauséabondes à une distance maximale de 27,5 mètres de l'endroit où il se trouve. Toute créature prise dans ce nuage doit lancer un jet de sauvegarde contre les poisons à +2, sous peine de chanceler et d'être incapable d'attaquer à cause de ses nausées, pendant 1d2 rounds. Si elle réussit son jet de sauvegarde contre les poisons, la créature peut quitter le nuage sans en subir les effets néfastes ; mais, si elle y reste, elle doit effectuer un nouveau jet de sauvegarde contre les poisons à chaque round. Les effets néfastes du poison peuvent être ralentis ou neutralisés à l'aide d'un sort de Dissipation de la magie lancé avec succès, mais si le sujet reste dans le nuage, il est toujours susceptible d'en subir les effets. Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1026397 = ~Incinérateur d'Agannazar
 (Évocation)
 
@@ -19025,7 +19030,7 @@ Temps d'incantation : 5
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Ce sort génère un nuage de vapeurs jaune verdâtre tourbillonnantes, si toxique qu'il tue automatiquement toute créature possédant moins de 4 dés de vie, et oblige les créatures possédant de 5 à 6 dés de vie à lancer un jet de sauvegarde contre les poisons à -4 ou à mourir. Retenir sa respiration n'empêche pas le sort d'agir. Les créatures ayant un niveau d'expérience supérieur à 6 (ou 6 dés de vie) doivent quitter le nuage immédiatement ou subir 1d10 points de dégâts de poison à chaque round qu'elles passent dans la zone d'effet du sort.~
+Ce sort génère un épouvantable nuage de vapeurs jaune verdâtre tourbillonnantes, si toxique qu'il tue automatiquement toute créature possédant 4 dés de vie (ou niveaux d'expérience) ou moins sans jet de sauvegarde, et oblige les créatures possédant entre 5 et 6 dés de vie (ou niveaux d'expérience) à réussir un jet de sauvegarde contre les poisons à -4 ou à mourir. Retenir sa respiration n'a aucun effet sur la létalité du sort. Les créatures possédant 6 dés de vie (ou niveaux d'expérience) ou plus doivent quitter le nuage immédiatement ou subir 1d10 points de dégâts de poison à chaque round qu'elles passent dans la zone d'effet du sort. Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1026493 = ~Cône de froid
 (Évocation)
 
@@ -19154,7 +19159,7 @@ Temps d'incantation : 5
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé sur une créature, il abaisse la résistance à la magie de sa cible de 10 % +1 % par niveau d'expérience du jeteur de sort. Aucun jet de sauvegarde contre ce sort n'est applicable et la résistance magique est ignorée. Par exemple, si une créature a 60 % de résistance à la magie et que ce sort est lancé sur elle par un magicien de niveau 15, sa résistance à la magie se trouve abaissée de 25 % automatiquement. Les effets de ce sort se cumulent à chaque fois qu'il est lancé sur la même cible. Si ce sort était jeté à nouveau sur la créature précédente, sa résistance à la magie serait de 60 % -25 % (premier sort) -25 % (second sort) ce qui lui laisserait à peine 10 % de résistance à la magie une fois les deux sorts lancés. Ce sort reste actif jusqu'à ce que sa durée arrive à expiration. Il convient de noter que ce sort n'est pas affecté par une Dissipation de la magie. Une fois lancé, il n'existe aucun moyen d'annuler ses effets avant son terme naturel.~
+Lorsque ce sort est lancé sur une créature, il abaisse la résistance à la magie de la créature de 10 % +1 % par niveau d'expérience du lanceur. Aucun jet de sauvegarde contre ce sort n'est applicable et la résistance à la magie est ignorée. Par exemple, si une créature a 60 % de résistance à la magie et que ce sort est lancé sur elle par un lanceur de niveau 15, sa résistance à la magie se trouve automatiquement abaissée de 25 %. Les effets de ce sort se cumulent à chaque fois qu'il est lancé sur la même créature. Si ce sort était jeté à nouveau sur la créature précédente, sa résistance à la magie serait de 60 % -25 % (premier sort), -25 % (second sort) ce qui lui laisserait 10 % de résistance à la magie une fois les deux sorts lancés. Ce sort reste actif jusqu'à ce que sa durée arrive à expiration et ne peut pas être dissipé.~
 @1026529 = ~Oracle
 (Divination)
 
@@ -19317,7 +19322,7 @@ Temps d'incantation : 6
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsqu'un Sort de mort est lancé, il anéantit instantanément et irrévocablement l'énergie vitale des créatures situées dans sa zone d'effet. Les créatures disposant de plus de 8 dés de vie sont immunisées contre ce sort, à l'exception des créatures ayant été invoquées qui sont, elles, immédiatement tuées (hormis les démons, dévas, planétaires et quelques autres créatures invoquées de haut niveau). Seuls les ennemis sont affectés par le Sort de mort.~
+Lorsqu'un Sort de mort est lancé, il anéantit instantanément et irrévocablement l'énergie vitale des créatures situées dans sa zone d'effet. Les créatures disposant de plus de 8 dés de vie (ou niveaux d'expérience) sont immunisées contre ce sort, à l'exception des créatures ayant été invoquées qui sont, elles, immédiatement tuées (hormis les démons, dévas, planétaires et quelques autres créatures invoquées de haut niveau). Seules les créatures ennemies sont affectées par le Sort de mort.~
 @1026565 = ~Protection contre l'énergie magique
 (Abjuration)
 
@@ -19383,7 +19388,7 @@ Temps d'incantation : 6
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Ce sort crée une vaste zone de brouillard opaque hautement acide. Toute créature présente dans la zone d'effet subit 8 points de dégâts acides par round passé dans les vapeurs toxiques de la Brume mortelle. De plus, ce sort tue instantanément toutes les créatures convoquées présentes dans la zone d'effet, quels que soient leurs dés de vie ou leurs éventuelles immunités (hormis les démons, dévas, planétaires et quelques autres créatures invoquées de haut niveau).~
+Ce sort crée une vaste zone de brouillard opaque hautement acide. Toute créature présente dans la zone d'effet subit 8 points de dégâts acides par round passé dans les vapeurs toxiques de la Brume mortelle. De plus, ce sort tue instantanément toutes les créatures convoquées présentes dans la zone d'effet, quels que soient leurs dés de vie ou leurs éventuelles immunités (hormis les démons, dévas, planétaires et quelques autres créatures invoquées de haut niveau). Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1026578 = ~Contingence
 (Évocation)
 
@@ -19599,7 +19604,7 @@ Temps d'incantation : 7
 Zone d'effet : cône long de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Ce sort crée 7 rayons de lumière colorée à partir de la main du lanceur. Chaque rayon a une couleur et un effet déterminé. Toute créature de moins de 8 dés de vie touchée par un rayon est aveuglée pour 5 rounds, sans compter les autres effets. Toute créature dans la zone d'effet sera touchée par un ou deux rayons, chacun avec ses propres effets :
+Ce sort crée 7 rayons de lumière colorée à partir de la main du lanceur. Chaque rayon a une couleur et un effet déterminé. Toute créature de moins de 8 dés de vie (ou niveaux d'expérience) touchée par un rayon est aveuglée pour 5 rounds, sans compter les autres effets. Toute créature dans la zone d'effet sera touchée par un ou deux rayons, chacun avec ses propres effets :
 
   Rouge : inflige 20 points de dégâts, jet de sauvegarde contre les sorts pour la moitié.
   Orange : inflige 40 points de dégâts, jet de sauvegarde contre les sorts pour la moitié.
@@ -19664,7 +19669,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 1,2 mètre
 Jet de sauvegarde : spécial
 
-Le sort de Contrôle des morts-vivants permet au magicien de prendre le contrôle de créatures mortes-vivantes situées dans la zone d'effet. Un lien télépathique est créé entre le lanceur de sorts et les morts-vivants, permettant un contrôle total de ces derniers. Si les morts-vivants disposent de 3 dés de vie ou moins, aucun jet de sauvegarde n'est permis. S'ils ont 4 dés de vie ou plus, un jet de sauvegarde contre les sorts est autorisé pour tenter de résister à la prise de contrôle. Les morts-vivants restent sous le contrôle du magicien pendant toute la durée du sort ou jusqu'à ce qu'ils soient affectés par une Dissipation de la magie.~
+Le sort Contrôle des morts-vivants permet au lanceur de prendre le contrôle des créatures mortes-vivantes situées dans la zone d'effet. Un lien télépathique est créé entre le lanceur et les créatures mortes-vivantes, permettant un contrôle total de ces dernières. Si les créatures mortes-vivantes disposent de 3 dés de vie (ou niveaux d'expérience) ou moins, aucun jet de sauvegarde n'est permis. Si les créatures mortes-vivantes disposent de 4 dés de vie (ou niveaux d'expérience) ou plus, un jet de sauvegarde contre les sorts est autorisé pour tenter de résister à la prise de contrôle. Les créatures mortes-vivantes restent sous le contrôle du lanceur pendant toute la durée du sort ou jusqu'à ce qu'elles soient affectées par un sort de Dissipation de la magie lancé avec succès.~
 @1026624 = ~Invisibilité de masse
 (Illusion/Fantasme)
 
@@ -19764,7 +19769,7 @@ Temps d'incantation : 8
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : 1/2
 
-Ce sort crée un vaste nuage de flammes dévorantes. Toute créature présente dans la zone d'effet doit quitter le Nuage incendiaire immédiatement ou subir 1d4 points de dégâts de feu par niveau d'expérience du lanceur à chaque round passé à l'intérieur. Un jet de sauvegarde contre les sorts réussi réduira les dégâts de moitié.~
+Ce sort crée un vaste nuage de flammes dévorantes. Toute créature présente dans la zone d'effet doit quitter le Nuage incendiaire immédiatement ou subir 1d4 points de dégâts de feu par niveau d'expérience du lanceur à chaque round passé à l'intérieur. Un jet de sauvegarde contre les sorts réussi réduira les dégâts de moitié. Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1026644 = ~Symbole : terreur
 (Conjuration/Convocation)
 
@@ -19775,7 +19780,7 @@ Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
 
-Le Symbole : terreur est un puissant enchantement permettant au magicien d'inscrire ce symbole sur le sol ou toute autre surface. Il restera là jusqu'à ce que quelqu'un s'en approche suffisamment puis explosera, affectant tous ceux qui sont situés dans sa zone d'effet n'ayant pas réussi un jet de sauvegarde contre les sorts à -4 par une peur de 2 rounds + un nombre de rounds égal au niveau d'expérience du magicien divisé par 3.~
+Symbole : terreur est un puissant enchantement qui permet au lanceur d'inscrire un symbole sur le sol ou tout autre surface. Le symbole restera en place jusqu'à ce qu'une créature s'en approche trop près, auquel cas il explosera. Toutes les créatures situées dans la zone d'effet doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être submergées par la peur pendant 2 rounds, plus 1 round par tranche de 3 niveaux d'expérience du lanceur.~
 @1026646 = ~Flétrissure abominable d'Abi-Dalzim
 (Nécromancie)
 
@@ -19808,7 +19813,7 @@ Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
 
-Symbole : étourdissement est un puissant enchantement qui permet au magicien d'inscrire un symbole sur le sol ou tout autre surface. Ce symbole explosera si quelqu'un s'en approche trop près, provoquant un jet de sauvegarde contre les sorts à -4, sous peine d'être étourdi pendant 2 rounds + 1 round par tranche de 3 niveaux d'expérience du magicien.~
+Symbole : étourdissement est un puissant enchantement qui permet au lanceur d'inscrire un symbole sur le sol ou tout autre surface. Le symbole restera en place jusqu'à ce qu'une créature s'en approche trop près, auquel cas il explosera. Toutes les créatures situées dans la zone d'effet doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être étourdies pendant 2 rounds, plus 1 round par tranche de 3 niveaux d'expérience du lanceur.~
 @1026650 = ~Symbole : mort
 (Conjuration/Convocation)
 
@@ -19819,7 +19824,7 @@ Temps d'incantation : 9
 Zone d'effet : rayon de 3,6 mètres
 Jet de sauvegarde : annule
 
-Symbole : mort est un puissant enchantement qui permet au magicien d'inscrire un symbole sur le sol ou toute autre surface. Le symbole explosera si quelqu'un s'approche trop près, et entraînera un jet de sauvegarde contre la mort, à réussir sous peine de mort. Les créatures ayant plus de 60 points de vie sont immunisées contre cet effet.~
+Symbole : mort est un puissant enchantement qui permet au lanceur d'inscrire un symbole sur le sol ou tout autre surface. Le symbole restera en place jusqu'à ce qu'une créature s'en approche trop près, auquel cas il explosera. Toutes les créatures situées dans la zone d'effet doivent effectuer un jet de sauvegarde contre la mort ou être tuées instantanément. Les créatures ayant plus de 60 points de vie actuels sont immunisées contre cet effet.~
 @1026652 = ~Poing serré de Bigby
 (Évocation)
 
@@ -19909,7 +19914,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort ouvre un canal entre le plan du lanceur et le plan négatif. Le magicien devient alors un conduit entre ces plans, absorbant l'énergie de la victime et la transférant dans le plan négatif, lui drainant ainsi 2 niveaux d'expérience. La cible perd ses niveaux d'expérience et toutes les capacités associées, définitivement. Seul le sort divin Restauration peut les lui faire récupérer.~
+Ce sort ouvre un canal entre le plan du lanceur et le plan négatif. Le lanceur devient alors un conduit entre ces deux plans, absorbant l'énergie vitale de la créature ciblée et la transférant vers le plan négatif, lui drainant ainsi 2 niveaux d'expérience. La créature perd ses niveaux d'expérience, ainsi que ses dés de vie, ses points de vies et ses capacités associés de façon permanente. Seuls les sorts divins Restauration majeure et Restauration mineure peuvent lui faire récupérer ses niveaux d'expérience. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre ce sort.~
 @1026668 = ~Lame noire du désastre~
 @1026669 = ~Lame noire du désastre
 (Évocation)
@@ -21327,29 +21332,25 @@ Avantages :
 - Peut repousser les morts-vivants comme un paladin de même niveau d'expérience.
 - Peut utiliser « Absorption de vie » une fois par jour.
 
-ABSORPTION DE VIE :
-
-Inflige 2 points de dégâts par niveau d'expérience à un adversaire, et soigne le chevalier noir d'autant de points de vie.
+ABSORPTION DE VIE : Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire, et soigne le chevalier noir d'autant de points de vie.
 
 - Peut utiliser « Arme empoisonnée » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-ARME EMPOISONNÉE :
+ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la cible. Chaque cible ne peut être affectée qu'une fois par round. Le montant des dégâts de poison dépend du niveau d'expérience du personnage :
 
-Chaque coup réussi au cours des 5 prochains rounds empoisonnera la cible. Chaque cible ne peut être affectée qu'une fois par round. Le montant des dégâts de poison dépend du niveau d'expérience du personnage :
-
-Niveau 1 : la cible subit 1 point de dégât de poison par seconde pendant 6 secondes (annulé par un jet de sauvegarde contre les poisons à +1)
-Niveau 5 : la cible subit 1 point de dégât de poison par seconde pendant 12 secondes (annulé par un jet de sauvegarde contre les poisons) et subit immédiatement 2 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 9 : la cible subit 1 point de dégât de poison par seconde pendant 18 secondes (annulé par un jet de sauvegarde contre les poisons à -1) et subit immédiatement 4 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 13 : la cible subit 1 point de dégât de poison par seconde pendant 24 secondes (annulé par un jet de sauvegarde contre les poisons à -2) et subit immédiatement 6 points de dégâts de poison (pas de jet de sauvegarde)
+Niveau 1 : la cible subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler)
+Niveau 5 : la cible subit 1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler), et subit immédiatement 2 points de dégâts de poison (pas de jet de sauvegarde)
+Niveau 9 : la cible subit 1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler), et subit immédiatement 4 points de dégâts de poison (pas de jet de sauvegarde)
+Niveau 13 : la cible subit 1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler), et subit immédiatement 6 points de dégâts de poison (pas de jet de sauvegarde)
 
 - Peut utiliser « Aura de désespoir » une fois par jour à partir du niveau 3.
 
-AURA DE DÉSESPOIR :
-Lorsque cette capacité est activée, tous les ennemis dans un rayon de 4,5 mètres autour du chevalier noir subissent des effets négatifs en fonction de son niveau d'expérience :
+AURA DE DÉSESPOIR : Lorsque cette capacité est activée, tous les ennemis dans un rayon de 4,5 mètres autour du chevalier noir subissent des effets négatifs en fonction de son niveau d'expérience :
+
   Niveau 3 : tous les ennemis subissent un malus de 1 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
   Niveau 6 : tous les ennemis subissent un malus de 2 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
-  Niveau 15 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 8 dés de vie ou moins paniquent.
-  Niveau 20 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 18 dés de vie ou moins sont pris de panique.
+  Niveau 15 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins paniquent.
+  Niveau 20 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins paniquent.
 
 Désavantages :
 - Doit être d'alignement mauvais.
@@ -22223,7 +22224,7 @@ Temps d'incantation : 5
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé sur une créature, il abaisse la résistance à la magie de sa cible de 10 % +1 % par niveau d'expérience du jeteur de sort. Aucun jet de sauvegarde contre ce sort n'est applicable et la résistance magique est ignorée. Par exemple, si une créature a 60 % de résistance à la magie et que ce sort est lancé sur elle par un magicien de niveau 15, sa résistance à la magie se trouve abaissée de 25 % automatiquement. Les effets de ce sort se cumulent à chaque fois qu'il est lancé sur la même cible. Si ce sort était jeté à nouveau sur la créature précédente, sa résistance à la magie serait de 60 % -25 % (premier sort) -25 % (second sort) ce qui lui laisserait à peine 10 % de résistance à la magie une fois les deux sorts lancés. Ce sort reste actif jusqu'à ce que sa durée arrive à expiration. Il convient de noter que ce sort n'est pas affecté par une Dissipation de la magie. Une fois lancé, il n'existe aucun moyen d'annuler ses effets avant son terme naturel.~
+Lorsque ce sort est lancé sur une créature, il abaisse la résistance à la magie de la créature de 10 % +1 % par niveau d'expérience du lanceur. Aucun jet de sauvegarde contre ce sort n'est applicable et la résistance à la magie est ignorée. Par exemple, si une créature a 60 % de résistance à la magie et que ce sort est lancé sur elle par un lanceur de niveau 15, sa résistance à la magie se trouve automatiquement abaissée de 25 %. Les effets de ce sort se cumulent à chaque fois qu'il est lancé sur la même créature. Si ce sort était jeté à nouveau sur la créature précédente, sa résistance à la magie serait de 60 % -25 % (premier sort), -25 % (second sort) ce qui lui laisserait 10 % de résistance à la magie une fois les deux sorts lancés. Ce sort reste actif jusqu'à ce que sa durée arrive à expiration et ne peut pas être dissipé.~
 @1030241 = ~Oracle
 (Divination)
 
@@ -22634,17 +22635,18 @@ Nécessite :
  11 en Force
 
 Poids : 7~
-@1030705 = ~Cette baguette émet une bulle de vapeur qui file vers sa cible et explose en un nuage de gaz mortel qui remplit une zone de 4,5 mètres de rayon environ. Ce nuage tue instantanément toute créature de 4 dés de vie ou moins sans jet de sauvegarde. Toute créature de 5 ou 6 dés de vie a droit à un jet de sauvegarde contre les poisons à -4 pour ne pas mourir. Les créatures de plus de 6 dés de vie subissent 1d10 de dégâts à chaque round dans le nuage. Il se dissipe au bout de 1d4 tours.
+@1030705 = ~Cette baguette émet une bulle de vapeur qui file vers sa cible et explose en un nuage de gaz mortel qui s'étend sur une zone de 4,5 mètres de rayon environ. Ce nuage tue instantanément toute créature possédant 4 dés de vie (ou niveaux d'expérience) ou moins sans jet de sauvegarde. Toute créature possédant entre 5 ou 6 dés de vie (ou niveaux d'expérience) a droit à un jet de sauvegarde contre les poisons à -4 pour ne pas mourir. Les créatures possédant 6 dés de vie (ou niveaux d'expérience) ou plus doivent quitter le nuage immédiatement ou subir 1d10 points de dégâts de poison à chaque round qu'elles passent dans la zone d'effet du sort. Le nuage peut être dissipé avec le sort Zone d'air pur. Il se dissipe naturellement au bout d'un tour.
 
 PARAMÈTRES :
 
 Capacités de charge :
 - Nuage mortel
-  Dégâts : 1d10 dégâts de poison par round
-  Spécial : les créatures de 1 à 4 dés de vie meurent instantanément (pas de jet de sauvegarde), celles qui ont 5 ou 6 dés de vie doivent réussir un jet de sauvegarde contre les poisons à -4 sous peine de mourir instantanément
+  Dégâts : 1d10 par round (poison)
+  Spécial : les créatures de 1 à 4 dés de vie (ou niveaux d'expérience) meurent instantanément (pas de jet de sauvegarde), celles qui ont 5 ou 6 dés de vie (ou niveaux d'expérience) doivent réussir un jet de sauvegarde contre les poisons à -4 sous peine de mourir instantanément
   Portée : 18 mètres
   Zone d'effet : rayon de 4,5 mètres
-  Durée : 1d4 tours
+  Durée : 1 tour
+  Jet de sauvegarde : spécial
 
 Nécessite :
  9 en Intelligence
@@ -23684,14 +23686,14 @@ En cas d'échec du jet de sauvegarde, il considère le lanceur comme un véritab
 Si le jeteur de sorts nuit ou essaie de nuire à l'animal sous le charme par une action non déguisée, ou si un sort de Dissipation de la magie est jeté avec succès, le charme est rompu. Si plusieurs effets de charmes affectent simultanément un animal, le charme le plus récent prend le dessus. Notez que le sujet deviendra hostile lorsque le charme prendra fin. Notez aussi que la créature ne peut pas quitter la zone dans laquelle elle a été charmée.~
 @1032229 = ~Absorption de vie
 
-Inflige 2 points de dégâts par niveau d'expérience à un adversaire, et soigne le lanceur d'autant de points de vie.~
+Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire, et soigne le lanceur d'autant de points de vie. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre ce sort.~
 @1032230 = ~Aura de désespoir
 
 Cette capacité affecte tous les adversaires à moins de 4,5 mètres, n'autorise pas de jet de sauvegarde, et s'améliore avec les niveaux d'expérience :
- Niveau 3 : pénalités de 1 aux jets d'attaque et de dégâts et de 2 à la classe d'armure pendant 1 tour.
- Niveau 6 : pénalités de 2 aux jets d'attaque et de dégâts et de 2 à la classe d'armure pendant 1 tour.
- Niveau 15 : tous les ennemis subissent des pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; les ennemis ayant 8 dés de vie ou moins sont également pris de panique.
- Niveau 20 : tous les ennemis subissent des pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; les ennemis ayant 18 dés de vie ou moins sont également pris de panique.~
+- Niveau 3 : pénalités de 1 aux jets d'attaque, de dégâts et une pénalité de 2 à la classe d'armure pendant 1 tour.
+- Niveau 6 : pénalités de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
+- Niveau 15 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins sont également pris de panique.
+- Niveau 20 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins sont également pris de panique.~
 @1032231 = ~Tir ajusté
 
 Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets suivants (en plus des dégâts normaux) :
@@ -24216,7 +24218,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Ce sort invoque un nuage de brouillard putride qui glace et entrave toutes personnes dans sa zone d'effet sauf le lanceur de sorts. Les créatures dans le brouillard subissent 1d3 dégâts de froid par round. En outre, il y a 20 % de chances qu'elles aient à réussir un jet de sauvegarde contre la paralysie, sans quoi elles sont ralenties pendant 1 round. Les créatures immunisées aux dégâts de froid ne souffrent d'aucun effet néfaste de ce sort.~
+Ce sort invoque un nuage de brouillard putride qui glace et entrave toutes personnes dans sa zone d'effet sauf le lanceur de sorts. Les créatures dans le brouillard subissent 1d3 dégâts de froid par round. En outre, il y a 20 % de chances qu'elles aient à réussir un jet de sauvegarde contre la paralysie, sans quoi elles sont ralenties pendant 1 round. Les créatures immunisées aux dégâts de froid ne souffrent d'aucun effet néfaste de ce sort. Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1032353 = ~Lucidité spirituelle
 (Abjuration)
 
@@ -25235,7 +25237,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 9 mètres
 Jet de sauvegarde : spécial
 
-Ce sort fait apparaître un nuage de brouillard putride qui glace et entrave toute personne dans sa zone d'effet sauf le lanceur de sorts. Les créatures dans le brouillard subissent 1d3 points de dégâts de froid par round. En outre, il y a 20 % de chances qu'elles doivent réussir un jet de sauvegarde contre la paralysie, sans quoi elles seront ralenties pendant 1 round. Les créatures immunisées contre les dégâts de froid ne souffrent d'aucun effet néfaste de ce sort.~
+Ce sort fait apparaître un nuage de brouillard putride qui glace et entrave toute personne dans sa zone d'effet sauf le lanceur de sorts. Les créatures dans le brouillard subissent 1d3 points de dégâts de froid par round. En outre, il y a 20 % de chances qu'elles doivent réussir un jet de sauvegarde contre la paralysie, sans quoi elles seront ralenties pendant 1 round. Les créatures immunisées contre les dégâts de froid ne souffrent d'aucun effet néfaste de ce sort. Le nuage peut être dissipé avec le sort Zone d'air pur.~
 @1035358 = ~Verrou spirituel
 (Enchantement)
 
