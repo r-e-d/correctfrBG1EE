@@ -6342,7 +6342,8 @@ Poids : 2~
 @1011876 = ~Allez ! Soyez courageux. Voyez si la chance vous sourit !~ [GAMES02] ~Allez ! Soyez courageuse. Voyez si la chance vous sourit !~ [GAMES02]
 @1011877 = ~Entrez pauvre et repartez riche !~ [GAMES03]
 @1011878 = ~Hé, vous avez beaucoup de chance, hein ?~ [GAMES04]
-@1011899 = ~Vous ne tiendrez pas longtemps sans aide et avec votre pauvre matériel. Peut-être pourriez-vous trouver de l'aide auprès des amis dont Gorion a parlé, ceux du Brasamical.~ [CHAP00C]
+@1011898 = ~L'aube est particulièrement cruelle ce matin.~ [CHAP00A] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000000).
+@1011899 = ~Vous ne tiendrez pas longtemps sans aide et avec votre pauvre matériel. Peut-être pourriez-vous trouver de l'aide auprès des amis dont Gorion a parlé, ceux du Brasamical.~ [CHAP00C] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000000).
 @1011943 = ~Sorts divins/druidiques~
 @1011972 = ~lance~
 @1011975 = ~Force~
@@ -6737,7 +6738,7 @@ Temps d'incantation : 3
 Zone d'effet : ligne de 60 centimètres de large sur 4,5 mètres de long
 Jet de sauvegarde : aucun
 
-Au lancement de ce sort, des flammes jaillissent du bout des doigts du jeteur de sorts pour atteindre la cible qu'il a choisie. La cible frappée écope de 3d6 points de dégâts, et il en va de même de toute créature située dans la trajectoire des flammes. Le jet de flamme provoque des dégâts supplémentaires à la moitié de sa durée d'effet, et le jeteur de sort peut se déplacer pendant la durée du sort. Il n'existe pas de jet de sauvegarde contre ce sort, mais des capacités anti-feu comme la résistance au feu peuvent réduire, voire supprimer les dégâts.~
+Au lancement de ce sort, un jet de flammes ininterrompu jaillit du bout des doigts du lanceur pour atteindre la créature ciblée. La créature ciblée écope de 3d6 points de dégâts de feu, et il en va de même de toute créature située dans la trajectoire des flammes. Le jet de flammes provoque 3d6 points de dégâts de feu supplémentaires à la moitié de sa durée à la créature ciblée et toute créature située dans la trajectoire des flammes, et le lanceur peut se déplacer pendant la canalisation du jet de flammes. Il n'y a pas de jet de sauvegarde contre ce sort, mais des capacités anti-feu comme la résistance au feu peuvent réduire, voire annuler les dégâts.~
 @1012174 = ~Orbe chromatique
 (Évocation)
 
@@ -6921,7 +6922,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
-Au moment du lancement de ce sort, toutes les créatures ennemies situées dans la zone d'effet doivent lancer un jet de sauvegarde contre les sorts ou prennent la fuite dans un état de panique. Certaines créatures sont immunisées contre les effets de la peur, notamment tous les morts-vivants.~
+Au moment du lancement de ce sort, toutes les créatures ennemies situées dans la zone d'effet doivent réussir un jet de sauvegarde contre les sorts sous peine de prendre la fuite sous l'effet de la peur. Certaines créatures sont immunisées contre les effets de la peur, notamment tous les morts-vivants.~
 @1012189 = ~Absorption mineure de Larloch
 (Nécromancie)
 
@@ -7027,14 +7028,13 @@ Ce sort fixe la Force du bénéficiaire à 18 et ajoute un bonus de 50 % à la 
 (Transmutation)
 
 Niveau : 2
-Portée : contact
+Portée : 0
 Durée : 1 tour
 Temps d'incantation : 2
-Zone d'effet : 1 créature capable de jeter des sorts
+Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Le bénéficiaire de ce sort peut lancer des sorts avec un élément verbal sans devoir faire le moindre bruit, du moment que l'invocation s'effectue entièrement pendant la durée du sort de vocalisation. Seule la nécessité verbale des sorts est supprimée. Ce sort n'a aucun effet sur les autres bruits ou paroles ; il ne fait que supprimer l'élément verbal d'un sort.
-Ce sort est d'une grande utilité lorsque le sort doit être jeté dans le calme ou que l'individu a été réduit au silence magiquement.~
+Grâce à ce sort, le lanceur peut jeter des sorts à composante verbale sans avoir à faire faire le moindre bruit, du moment que l'incantation de ces sorts s'effectue entièrement pendant la durée du sort Vocaliser. Ce sort annule tous les effets de silence, tel que le sort divin de 2ème niveau Silence sur 5 mètres ou le sort profane de 6ème niveau Mot de pouvoir : silence, et immunise le lanceur contre ces effets pendant toute la durée du sort. Seule la composante verbale des sorts est supprimée, ce sort n'a aucun effet sur les autres bruits ou paroles que le lanceur pourrait prononcer. À noter que ce sort peut être jeté par le lanceur même si ce dernier est déjà affecté par un effet de silence.~
 @1012199 = ~Dissipation de la magie
 (Abjuration)
 
@@ -9205,9 +9205,12 @@ PARAMÈTRES :
 
 Poids : 0~
 @1015829 = ~Bol de contrôle des élémentaires d'eau~
-@1015836 = ~Peu après votre fuite précipitée de Château-Suif, les problèmes que doit confronter la Côte des Épées ne sont plus qu'un lointain souci pour votre esprit embrumé. Toutefois, Gorion n'aurait aucune envie de vous voir vous adonner à l'oisiveté et peut-être qu'une enquête sur les problèmes locaux vous permettrait de mieux comprendre votre propre situation. Comment la pénurie de fer ou les problèmes des mines de Nashkel peuvent-ils être liés à vous, vous n'en avez aucune idée.~ [CHAPTER1]
-@1015838 = ~Mulahey et Tazok se sont révélés n'être que des marionnettes ; le véritable maître de ce mystère qui se dévoile peu à peu devant vous continue de vous échapper. Une chose est certaine : une personne a pris un intérêt très personnel à vouloir votre mort, mais vous ne savez pas très bien pourquoi. Votre quête de réponses se poursuit et l'inquiétante forêt de Bois-Manteau est votre prochain objectif.~ [CHAPTER3]
-@1015841 = ~La vie continue d'être un véritable défi. On vous accuse d'avoir assassiné les responsables du Trône de Fer, et le Poing Enflammé ne vous lâchera certainement pas d'une semelle pour cette raison. En dépit de tout, vous devez retourner à la Porte de Baldur, l'antre même de vos accusateurs. Vous devez retrouver et démasquer celui qui vous a mis dans ce guêpier. Vous devez retrouver Sarevok.~ [CHAPTER6] ~La vie continue d'être un véritable défi. On vous accuse d'avoir assassiné les responsables du Trône de Fer, et le Poing Enflammé ne vous lâchera certainement pas d'une semelle pour cette raison. En dépit de tout, vous devez retourner à la Porte de Baldur, l'antre même de vos accusateurs. Vous devez retrouver et démasquer celui qui vous a mise dans ce guêpier. Vous devez retrouver Sarevok.~ [CHAPTER6]
+@1015836 = ~Peu après votre fuite précipitée de Château-Suif, les problèmes que doit confronter la Côte des Épées ne sont plus qu'un lointain souci pour votre esprit embrumé. Toutefois, Gorion n'aurait aucune envie de vous voir vous adonner à l'oisiveté et peut-être qu'une enquête sur les problèmes locaux vous permettrait de mieux comprendre votre propre situation. Comment la pénurie de fer ou les problèmes des mines de Nashkel peuvent-ils être liés à vous, vous n'en avez aucune idée.~ [CHAPTER1] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000001 et 2000025).
+@1015837 = ~Il ne fait aucun doute que la mort de Mulahey va soulager les craintes de la population terrorisée de Nashkel, mais vous demeurez dans l'inquiétude. S'il est possible que le demi-orque soit effectivement à l'origine des problèmes de la mine, la pénurie de fer est trop généralisée pour être de son seul fait. Ses lettres confirment vos soupçons, et bien qu'elles ne donnent guère d'indications sur la cachette de ses cohortes, celles-ci doivent être alliées aux bandits qui hantent actuellement la Voie Côtière.~ [CHAPTER2] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000002 et 2000026).
+@1015838 = ~Mulahey et Tazok se sont révélés n'être que des marionnettes ; le véritable maître de ce mystère qui se dévoile peu à peu devant vous continue de vous échapper. Une chose est certaine : une personne a pris un intérêt très personnel à vouloir votre mort, mais vous ne savez pas très bien pourquoi. Votre quête de réponses se poursuit et l'inquiétante forêt de Bois-Manteau est votre prochain objectif.~ [CHAPTER3] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000003 et 2000027).
+@1015839 = ~Vous avez fait subir un rude revers à l'organisation connue sous le nom de Trône de Fer, une défaite qui ne sera certainement pas passée sous silence. Vous devez maintenant vous rendre dans la grande cité de la Porte de Baldur, où vous découvrirez assurément la vérité qui se cache derrière l'étrange complot qui ronge la vie des habitants de la Côte des Épées.~ [CHAPTER4] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000004 et 2000028).
+@1015840 = ~Votre voyage vous ramène à votre point de départ. Le Duc Eltan vous a demandé de revenir à Château-Suif, où vous devez espionner les chefs du Trône de Fer. Bien que cela vous dérange que des personnages aussi maléfiques se servent de la grande bibliothèque et que vous aimeriez que les circonstances de votre visite soient différentes, ce sera néanmoins un plaisir pour vous que de retrouver votre ancien foyer.~ [CHAPTER5] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000005 et 2000029).
+@1015841 = ~La vie continue d'être un véritable défi. On vous accuse d'avoir assassiné les responsables du Trône de Fer, et le Poing Enflammé ne vous lâchera certainement pas d'une semelle pour cette raison. En dépit de tout, vous devez retourner à la Porte de Baldur, l'antre même de vos accusateurs. Vous devez retrouver et démasquer celui qui vous a mis dans ce guêpier. Vous devez retrouver Sarevok.~ [CHAPTER6] ~La vie continue d'être un véritable défi. On vous accuse d'avoir assassiné les responsables du Trône de Fer, et le Poing Enflammé ne vous lâchera certainement pas d'une semelle pour cette raison. En dépit de tout, vous devez retourner à la Porte de Baldur, l'antre même de vos accusateurs. Vous devez retrouver et démasquer celui qui vous a mise dans ce guêpier. Vous devez retrouver Sarevok.~ [CHAPTER6] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000006 et 2000030).
 @1015843 = ~Le corps de Brage.
 
 PARAMÈTRES :
@@ -9276,7 +9279,7 @@ décidez. Allez, Jaheira, il est l'heure de prendre congé.~
 @1016184 = ~Ah oui, me voilà de retour dans les chambres sacrées de Château-Suif. Avec cette crise du fer, le voyage depuis Bérégost était plus périlleux que je n'ose le conter... Vous êtes l'enfant adoptif de Gorion, n'est-ce pas ? Eh bien, vous avez grandi, si vous ne voyez pas d'inconvénient à ce qu'un vieil homme jaloux de la jeunesse dise cela... Hum, j'ai laissé un parchemin d'identification à Téthtoril, dans les jardins de la forteresse. Il devrait avoir fini de l'examiner maintenant. Alors, si vous pouviez aller me le chercher, je vous en saurais gré.~ ~Ah oui, me voilà de retour dans les chambres sacrées de Château-Suif. Avec cette crise du fer, le voyage depuis Bérégost était plus périlleux que je n'ose le conter... Vous êtes l'enfant adoptive de Gorion, n'est-ce pas ? Eh bien, vous avez grandi, si vous ne voyez pas d'inconvénient à ce qu'un vieil homme jaloux de la jeunesse dise cela... Hum, j'ai laissé un parchemin d'identification à Téthtoril, dans les jardins de la forteresse. Il devrait avoir fini de l'examiner maintenant. Alors, si vous pouviez aller me le chercher, je vous en saurais gré.~
 @1016187 = ~Je croyais que vous étiez fait d'une meilleure étoffe que ça. Gorion en serait triste, à vrai dire.~
 @1016188 = ~Je pense que Gorion vous attend à la bibliothèque centrale. Vous feriez mieux de vous y rendre rapidement.~
-@1016190 = ~Vous vous réveillez en prenant conscience que ce n'était pas un cauchemar. Pris dans une embuscade, vous avez vu Gorion se faire abattre devant vous, et sa puissante magie n'a pas pu le sauver de ce violent assaut. Il vous a demandé de prendre la fuite, mais cela n'enlève pas le sentiment d'impuissance qui vous envahit à présent. « Remettez-nous votre enfant », dit le fiélon en armure. Il en avait après vous et vous seulement, mais pour quelle raison ? Si seulement Gorion vous avait mis sur la piste, mais à présent, vous vous sentez seul et perdu. Château-Suif n'est pas loin, mais vous ne pourrez pas vous y réfugier. Les lecteurs paient pour leur sérénité avec des règles d'accès assez draconiennes, et sans l'intervention de Gorion, leurs portes demeureront fermées.~ [CHAP00B] ~Vous vous réveillez en prenant conscience que ce n'était pas un cauchemar. Pris dans une embuscade, vous avez vu Gorion se faire abattre devant vous, et sa puissante magie n'a pas pu le sauver de ce violent assaut. Il vous a demandé de prendre la fuite, mais cela n'enlève pas le sentiment d'impuissance qui vous envahit à présent. « Remettez-nous votre enfant », dit le fiélon en armure. Il en avait après vous et vous seulement, mais pour quelle raison ? Si seulement Gorion vous avait mise sur la piste, mais à présent, vous vous sentez seule et perdue. Château-Suif n'est pas loin, mais vous ne pourrez pas vous y réfugier. Les lecteurs paient pour leur sérénité avec des règles d'accès assez draconiennes, et sans l'intervention de Gorion, leurs portes demeureront fermées.~ [CHAP00B]
+@1016190 = ~Vous vous réveillez en prenant conscience que ce n'était pas un cauchemar. Pris dans une embuscade, vous avez vu Gorion se faire abattre devant vous, et sa puissante magie n'a pas pu le sauver de ce violent assaut. Il vous a demandé de prendre la fuite, mais cela n'enlève pas le sentiment d'impuissance qui vous envahit à présent. « Remettez-nous votre enfant », dit le fiélon en armure. Il en avait après vous et vous seulement, mais pour quelle raison ? Si seulement Gorion vous avait mis sur la piste, mais à présent, vous vous sentez seul et perdu. Château-Suif n'est pas loin, mais vous ne pourrez pas vous y réfugier. Les lecteurs paient pour leur sérénité avec des règles d'accès assez draconiennes, et sans l'intervention de Gorion, leurs portes demeureront fermées.~ [CHAP00B] ~Vous vous réveillez en prenant conscience que ce n'était pas un cauchemar. Pris dans une embuscade, vous avez vu Gorion se faire abattre devant vous, et sa puissante magie n'a pas pu le sauver de ce violent assaut. Il vous a demandé de prendre la fuite, mais cela n'enlève pas le sentiment d'impuissance qui vous envahit à présent. « Remettez-nous votre enfant », dit le fiélon en armure. Il en avait après vous et vous seulement, mais pour quelle raison ? Si seulement Gorion vous avait mise sur la piste, mais à présent, vous vous sentez seule et perdue. Château-Suif n'est pas loin, mais vous ne pourrez pas vous y réfugier. Les lecteurs paient pour leur sérénité avec des règles d'accès assez draconiennes, et sans l'intervention de Gorion, leurs portes demeureront fermées.~ [CHAP00B] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000000 et 2000024).
 @1016193 = ~ZZZZzzzzzzz.~ [MISC_09A]
 @1016194 = ~ZZZzzzzzz.~ [MISC_08A]
 @1016195 = ~ZZZZzzzzz... *ronfle*~ [MISC_09B]
@@ -10177,10 +10180,11 @@ Nécessite :
 PARAMÈTRES :
 
 Capacités de charge :
-- Fait fuir les cibles, sauf jet de sauvegarde contre les sorts réussi
-  Portée : 30 mètres
+- Fait fuir les créatures ennemies sous l'effet de la peur
+  Portée : 18 mètres
+  Durée : 100 secondes
   Zone d'effet : rayon de 4,5 mètres
-  Durée : 15 rounds
+  Jet de sauvegarde : sorts à +2 (annule)
 
 Nécessite :
  9 en Intelligence
@@ -10588,20 +10592,22 @@ Nécessite :
  9 en Intelligence
 
 Poids : 1~
-@1017654 = ~La baguette émet une Boule de feu qui file jusqu'à un point prédéterminé et explose (la portée maximale est de 27,5 mètres). L'effet est celui du sort Boule de feu. Elle inflige 6d6 points de dégâts (mais tous les scores de 1 aux dés sont comptabilisés comme des 2). La réussite d'un jet de sauvegarde contre les baguettes réduit de moitié les dégâts subis par la ou les victime(s). Le second pouvoir de cet objet est similaire au sort « Incinérateur d'Agannazar », en ce sens qu'une colonne de feu fonce sur la victime et lui inflige 6d6 +6 points de dégâts, réduits de moitié par la réussite d'un jet de sauvegarde contre les baguettes.
+@1017654 = ~La baguette émet une énorme boule de feu qui file jusqu'à un point prédéterminé et explose violemment (la portée maximale est de 13 mètres), tout comme le sort profane de 3ème niveau Boule de feu. Elle inflige 6d5 +6 points de dégâts de feu à toutes les créatures situées dans un rayon de 4,5 mètres. La réussite d'un jet de sauvegarde contre les baguettes réduit de moitié les dégâts subis par la ou les victime(s). Le second pouvoir de cet objet est similaire au sort profane de 2ème niveau Incinérateur d'Agannazar, en ce sens qu'une colonne de feu fonce sur la créature ciblée et lui inflige 6d6 +6 points de dégâts de feu, et il en va de même de toute créature située dans la trajectoire des flammes, dégâts réduits de moitié par la réussite d'un jet de sauvegarde contre les baguettes.
 
 PARAMÈTRES :
 
 Capacités de charge :
 - Boule de feu
-  Dégâts : 6d6 dégâts de feu (jet de sauvegarde contre les baguettes pour la moitié)
-  Portée : 27,5 mètres
+  Dégâts : 6d5 +6 (feu)
+  Portée : 13 mètres
   Zone d'effet : rayon de 4,5 mètres
+  Jet de sauvegarde : baguettes (1/2)
 
 - Incinérateur d'Agannazar
-  Dégâts : 6d6 +6 dégâts de feu (jet de sauvegarde contre les baguettes pour la moitié)
-  Portée : 24 mètres
-  Zone d'effet : ligne de 60 centimètres de large sur 24 mètres de long
+  Dégâts : 6d6 +6 (feu)
+  Portée : 12 mètres
+  Zone d'effet : ligne de 60 centimètres de large sur 12 mètres de long
+  Jet de sauvegarde : baguettes (1/2)
 
 Nécessite :
  9 en Intelligence
@@ -12502,12 +12508,12 @@ Capacités d'équipement :
 - Protection contre les coups critiques
 
 Poids : 2~
-@1021408 = ~Il s'agit du heaume de Kiel le tueur de légions, fils aîné de Durlag le tueur de trolls et prince du clan de la tour funeste de son père. On dit que toute personne qui le porte est immunisée contre la peur et la panique, qu'elles soient d'origine naturelle ou magique.
+@1021408 = ~Il s'agit du heaume de Kiel le tueur de légions, fils aîné de Durlag le tueur de trolls et prince du clan de la tour funeste de son père. On dit que toute personne qui le porte est immunisée contre la peur et les échecs de test de moral, qu'ils soient d'origine naturelle ou magique.
 
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Immunité à toute forme de panique et renforce le moral
+- Immunité à la peur et aux échecs de test de moral
 - Protection contre les coups critiques
 
 Poids : 2~
@@ -12708,7 +12714,8 @@ Poids : 5~
 PARAMÈTRES :
 
 Capacités de charge :
-- Immunité aux charmes, à la confusion, la peur, la domination, la perception extrasensorielle, la détection d'alignements, la paralysie, l'étourdissement, aux attaques psioniques, au sommeil et à la débilité mentale
+- Bouclier mental
+  Immunité aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la domination, à la détection des alignements, à la paralysie, à l'étourdissement, aux attaques psioniques, au sommeil et à la débilité mentale
   Durée : 1 tour
 
 Poids : 1~
@@ -12734,9 +12741,9 @@ Temps d'incantation : 4
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Lorsqu'il jette ce sort, le magicien peut modifier l'état émotionnel de ceux qui l'entourent. Le jeteur de sort peut alors insuffler un sentiment de désespoir aux ennemis qui se trouvent dans son champ d'action. Après avoir en vain effectué un jet de sauvegarde contre les sorts, la victime s'allonge et abandonne toute volonté à un pouvoir supérieur. Elle s'exclame parfois « Je m'allonge ici pour y mourir » ou « Je rentre chez moi ». Cela dure le temps du sort, puis elle retrouve son état normal.
+Lorsque ce sort est jeté, le lanceur peut perturber l'état émotionnel des créatures ennemies qui l'entourent. Cela a pour effet d'insuffler un sentiment de désespoir absolu aux créatures ennemies qui se trouvent dans la zone d'effet. Les créatures ennemies doivent effectuer un jet de sauvegarde contre les sorts sous peine de s'allonger et d'abandonner toute volonté à un pouvoir supérieur (perdre connaissance). On peut parfois les entendre s'exclamer « Je m'allonge ici pour y mourir » ou « Je rentre chez moi ». Cet effet persiste jusqu'à la fin de la durée du sort, puis elles retrouvent leur état émotionel normal. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.
 
-Ce sort a également pour effet d'instiller du courage au jeteur de sort. Il efface tous les sentiments de panique, restaure la force mentale et empêche la panique de pénétrer davantage dans son psychisme. Il n'y a pas de jet de sauvegarde contre ce sort et ses effets durent le temps du sort. Il est par contre sensible à la résistance magique et autres phénomènes de ce type.~
+Ce sort a également pour effet d'instiller du courage au lanceur. Il efface tous les sentiments de peur, restaure la force morale et empêche tout effet de peur ou d'échec de test de moral de pénétrer davantage dans son psychisme pendant toute la durée du sort.~
 @1022181 = ~Délivrance de la malédiction
 (Abjuration)
 
@@ -15549,7 +15556,7 @@ Spécialisation (2 étoiles) : Le bonus à la classe d'armure passe à 2.~
 @1025334 = ~Chasseur de morts-vivants~
 @1025339 = ~Chasseur de primes~
 @1025341 = ~Maître-lames~
-@1025360 = ~Ce sort permet à un personnage de récupérer toute l'énergie qui lui a été drainée (y compris ses niveaux d'expérience). La Restauration majeure permet également de dissiper la Débilité mentale et de soigner le personnage.~
+@1025360 = ~Ce sort permet à un personnage de restaurer toute l'énergie vitale qui lui a été drainée (y compris ses niveaux d'expérience). La Restauration majeure permet également de restaurer les scores de caractéristique réduits et de dissiper la débilité mentale, la confusion, les échecs de test de moral, les maladies, les poisons et de soigner l'intégralité des points de vie du personnage.~
 @1025361 = ~TUEUR DE MAGICIENS : Ce guerrier a reçu un entraînement spécifique qui lui permet d'exceller dans la chasse et l'attaque des lanceurs de sorts.
 
 Avantages :
@@ -16541,7 +16548,7 @@ Temps d'incantation : 2
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
-Au moment du lancement de ce sort, toutes les créatures ennemies situées dans la zone d'effet doivent lancer un jet de sauvegarde contre les sorts ou prennent la fuite dans un état de panique. Certaines créatures sont immunisées contre les effets de la peur, notamment tous les morts-vivants.~
+Au moment du lancement de ce sort, toutes les créatures ennemies situées dans la zone d'effet doivent réussir un jet de sauvegarde contre les sorts sous peine de prendre la fuite sous l'effet de la peur. Certaines créatures sont immunisées contre les effets de la peur, notamment tous les morts-vivants.~
 @1025897 = ~Toucher vampirique
 (Nécromancie)
 
@@ -16693,7 +16700,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes magiques, y compris les armes bénies ou enchantées. Les attaques de certains monstres puissants sont également considérées comme magiques. Ce sort ne peut être lancé sur une créature déjà protégée contre les armes non-magiques ou par un sort de Manteau, de Manteau amélioré ou d'Immunité absolue. Cette puissante protection, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler au beau milieu d'un combat intense. Les effets de ce sort se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes magiques, y compris les armes bénies ou enchantées (armes non-magiques excluses). Les attaques de certains monstres puissants sont également considérées comme magiques. Ce sort ne peut pas être jeté par le lanceur s'il est déjà protégé contre les armes non-magiques ou par les sorts profanes de 5ème, 7ème, 8ème ou 9ème niveau Protection contre les armes non-magiques, Manteau, Manteau amélioré ou Immunité absolue. Cette puissante protection, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler quelques instants au beau milieu d'un combat intense. Les effets de ce sort se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1025949 = ~Fatalité rampante
 (Conjuration/Convocation)
 
@@ -16702,12 +16709,10 @@ Sphère : animale, convocation
 Portée : 73 mètres
 Durée : 3 rounds
 Temps d'incantation : 5
-Zone d'effet : spéciale
+Zone d'effet : 1 créature et tout ennemi dans un rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Ce sort invoque une masse d'arachnides, d'insectes et de myriapodes venimeux, mordants et urticants. Cette nuée vivante couvre une large surface, se propageant à toutes les créatures ennemies dans un rayon de 9 mètres autour de la cible. Celles encerclées par les insectes subissent 2 points de dégâts par seconde et un taux d'échec d'incantation des sorts de 100 %. À chaque round passé dans la masse d'insectes par les victimes, elles doivent réussir un jet de sauvegarde contre les sorts à -2 sous peine de s'enfuir sous l'effet de la peur pendant un round.
-
-L'avantage de ce sort par rapport au sort Fléau d'insectes du 5ème niveau est qu'il inflige deux fois plus de dégâts en deux fois moins de temps.~
+Lorsque le lanceur jette le sort Fatalité rampante, il fait apparaître une masse d'arachnides, d'insectes et de myriapodes venimeux, mordants et urticants qui se dirige vers la créature ciblée. Cette nuée vivante couvre une large surface, se propageant à toutes les créatures ennemies dans un rayon de 4,5 mètres autour de la créature ciblée. Les créatures encerclées par les insectes subissent 2 points de dégâts perforants par seconde et un taux d'échec d'incantation des sorts de 100 %. À chaque round passé dans la masse d'insectes par les créatures affectées, elles doivent réussir un jet de sauvegarde contre les sorts à -2 sous peine de prendre la fuite sous l'effet de la peur pendant un round. L'invisibilité n'offre aucune protection pour une créature ennemie présente dans la zone d'effet, seulement pour la créature ciblée initialement. L'avantage de ce sort par rapport au sort druidique de 5ème niveau Fléau d'insectes est qu'il inflige deux fois plus de dégâts en deux fois moins de temps.~
 @1025952 = ~Silence sur 5 mètres
 (Transmutation)
 
@@ -16845,14 +16850,14 @@ Grâce à ce sort, le lanceur peut convoquer 2 à 3 animaux ayant 4 dés de vie 
 
 Niveau : 8
 Portée : contact
-Durée : variable selon l'intelligence de la cible
+Durée : variable selon l'intelligence de la créature ciblée
 Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Un espace extradimensionnel apparaît lors de l'incantation de ce sort. La créature ciblée est alors transportée dans un labyrinthe qui change en permanence. La durée de ce sort dépend de l'Intelligence de la victime.
+Un espace extradimensionnel apparaît lors de l'incantation de ce sort. La créature ciblée est alors transportée dans un labyrinthe qui change en permanence. La durée de ce sort dépend de l'Intelligence de la créature ciblée.
 
-Intelligence de la cible - Temps passé dans un labyrinthe
+Intelligence de la créature ciblée - Temps passé dans un Labyrinthe
  moins de 3 - 2d4 tours
  3 à 5 - 1d4 tours
  6 à 8 - 5d4 rounds
@@ -16861,7 +16866,7 @@ Intelligence de la cible - Temps passé dans un labyrinthe
  15 à 17 - 2d4 rounds
  18 et plus - 1d4 rounds
 
-Notez que si le sort de Liberté du 9ème niveau est lancé à l'endroit où la créature a été capturée par le labyrinthe, cette dernière revient immédiatement, mettant fin prématurément au sort. Une créature ainsi capturée ne peut être libérée par une dissipation magique.~
+Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature a été emprisonnée par le Labyrinthe, cette dernière revient immédiatement, mettant fin prématurément au sort. Une créature ainsi emprisonnée ne peut pas être libérée par le sort Dissipation de la magie.~
 @1025995 = ~Transmutation de la chair en pierre
 (Transmutation)
 
@@ -16925,6 +16930,7 @@ Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
 Lorsque le lanceur jette le sort Sommeil, il provoque un état comateux chez un ou plusieurs ennemis (autres que les morts-vivants et certaines créatures à l'abri des effets de ce sort particulier). Toutes les créatures qu'il veut affecter doivent se trouver dans un rayon de 4,5 mètres. Les créatures dans la zone d'effet doivent réussir un jet de sauvegarde contre la mort à -3 sous peine de perdre connaissance pendant 5 rounds par niveau d'expérience du lanceur. Les créatures possédant 5 dés de vie (ou niveaux d'expérience) ou plus ne sont pas affectées. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.~
+@1026072 = ~Éventail de flammes~
 @1026080 = ~Mot de pouvoir : étourdissement
 (Conjuration/Convocation)
 
@@ -17387,11 +17393,7 @@ Temps d'incantation : 9
 Zone d'effet : 1 créature
 Jet de sauvegarde : annule
 
-Ce sort attire une nuée ou un essaim d'insectes qui attaquent un des ennemis du lanceur. Cet essaim se réunit en un point choisi par le lanceur dans le rayon d'action du sort, et attaque la créature choisie par le lanceur.
-
-La victime peut tenter un jet de sauvegarde contre les souffles à -4 pour échapper à l'essaim. En cas d'échec du jet de sauvegarde contre les souffles, elle reçoit 1 point de dégât toutes les deux secondes pendant la durée du sort.
-
-De plus, la victime combat avec une pénalité de 2 à son jet d'attaque et sa classe d'armure. L'essaim attaque sans arrêt sa cible, rendant très difficile l'incantation des sorts (50 % de chances d'échec).~
+Le sort Convocation d'insectes attire une nuée ou un essaim d'insectes rampants, sautillants et volants qui attaquent la créature ciblée par le lanceur. La créature ciblée peut tenter un jet de sauvegarde contre les souffles à -4 pour échapper à l'essaim. En cas d'échec du jet de sauvegarde contre les souffles, elle reçoit 1 point de dégât perforant toutes les deux secondes pendant la durée du sort. De plus, la créature affectée combat avec une pénalité de 2 à ses jets d'attaque et sa classe d'armure. L'essaim attaque sans arrêt, rendant très difficile le lancement des sorts pour la créature affectée, qui de surcroît subit un taux d'échec d'incantation des sorts de 50 %.~
 @1026201 = ~Action libre
 (Abjuration)
 
@@ -17540,7 +17542,7 @@ Temps d'incantation : 6
 Zone d'effet : le lanceur
 Jet de sauvegarde : annule
 
-Le sort Manteau de terreur permet au lanceur d'irradier une aura personnelle de peur dans un rayon de 4,5 mètres. Toutes les créatures touchées par cette aura doivent réussir un jet de sauvegarde contre les sorts ou s'enfuir en panique pour 4 rounds. Les membres du groupe sont immunisés contre ces effets, mais l'aura de peur peut néanmoins les perturber.~
+Le sort Manteau de terreur permet au lanceur d'irradier une aura personnelle de peur dans un rayon de 4,5 mètres. Toutes les créatures ennemies touchées par cette aura doivent réussir un jet de sauvegarde contre les sorts ou s'enfuir sous l'effet de la peur pour 4 rounds. Les membres du groupe sont immunisés contre ces effets, mais l'aura de peur peut néanmoins les perturber un tant soit peu.~
 @1026226 = ~Restauration mineure~
 @1026227 = ~Restauration mineure
 (Nécromancie)
@@ -17553,7 +17555,7 @@ Temps d'incantation : 2
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Avec le lancement de ce sort, l'énergie vitale de la cible est augmentée. Ce sort annule toute absorption subie à la suite d'une attaque par un monstre, par exemple. Le lancement de ce sort est très fatigant pour le prêtre, qui doit se reposer immédiatement après.~
+Avec le lancement de ce sort, l'énergie vitale de la créature ciblée est intégralement restaurée. Ce sort annule toute absorption de niveau d'expérience subie par exemple à la suite d'un sort (Absorption d'énergie, Lame noire du désastre, etc.) ou encore d'une attaque par une créature (vampire, âme en peine, etc.). Le lancement de ce sort est très éprouvant pour le lanceur, qui aura grand besoin de repos immédiatement après l'incantation puisqu'il engendre une fatigue presque instantanée similaire à celle accumulée en plusieurs jours.~
 @1026229 = ~Convocation d'animaux II
 (Conjuration/Convocation)
 
@@ -17736,10 +17738,10 @@ Sphère : combat
 Portée : 110 mètres
 Durée : 6 rounds
 Temps d'incantation : 5
-Zone d'effet : rayon de 4,5 mètres
+Zone d'effet : 1 créature et tout ennemi dans un rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Lorsque ce sort est jeté par le lanceur, une horde d'insectes rampants, sautillants et volants se réunissent en un essaim qui sautera sur le premier ennemi ciblé, puis sur ses alliés les plus proches, jusqu'à ce que 6 créatures maximum aient été affectées. Il est impossible de lancer des sorts dans cet essaim (100 % de chances d'échec). Les créatures attaquées par le Fléau d'insectes, quelle que soit leur classe d'armure, subissent 1 point de dégât toutes les deux secondes, à cause des piqûres et morsures d'insectes. L'invisibilité n'offre aucune protection. L'essaim ayant tendance à étouffer ses victimes, elles doivent réussir un jet de sauvegarde contre les souffles sous peine de fuir dans la peur pendant un round.~
+Lorsque ce sort est jeté par le lanceur, une horde d'insectes rampants, sautillants et volants se réunissent en un essaim qui se dirige vers la créature ciblée, puis se répand sur toutes les créatures ennemies dans un rayon de 4,5 mètres autour de la créature ciblée. Il est impossible pour une créature affectée par un tel essaim de lancer des sorts (100 % de chances d'échec d'incantation). Les créatures affectées par Fléau d'insectes subissent 1 point de dégât perforant toutes les deux secondes à cause des piqûres et des morsures d'insectes. L'invisibilité n'offre aucune protection pour une créature ennemie présente dans la zone d'effet, seulement pour la créature ciblée initialement. En raison de la nature suffocante du Fléau d'insectes, les créatures affectées doivent réussir chaque round un jet de sauvegarde contre les souffles sous peine de prendre la fuite sous l'effet de la peur pendant un round.~
 @1026260 = ~Serviteur aérien
 (Conjuration/Convocation)
 
@@ -18063,7 +18065,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, le niveau d'énergie vitale de la créature ciblée est augmenté, annulant ainsi les effets de toute absorption d'énergie précédemment effectuée par une force quelconque ou un monstre. Le sort Restauration majeure permet également de restaurer l'Intelligence d'une créature victime du sort Débilité mentale. Il annule toutes les formes de folies comme la confusion ou la furie, soignant complètement la cible et la guérissant de toute maladie ou poison. Ce sort est épuisant pour son lanceur qui aura grand besoin de repos immédiatement après l'incantation puisqu'il entraîne une fatigue instantanée similaire à celle accumulée en plusieurs jours.~
+Avec le lancement de ce sort, l'énergie vitale de la créature ciblée est intégralement restaurée. Ce sort annule toute absorption de niveau d'expérience subie par exemple à la suite d'un sort (Absorption d'énergie, Lame noire du désastre, etc.) ou encore d'une attaque par une créature (vampire, âme en peine, etc.). Le sort Restauration majeure permet également de restaurer tout score de caractéristique réduit, par exemple l'Intelligence d'une créature victime du sort Débilité mentale. Il soigne aussi l'intégralité des points de vie du bénéficiaire, guérit les maladies, la confusion, la débilité mentale, neutralise les poisons et les échecs de test de moral. Le lancement de ce sort est très éprouvant pour le lanceur, qui aura grand besoin de repos immédiatement après l'incantation puisqu'il engendre une fatigue presque instantanée similaire à celle accumulée en plusieurs jours.~
 @1026313 = ~Parole infernale
 (Conjuration/Convocation)
 
@@ -18542,7 +18544,7 @@ Temps d'incantation : 3
 Zone d'effet : ligne de 60 centimètres de large sur 4,5 mètres de long
 Jet de sauvegarde : aucun
 
-Au lancement de ce sort, des flammes jaillissent du bout des doigts du jeteur de sorts pour atteindre la cible qu'il a choisie. La cible frappée écope de 3d6 points de dégâts, et il en va de même de toute créature située dans la trajectoire des flammes. Le jet de flamme provoque des dégâts supplémentaires à la moitié de sa durée d'effet, et le jeteur de sort peut se déplacer pendant la durée du sort. Il n'existe pas de jet de sauvegarde contre ce sort, mais des capacités anti-feu comme la résistance au feu peuvent réduire, voire supprimer les dégâts.~
+Au lancement de ce sort, un jet de flammes ininterrompu jaillit du bout des doigts du lanceur pour atteindre la créature ciblée. La créature ciblée écope de 3d6 points de dégâts de feu, et il en va de même de toute créature située dans la trajectoire des flammes. Le jet de flammes provoque 3d6 points de dégâts de feu supplémentaires à la moitié de sa durée à la créature ciblée et toute créature située dans la trajectoire des flammes, et le lanceur peut se déplacer pendant la canalisation du jet de flammes. Il n'y a pas de jet de sauvegarde contre ce sort, mais des capacités anti-feu comme la résistance au feu peuvent réduire, voire annuler les dégâts.~
 @1026399 = ~Toucher de la goule
 (Nécromancie)
 
@@ -18564,8 +18566,8 @@ Temps d'incantation : 2
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Le bénéficiaire peut lancer des sorts avec un élément verbal sans devoir faire le moindre bruit, du moment que l'invocation s'effectue entièrement pendant la durée du sort de vocalisation. Seule la composante verbale des sorts est supprimée. Ce sort n'a aucun effet sur les autres bruits ou paroles ; il ne fait que supprimer l'élément verbal d'un sort.
-Le sort de Vocaliser annule le sort de Silence.~
+Grâce à ce sort, le lanceur peut jeter des sorts à composante verbale sans avoir à faire faire le moindre bruit, du moment que l'incantation de ces sorts s'effectue entièrement pendant la durée du sort Vocaliser. Ce sort annule tous les effets de silence, tel que le sort divin de 2ème niveau Silence sur 5 mètres ou le sort profane de 6ème niveau Mot de pouvoir : silence, et immunise le lanceur contre ces effets pendant toute la durée du sort. Seule la composante verbale des sorts est supprimée, ce sort n'a aucun effet sur les autres bruits ou paroles que le lanceur pourrait prononcer. À noter que ce sort peut être jeté par le lanceur même si ce dernier est déjà affecté par un effet de silence.~
+@1026402 = ~Vocalisé(e)~
 @1026404 = ~Mot de pouvoir : sommeil
 (Conjuration/Convocation)
 
@@ -18871,9 +18873,9 @@ Temps d'incantation : 4
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : spécial
 
-Avec ce sort, le magicien peut modifier l'état émotionnel des créatures autour de lui. La conséquence : un sentiment de désespoir inspiré à tous les ennemis du lanceur dans son champ visuel. S'ils ratent leur jet de sauvegarde contre les sorts, ils se jettent à terre de désespoir. À l'expiration du sort, ils reviennent dans leur état normal.
+Lorsque ce sort est jeté, le lanceur peut perturber l'état émotionnel des créatures ennemies qui l'entourent. Cela a pour effet d'insuffler un sentiment de désespoir absolu aux créatures ennemies qui se trouvent dans la zone d'effet. Les créatures ennemies doivent effectuer un jet de sauvegarde contre les sorts sous peine de s'allonger et d'abandonner toute volonté à un pouvoir supérieur (perdre connaissance). On peut parfois les entendre s'exclamer « Je m'allonge ici pour y mourir » ou « Je rentre chez moi ». Cet effet persiste jusqu'à la fin de la durée du sort, puis elles retrouvent leur état émotionel normal. Les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts.
 
-Le second effet de ce sort est de remplir de courage le lanceur du sort, ce qui supprime toute panique, remonte son moral, et l'immunise contre toute panique qui pourrait suivre. Cette protection est automatique et couvre toute la durée du sort. Cependant, elle est affectée par la résistance magique et autres effets similaires.~
+Ce sort a également pour effet d'instiller du courage au lanceur. Il efface tous les sentiments de peur, restaure la force morale et empêche tout effet de peur ou d'échec de test de moral de pénétrer davantage dans son psychisme pendant toute la durée du sort.~
 @1026460 = ~Armure spirituelle
 (Nécromancie)
 
@@ -19121,12 +19123,12 @@ Temps d'incantation : 2
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes non-magiques, à l'exception des armes bénies ou enchantées. Ce sort ne peut être lancé sur une créature déjà protégée contre les armes magiques. Les effets de ce sort se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes non-magiques, à l'exception des armes bénies ou enchantées (armes magiques excluses). Ce sort ne peut pas être jeté par le lanceur s'il est déjà protégé contre les armes magiques ou par le sort profane de 6ème niveau Protection contre les armes magiques. Les effets de ce sort se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026507 = ~Protégé(e) contre les armes non-magiques~
 @1026508 = ~ARME ET BOUCLIER : N'importe qui peut profiter de la protection de base offerte par un bouclier mais en attribuant des points dans ce style de combat, un aventurier peut optimiser les bénéfices de son utilisation. Un point donne un bonus de 2 à la classe d'armure contre les projectiles. Un point supplémentaire fait passer ce bonus à 4.
 
 REMARQUE : ce style de combat n'est pas limité aux épées, toute arme de mêlée à une main combinée à un bouclier permettra de bénéficier de ces avantages.~
-@1026509 = ~Impossible de lancer le sort de Protection contre les armes magiques si vous êtes déjà protégé(e) contre les armes non-magiques.~
+@1026509 = ~Impossible de lancer le sort profane de 6ème niveau Protection contre les armes magiques si vous êtes déjà protégé(e) contre les armes non-magiques.~
 @1026511 = ~Protection contre l'électricité
 (Abjuration)
 
@@ -19561,7 +19563,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +2 (armes non-magiques incluses). L'incroyable puissance de ce sort, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler au beau milieu d'un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +2 (armes non-magiques incluses). Les attaques de certains monstres puissants sont également considérées comme magiques. L'incroyable puissance de ce sort, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler quelques instants au beau milieu d'un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec le sort profane de 6ème niveau Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026605 = ~Protégé(e) par un sort de Manteau~
 @1026608 = ~Sphère du chaos
 (Transmutation)
@@ -19746,7 +19748,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +3 (armes non-magiques incluses). Ce sort étant incroyablement puissant, sa durée est très limitée dans le temps. Le temps d'incantation est par contre très court, permettant ainsi de gagner quelques précieuses secondes de répit pendant un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +3 (armes non-magiques incluses). Les attaques de certains monstres puissants sont également considérées comme magiques. L'incroyable puissance de ce sort, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler quelques instants au beau milieu d'un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec le sort profane de 6ème niveau Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026639 = ~Protégé(e) par un sort de Manteau amélioré~
 @1026641 = ~Déclencheur de sorts
 (Invocation/Évocation)
@@ -19880,7 +19882,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +5 (armes non-magiques incluses). Ce sort étant incroyablement puissant, sa durée est très limitée dans le temps. Le temps d'incantation est par contre très court, permettant ainsi de gagner quelques précieuses secondes de répit pendant un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec une Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +5 (armes non-magiques incluses). Les attaques de certains monstres puissants sont également considérées comme magiques. L'incroyable puissance de ce sort, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler quelques instants au beau milieu d'un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec le sort profane de 6ème niveau Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026661 = ~Protégé(e) par un sort d'Immunité absolue~
 @1026663 = ~Chaîne de contingences
 (Évocation)
@@ -21349,8 +21351,8 @@ AURA DE DÉSESPOIR : Lorsque cette capacité est activée, tous les ennemis dan
 
   Niveau 3 : tous les ennemis subissent un malus de 1 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
   Niveau 6 : tous les ennemis subissent un malus de 2 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
-  Niveau 15 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins paniquent.
-  Niveau 20 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins paniquent.
+  Niveau 15 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+  Niveau 20 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
 
 Désavantages :
 - Doit être d'alignement mauvais.
@@ -21907,7 +21909,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, le niveau d'énergie vitale de la créature ciblée est augmenté, annulant ainsi les effets de toute absorption d'énergie précédemment effectuée par une force quelconque ou un monstre. Le sort Restauration majeure permet également de restaurer l'Intelligence d'une créature victime du sort Débilité mentale. Il annule toutes les formes de folies comme la confusion ou la furie, soignant complètement la cible et la guérissant de toute maladie ou poison. Ce sort est épuisant pour son lanceur qui aura grand besoin de repos immédiatement après l'incantation, puisqu'il entraîne une fatigue instantanée similaire à celle accumulée en plusieurs jours.~
+Avec le lancement de ce sort, l'énergie vitale de la créature ciblée est intégralement restaurée. Ce sort annule toute absorption de niveau d'expérience subie par exemple à la suite d'un sort (Absorption d'énergie, Lame noire du désastre, etc.) ou encore d'une attaque par une créature (vampire, âme en peine, etc.). Le sort Restauration majeure permet également de restaurer tout score de caractéristique réduit, par exemple l'Intelligence d'une créature victime du sort Débilité mentale. Il soigne aussi l'intégralité des points de vie du bénéficiaire, guérit les maladies, la confusion, la débilité mentale, neutralise les poisons et les échecs de test de moral. Le lancement de ce sort est très éprouvant pour le lanceur, qui aura grand besoin de repos immédiatement après l'incantation puisqu'il engendre une fatigue presque instantanée similaire à celle accumulée en plusieurs jours.~
 @1030197 = ~Bouclier de feu (bleu)
 (Évocation)
 
@@ -22201,7 +22203,7 @@ Temps d'incantation : 2
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort confère une invulnérabilité totale contre toutes les armes non-magiques, à l'exception des armes bénies ou enchantées. Ce sort ne peut être lancé sur une créature déjà protégée contre les armes magiques. Les effets de ce sort se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
+Ce sort confère une invulnérabilité totale contre toutes les armes non-magiques, à l'exception des armes bénies ou enchantées (armes magiques excluses). Ce sort ne peut pas être jeté par le lanceur s'il est déjà protégé contre les armes magiques ou par le sort profane de 6ème niveau Protection contre les armes magiques. Les effets de ce sort se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1030237 = ~Brèche
 (Abjuration)
 
@@ -23000,12 +23002,12 @@ Capacités d'équipement :
 - Résistance aux dégâts magiques : +50 %
 
 Poids : 2~
-@1031174 = ~Cette cape est maléfique, mais puissante. Faite de peaux de nymphes mal cousues, elle immunise son porteur contre la peur et la panique.
+@1031174 = ~Cette cape est maléfique, mais puissante. Faite de peaux de nymphes innocentes mal cousues, elle immunise son porteur contre la peur et les échecs de test de moral.
 
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Immunité à la peur et à la panique
+- Immunité à la peur et aux échecs de test de moral
 
 Poids : 3~
 @1031176 = ~Les pouvoirs conférés par cette cape magique prouvent bien que le concept de « protection » peut recouvrir plusieurs formes, comme celle de la discrétion et de la fuite.
@@ -23503,7 +23505,7 @@ Poids : 1~
 
 Kelddath m'a donné une jolie récompense pour la tête de wiverne. Ces 2 000 pièces d'or arrivent à point nommé.~
 @1031971 = ~Maître des ombres~
-@1031972 = ~MAÎTRE DES OMBRES : Les maîtres des ombres font appel à la magie pour améliorer leurs capacités à se rendre discrets. Énigmatiques et dangereux, ces voleurs aux compétences uniques possèdent la capacité de se fondre parfaitement dans les ombres, mieux qu'aucun roublard commun, pour frapper sans crier gare... parfois avec une rapidité surnaturelle.
+@1031972 = ~MAÎTRE DES OMBRES : Les maîtres des ombres font appel à la magie pour améliorer leurs capacités à se rendre discrets. Énigmatiques et dangereux, ces voleurs aux compétences uniques possèdent la capacité de se fondre parfaitement dans les ombres, mieux qu'aucun roublard ordinaire, pour frapper sans crier gare... parfois avec une rapidité surnaturelle.
 
 Avantages :
 - Bonus de 10 % en Déplacement silencieux et Se cacher dans l'ombre.
@@ -23512,6 +23514,25 @@ Avantages :
 - Peut utiliser « Pas de l'ombre » une fois par jour tous les 5 niveaux d'expérience à partir du niveau 5.
 
 PAS DE L'OMBRE : Permet d'entrer dans le Plan de l'ombre et de s'y déplacer pendant 7 secondes, tandis que le temps est figé pour tout le reste du monde. Dans cet état, le maître des ombres ne peut ni attaquer, ni lancer de sorts.
+
+- Peut avoir accès aux capacités de haut niveau uniques « Labyrinthe de l'ombre », « Forme de l'ombre » et « Jumeau de l'ombre ».
+
+LABYRINTHE DE L'OMBRE : Cette capacité de haut niveau ouvre temporairement un portail vers une petite zone sur le Plan de l'ombre. Toutes les créatures ennemies dans un rayon de 2,1 mètres autour du lanceur doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être piégées à l'intérieur du Labyrinthe de l'ombre. La durée de cette capacité dépend de l'Intelligence des créatures ciblées.
+
+Intelligence des créatures ciblées - Temps passé dans un Labyrinthe de l'ombre
+ moins de 3 - 2d4 tours
+ 3 à 5 - 1d4 tours
+ 6 à 8 - 5d4 rounds
+ 9 à 11 - 4d4 rounds
+ 12 à 14 - 3d4 rounds
+ 15 à 17 - 2d4 rounds
+ 18 et plus - 1d4 rounds
+
+Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où les créatures ont été emprisonnées par le Labyrinthe de l'ombre, ces dernières reviennent immédiatement, mettant fin prématurément à la capacité de haut niveau. Les créatures ainsi emprisonnées ne peuvent pas être libérées par le sort Dissipation de la magie.
+
+FORME DE L'OMBRE : Cette capacité de haut niveau transpose temporairement une partie des tissus biologiques du lanceur avec des matériaux d'ombre, ce qui le rend partiellement désincarné. Pendant les 5 rounds suivants, toutes les attaques physiques dirigées contre le lanceur n'infligent que 50 % des dégâts normaux. Pendant cette période, le lanceur bénéficie aussi des effets d'Invisibilité majeure et ne peut pas être directement ciblé par des sorts.
+
+JUMEAU DE L'OMBRE : Cette capacité de haut niveau crée une réplique presque parfaite du lanceur pendant 1 tour. La réplique est créée à 60 % du niveau d'expérience actuel du lanceur. Elle dispose alors de toutes les capacités, les capacités spéciales, les capacités de haut niveau et les sorts que le lanceur aurait à ce niveau d'expérience. Elle hérite également de 60 % des points de vie du lanceur, ainsi que de ses équipements et ses objets (y compris ceux des emplacements d'objets rapides) actuellement équipés. La réplique est pleinement sous le contrôle du lanceur.
 
 Désavantages :
 - Ne peut être d'alignement loyal.
@@ -23692,8 +23713,8 @@ Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire,
 Cette capacité affecte tous les adversaires à moins de 4,5 mètres, n'autorise pas de jet de sauvegarde, et s'améliore avec les niveaux d'expérience :
 - Niveau 3 : pénalités de 1 aux jets d'attaque, de dégâts et une pénalité de 2 à la classe d'armure pendant 1 tour.
 - Niveau 6 : pénalités de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
-- Niveau 15 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins sont également pris de panique.
-- Niveau 20 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins sont également pris de panique.~
+- Niveau 15 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+- Niveau 20 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur~
 @1032231 = ~Tir ajusté
 
 Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets suivants (en plus des dégâts normaux) :
@@ -23970,10 +23991,59 @@ Capacités spéciales :
 Le personnage invoque une tempête de pluie bouillonnante et nocive. Les adversaires dans la zone d'effet subissent 2d6 dégâts de poison, et doivent réussir un jet de sauvegarde contre les souffles sous peine d'être étourdis pendant un round.~
 @1032276 = ~Poussière de verre
 
-La créature pulvérise de la poudre de verre pilé, obligeant sa cible à réussir un jet de sauvegarde contre les souffles sous peine de souffrir une pénalité de 4 à la classe d'armure et de 2 au TAC0 pendant que les petits morceaux de verre pénètrent sous sa peau.~
+Portée : 4,5 mètres
+Durée : 5 rounds
+Temps d'incantation : 1
+Zone d'effet : 1 créature et tout ennemi dans un rayon de 4,5 mètres
+Jet de sauvegarde : annule
+
+Cette capacité pulvérise de la poudre de verre pilé qui se répand sur toutes les créatures ennemies dans un rayon de 4,5 mètres autour de la créature ciblée. Toutes les créatures ennemies présentes dans la zone d'effet doivent réussir un jet de sauvegarde contre les souffles sous peine de souffrir un malus de 4 à la classe d'armure et un malus de 2 au TAC0 pendant 5 rounds, tandis que les petits morceaux de verre pénètrent sous leur peau.~
+@1032277 = ~Éclat de glace
+
+Portée : 4,5 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : 1/2
+
+Cette capacité lance un projectile de glace qui inflige 2d3 points de dégâts de froid, réduits de moitié si la créature ciblée réussi un jet de sauvegarde contre les souffles.~
+@1032278 = ~Éventail de flammes
+
+Portée : 1 mètre
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : cône de 2 mètres avec un angle de 120°
+Jet de sauvegarde : aucun
+
+Cette capacité fait flamber la créature ciblée ainsi que toutes les créatures présentes dans un cône de 2 mètres avec un angle de 120°, qui subissent 4 points de dégâts de feu sans jet de sauvegarde.~
+@1032279 = ~Jet de flammes
+(Évocation)
+
+Portée : 4,5 mètres
+Durée : 1 round
+Temps d'incantation : 1
+Zone d'effet : ligne de 60 centimètres de large sur 4,5 mètres de long
+Jet de sauvegarde : 1/2
+
+Cette capacité émet un jet de flammes ininterrompu pour atteindre la créature ciblée, qui subit 2d4 +1 points de dégâts de feu, et il en va de même de toute créature située dans la trajectoire des flammes. Le jet de flammes provoque 2d4 +1 points de dégâts de feu supplémentaires à la moitié de sa durée à la créature ciblée et toute créature située dans la trajectoire des flammes, et le lanceur peut se déplacer pendant la canalisation du jet de flammes. Les dégâts sont réduits de moitié si les créatures affectées réussissent un jet de sauvegarde contre les souffles.~
 @1032280 = ~Acide de mimique
 
-La créature lance un globe d'acide corrosif sur la cible, qui subit 3d12 points de dégâts acides sans jet de sauvegarde.~
+Portée : 1,5 mètre
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Cette capacité lance un globe d'acide corrosif sur la créature ciblée, qui subit 3d12 points de dégâts acides sans jet de sauvegarde.~
+@1032281 = ~Colle de mimique
+
+Portée : 2,5 mètres
+Durée : 5 rounds
+Temps d'incantation : 0
+Zone d'effet : 1 créature
+Jet de sauvegarde : annule
+
+Cette capacité lance une boule de vase poisseuse et collante qui paralyse la créature ciblée pendant 5 rounds, à moins qu'elle ne réussisse un jet de sauvegarde contre les souffles.~
 @1032283 = ~Tilly Underwood
 Andrew Beale - Anduin
 Gaëtan Landry - Headbomb
@@ -24180,18 +24250,18 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 - Ne peut pas être jumelé ou multi-classé
 - Le shaman n'est pas éligible pour une forteresse. (Cela concerne uniquement la campagne Baldur's Gate II : Les Ombres de l'Amn dans Baldur's Gate II : Enhanced Edition.)
 - Dés de vie : d8~
-@1032343 = ~Enfant, vos visions de créatures et d'esprits invisibles ont grandement préoccupé votre père adoptif, Gorion. Ce fut seulement après qu'un shaman d'une tribu barbare Uthgardte du Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a effectué la cérémonie d'initiation qui a été la première étape sur la voie de l'esprit pour devenir un shaman.~
+@1032343 = ~Enfant, vos visions de créatures et d'esprits invisibles ont grandement préoccupé votre père adoptif, Gorion. Ce fut seulement après qu'un chaman d'une tribu barbare Uthgardte du Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a effectué la cérémonie d'initiation qui a été la première étape sur la voie de l'esprit pour devenir un chaman.~
 @1032344 = ~SHAMAN : Les Shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les Shamans sont plus spirituels que primitifs. Les Shamans sélectionnent de nouveaux sorts à apprendre quand ils gagnent des niveaux ; une fois appris, le Shaman peut les lancer tous les jours sans mémorisation.~
-@1032346 = ~PRÊTRE DE TYR : Tyr est la divinité de la justice et de la loi. Ses principales préoccupations sont le châtiment des criminels et la promotion de la loi et du bien dans le monde. La croyance en la justice rendue par l'exercice bienveillant de la force, ou du moins la vigilance armée, est sa raison d'être. Tyr est une divinité d'importance dans le panthéon Féérunien grâce à sa position de leader de la Triade, un trio de dieux d'alignement loyal bon qui représentent chacun les concepts de courage, de justice, de persévérance, de devoir, d'obéissance, d'honneur, de soulagement de la souffrance et, dans une certaine mesure, de martyre vertueux.
+@1032346 = ~PRÊTRE DE TYR : Tyr est la divinité de la justice et de la loi. Ses principales préoccupations sont le châtiment des criminels et la promotion globale de la loi et du bien dans le monde. La croyance en la justice rendue par l'exercice bienveillant de la force, ou du moins la vigilance armée, est sa raison d'être. Tyr est une divinité d'importance dans le panthéon féérunien grâce à sa position de meneur de la Triade, un trio de dieux d'alignement loyal bon qui se consacrent collectivement aux concepts de courage, de justice, de persévérance, de devoir, d'obéissance, d'honneur, de soulagement de la souffrance et, dans une certaine mesure, de martyre vertueux.
 
 Avantages :
 - Peut lancer « Exaltation » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-EXALTATION : Ce sort permet au prêtre de porter secours à une personne autre que lui-même. En touchant la cible, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, d'état d'ébriété, de rage et de confusion. En outre, la cible est protégée de tous les effets précédemment décrits pendant un tour.
+EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
 
 - Peut lancer « Faveur divine » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-FAVEUR DIVINE : Ce sort fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts tous les 3 niveaux d'expérience du prêtre pendant deux rounds.
+FAVEUR DIVINE : Cette capacité fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts par tranche de 3 niveaux d'expérience du lanceur pendant deux rounds.
 
 Désavantages :
 - Doit être d'alignement loyal bon, neutre bon ou loyal neutre.~
@@ -24280,7 +24350,9 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort transporte une créature, choisie par le lanceur de sorts, sur le Plan Éthéré. La créature disparaît pendant la durée du sort, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la victime ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leurs résistances à la magie afin que le chaman puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets du labyrinthe.~
+Ce sort transporte une créature choisie par le lanceur sur le Plan Éthéré. La créature disparaît pendant 5 rounds, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la créature ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leur résistance à la magie afin que le chaman puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets de labyrinthe.
+
+Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature a été emprisonnée par le Portail éthéré, cette dernière revient immédiatement, mettant fin prématurément au sort. Une créature ainsi emprisonnée ne peut pas être libérée par le sort Dissipation de la magie.~
 @1032362 = ~Châtiment éthéré~
 @1032363 = ~Châtiment éthéré
 (Conjuration)
@@ -24308,11 +24380,27 @@ Ce puissant rite protège le shaman de la mort pendant 10 tours ou jusqu'à ce q
 Pré-requis : Forme spirituelle~
 @1032366 = ~Protection de l'Élu des esprits épuisée~
 @1032369 = ~Exaltation
+(Abjuration)
 
-Ce sort permet au prêtre de porter secours à une personne autre que lui-même. Par contact, il guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience et d'état d'ébriété, ainsi que les états de rage et de confusion. En outre, le bénéficiaire est protégé pendant un tour contre les sorts et attaques qui provoquent ces effets.~
+Niveau : 1
+Portée : contact
+Durée : 1 tour
+Temps d'incantation : 1
+Zone d'effet : 1 créature (autre que le lanceur)
+Jet de sauvegarde : aucun
+
+Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
 @1032371 = ~Faveur divine
+(Conjuration)
 
-Ce sort fait bénéficier le lanceur d'un bonus de 1 aux jets d'attaque et de dégâts tous les 3 niveaux d'expérience du prêtre pendant deux rounds.~
+Niveau : 1
+Portée : 0
+Durée : 2 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts par tranche de 3 niveaux d'expérience du lanceur pendant deux rounds.~
 @1032372 = ~Dissipation de la magie
 (Abjuration)
 
@@ -24572,13 +24660,21 @@ Avantages :
 - Peut lancer « Sainte puissance » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Chaos de la bataille » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-CHAOS DE LA BATAILLE : Ce sort accorde un bonus aux alliés et applique des pénalités aux adversaires du lanceur dans une zone de 9 mètres de rayon centrée sur lui. Chaos de la bataille dure 1 tour et affecte au hasard la classe d'armure, les points de vie, le TAC0, les jets de sauvegarde ou la chance des cibles. L'amplitude de l'effet débute à 1 (5 en ce qui concerne les points de vie), et augmente d'1 point (5 points en ce qui concerne les points de vie) tous les 6 niveaux d'expérience du lanceur.
+CHAOS DE LA BATAILLE : Cette capacité accorde un bonus aux créatures alliées et applique un malus aux créatures ennemies du lanceur dans une zone de 4,5 mètres de rayon centrée sur lui. Chaos de la bataille dure 1 tour et affecte au hasard la classe d'armure, les points de vie, le TAC0, les jets de sauvegarde ou la chance des créatures présentes dans la zone d'effet. L'amplitude du bonus et du malus sur les créatures affectées débute à 1 point (5 en ce qui concerne les points de vie), et augmente de 1 point (5 en ce qui concerne les points de vie) par tranche de 6 niveaux d'expérience du lanceur.
 
 Désavantages :
 - Doit être d'alignement chaotique bon, neutre strict, chaotique neutre ou chaotique mauvais.~
 @1032765 = ~Chaos de la bataille
+(Conjuration)
 
-Ce sort accorde un bonus aux alliés et applique des pénalités aux adversaires du lanceur dans une zone de 9 mètres de rayon centrée sur lui. Chaos de la bataille dure 1 tour et affecte au hasard la classe d'armure, les points de vie, le TAC0, les jets de sauvegarde ou la chance des cibles. L'amplitude de l'effet débute à 1 (5 en ce qui concerne les points de vie), et augmente d'1 point (5 points en ce qui concerne les points de vie) tous les 6 niveaux d'expérience du lanceur.~
+Niveau : 1
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 1
+Zone d'effet : rayon de 4,5 mètres
+Jet de sauvegarde : spécial
+
+Cette capacité accorde un bonus aux créatures alliées et applique un malus aux créatures ennemies du lanceur dans une zone de 4,5 mètres de rayon centrée sur lui. Chaos de la bataille dure 1 tour et affecte au hasard la classe d'armure, les points de vie, le TAC0, les jets de sauvegarde ou la chance des créatures présentes dans la zone d'effet. L'amplitude du bonus et du malus sur les créatures affectées débute à 1 point (5 en ce qui concerne les points de vie), et augmente de 1 point (5 en ce qui concerne les points de vie) par tranche de 6 niveaux d'expérience du lanceur.~
 @1032768 = ~Baiser de la néréide~
 @1032769 = ~Rieltar, fils de chien galeux trois fois maudit !~
 @1032770 = ~Yeslick ? Ça alors, je ne m'attendais guère à vous voir. Mon vieil ami, il...~
@@ -25273,7 +25369,9 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort transporte une créature, choisie par le lanceur de sorts, sur le Plan Éthéré. La créature disparaît pendant la durée du sort, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la victime ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Matériel Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leurs résistances à la magie afin que le shaman puisse les cibler avec ce sort. En outre, Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets du labyrinthe.~
+Ce sort transporte une créature choisie par le lanceur sur le Plan Éthéré. La créature disparaît pendant 5 rounds, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la créature ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leur résistance à la magie afin que le chaman puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets de labyrinthe.
+
+Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature a été emprisonnée par le Portail éthéré, cette dernière revient immédiatement, mettant fin prématurément au sort. Une créature ainsi emprisonnée ne peut pas être libérée par le sort Dissipation de la magie.~
 @1035365 = ~Forme spirituelle
 
 Portée : 0
@@ -26763,7 +26861,8 @@ Nous pourrions parvenir à distraire la garde qui surveille l'accès aux dédale
 @1040849 = ~Salutations, <PRO_SIRMAAM>. Puis-je faire quelque chose pour vous ?~
 @1040864 = ~Assez ! Vous avez une grande puissance, rejeton de Bhaal, probablement suffisante pour éliminer le Profane, mais trop faible pour espérer vaincre son seigneur.~ [BD40864] ~Assez ! Vous avez une grande puissance, rejetonne de Bhaal, probablement suffisante pour éliminer le Profane, mais trop faible pour espérer vaincre son seigneur.~ [BD40864]
 @1040868 = ~Guérisseuse du Poing Enflammé~
-@1040871 = ~Un barde du nom de Garrick et deux bons à rien appelés Safana et Coran sont dans la taverne du Chant de l'Elfe. La sorcière Dynahéir et son garde du corps Minsc sont aux Trois Vieilles Chopes...~
+@1040871 = ~Un barde du nom de Garrick et deux bons à rien appelés Safana et Coran sont dans la taverne du Chant de l'Elfe. La sorcière Dynahéir et son garde du corps Minsc sont aux Trois Vieilles Chopes...~ //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (dialog.tra, 1000040 et 1000041).
+@1040872 = ~... Un moine du nom de Rasaad travaille en ce moment dans le bâtiment du Trône de Fer. Le Conseil en a fait un refuge pour ceux qui fuient Caelar. Et nous avons un certain Tiax enfermé dans le quartier général du Poing Enflammé.~ //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (dialog.tra, 1000042 et 1000043).
 @1040875 = ~En revanche, ne partez pas sans moi. Les ducs ne voudraient pas qu'il arrive quelque chose à leur héros.~ ~En revanche, ne partez pas sans moi. Les ducs ne voudraient pas qu'il arrive quelque chose à leur héroïne.~
 @1040881 = ~*la brèche dans le mur a récemment été réparée avec des planches en bois*~
 @1040882 = ~Tonneau de BOUM !~
@@ -30317,7 +30416,7 @@ Ces peurs s'emparent de vos camarades tout en les poussant à avancer. Les murmu
 
 Vous n'êtes pas la seule dans ce cas, car même le Poing Enflammé redoute ce qui vous attend là-bas. Si Caelar a également détruit le Pont de Boreskyr, l'expédition n'atteindra pas le château Paldragon à temps pour pouvoir arrêter la croisade. Les forces de la Porte de Baldur et de leurs alliés seront dépassées, et massacrées.
 
-Ces peurs s'emparent de vos camarades tout en les poussant à avancer. Les murmures d'inquiétude laissent place au silence alors que la caravane reçoit l'ordre de s'arrêter, à moins d'un jour de marche de Boreskyr. Le Poing Enflammé monte le camp et se prépare à la prochaine confrontation avec la croisade pendant que vous planifiez votre prochaine action.~ [BD56368]
+Ces peurs s'emparent de vos camarades tout en les poussant à avancer. Les murmures d'inquiétude laissent place au silence alors que la caravane reçoit l'ordre de s'arrêter, à moins d'un jour de marche de Boreskyr. Le Poing Enflammé monte le camp et se prépare à la prochaine confrontation avec la croisade pendant que vous planifiez votre prochaine action.~ [BD56368] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000009 et 2000033).
 @1056371 = ~Les signes de la présence récente de la croisade sont visibles tout au long de la route vers le château Paldragon, mais les serviteurs de la Dame Étincelante, eux, se font rares. Les quelques croisés que vous repérez au loin battent invariablement en retraite dès la première occasion.
 
 Alors que la marche continue, la compagnie est prise de fatigue et les esprits s'échauffent au sein de la caravane. Votre réputation de héros de la Porte de Baldur vous protège des querelles mesquines et des excès de rage... Ou peut-être que suite aux événements du Pont de Boreskyr, moins de personnes encore n'osent vous contrarier.
@@ -30326,13 +30425,13 @@ Vous mettez ces pensées de côté lorsque vous apercevez les étendards d'Eaupr
 
 Alors que la marche continue, la compagnie est prise de fatigue et les esprits s'échauffent au sein de la caravane. Votre réputation d'héroïne de la Porte de Baldur vous protège des querelles mesquines et des excès de rage... Ou peut-être que suite aux événements du Pont de Boreskyr, moins de personnes encore n'osent vous contrarier.
 
-Vous mettez ces pensées de côté lorsque vous apercevez les étendards d'Eauprofonde, de Gué-de-la-Dague et du Poing Enflammé aux abords du camp de siège de la coalition. Le château Paldragon est proche, tout comme l'heure du jugement de Caelar.~ [BD56371]
+Vous mettez ces pensées de côté lorsque vous apercevez les étendards d'Eauprofonde, de Gué-de-la-Dague et du Poing Enflammé aux abords du camp de siège de la coalition. Le château Paldragon est proche, tout comme l'heure du jugement de Caelar.~ [BD56371] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000010 et 2000034).
 @1056373 = ~Le tintement des lames et les explosions de magie sont encore perceptibles au loin, mais vous avez réussi à repousser l'assaut de Caelar sur le camp de la coalition. Il est maintenant temps de riposter, les forces d'Eauprofonde, de Gué-de-la-Dague et de la Porte de Baldur avancent à l'unisson et s'apprêtent à défier la Dame Étincelante.
 
-Les murs entourant les ruines de Paldragon grouillent de croisés. Parmi eux se trouvent les lieutenants les plus fidèles de Caelar. Des hommes et des femmes aux compétences sans égal, prêts à tous les sacrifices pour leur meneuse. Ce ne sera pas facile de les vaincre et de pénétrer dans le château, mais c'est la tâche qui vous attend.~ [BD56373]
+Les murs entourant les ruines de Paldragon grouillent de croisés. Parmi eux se trouvent les lieutenants les plus fidèles de Caelar. Des hommes et des femmes aux compétences sans égal, prêts à tous les sacrifices pour leur meneuse. Ce ne sera pas facile de les vaincre et de pénétrer dans le château, mais c'est la tâche qui vous attend.~ [BD56373] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000011 et 2000035).
 @1056375 = ~Avernus, le premier des Neuf Enfers, assaille vos sens. Les relents de soufre et de lait caillé emplissent vos narines et recouvrent votre langue et votre gorge d'un film nauséabond. Les gémissements amers des damnés vous enveloppent, vous tourmentent de toutes parts et vous étouffent.
 
-Alors que vos yeux larmoyants s'habituent à la faible lueur de la lave, vous commencez à ressentir la majesté oppressante de la désolation qui vous entoure. Dans votre poursuite de la Dame Étincelante, vous avez atterri dans l'endroit le plus sombre qui soit. Mais la traque n'est pas encore terminée. Les corps des soldats de la croisade gisent tout autour de vous, cependant aucun signe de Caelar.~ [BD56375]
+Alors que vos yeux larmoyants s'habituent à la faible lueur de la lave, vous commencez à ressentir la majesté oppressante de la désolation qui vous entoure. Dans votre poursuite de la Dame Étincelante, vous avez atterri dans l'endroit le plus sombre qui soit. Mais la traque n'est pas encore terminée. Les corps des soldats de la croisade gisent tout autour de vous, cependant aucun signe de Caelar.~ [BD56375] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000012 et 2000036).
 @1056378 = ~Vous retournez à la Porte de Baldur dans des circonstances bien plus sombres que quiconque n'aurait pu l'imaginer. Ce qui aurait dû être un moment de triomphe s'est révélé n'être qu'un cauchemar qui dépasse votre entendement.
 
 Tout porte à croire que Skie Écudargent est morte de votre main et les prêtres des troupes de la coalition sont bien incapables de la ramener à la vie. Sa dépouille, préservée par magie, a été emmenée chez le Grand-Duc Entar Écudargent, dans l'espoir ténu que sa fille puisse un jour être ressuscitée. Vous-même partagez cette espérance, car sans Skie, la vérité sur cette terrible nuit demeurera probablement un mystère insoluble.
@@ -30345,7 +30444,7 @@ Tout porte à croire que Skie Écudargent est morte de votre main et les prêtre
 
 Vous pensiez avoir laissé derrière vous l'influence de votre père, mais en voyageant vers le château Paldragon, vous avez réalisé qu'il n'en était rien. Vous êtes une enfant de Bhaal, le Seigneur du Meurtre, et une part de lui réside en vous. S'est-elle développée au point d'échapper à votre contrôle ? Était-ce réellement votre main qui a plongé cette dague dans la poitrine de Skie Écudargent ? Vous l'ignorez, et cela vous hante.
 
-Lorsque vous avez quitté la Porte de Baldur, le peuple vous acclamait en héroïne. Désormais, il vous voit d'une façon bien différente.~ [BD56378]
+Lorsque vous avez quitté la Porte de Baldur, le peuple vous acclamait en héroïne. Désormais, il vous voit d'une façon bien différente.~ [BD56378] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000013 et 2000037).
 @1056379 = ~Le siège de Paldragon
 
 Je dois trouver Korlasz et m'occuper d'elle.
@@ -30663,24 +30762,42 @@ Khalid souhaite maintenant obtenir une aigue-marine pour terminer son collier.~
 Khalid a terminé le collier de Jaheira.
 
 Le collier que Khalid souhaite offrir à Jaheira pour leur anniversaire est terminé. Il compte le lui donner sous peu.~
-@1056941 = ~PRÊTRE DE TYR : Tyr est la divinité de la justice et de la loi. Ses principales préoccupations sont le châtiment des criminels et la promotion de la loi et du bien dans le monde. La croyance en la justice rendue par l'exercice bienveillant de la force, ou du moins la vigilance armée, est sa raison d'être. Tyr est une divinité d'importance dans le panthéon féérunien grâce à sa position de leader de la Triade, un trio de dieux d'alignement loyal bon qui représentent chacun les concepts de courage, de justice, de persévérance, de devoir, d'obéissance, d'honneur, de soulagement de la souffrance et, dans une certaine mesure, de martyre vertueux.
+@1056941 = ~PRÊTRE DE TYR : Tyr est la divinité de la justice et de la loi. Ses principales préoccupations sont le châtiment des criminels et la promotion globale de la loi et du bien dans le monde. La croyance en la justice rendue par l'exercice bienveillant de la force, ou du moins la vigilance armée, est sa raison d'être. Tyr est une divinité d'importance dans le panthéon féérunien grâce à sa position de meneur de la Triade, un trio de dieux d'alignement loyal bon qui se consacrent collectivement aux concepts de courage, de justice, de persévérance, de devoir, d'obéissance, d'honneur, de soulagement de la souffrance et, dans une certaine mesure, de martyre vertueux.
 
 Avantages :
 - Peut lancer « Exaltation » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-EXALTATION : Ce sort permet au prêtre de porter secours à une personne autre que lui-même. En touchant la cible, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, d'état d'ébriété, de rage et de confusion. En outre, la cible est protégée de tous les effets précédemment décrits pendant un tour.
+EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
 
 - Peut lancer « Faveur divine » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-FAVEUR DIVINE : Ce sort fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts tous les 3 niveaux d'expérience du prêtre pendant deux rounds.
+FAVEUR DIVINE : Cette capacité fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts par tranche de 3 niveaux d'expérience du lanceur pendant deux rounds.
 
 Désavantages :
 - Doit être d'alignement loyal bon, neutre bon ou loyal neutre.~
 @1056943 = ~Exaltation~
 @1056944 = ~Exaltation
-Ce sort permet au prêtre de porter secours à une personne autre que lui-même. En touchant la cible, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, d'état d'ébriété, de rage et de confusion. En outre, la cible est protégée de tous les effets précédemment décrits pendant un tour.~
+(Abjuration)
+
+Niveau : 1
+Portée : contact
+Durée : 1 tour
+Temps d'incantation : 1
+Zone d'effet : 1 créature (autre que le lanceur)
+Jet de sauvegarde : aucun
+
+Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
 @1056945 = ~Faveur divine
-Ce sort confère au lanceur un bonus de 1 aux jets d'attaque et de dégâts tous les 3 niveaux d'expérience du lanceur pendant 2 rounds.~
+(Conjuration)
+
+Niveau : 1
+Portée : 0
+Durée : 2 rounds
+Temps d'incantation : 1
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts par tranche de 3 niveaux d'expérience du lanceur pendant deux rounds.~
 @1056948 = ~Je vois que ma réputation me précède. C'est souvent le cas ces derniers temps.~
 @1056951 = ~Rejoignez-moi. Je pars demain vers le nord pour affronter Caelar, la Dame Étincelante.~
 @1056956 = ~Bientôt. Un corps du Poing Enflammé va quitter le Palais Ducal sous peu. J'ai des affaires à traiter avant cela, mais je vous assure que votre présence sera la bienvenue dans la caravane.~
@@ -30690,7 +30807,7 @@ Ce sort confère au lanceur un bonus de 1 aux jets d'attaque et de dégâts tous
 
 L'expédition est continuellement ralentie par les victimes de la croisade. Un flot d'hommes et de femmes brisés et traumatisés se déverse sur la Voie Côtière. Tous racontent les champs incendiés, les greniers pillés et les proches enrôlés de force par la croisade. Et pourtant, nombreux sont ceux qui considèrent ces épreuves comme des sacrifices nécessaires servant l'intérêt général. Cette curieuse acceptation, frôlant parfois l'admiration envers Caelar Argent est si commune chez ses victimes que cela en est déconcertant. Certains clament même que la Dame Étincelante n'est pas la prophétesse d'une seule, mais de toutes les croyances ainsi que de tous les dieux.
 
-Est-il possible que la cause de Caelar Argent soit juste ? Ou bien est-ce un habile subterfuge servant ses propres desseins, comme l'avait fait Sarevok autrefois ?~ [BD56974]
+Est-il possible que la cause de Caelar Argent soit juste ? Ou bien est-ce un habile subterfuge servant ses propres desseins, comme l'avait fait Sarevok autrefois ?~ [BD56974] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000008 et 2000032).
 @1056976 = ~Maladie du limon
 
 J'ai rejoint les croisés malades avec la potion de soins pour les guérir.~
@@ -35083,7 +35200,7 @@ PARAMÈTRES :
 
 Capacités de combat :
 - 10 % de chances par coup de lancer Manteau de terreur autour du porteur
-- Inflige 1 point de dégâts magiques supplémentaire aux cibles qui paniquent
+- Inflige 1 point de dégâts magiques supplémentaire aux cibles sous l'effet de la peur
 
 TAC0 : +3
 Dégâts : +2 (projectile)
@@ -38859,7 +38976,7 @@ Bien que les dirigeants de la Porte de Baldur vous traitent avec tous les égard
 
 Chaque jour, de plus en plus de réfugiés, chassés de leurs demeures par les serviteurs de Caelar Argent, viennent s'abriter derrière les remparts de la cité. Nombre d'entre eux mentionnent la grâce de la Dame Étincelante, mais tous témoignent de la brutalité de ses adeptes.
 
-Dix jours après la défaite de Korlasz, alors que vous vous trouvez dans vos appartements du Palais Ducal, vos pensées vous harcèlent. Vous vous demandez quelles seront les conséquences de la croisade de Caelar sur la Porte de Baldur. Sans vous douter de l'imminence de la réponse...~ [BD70019]
+Dix jours après la défaite de Korlasz, alors que vous vous trouvez dans vos appartements du Palais Ducal, vos pensées vous harcèlent. Vous vous demandez quelles seront les conséquences de la croisade de Caelar sur la Porte de Baldur. Sans vous douter de l'imminence de la réponse...~ [BD70019] //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (chapters.tra, 2000007).
 @1070020 = ~Berger des morts
 
 Je devrais interroger Junia, dans le temple de Fort-du-Pont.
