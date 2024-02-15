@@ -7034,7 +7034,7 @@ Temps d'incantation : 2
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur peut jeter des sorts à composante verbale sans avoir à faire faire le moindre bruit, du moment que l'incantation de ces sorts s'effectue entièrement pendant la durée du sort Vocaliser. Ce sort annule tous les effets de silence, tel que le sort divin de 2ème niveau Silence sur 5 mètres ou le sort profane de 6ème niveau Mot de pouvoir : silence, et immunise le lanceur contre ces effets pendant toute la durée du sort. Seule la composante verbale des sorts est supprimée, ce sort n'a aucun effet sur les autres bruits ou paroles que le lanceur pourrait prononcer. À noter que ce sort peut être jeté par le lanceur même si ce dernier est déjà affecté par un effet de silence.~
+Grâce à ce sort, le lanceur peut jeter des sorts à composante verbale sans avoir à faire le moindre bruit, du moment que l'incantation de ces sorts s'effectue entièrement pendant la durée du sort Vocaliser. Ce sort annule tous les effets de silence, tel que le sort divin de 2ème niveau Silence sur 5 mètres ou le sort profane de 6ème niveau Mot de pouvoir : silence, et immunise le lanceur contre ces effets pendant toute la durée du sort. Seule la composante verbale des sorts est supprimée, ce sort n'a aucun effet sur les autres bruits ou paroles que le lanceur pourrait prononcer. À noter que ce sort peut être jeté par le lanceur même si ce dernier est déjà affecté par un effet de silence.~
 @1012199 = ~Dissipation de la magie
 (Abjuration)
 
@@ -7189,7 +7189,7 @@ Sphère : garde
 Portée : champ visuel du lanceur
 Durée : 2 rounds par niveau
 Temps d'incantation : 5
-Zone d'effet : sphère de 4,5 mètres de rayon
+Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
 Lorsqu'un tel sort est lancé, un silence complet s'abat sur la zone concernée. Tous les sons s'évanouissent : il est impossible de parler ou de jeter un sort. Chaque créature située dans la zone doit effectuer un jet de sauvegarde contre les sorts à -5 ; si le jet de sauvegarde contre les sorts échoue, la créature est réduite au silence pendant toute la durée du sort. Notez qu'une fois lancé, ce sort ne continue pas d'affecter la zone ; seuls ceux présents dans la zone au moment de l'incantation sont frappés de mutisme.~
@@ -13026,7 +13026,7 @@ Niveau : 5
 Portée : 12 mètres
 Durée : 1 round par niveau
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : tout ennemi dans un rayon de 1,2 mètre autour de la créature ciblée
 Jet de sauvegarde : annule
 
 Ce sort immobilise 1d4 créatures de n'importe quel type (à l'exception des morts-vivants), pendant 9 rounds ou plus, à moins qu'elles ne réussissent un jet de sauvegarde contre les sorts à -2. L'effet est centré sur la victime choisie par le lanceur. Tous les ennemis se trouvant à moins de 1,2 mètre sont également affectés, à moins de réussir leur jet de sauvegarde contre les sorts.
@@ -15556,7 +15556,7 @@ Spécialisation (2 étoiles) : Le bonus à la classe d'armure passe à 2.~
 @1025334 = ~Chasseur de morts-vivants~
 @1025339 = ~Chasseur de primes~
 @1025341 = ~Maître-lames~
-@1025360 = ~Ce sort permet à un personnage de restaurer toute l'énergie vitale qui lui a été drainée (y compris ses niveaux d'expérience). La Restauration majeure permet également de restaurer les scores de caractéristique réduits et de dissiper la débilité mentale, la confusion, les échecs de test de moral, les maladies, les poisons et de soigner l'intégralité des points de vie du personnage.~
+@1025360 = ~Ce sort permet à un personnage de restaurer toute l'énergie vitale qui lui a été drainée (y compris ses niveaux d'expérience). La Restauration majeure permet également de dissiper la débilité mentale, la peur, la confusion, les échecs de test de moral, les maladies, les poisons et de soigner l'intégralité des points de vie du personnage.~
 @1025361 = ~TUEUR DE MAGICIENS : Ce guerrier a reçu un entraînement spécifique qui lui permet d'exceller dans la chasse et l'attaque des lanceurs de sorts.
 
 Avantages :
@@ -16709,7 +16709,7 @@ Sphère : animale, convocation
 Portée : 73 mètres
 Durée : 3 rounds
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 4,5 mètres
+Zone d'effet : tout ennemi dans un rayon de 4,5 mètres autour de la créature ciblée
 Jet de sauvegarde : spécial
 
 Lorsque le lanceur jette le sort Fatalité rampante, il fait apparaître une masse d'arachnides, d'insectes et de myriapodes venimeux, mordants et urticants qui se dirige vers la créature ciblée. Cette nuée vivante couvre une large surface, se propageant à toutes les créatures ennemies dans un rayon de 4,5 mètres autour de la créature ciblée. Les créatures encerclées par les insectes subissent 2 points de dégâts perforants par seconde et un taux d'échec d'incantation des sorts de 100 %. À chaque round passé dans la masse d'insectes par les créatures affectées, elles doivent réussir un jet de sauvegarde contre les sorts à -2 sous peine de prendre la fuite sous l'effet de la peur pendant un round. L'invisibilité n'offre aucune protection pour une créature ennemie présente dans la zone d'effet, seulement pour la créature ciblée initialement. L'avantage de ce sort par rapport au sort druidique de 5ème niveau Fléau d'insectes est qu'il inflige deux fois plus de dégâts en deux fois moins de temps.~
@@ -16721,7 +16721,7 @@ Sphère : garde
 Portée : champ visuel du lanceur
 Durée : 2 rounds par niveau
 Temps d'incantation : 5
-Zone d'effet : sphère de 4,5 mètres de rayon
+Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : annule
 
 Lorsqu'un tel sort est lancé, un silence complet s'abat sur la zone concernée. Tous les sons s'évanouissent : il est impossible de parler ou de jeter un sort. Chaque créature située dans la zone doit effectuer un jet de sauvegarde contre les sorts à -5 ; si le jet de sauvegarde contre les sorts échoue, la créature est réduite au silence pendant toute la durée du sort. Notez qu'une fois lancé, ce sort ne continue pas d'affecter la zone ; seuls ceux présents dans la zone au moment de l'incantation sont frappés de mutisme.~
@@ -16858,8 +16858,8 @@ Jet de sauvegarde : aucun
 Un espace extradimensionnel apparaît lors de l'incantation de ce sort. La créature ciblée est alors transportée dans un labyrinthe qui change en permanence. La durée de ce sort dépend de l'Intelligence de la créature ciblée.
 
 Intelligence de la créature ciblée - Temps passé dans un Labyrinthe
- moins de 3 - 2d4 tours
- 3 à 5 - 1d4 tours
+ moins de 3 - 20d4 rounds
+ 3 à 5 - 10d4 rounds
  6 à 8 - 5d4 rounds
  9 à 11 - 4d4 rounds
  12 à 14 - 3d4 rounds
@@ -16919,6 +16919,7 @@ Ce sort stoppe l'écoulement du temps pour un round dans la zone concernée. À 
 @1026030 = ~Transmutation de la chair en pierre~
 @1026031 = ~Fin de sort~
 @1026033 = ~est devenu(e) une Ombre.~
+@1026039 = ~Hurlement du chien de la lune~
 @1026041 = ~Sommeil
 (Enchantement/Charme)
 
@@ -17738,7 +17739,7 @@ Sphère : combat
 Portée : 110 mètres
 Durée : 6 rounds
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 4,5 mètres
+Zone d'effet : tout ennemi dans un rayon de 4,5 mètres autour de la créature ciblée
 Jet de sauvegarde : spécial
 
 Lorsque ce sort est jeté par le lanceur, une horde d'insectes rampants, sautillants et volants se réunissent en un essaim qui se dirige vers la créature ciblée, puis se répand sur toutes les créatures ennemies dans un rayon de 4,5 mètres autour de la créature ciblée. Il est impossible pour une créature affectée par un tel essaim de lancer des sorts (100 % de chances d'échec d'incantation). Les créatures affectées par Fléau d'insectes subissent 1 point de dégât perforant toutes les deux secondes à cause des piqûres et des morsures d'insectes. L'invisibilité n'offre aucune protection pour une créature ennemie présente dans la zone d'effet, seulement pour la créature ciblée initialement. En raison de la nature suffocante du Fléau d'insectes, les créatures affectées doivent réussir chaque round un jet de sauvegarde contre les souffles sous peine de prendre la fuite sous l'effet de la peur pendant un round.~
@@ -18065,7 +18066,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Avec le lancement de ce sort, l'énergie vitale de la créature ciblée est intégralement restaurée. Ce sort annule toute absorption de niveau d'expérience subie par exemple à la suite d'un sort (Absorption d'énergie, Lame noire du désastre, etc.) ou encore d'une attaque par une créature (vampire, âme en peine, etc.). Le sort Restauration majeure permet également de restaurer tout score de caractéristique réduit, par exemple l'Intelligence d'une créature victime du sort Débilité mentale. Il soigne aussi l'intégralité des points de vie du bénéficiaire, guérit les maladies, la confusion, la débilité mentale, neutralise les poisons et les échecs de test de moral. Le lancement de ce sort est très éprouvant pour le lanceur, qui aura grand besoin de repos immédiatement après l'incantation puisqu'il engendre une fatigue presque instantanée similaire à celle accumulée en plusieurs jours.~
+Avec le lancement de ce sort, l'énergie vitale de la créature ciblée est intégralement restaurée. Ce sort annule toute absorption de niveau d'expérience subie par exemple à la suite d'un sort (Absorption d'énergie, Lame noire du désastre, etc.) ou encore d'une attaque par une créature (vampire, âme en peine, etc.). Le sort Restauration majeure permet également de restaurer l'Intelligence d'une créature victime du sort Débilité mentale. Il soigne aussi l'intégralité des points de vie du bénéficiaire, guérit les maladies, la confusion, la débilité mentale, la peur, neutralise les poisons et les échecs de test de moral. Le lancement de ce sort est très éprouvant pour le lanceur, qui aura grand besoin de repos immédiatement après l'incantation puisqu'il engendre une fatigue presque instantanée similaire à celle accumulée en plusieurs jours.~
 @1026313 = ~Parole infernale
 (Conjuration/Convocation)
 
@@ -18566,7 +18567,7 @@ Temps d'incantation : 2
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, le lanceur peut jeter des sorts à composante verbale sans avoir à faire faire le moindre bruit, du moment que l'incantation de ces sorts s'effectue entièrement pendant la durée du sort Vocaliser. Ce sort annule tous les effets de silence, tel que le sort divin de 2ème niveau Silence sur 5 mètres ou le sort profane de 6ème niveau Mot de pouvoir : silence, et immunise le lanceur contre ces effets pendant toute la durée du sort. Seule la composante verbale des sorts est supprimée, ce sort n'a aucun effet sur les autres bruits ou paroles que le lanceur pourrait prononcer. À noter que ce sort peut être jeté par le lanceur même si ce dernier est déjà affecté par un effet de silence.~
+Grâce à ce sort, le lanceur peut jeter des sorts à composante verbale sans avoir à faire le moindre bruit, du moment que l'incantation de ces sorts s'effectue entièrement pendant la durée du sort Vocaliser. Ce sort annule tous les effets de silence, tel que le sort divin de 2ème niveau Silence sur 5 mètres ou le sort profane de 6ème niveau Mot de pouvoir : silence, et immunise le lanceur contre ces effets pendant toute la durée du sort. Seule la composante verbale des sorts est supprimée, ce sort n'a aucun effet sur les autres bruits ou paroles que le lanceur pourrait prononcer. À noter que ce sort peut être jeté par le lanceur même si ce dernier est déjà affecté par un effet de silence.~
 @1026402 = ~Vocalisé(e)~
 @1026404 = ~Mot de pouvoir : sommeil
 (Conjuration/Convocation)
@@ -19084,7 +19085,7 @@ Niveau : 5
 Portée : 12 mètres
 Durée : 1 round par niveau
 Temps d'incantation : 5
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 1,2 mètre
+Zone d'effet : tout ennemi dans un rayon de 1,2 mètre autour de la créature ciblée
 Jet de sauvegarde : annule
 
 Ce sort immobilise 1d4 créatures de n'importe quel type (à l'exception des morts-vivants), pendant 9 rounds ou plus, à moins qu'elles ne réussissent un jet de sauvegarde contre les sorts à -2. L'effet est centré sur la victime choisie par le lanceur. Tous les ennemis se trouvant à moins de 1,2 mètre sont également affectés, à moins de réussir leur jet de sauvegarde contre les sorts.
@@ -19737,7 +19738,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Ce sort est une version plus musclée du sort de 7ème niveau Cacofiélon. Ce sort convoque un puissant fiélon ou un diable fou de rage, un glabrezu, détruisant tout sur son passage. Le démon attaquera tous ceux qui se trouvent à proximité à l'exception des créatures protégées par un sort de Protection contre le mal. Seuls les lanceurs de sorts suicidaires ou vraiment désespérés font appel à ce sort en dernier recours.~
+Ce sort est une version plus musclée du sort profane de 7ème niveau Cacofiélon. Ce sort convoque un puissant fiélon ou un diable fou de rage, un glabrezu, détruisant tout sur son passage. Le démon attaquera tous ceux qui se trouvent à proximité à l'exception des créatures protégées par un sort de Protection contre le mal. Seuls les lanceurs de sorts suicidaires ou vraiment désespérés font appel à ce sort en dernier recours.~
 @1026638 = ~Manteau amélioré
 (Abjuration)
 
@@ -20984,7 +20985,7 @@ Maudite :
 - Points de vie maximum : -10 %
 - Intolérance aux potions de soins communes
 - Le porteur risque de s'empoisonner en combat
-- Le porteur risque d'être sujet à une rage de sang
+- Le porteur risque de s'infliger la folie du berserker
 - Peut causer des éruptions de magie entropique aux porteurs utilisant la magie
 
 Capacités d'équipement :
@@ -21909,7 +21910,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Avec le lancement de ce sort, l'énergie vitale de la créature ciblée est intégralement restaurée. Ce sort annule toute absorption de niveau d'expérience subie par exemple à la suite d'un sort (Absorption d'énergie, Lame noire du désastre, etc.) ou encore d'une attaque par une créature (vampire, âme en peine, etc.). Le sort Restauration majeure permet également de restaurer tout score de caractéristique réduit, par exemple l'Intelligence d'une créature victime du sort Débilité mentale. Il soigne aussi l'intégralité des points de vie du bénéficiaire, guérit les maladies, la confusion, la débilité mentale, neutralise les poisons et les échecs de test de moral. Le lancement de ce sort est très éprouvant pour le lanceur, qui aura grand besoin de repos immédiatement après l'incantation puisqu'il engendre une fatigue presque instantanée similaire à celle accumulée en plusieurs jours.~
+Avec le lancement de ce sort, l'énergie vitale de la créature ciblée est intégralement restaurée. Ce sort annule toute absorption de niveau d'expérience subie par exemple à la suite d'un sort (Absorption d'énergie, Lame noire du désastre, etc.) ou encore d'une attaque par une créature (vampire, âme en peine, etc.). Le sort Restauration majeure permet également de restaurer l'Intelligence d'une créature victime du sort Débilité mentale. Il soigne aussi l'intégralité des points de vie du bénéficiaire, guérit les maladies, la confusion, la débilité mentale, la peur, neutralise les poisons et les échecs de test de moral. Le lancement de ce sort est très éprouvant pour le lanceur, qui aura grand besoin de repos immédiatement après l'incantation puisqu'il engendre une fatigue presque instantanée similaire à celle accumulée en plusieurs jours.~
 @1030197 = ~Bouclier de feu (bleu)
 (Évocation)
 
@@ -23520,8 +23521,8 @@ PAS DE L'OMBRE : Permet d'entrer dans le Plan de l'ombre et de s'y déplacer pe
 LABYRINTHE DE L'OMBRE : Cette capacité de haut niveau ouvre temporairement un portail vers une petite zone sur le Plan de l'ombre. Toutes les créatures ennemies dans un rayon de 2,1 mètres autour du lanceur doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être piégées à l'intérieur du Labyrinthe de l'ombre. La durée de cette capacité dépend de l'Intelligence des créatures ciblées.
 
 Intelligence des créatures ciblées - Temps passé dans un Labyrinthe de l'ombre
- moins de 3 - 2d4 tours
- 3 à 5 - 1d4 tours
+ moins de 3 - 20d4 rounds
+ 3 à 5 - 10d4 rounds
  6 à 8 - 5d4 rounds
  9 à 11 - 4d4 rounds
  12 à 14 - 3d4 rounds
@@ -23532,7 +23533,7 @@ Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit o�
 
 FORME DE L'OMBRE : Cette capacité de haut niveau transpose temporairement une partie des tissus biologiques du lanceur avec des matériaux d'ombre, ce qui le rend partiellement désincarné. Pendant les 5 rounds suivants, toutes les attaques physiques dirigées contre le lanceur n'infligent que 50 % des dégâts normaux. Pendant cette période, le lanceur bénéficie aussi des effets d'Invisibilité majeure et ne peut pas être directement ciblé par des sorts.
 
-JUMEAU DE L'OMBRE : Cette capacité de haut niveau crée une réplique presque parfaite du lanceur pendant 1 tour. La réplique est créée à 60 % du niveau d'expérience actuel du lanceur. Elle dispose alors de toutes les capacités, les capacités spéciales, les capacités de haut niveau et les sorts que le lanceur aurait à ce niveau d'expérience. Elle hérite également de 60 % des points de vie du lanceur, ainsi que de ses équipements et ses objets (y compris ceux des emplacements d'objets rapides) actuellement équipés. La réplique est pleinement sous le contrôle du lanceur.
+JUMEAU DE L'OMBRE : Cette capacité de haut niveau crée une réplique presque parfaite du lanceur pendant 1 tour. La réplique est créée à 60 % du niveau d'expérience actuel du lanceur. Elle dispose alors de toutes les capacités, les capacités spéciales, les capacités de haut niveau, les sorts et les points de vie que le lanceur aurait à ce niveau d'expérience. Elle hérite également de ses équipements et ses objets (y compris ceux des emplacements d'objets rapides) actuellement équipés. La réplique est pleinement sous le contrôle du lanceur.
 
 Désavantages :
 - Ne peut être d'alignement loyal.
@@ -23986,15 +23987,76 @@ Dégâts : 4d8 (contondant), frappe comme une arme d'enchantement +4
 
 Capacités spéciales :
 - Immunité aux armes d'enchantement +2 ou inférieures.~
+@1032269 = ~Jet d'eau
+
+Portée : 4,5 mètres
+Durée : 1 round
+Temps d'incantation : 1
+Zone d'effet : cône de 5 mètres avec un angle de 90°
+Jet de sauvegarde : spécial
+
+Cette capacité lance un cône de vapeur brûlante sur la créature ciblée, infligeant 1d3 points de dégâts de feu à toutes les créatures présentes dans la zone d'effet. Les créatures affectées doivent également réussir un jet de sauvegarde contre les souffles sous peine d'être étourdies pendant un round.~
 @1032270 = ~Orage de pluie bouillonnante
 
-Le personnage invoque une tempête de pluie bouillonnante et nocive. Les adversaires dans la zone d'effet subissent 2d6 dégâts de poison, et doivent réussir un jet de sauvegarde contre les souffles sous peine d'être étourdis pendant un round.~
+Portée : 6 mètres
+Durée : 1 round
+Temps d'incantation : 1
+Zone d'effet : rayon de 4,5 mètres
+Jet de sauvegarde : spécial
+
+Cette capacité invoque une tempête de pluie bouillonnante et nocive. Les créatures ennemies présentes dans la zone d'effet subissent 2d6 points de dégâts de poison. De plus, les créatures ennemies présentes dans la zone d'effet doivent réussir un jet de sauvegarde contre les souffles sous peine d'être étourdies pendant un round.~
+@1032271 = ~Boule de fumée
+
+Portée : 15 mètres
+Durée : 10 secondes
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Cette capacité projette une boule de fumée irritante pour aveugler la créature ciblée. Cette dernière subit 1d4 +1 points de dégâts magiques, à moins de réussir un jet de sauvegarde contre les souffles. Elle est également aveuglée pendant dix secondes (pas de jet de sauvegarde), recevant un malus de 4 à la classe d'armure ainsi qu'au TAC0 et réduisant grandement son champ de vision.~
+@1032272 = ~Boule de magma
+(Évocation)
+
+Portée : 4,5 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Cette capacité lance une boule de lave en fusion pour brûler la créature ciblée, qui subit 1d6 points de dégâts de feu.~
+@1032273 = ~Boule de suif
+
+Portée : 15 mètres
+Durée : 10 secondes
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Cette capacité lance une boule de suif solidifié qui inflige 1d4 points de dégâts contondants et aveugle la créature ciblée pendant dix secondes, recevant un malus de 4 à la classe d'armure ainsi qu'au TAC0 et réduisant grandement son champ de vision.~
+@1032274 = ~Crachat de pierre
+
+Portée : 15 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Cette capacité crache une pierre de la taille d'une bille de fronde sur la créature ciblée, qui subit 1d6 points de dégâts contondants.~
+@1032275 = ~Cristaux de sel
+
+Portée : 4,5 mètres
+Durée : 2 rounds
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
+
+Cette capacité lance un projectile composé de cristaux de sel incisifs agglomérés. À l'impact, les cristaux de sel éclatent et infligent 1d4 points de dégâts contondants à la créature ciblée. De plus, si la créature ciblée échoue un jet de sauvegarde contre les souffles, elle sera étourdie pendant deux rounds.~
 @1032276 = ~Poussière de verre
 
 Portée : 4,5 mètres
 Durée : 5 rounds
 Temps d'incantation : 1
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 4,5 mètres
+Zone d'effet : tout ennemi dans un rayon de 4,5 mètres autour de la créature ciblée
 Jet de sauvegarde : annule
 
 Cette capacité pulvérise de la poudre de verre pilé qui se répand sur toutes les créatures ennemies dans un rayon de 4,5 mètres autour de la créature ciblée. Toutes les créatures ennemies présentes dans la zone d'effet doivent réussir un jet de sauvegarde contre les souffles sous peine de souffrir un malus de 4 à la classe d'armure et un malus de 2 au TAC0 pendant 5 rounds, tandis que les petits morceaux de verre pénètrent sous leur peau.~
@@ -24257,7 +24319,7 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 Avantages :
 - Peut lancer « Exaltation » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
+EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
 
 - Peut lancer « Faveur divine » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -24389,7 +24451,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature (autre que le lanceur)
 Jet de sauvegarde : aucun
 
-Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
+Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
 @1032371 = ~Faveur divine
 (Conjuration)
 
@@ -30767,7 +30829,7 @@ Le collier que Khalid souhaite offrir à Jaheira pour leur anniversaire est term
 Avantages :
 - Peut lancer « Exaltation » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
+EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
 
 - Peut lancer « Faveur divine » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -30786,7 +30848,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature (autre que le lanceur)
 Jet de sauvegarde : aucun
 
-Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de furie, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
+Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
 @1056945 = ~Faveur divine
 (Conjuration)
 
