@@ -6462,7 +6462,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la créature ciblée à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, le bénéficiaire reçoit un bonus de 2 à ses jets de sauvegarde et à sa classe d'armure contre toute attaque effectuée par les créatures d'alignement mauvais. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1012149 = ~Protection contre les projectiles non-magiques
 (Abjuration)
 
@@ -7072,7 +7072,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la créature ciblée à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, le bénéficiaire reçoit un bonus de 2 à ses jets de sauvegarde et à sa classe d'armure contre toute attaque effectuée par les créatures d'alignement mauvais. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1012202 = ~Protection contre le feu
 (Abjuration)
 
@@ -13190,7 +13190,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement le sort Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
+Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement le sort Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, les bénéficiaires reçoivent un bonus de 2 à leurs jets de sauvegarde et à leur classe d'armure contre toute attaque effectuée par les créatures d'alignement mauvais. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible les bénéficiaires. Les effets ne sont pas cumulables.~
 @1022833 = ~Force de champion~
 @1022834 = ~Force de champion
 (Transmutation)
@@ -16341,7 +16341,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la créature ciblée à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, le bénéficiaire reçoit un bonus de 2 à ses jets de sauvegarde et à sa classe d'armure contre toute attaque effectuée par les créatures d'alignement mauvais. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1025823 = ~Vision véritable
 (Divination)
 
@@ -16365,7 +16365,7 @@ Temps d'incantation : 7
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement le sort Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
+Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement le sort Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, les bénéficiaires reçoivent un bonus de 2 à leurs jets de sauvegarde et à leur classe d'armure contre toute attaque effectuée par les créatures d'alignement mauvais. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible les bénéficiaires. Les effets ne sont pas cumulables.~
 @1025827 = ~Charme-personne ou mammifère
 (Enchantement/Charme)
 
@@ -16747,6 +16747,7 @@ Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
 En jetant ce sort, le lanceur rend la créature touchée indécelable aux effets des sorts de divination tels que Clairaudience, Clairvoyance, Localisation d'objet, la perception extrasensorielle et les divers sorts de détection tels que Détection de l'invisibilité ou Élimination des invisibilités. Ce sort empêche également la localisation par des objets magiques tels que les boules de cristal ou les médaillons de perception extrasensorielle. Ce sort n'affecte pas le sort de Connaissance des alignements.~
+@1025958 = ~Œil du chien de la lune~
 @1025960 = ~Protégé(e) par un sort d'Image miroir~
 @1025964 = ~Boule de feu
 (Évocation)
@@ -18287,7 +18288,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Grâce à ce sort, une barrière magique se crée autour de la cible à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, toute créature d'alignement mauvais ou sujette à un enchantement maléfique lançant une attaque contre le bénéficiaire reçoit un malus de 2 à son jet d'attaque. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
+Grâce à ce sort, une barrière magique se crée autour de la créature ciblée à 30 centimètres de distance. La barrière se déplace avec le bénéficiaire et a deux effets majeurs : premièrement, le bénéficiaire reçoit un bonus de 2 à ses jets de sauvegarde et à sa classe d'armure contre toute attaque effectuée par les créatures d'alignement mauvais. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible le bénéficiaire. Les effets ne sont pas cumulables.~
 @1026367 = ~Bouclier
 (Évocation)
 
