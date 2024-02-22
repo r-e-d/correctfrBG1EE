@@ -23933,7 +23933,7 @@ Capacités spéciales :
 - Résistance aux dégâts contondants : 20 %
 - Résistance aux dégâts perforants : 20 %
 - Résistance aux dégâts de projectiles : 20 %
-- Immunité aux armes d'enchantement +2 ou inférieures, aux attaques sournoises, au sommeil, à la peur, à l'immobilisation, aux charmes, à la paralysie et aux poisons.~
+- Immunité aux armes d'enchantement +2 ou inférieures, aux attaques sournoises, au sommeil, à la peur, à l'immobilisation, aux charmes, à la paralysie et aux poisons~
 @1032264 = ~Métamorphose en troll géant
 
 Force : 18
@@ -23944,8 +23944,8 @@ Attaques par round : 3
 Dégâts : 2d6 (perforant), frappe comme une arme d'enchantement +2
 
 Capacités spéciales :
-- Immunité à l'étourdissement, au sommeil, à l'immobilisation, à la paralysie.
-- Régénère 1 point de vie par seconde.~
+- Immunité à l'étourdissement, au sommeil, à l'immobilisation et à la paralysie
+- Régénère 1 point de vie par seconde~
 @1032265 = ~Métamorphose en muloup majeur
 
 Force : 19
@@ -23988,6 +23988,15 @@ Dégâts : 4d8 (contondant), frappe comme une arme d'enchantement +4
 
 Capacités spéciales :
 - Immunité aux armes d'enchantement +2 ou inférieures.~
+@1032268 = ~Souffle de feu
+
+Portée : 4,5 mètres
+Durée : instantanée
+Temps d'incantation : 0
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Cette capacité lance un projectile enflammé sur la créature ciblée, lui infligeant 2d6 points de dégâts de feu.~
 @1032269 = ~Jet d'eau
 
 Portée : 4,5 mètres
