@@ -16603,12 +16603,12 @@ Ce sort affecte toute personne sur laquelle il est lancé. Le terme personne inc
 Si la cible de l'enchantement rate son jet de sauvegarde contre les sorts à +3, elle considère le lanceur comme un véritable ami et allié méritant son attention et sa protection. Le lanceur peut donner des ordres à la personne charmée qui les exécutera aussi vite que possible.
 
 Si le lanceur nuit ou essaie de nuire à la personne sous le charme par une action manifeste, ou si un sort de Dissipation de la magie est jeté avec succès à la personne charmée, le charme est alors rompu. Si plusieurs effets de charmes affectent simultanément une personne, le charme le plus récent prend le dessus. Notez que la personne charmée se souvient parfaitement des événements qui ont eu lieu lorsqu'elle était sous le charme. Notez également qu'une personne charmée ne peut pas quitter la zone où elle a été charmée.~
-@1025911 = ~Métamorphose en flagelleur mental~
-@1025912 = ~Métamorphose en golem de fer~
-@1025913 = ~Métamorphose en troll géant~
-@1025914 = ~Métamorphose en muloup majeur~
-@1025915 = ~Métamorphose en élémentaire de feu~
-@1025916 = ~Métamorphose en élémentaire de terre~
+@1025911 = ~Changement de forme en flagelleur mental~
+@1025912 = ~Changement de forme en golem de fer~
+@1025913 = ~Changement de forme en troll géant~
+@1025914 = ~Changement de forme en muloup majeur~
+@1025915 = ~Changement de forme en élémentaire de feu~
+@1025916 = ~Changement de forme en élémentaire de terre~
 @1025923 = ~Lame enflammée
 (Évocation)
 
@@ -18914,6 +18914,7 @@ Les formes possibles sont les suivantes :
 - Araignée : empoisonne l'adversaire quand elle le touche
 
 En outre, le lanceur peut également choisir les formes d'ours brun, d'ours noir ou de loup.~
+@1026464 = ~Les capacités de Métamorphose ont été ajoutées à votre liste de capacités spéciales.~
 @1026466 = ~Arme enchantée
 (Enchantement/Charme)
 
@@ -19941,7 +19942,8 @@ Temps d'incantation : 9
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort permet au magicien de prendre la forme d'une créature puissante (flagelleur mental, golem de Fer, muloup majeur, élémentaire de terre ou de feu, troll géant). Il devient la créature désirée, et possède toutes ses capacités. Ainsi, il peut étourdir ses victimes sous la forme d'un flagelleur mental, puis devenir un élémentaire de terre pour les écraser. Les points de vie du magicien restent cependant inchangés. Chaque changement de forme prend une seconde et l'organisme du lanceur n'en souffre pas.~
+Ce sort permet au lanceur de prendre la forme d'une puissante créature (flagelleur mental, golem de fer, muloup majeur, élémentaire de terre, élémentaire de feu ou troll géant). En jetant ce sort, le lanceur acquiert la capacité de changer de forme à volonté pendant une heure avec un changement de forme maximum par round. Il devient ainsi la créature désirée, et possède la quasi-totalité de ses capacités. Par exemple, il peut étourdir les créatures ennemies grâce à la capacité Souffle psionique sous la forme d'un flagelleur mental, puis devenir un élémentaire de terre pour les écraser. Cependant, le lanceur ne peut pas jeter de sorts lorsqu'il est affecté par un changement de forme et doit reprendre sa forme naturelle. Les points de vie du lanceur restent inchangés quelle que soit la forme adoptée. Chaque changement de forme prend une seconde et l'organisme du lanceur n'en souffre pas.~
+@1026672 = ~Les capacités de Changement de forme ont été ajoutées à votre liste de capacités spéciales.~
 @1026674 = ~Liberté
 (Abjuration)
 
@@ -21852,13 +21854,16 @@ Poids : 3~
 @1030110 = ~Alors, on se tourne les pouces ?! Pour crocheter une serrure tu dois activer le bouton Larcin et ensuite appuyer sur tout conteneur verrouillé que tu souhaites ouvrir. Encore une fois, le bouton Larcin est représenté par une icône de masque.~ [TTIMOE96]
 @1030112 = ~Tu as peut-être remarqué qu'en bas de l'écran il y a un bouton Furtivité. Fais simplement un CLIC GAUCHE sur ce bouton et le voleur va tenter de « se cacher dans l'ombre ». Le bouton Furtivité est représenté par un visage à moitié dans l'ombre.~
 @1030113 = ~Tu as peut-être remarqué qu'en bas de l'écran il y a un bouton Furtivité. Appuie simplement sur ce bouton et le voleur va tenter de « se cacher dans l'ombre ». Le bouton Furtivité est représenté par un visage à moitié dans l'ombre.~
-@1030119 = ~Quand tu cliques sur le bouton des Capacités Spéciales cela va faire apparaître toutes les compétences spéciales. L'une d'elles s'appelle « Poser des Pièges ». Clique simplement sur ce bouton, puis fais un CLIC GAUCHE sur l'endroit où tu veux que le piège soit posé.~
-@1030120 = ~Quand tu appuies sur le bouton des Capacités Spéciales cela va faire apparaître toutes les compétences spéciales. L'une d'elles s'appelle « Poser des Pièges ». Appuie simplement sur ce bouton, puis appuies sur l'endroit où tu veux que le piège soit posé.~
+@1030117 = ~Pour poser un piège, tu dois d'abord aller dans les capacités spéciales. Pour cela, fais un CLIC GAUCHE sur le bouton des capacités spéciales en bas à droite de ton écran. Ce bouton est une icône d'étoile à quatre branches.~
+@1030118 = ~Pour poser un piège, tu dois d'abord aller dans les capacités spéciales. Pour cela, appuie sur le bouton des capacités spéciales en bas à droite de ton écran. Ce bouton est une icône d'étoile à quatre branches.~
+@1030119 = ~Quand tu cliques sur le bouton des capacités spéciales cela va faire apparaître toutes les compétences spéciales. L'une d'elles s'appelle « Poser des Pièges ». Clique simplement sur ce bouton, puis fais un CLIC GAUCHE sur l'endroit où tu veux que le piège soit posé.~
+@1030120 = ~Quand tu appuies sur le bouton des capacités spéciales cela va faire apparaître toutes les compétences spéciales. L'une d'elles s'appelle « Poser des Pièges ». Appuie simplement sur ce bouton, puis appuies sur l'endroit où tu veux que le piège soit posé.~
 @1030123 = ~Ceci est une potion de grands soins. Pour ingurgiter une potion, effectue un CLIC DROIT dessus, puis sur le bouton « Boire ». Tu peux également placer la potion dans une case d'objet rapide et y accéder ainsi sans passer par l'écran d'inventaire.~ [TTIMOEA1]
 @1030124 = ~Ceci est une potion de grands soins. Pour ingurgiter une potion, restes simplement appuyé dessus, et appuies sur « Boire ». Tu peux également placer la potion dans une case d'objet rapide et y accéder ainsi sans passer par l'écran d'inventaire.~ [TTIMOEA1]
 @1030126 = ~Bonjour. Il ne faut surtout pas oublier ce que nous venons d'apprendre, car cela aura une grande importance d'ici peu... Quand vous entrerez dans le monde réel.~ [JAHEIRG2]
 @1030129 = ~Le bouton de capacités spéciales situé dans l'angle inférieur droit de l'écran permet de tirer parti des talents particuliers de chaque personnage. En appuyant dessus, les capacités spéciales du personnage sélectionné apparaîtront.~ [JAHEIRG3]
 @1030130 = ~Chaque classe possède ses propres capacités. Les druides ont la possibilité de se métamorphoser, les rôdeurs peuvent charmer les animaux, les paladins peuvent soigner et guérir les maladies avec Imposition des mains ou Guérison des maladies.~
+@1030131 = ~Les Bardes ont aussi une capacité supplémentaire, mais il n'y a pas besoin d'aller dans les capacités spéciales pour l'utiliser.~
 @1030132 = ~Quand vous avez votre personnage Barde sélectionné, une icône de Harpe va apparaître en bas de l'écran, au milieu. Appuyer sur ce bouton active le Chant du barde.~
 @1030133 = ~Les Bardes peuvent encourager leurs camarades en combat en utilisant le Chant du barde. Ils peuvent se déplacer en chantant, mais toute autre action interrompra le chant.~
 @1030135 = ~Nous ne savons rien de cette armure, mais Xan devrait pouvoir l'identifier sans problème. Vous devriez la lui donner pour qu'il l'identifie.~ [JAHEIRG4]
@@ -23900,7 +23905,7 @@ Dégâts : 4d6 (contondant), frappe comme une arme d'enchantement +1
 
 Capacités spéciales :
 - Vitesse de déplacement augmentée~
-@1032262 = ~Métamorphose en flagelleur mental
+@1032262 = ~Changement de forme en flagelleur mental
 
 Force : 10
 Dextérité : 10
@@ -23910,9 +23915,9 @@ Attaques par round : 4
 Dégâts : 1d2 (contondant), frappe comme une arme d'enchantement +2
 
 Capacités spéciales :
-- Souffle psionique (étourdit la cible pendant 5 rounds si elle rate son jet de sauvegarde contre les sorts)
+- Souffle psionique (étourdit les créatures ennemies pendant 1 tour si elles ratent un jet de sauvegarde contre les sorts)
 - Dévorer le cerveau (la cible subit -5 en Intelligence pendant 30 secondes)~
-@1032263 = ~Métamorphose en golem de fer
+@1032263 = ~Changement de forme en golem de fer
 
 Force : 24
 Dextérité : 9
@@ -23934,7 +23939,7 @@ Capacités spéciales :
 - Résistance aux dégâts perforants : 20 %
 - Résistance aux dégâts de projectiles : 20 %
 - Immunité aux armes d'enchantement +2 ou inférieures, aux attaques sournoises, au sommeil, à la peur, à l'immobilisation, aux charmes, à la paralysie et aux poisons~
-@1032264 = ~Métamorphose en troll géant
+@1032264 = ~Changement de forme en troll géant
 
 Force : 18
 Dextérité : 20
@@ -23946,7 +23951,7 @@ Dégâts : 2d6 (perforant), frappe comme une arme d'enchantement +2
 Capacités spéciales :
 - Immunité à l'étourdissement, au sommeil, à l'immobilisation et à la paralysie
 - Régénère 1 point de vie par seconde~
-@1032265 = ~Métamorphose en muloup majeur
+@1032265 = ~Changement de forme en muloup majeur
 
 Force : 19
 Dextérité : 19
@@ -23964,7 +23969,7 @@ Capacités spéciales :
 - Résistance au froid magique : 50 %
 - Immunité aux armes d'enchantement +1 ou inférieures.
 - Régénère 8 points de vie par seconde.~
-@1032266 = ~Métamorphose en élémentaire de feu
+@1032266 = ~Changement de forme en élémentaire de feu
 
 Force : 9
 Dextérité : 9
@@ -23977,7 +23982,7 @@ Capacités spéciales :
 - Résistance au feu : 100 %
 - Résistance au feu magique : 100 %
 - Immunité aux armes d'enchantement +2 ou inférieures~
-@1032267 = ~Métamorphose en élémentaire de terre
+@1032267 = ~Changement de forme en élémentaire de terre
 
 Force : 19
 Dextérité : 9
@@ -24681,7 +24686,7 @@ Poids : 7~
 @1032641 = ~Souhaitez-vous savoir autre chose sur le vol ?~
 @1032643 = ~Pour crocheter une serrure, sélectionnez le bouton Larcin puis le conteneur ou la porte que vous voulez déverrouiller. Si votre compétence en Crochetage de serrures est suffisamment élevée, vous déjouerez le verrou et vous serez en mesure d'ouvrir la porte ou le coffre. Mais méfiez-vous des pièges.~
 @1032646 = ~Les pièges détectés sont surlignés en rouge. Pour les désarmer, sélectionnez le bouton Larcin puis le piège. Si votre compétence en Détection et désamorçage des pièges est suffisamment élevée, le piège sera désarmé.~
-@1032647 = ~Vous trouverez la compétence Pose de pièges dans le menu des Capacités spéciales. Sélectionnez l'icône Pose de pièges puis l'emplacement sur l'écran où vous voulez poser votre piège. Si votre compétence en Pose de piège est suffisamment élevée, la prochaine personne qui traversera cet endroit déclenchera le piège et subira des dégâts.~
+@1032647 = ~Vous trouverez la compétence Pose de pièges dans le menu des capacités spéciales. Sélectionnez l'icône Pose de pièges puis l'emplacement sur l'écran où vous voulez poser votre piège. Si votre compétence en Pose de piège est suffisamment élevée, la prochaine personne qui traversera cet endroit déclenchera le piège et subira des dégâts.~
 @1032649 = ~Lorsque vous êtes caché, vous pouvez attaquer par derrière avec une arme de classe du Voleur et causer des dégâts supplémentaires d'attaque sournoise. Toute attaque réalisée lorsque vous êtes caché bénéficie d'un bonus de 4 aux jets d'attaque et de dégâts, quelle que soit l'arme utilisée.~ ~Lorsque vous êtes cachée, vous pouvez attaquer par derrière avec une arme de classe du Voleur et causer des dégâts supplémentaires d'attaque sournoise. Toute attaque réalisée lorsque vous êtes cachée bénéficie d'un bonus de 4 aux jets d'attaque et de dégâts, quelle que soit l'arme utilisée.~
 @1032650 = ~En sélectionnant le bouton Détection des pièges, vous restez aux aguets pour tout ce qui sort de l'ordinaire. S'il y a une porte ou un autre objet caché, vous le trouverez automatiquement en même temps que vous détecterez des pièges.~
 @1032652 = ~Effronté, va ! Oui, revenez quand vous le souhaiterez.~ ~Effrontée, va ! Oui, revenez quand vous le souhaiterez.~
@@ -24860,6 +24865,15 @@ Capacités spéciales :
 - Immunité aux toiles d'araignées
 - Sous l'effet d'un sort de Hâte~
 @1032892 = ~Eh ! Vous vous battez bien. Pourquoi ne pas l'avoir fait lorsque cela importait, elfe ? Mais ça suffit, j'ai du travail à faire... je prends une patrouille et je pars pour la mine. Mes bandits vont s'occuper de vous maintenant.~
+@1032897 = ~Souffle psionique
+
+Portée : 6 mètres
+Durée : 1 tour
+Temps d'incantation : 1
+Zone d'effet : tout ennemi dans un rayon de 2,6 mètres autour de la créature ciblée
+Jet de sauvegarde : annule
+
+L'une des attaques préférées des flagelleurs mentaux est le Souffle psionique. Cette capacité déclenche une décharge d'énergie psionique qui étourdit toutes les créatures ennemies dans un rayon de 2,6 mètres autour de la créature ciblée pendant 1 tour si elles ratent un jet de sauvegarde contre les sorts.~
 @1032899 = ~Baldur's Gate : Adventurers of Neverwinter~
 @1032900 = ~Brand-new art and voice sets from Beamdog to build your character around! Customize your Baldur's Gate: Enhanced Edition experience with this collection of eleven new character portraits and seven new voice sets. Mark Meer returns to deliver character voices for fan-favorites, Alveus Malcanter and Baeloth!
 
