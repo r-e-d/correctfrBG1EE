@@ -12354,7 +12354,7 @@ PARAMÈTRES :
 Dégâts : 6d6 (feu)
 Portée : 12 mètres
 Zone d'effet : rayon de 4,5 mètres
-Jet de sauvegarde : sorts (1/2)
+Jet de sauvegarde : sorts (1/2)
 
 Poids : 1~
 @1020582 = ~Gardez votre sang-froid, <CHARNAME>, et tenez bon. Cette fragile bulle de réalité qui nous entoure faiblit ! Les malédictions ? Mais il ne faut pas leur résister. Ce ne sont que des illusions qui ne peuvent pas faire de mal réel !~
@@ -14007,7 +14007,7 @@ Pour participer à une partie multijoueur de Baldur's Gate, les joueurs doivent 
 @1024128 = ~Détection des pièges/Détection des illusions~
 @1024142 = ~Vers les sorts divins/druidiques~
 @1024143 = ~Vers les sorts profanes~
-@1024144 = ~Main secondaire utilisée~ [GAM_47]
+@1024144 = ~Main secondaire utilisée.~ [GAM_47]
 @1024147 = ~Arme à distance de même type déjà en main.~
 @1024152 = ~Votre classe de personnage ne vous permet pas d'utiliser une seconde arme.~
 @1024157 = ~Force insuffisante.~
@@ -23903,7 +23903,7 @@ Cette capacité affecte tous les adversaires à moins de 4,5 mètres, n'autorise
 - Niveau 3 : pénalités de 1 aux jets d'attaque, de dégâts et une pénalité de 2 à la classe d'armure pendant 1 tour.
 - Niveau 6 : pénalités de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
 - Niveau 15 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
-- Niveau 20 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur~
+- Niveau 20 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.~
 @1032231 = ~Tir ajusté
 
 Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets suivants (en plus des dégâts normaux) :
@@ -25208,7 +25208,7 @@ PARAMÈTRES :
 Capacités d'équipement :
 - Chance : +1
 - Jets de sauvegarde : +1
-- Capacités de roublard : +5%
+- Capacités de roublard : +5%
 
 Poids : 2~
 @1034019 = ~Les légendes racontent que cette élégante épée apparut au lever du soleil sur l'horizon oriental. Alors que la forêt baignait dans les lumières rosées de l'aube, on pouvait apercevoir la lueur étincelante de la lame posée sur un rocher plat. Les forestiers des environs, et même les guerriers, redoutaient de toucher l'épée, craignant qu'elle ne soit maudite. Finalement, un vieil homme courageux, qui avait combattu dans sa jeunesse, saisit la garde et revendiqua l'épée. De terrifiantes bêtes bondirent sur lui sans tarder, des créatures faites de brume rouge, de griffes et de crocs. Le vieil homme prit son courage à deux mains, puis mania son épée. Sa rapidité croissait à mesure qu'il tuait ses ennemis, et il finit par tous les abattre. Le village célébra le vieil homme pendant des jours, puis ce dernier partit passer ses dernières années sur la route en quête d'aventure.
@@ -25331,7 +25331,7 @@ PARAMÈTRES :
 Capacités d'équipement :
 - Points de vie : +10
 - Jets de sauvegarde : +1
-- Chance : +1
+- Chance : +1
 - Protection contre le mal
 
 Poids : 0~
@@ -35056,7 +35056,7 @@ Poids : 5~
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Chance de coup critique : +10 % lorsque le porteur est enragé (berserkers, barbares et guerriers rashémis uniquement)
+- Chance de coup critique : +10 % lorsque le porteur est enragé (berserkers, barbares et guerriers rashémis uniquement)
 
 Capacités de combat :
 - À chaque coup critique : ralentit la cible pendant 1 round (sans jet de sauvegarde)
@@ -40225,9 +40225,7 @@ Mizhena, une clerc de Tempus qui officie dans le camp de la coalition, a perdu u
 J'ai rendu son amulette à Mizhena.
 
 Mizhena, une clerc de Tempus qui officie dans le camp de la coalition, a perdu une amulette lors d'un combat contre des croisés. Je l'avais déjà trouvée dans les bois, près de camp, et je le lui ai dit. Elle a été très reconnaissante.~
-@1071317 = ~L'amulette de Mizhena
-
-Cette amulette de bois simple est gravée du symbole sacré de Tempus sur son avers et de deux initiales sur son revers.
+@1071317 = ~Cette amulette de bois simple est gravée du symbole sacré de Tempus sur son avers et de deux initiales sur son revers.
 
 PARAMÈTRES :
 
