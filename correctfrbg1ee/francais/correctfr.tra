@@ -13030,11 +13030,11 @@ Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort permet au lanceur de prendre la forme d'une autre créature. Il gagne ainsi les capacités de déplacement et de respiration de la nouvelle forme, mais pas les attaques spéciales ni magiques, tout en conservant sa personnalité et ses caractéristiques mentales.
+Ce sort permet au lanceur de se métamorphoser en une autre créature. Il gagne ainsi le mode de locomotion et de respiration de la nouvelle forme, mais pas les capacités ni les sorts, tout en conservant sa personnalité et sa mentalité.
 
-Pendant toute la durée du sort, le lanceur peut changer de forme à volonté, autant de fois qu'il le désire. Dans certains cas, le lanceur gagnera des capacités d'attaques naturelles, et dans d'autres, la possibilité de se servir d'armes. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la Gelée moutarde, par exemple) sont également acquises.
+Pendant toute la durée du sort, le lanceur peut se métamorphoser à volonté, autant de fois qu'il le désire avec une métamorphose maximum par round. Dans certains cas, le lanceur gagnera les attaques naturelles, et dans d'autres, les armes de ces formes. Cependant, le lanceur ne peut pas jeter de sorts lorsqu'il est affecté par une métamorphose et doit reprendre sa forme naturelle. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la gelée moutarde, par exemple) sont également acquises. Les points de vie du lanceur restent inchangés quelle que soit la forme adoptée.
 
-Les formes possibles sont les suivantes :
+Les métamorphoses possibles sont les suivantes :
 - Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme d'enchantement +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
@@ -14107,7 +14107,7 @@ COUP ÉTOURDISSANT : Toutes les attaques réussies au cours du round suivant ob
 - Niveau 12 : Bonus de 1 au facteur de vitesse.
 - Niveau 13 : « Paume Vibratoire » une fois par jour.
 
-PAUME VIBRATOIRE : Si le moine touche un adversaire, ce dernier doit réussir un jet de sauvegarde contre les sorts ou mourir. Remarque : ce talent spécial modifie automatiquement l'attaque normale d'un moine, sans avoir besoin de viser une cible.
+PAUME VIBRATOIRE : Pendant les 5 prochaines secondes, les attaques à mains nues réussies forcent les créatures touchées à réussir un jet de sauvegarde contre les sorts sous peine de mourir. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.
 
 - Niveau 14 : 3 % de résistance à la magie par niveau d'expérience (démarre avec 42 % au niveau 14).
 - Niveau 20 : Immunité aux armes non-magiques.
@@ -14124,7 +14124,7 @@ CAPACITÉS :
 - Immunité aux attaques sournoises.
 - Peut utiliser « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-RAGE DU BARBARE : Pendant 5 rounds, la rage confère un bonus de 4 en Constitution et en Force, une pénalité de 2 à la classe d'armure et un bonus de 2 aux jets de sauvegarde contre les sorts. La rage immunise aussi aux effets de charme, d'immobilisation, de peur, de labyrinthe, d'étourdissement, de sommeil, de confusion et de drain de niveau.
+RAGE DU BARBARE : Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
 
 - Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et de projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
 - Dés de vie : d12.~
@@ -15944,7 +15944,7 @@ CAPACITÉS :
 - Immunité aux attaques sournoises.
 - Peut utiliser « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-RAGE DU BARBARE : Pendant 5 rounds, la rage confère un bonus de 4 en Constitution et en Force, une pénalité de 2 à la classe d'armure et un bonus de 2 aux jets de sauvegarde contre les sorts. La rage immunise aussi aux effets de charme, d'immobilisation, de peur, de labyrinthe, d'étourdissement, de sommeil, de confusion et de drain de niveau.
+RAGE DU BARBARE : Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
 
 - Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et de projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
 - Dés de vie : d12.~
@@ -19042,11 +19042,11 @@ Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort permet au lanceur de prendre la forme d'une autre créature. Il gagne ainsi les capacités de déplacement et de respiration de la nouvelle forme, mais pas les attaques spéciales ni magiques, tout en conservant sa personnalité et ses caractéristiques mentales.
+Ce sort permet au lanceur de se métamorphoser en une autre créature. Il gagne ainsi le mode de locomotion et de respiration de la nouvelle forme, mais pas les capacités ni les sorts, tout en conservant sa personnalité et sa mentalité.
 
-Pendant toute la durée du sort, le lanceur peut changer de forme à volonté, autant de fois qu'il le désire. Dans certains cas, le lanceur gagnera des capacités d'attaques naturelles, et dans d'autres, la possibilité de se servir d'armes. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la Gelée moutarde, par exemple) sont également acquises.
+Pendant toute la durée du sort, le lanceur peut se métamorphoser à volonté, autant de fois qu'il le désire avec une métamorphose maximum par round. Dans certains cas, le lanceur gagnera les attaques naturelles, et dans d'autres, les armes de ces formes. Cependant, le lanceur ne peut pas jeter de sorts lorsqu'il est affecté par une métamorphose et doit reprendre sa forme naturelle. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la gelée moutarde, par exemple) sont également acquises. Les points de vie du lanceur restent inchangés quelle que soit la forme adoptée.
 
-Les formes possibles sont les suivantes :
+Les métamorphoses possibles sont les suivantes :
 - Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme d'enchantement +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
@@ -23742,7 +23742,7 @@ Avantages :
 - Gagne 5 % de résistance aux dégâts tranchants, perforants, contondants et de projectiles par tranche de 5 niveaux d'expérience, jusqu'à un maximum de 20 % au niveau 20.
 - « Position défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-POSITION DÉFENSIVE : Le protecteur nain gagne un bonus de 2 à ses jets de sauvegarde, 50 % de résistance à toute forme de dégâts physiques, et une pénalité de 50 % à sa vitesse de déplacement pendant un tour.
+POSITION DÉFENSIVE : Le lanceur gagne un bonus de 2 à ses jets de sauvegarde, 50 % de résistance à toute forme de dégâts physiques, et un malus de 50 % à sa vitesse de déplacement pendant un tour. Position défensive ne peut pas être employée en conjonction avec Résistance d'acier.
 
 Désavantages :
 - Doit être un nain.
@@ -23755,20 +23755,20 @@ Avantages :
 - Niveau 1 : Bonus de 1 à la classe d'armure.
 - Niveau 3 : Attaque de souffle une fois par jour.
 
-ATTAQUE DE SOUFFLE : Le disciple du dragon crache une flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 dégâts de feu à toutes les créatures prises dans le cône de 140°.
+ATTAQUE DE SOUFFLE : Le lanceur crache un jet de flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 points de dégâts de feu à toutes les créatures prises dans un cône de 140°. Le souffle inflige 1d8 points de dégâts de feu supplémentaires au niveau 6 et tous les 3 niveaux d'expérience par la suite, jusqu'à un maximum de 8d8 points de dégâts de feu au niveau 18.
 
 - Niveau 4 : 25 % de résistance au feu.
 - Niveau 5 : Bonus de 1 à la classe d'armure et à la Constitution.
-- Niveau 6 : Les dégâts de l'attaque de souffle augmentent jusqu'à 4d8.
+- Niveau 6 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 4d8.
 - Niveau 8 : 50 % de résistance au feu.
-- Niveau 9 : Les dégâts de l'attaque de souffle augmentent jusqu'à 5d8.
+- Niveau 9 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 5d8.
 - Niveau 10 : Bonus de 1 à la classe d'armure.
-- Niveau 12 : Les dégâts de l'attaque de souffle augmentent jusqu'à 6d8.
+- Niveau 12 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 6d8.
 - Niveau 12 : 75 % de résistance au feu.
-- Niveau 15 : Les dégâts de l'attaque de souffle augmentent jusqu'à 7d8.
+- Niveau 15 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 7d8.
 - Niveau 15 : Bonus de 1 à la classe d'armure et à la Constitution.
 - Niveau 16 : 100 % de résistance au feu.
-- Niveau 18 : Les dégâts de l'attaque de souffle augmentent jusqu'à 8d8.
+- Niveau 18 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 8d8.
 - Niveau 20 : Bonus de 1 à la classe d'armure.
 
 Désavantages :
@@ -23916,7 +23916,13 @@ Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effe
 Le personnage entre dans le Plan de l'ombre et s'y déplace pendant 7 secondes, tandis que le temps est figé pour tout le reste du monde. Le maître des ombres ne peut ni attaquer, ni lancer de sorts tant qu'il est dans le Plan des Ombres.~
 @1032234 = ~Rage du barbare
 
-Pendant 5 rounds, la rage confère un bonus de 4 en Constitution et en Force, une pénalité de 2 à la classe d'armure et un bonus de 2 aux jets de sauvegarde contre les sorts. La rage immunise aussi aux effets de charme, d'immobilisation, de peur, de labyrinthe, d'étourdissement, de sommeil, de confusion et de drain de niveau.~
+Portée : 0
+Durée : 5 rounds
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.~
 @1032235 = ~Furie
 
 Cet état dure un tour. Sous Furie, le personnage obtient un bonus de 2 aux jets d'attaque, de dégâts ainsi qu'à la classe d'armure, et devient immunisé aux charmes, à l'immobilisation, à la peur, à la confusion, à la débilité mentale, au labyrinthe, au drain de niveau, à l'emprisonnement, à l'étourdissement et au sommeil. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de la Furie, pouvant rendre le personnage inconscient.
@@ -24008,7 +24014,7 @@ Capacités spéciales :
 - Résistance au froid magique : 50 %
 - Immunité à l'étourdissement, au sommeil, à la peur, aux poisons, à la pétrification, à la confusion, aux charmes, à la paralysie et au drain de niveau
 - Immunité aux armes non-magiques
-- Vitesse de déplacement augmentée~
+- Vitesse de déplacement diminuée~
 @1032248 = ~Bouclier tempête
 
 Ce sort dure 1 round par niveau d'expérience du lanceur de sorts. Il le protège contre l'électricité, le feu, le froid et les projectiles non-magiques.~
@@ -24018,13 +24024,33 @@ Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâch
 @1032250 = ~Don de Lathandre
 
 Ce sort dure 1 round par niveau d'expérience et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Il protège également contre le drain de niveau.~
+@1032252 = ~Paume vibratoire
+
+Portée : 0
+Durée : 5 secondes
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Pendant les 5 prochaines secondes, les attaques à mains nues réussies forcent les créatures touchées à réussir un jet de sauvegarde contre les sorts sous peine de mourir. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.~
 @1032253 = ~Attaque de souffle
 
-Le personnage crache une flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 dégâts de feu à toutes les créatures prises dans le cône de 140°. Cette capacité inflige 1d8 points de dégâts de feu supplémentaires tous les 3 niveaux d'expérience à partir du niveau 3 (4d8 au niveau 6, 5d8 au niveau 9, jusqu'à un maximum de 8d8 au niveau 18).~
+Portée : 9 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : cône de 7,5 mètres avec un angle de 140°
+Jet de sauvegarde : aucun
+
+Le lanceur crache un jet de flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 points de dégâts de feu à toutes les créatures prises dans un cône de 140°. Le souffle inflige 1d8 points de dégâts de feu supplémentaires au niveau 6 et tous les 3 niveaux d'expérience par la suite, jusqu'à un maximum de 8d8 points de dégâts de feu au niveau 18.~
 @1032254 = ~Position défensive
 
-Le personnage gagne un bonus de 2 à ses jets de sauvegarde, 50 % de résistance à toute forme de dégâts physiques, et une pénalité de 50 % à sa vitesse de déplacement pendant un tour.
-Position défensive ne peut pas être employée en conjonction avec Résistance d'acier.~
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Le lanceur gagne un bonus de 2 à ses jets de sauvegarde, 50 % de résistance à toute forme de dégâts physiques, et un malus de 50 % à sa vitesse de déplacement pendant un tour. Position défensive ne peut pas être employée en conjonction avec Résistance d'acier.~
 @1032256 = ~Métamorphose en loup
 
 Force : 15
@@ -24096,9 +24122,11 @@ Classe d'armure de base : 5
 Attaques par round : 4
 Dégâts : 1d2 (contondant), frappe comme une arme d'enchantement +2
 
+Capacités de combat :
+- Dévorer le cerveau (la cible subit -5 en Intelligence pendant 30 secondes)
+
 Capacités spéciales :
-- Souffle psionique (étourdit les créatures ennemies pendant 1 tour si elles ratent un jet de sauvegarde contre les sorts)
-- Dévorer le cerveau (la cible subit -5 en Intelligence pendant 30 secondes)~
+- Souffle psionique (étourdit les créatures ennemies pendant 1 tour si elles ratent un jet de sauvegarde contre les sorts)~
 @1032263 = ~Changement de forme en golem de fer
 
 Force : 24
