@@ -4176,8 +4176,8 @@ Poids : 12~
 
 PARAMÈTRES :
 
-TAC0 : +1 / +3 contre les métamorphes
-Dégâts : 2d4 +1 (tranchant), +2 (tranchant) contre les métamorphes
+TAC0 : +1 / +3 contre les lycanthropes et les doppelgängers
+Dégâts : 2d4 +1 (tranchant), +2 (tranchant) contre les lycanthropes et les doppelgängers
 Facteur de vitesse : 7
 Type de compétence : épée bâtarde
 Type : arme à une main
@@ -4519,7 +4519,7 @@ Poids : 2~
 PARAMÈTRES :
 
 Capacités d'équipement :
-- La Force du porteur passe à 18/00
+- Force : 18/00
 
 Poids : 2~
 @1007383 = ~Cette paire de gantelets fut probablement mise au point à Kara-Tur pour aider les maîtres des arts martiaux. Les légendes racontent que certains de ces maîtres auraient rapporté ces objets d'Extrême-Orient, mais on ne dispose pas d'informations précises.
@@ -5181,7 +5181,7 @@ CAPACITÉS :
 - Peut avoir recours au talent de roublard de Vol à la tire.
 - Score de connaissances accru.
 - Peut lancer des sorts profanes à partir du niveau 2.
-- Peut utiliser la capacité de « Chant du barde ». Lorsqu'elle est active, cette capacité octroie aux alliés les bonus suivants :
+- Peut lancer « Chant du barde ». Lorsqu'elle est active, cette capacité octroie aux alliés les bonus suivants :
   Augmente le moral à sa valeur moyenne
   Protection contre la peur
   Apaisement de la peur
@@ -7519,7 +7519,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est jeté sur un individu empoisonné, il ralentit considérablement les effets du venin, neutralisant presque tous les poisons, à l'exception des plus mortels. À noter que ce sort guérit également l'état d'ébriété.~
+Lorsque ce sort est jeté sur un individu empoisonné, il ralentit considérablement les effets du venin, neutralisant presque tous les poisons, à l'exception des plus mortels. À noter que ce sort guérit également l'ébriété.~
 @1012325 = ~Soins des blessures graves
 (Nécromancie)
 
@@ -9301,7 +9301,7 @@ Poids : 105~
 @1015918 = ~IA de groupe activée~
 @1015924 = ~Arrêt~
 @1015925 = ~Défendre/Protéger~
-@1015942 = ~Équinoxe vernale~
+@1015942 = ~Équinoxe vernal~
 @1015954 = ~~
 @1015956 = ~Éleasias~
 @1015961 = ~Je comprends pas pourquoi l'approvisionnement en minerai de fer diminue. L'augmentation des échanges commerciaux devrait résoudre la crise, non ?! La Porte de Baldur est une route importante entre Eauprofonde et l'Amn. Je suppose que les bandits ont coupé la région du reste du monde et que ça coûterait trop cher d'envoyer des troupes jusqu'ici. Mais ils se rendent pas compte du sérieux de la situation, non ?~
@@ -12828,7 +12828,7 @@ PARAMÈTRES :
 
 Capacités de charge :
 - Bouclier mental
-  Immunité aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la domination, à la détection des alignements, à la paralysie, à l'étourdissement, aux attaques psioniques, au sommeil et à la débilité mentale
+  Immunité aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la détection des alignements, à la paralysie, à l'étourdissement, aux attaques psioniques, au sommeil et à la débilité mentale
   Durée : 1 tour
 
 Poids : 1~
@@ -13157,7 +13157,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : annule
 
-La cible doit réussir un jet de sauvegarde contre les sorts à -2 pour empêcher le lanceur d'envahir son esprit. Les effets de ce sort sont similaires à ceux du sort profane Domination, à quelques différences près. Il est important de noter que ce sort ne donne pas accès aux pensées, souvenirs ou sensations de la cible. Le lanceur peut seulement lui ordonner d'effectuer certaines tâches ou actions pendant la durée du sort. Pour contrôler le sujet, le lanceur doit être à portée et être en mesure de le voir. Ce contrôle dure jusqu'à la fin du sort, ou jusqu'à ce qu'un sort de Dissipation de la magie soit lancé avec succès.~
+La cible doit réussir un jet de sauvegarde contre les sorts à -2 pour empêcher le lanceur d'envahir son esprit. Les effets de ce sort sont similaires à ceux du sort profane de 5ème niveau Domination, à quelques différences près. Il est important de noter que ce sort ne donne pas accès aux pensées, souvenirs ou sensations de la cible. Le lanceur peut seulement lui ordonner d'effectuer certaines tâches ou actions pendant la durée du sort. Pour contrôler le sujet, le lanceur doit être à portée et être en mesure de le voir. Ce contrôle dure jusqu'à la fin du sort, ou jusqu'à ce qu'un sort de Dissipation de la magie soit lancé avec succès.~
 @1022621 = ~Protection contre la foudre
 (Abjuration)
 
@@ -13289,8 +13289,8 @@ Poids : 1~
 
 PARAMÈTRES :
 
-TAC0 : +1 / +3 contre les créatures surnaturelles
-Dégâts : 1d6 +1 (contondant), +2 (contondant) contre les créatures surnaturelles
+TAC0 : +1 / +3 contre les géants, les monstres et les morts-vivants
+Dégâts : 1d6 +1 (contondant), +2 (contondant) contre les géants, les monstres et les morts-vivants
 Facteur de vitesse : 3
 Type de compétence : gourdin
 Type : arme à une main
@@ -13884,8 +13884,8 @@ Poids : 7~
 
 PARAMÈTRES :
 
-TAC0 : +1 / +2 contre les créatures régénérantes / +3 contre les créatures du froid / +4 contre les morts-vivants
-Dégâts : 1d8 +1 (tranchant), +1 (feu), +1 (tranchant) contre les créatures régénérantes, +2 (tranchant) contre les créatures du froid, +3 (tranchant) contre les morts-vivants
+TAC0 : +1 / +2 contre les lycanthropes et les trolls / +3 contre les loups des glaces / +4 contre les morts-vivants
+Dégâts : 1d8 +1 (tranchant), +1 (feu), +1 (tranchant) contre les lycanthropes et les trolls, +2 (tranchant) contre les loups des glaces, +3 (tranchant) contre les morts-vivants
 Facteur de vitesse : 4
 Type de compétence : épée longue
 Type : arme à une main
@@ -14095,9 +14095,9 @@ Niveau 15 et plus : 1d20.
 - Bonus de 2 aux jets de sauvegarde contre les sorts.
 - Parade de projectiles : Bonus de 1 à la classe d'armure contre les projectiles par tranche de 3 niveaux d'expérience.
 - La classe d'armure initiale d'un moine est de 9 au niveau 1, et diminue ensuite de 1 tous les 2 niveaux d'expérience.
-- Peut utiliser « Coup étourdissant » une fois par jour tous les 4 niveaux d'expérience.
+- Peut lancer « Coup étourdissant » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-COUP ÉTOURDISSANT : Toutes les attaques réussies au cours du round suivant obligent la victime à réussir un jet de sauvegarde contre les sorts sous peine d'être assommée. Remarque : ce talent spécial modifie automatiquement l'attaque normale d'un moine, sans avoir besoin de viser une cible.
+COUP ÉTOURDISSANT : Toutes les attaques à mains nues réussies au cours des 9 prochaines secondes obligent les créatures touchées à réussir un jet de sauvegarde contre les sorts sous peine d'être étourdies pendant 9 secondes. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.
 
 - Niveau 5 : Immunité aux maladies, à la hâte et au ralentissement.
 - Niveau 7 : Il peut utiliser « Imposition des mains » pour guérir 2 points de vie par niveau d'expérience.
@@ -14122,7 +14122,7 @@ CAPACITÉS :
 - Peut se spécialiser (deux étoiles) dans n'importe quel style de combat, et allouer trois étoiles dans le style de combat à deux armes.
 - Bonus de 2 points en vitesse de déplacement.
 - Immunité aux attaques sournoises.
-- Peut utiliser « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 RAGE DU BARBARE : Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
 
@@ -14136,10 +14136,10 @@ Les entropistes sont des mages qui se spécialisent dans l'étude de la magie en
 
 CAPACITÉS :
 
-- Peut mémoriser un sort supplémentaire par niveau d'expérience.
-- Peut lancer le sort de 1er niveau : « Rupture hasardeuse de Nahal » (déjà retranscrit dans le livre de sorts profanes).
-- Peut lancer le sort de 2ème niveau : « Bouclier du chaos » (déjà retranscrit dans le livre de sorts profanes).
-- Peut lancer le sort de 7ème niveau : « Bouclier majeur du chaos » (déjà retranscrit dans le livre de sorts profanes).
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
+- Peut lancer le sort profane de 1er niveau : « Rupture hasardeuse de Nahal » (déjà retranscrit dans le livre de sorts profanes).
+- Peut lancer le sort profane de 2ème niveau : « Bouclier du chaos » (déjà retranscrit dans le livre de sorts profanes).
+- Peut lancer le sort profane de 7ème niveau : « Bouclier majeur du chaos » (déjà retranscrit dans le livre de sorts profanes).
 - Chaque fois qu'il lance un sort, il y a 5 % de chances d'engendrer un hiatus entropique.
 
 HIATUS ENTROPIQUE : Un hiatus entropique génère un effet complètement aléatoire à la place des effets du sort initialement lancé. Cet effet peut tout aussi bien être préjudiciable que bénéfique à l'entropiste et à ses alliés.
@@ -14148,7 +14148,7 @@ HIATUS ENTROPIQUE : Un hiatus entropique génère un effet complètement aléat
 @1024284 = ~BERSERKER : Il s'agit d'un guerrier à l'écoute de sa partie animale et qui, durant le combat, peut atteindre un état d'esprit qui lui permet de se battre plus longtemps, plus durement, et plus sauvagement que personne ne pourrait le faire normalement. Les berserkers ont tendance à être issus de cultures barbares, et il peut très bien s'agir d'un choix conscient du guerrier au cours de son apprentissage. Dans tous les cas, les opposants du berserker seront impressionnés par les aspects sauvages de la nature de celui-ci. Cette spécialité est assez courante chez les nains, alors appelés « Enragés ».
 
 Avantages :
-- Peut utiliser « Furie » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Furie » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 FURIE : Cet état dure 1 tour. Sous Furie, le berserker gagne un bonus de 2 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure, et devient immunisé aux charmes, à l'immobilisation, à la peur, à la confusion, à la débilité mentale, au labyrinthe, au drain de niveau, à l'emprisonnement, à l'étourdissement et au sommeil. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de la Furie, pouvant rendre le personnage inconscient.
 
@@ -14170,7 +14170,7 @@ Avantages :
 - Bonus de 2 à la classe d'armure.
 - Bonus de 1 aux jets d'attaque et de dégâts tous les 3 niveaux d'expérience.
 - Bonus de 1 au facteur de vitesse tous les 4 niveaux d'expérience.
-- Peut utiliser la capacité « Kaï » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Kaï » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 KAÏ : Cette capacité dure 10 secondes et toutes ses attaques, pendant cette période, infligent le maximum de dégâts.
 
@@ -14211,7 +14211,7 @@ Désavantages :
 @1024290 = ~ABJURATEUR : mage spécialisé dans la magie protectrice.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de l'Abjuration.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Abjuration.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Abjuration.
@@ -14224,7 +14224,7 @@ Nécessite au moins 15 en Sagesse.~
 @1024291 = ~CONJURATEUR : mage spécialisé dans la création de créatures et d'objets qui lui sont utiles.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de la Conjuration.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Conjuration.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Conjuration.
@@ -14237,7 +14237,7 @@ Nécessite au moins 15 en Constitution.~
 @1024292 = ~DEVIN : mage spécialisé dans la magie de détection et de divination.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de la Divination.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Divination.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Divination.
@@ -14250,7 +14250,7 @@ Nécessite au moins 16 en Sagesse.~
 @1024293 = ~ENCHANTEUR : mage spécialisé dans la manipulation de l'esprit des êtres sensibles.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de l'Enchantement.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Enchantement.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Enchantement.
@@ -14263,7 +14263,7 @@ Nécessite au moins 16 en Charisme.~
 @1024294 = ~ILLUSIONISTE : mage spécialisé dans la création d'illusions pour embrouiller et induire en erreur les autres.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de l'Illusion.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Illusion.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Illusion.
@@ -14276,7 +14276,7 @@ Nécessite au moins 16 en Dextérité.~
 @1024295 = ~INVOCATEUR : mage spécialisé dans la manipulation des énergies brutes et élémentaires.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de l'Invocation.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Invocation.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de l'Invocation.
@@ -14289,7 +14289,7 @@ Nécessite au moins 16 en Constitution.~
 @1024296 = ~NÉCROMANCIEN : mage spécialisé dans la magie liée à la mort.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de la Nécromancie.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Nécromancie.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Nécromancie.
@@ -14302,7 +14302,7 @@ Nécessite au moins 16 en Sagesse.~
 @1024297 = ~TRANSMUTATEUR : mage spécialisé dans la magie qui altère la réalité physique.
 
 Avantages :
-- Un sort supplémentaire par niveau d'expérience.
+- Peut mémoriser un sort profane supplémentaire par niveau d'expérience.
 - Bénéficie d'un bonus de 15 % pour l'apprentissage d'un sort de l'école de la Transmutation.
 - Bénéficie d'un bonus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Transmutation.
 - Les cibles souffrent d'un malus de 2 pour les jets de sauvegarde contre les sorts de l'école de la Transmutation.
@@ -14317,7 +14317,7 @@ Nécessite au moins 15 en Dextérité.~
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts avec les armes à distance tous les 3 niveaux d'expérience.
 - Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
-- Peut utiliser la capacité « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
+- Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
 TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau d'expérience de l'archer :
  Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
@@ -14345,7 +14345,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 15 % en Déplacement silencieux et Se cacher dans l'ombre.
-- Peut utiliser la capacité de « Familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
+- Peut lancer « Familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
 - Niveau 8 : Peut lancer « Convocation d'animaux I ».
 - Niveau 10 : Peut lancer « Convocation d'animaux II ».
 - Niveau 12 : Peut lancer « Convocation d'animaux III ».
@@ -14398,7 +14398,7 @@ Désavantages :
 
 Avantages :
 - Peut attribuer 3 étoiles dans le style de combat à deux armes.
-- Peut utiliser « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du personnage est doublée et il obtient un bonus 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round, et toutes les attaques font le maximum de dégâts. Ne peut être utilisée en conjonction avec « Hâte » ou « Hâte améliorée ».
 
@@ -14444,7 +14444,7 @@ Avantages :
 - Peut lancer « Vision véritable » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Épée animée » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-ÉPÉE ANIMÉE : Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée ni rangée). Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais pas de dégâts bonus. Dotée de 3 attaques par rounds, elle inflige 2d4 points de dégâts et dure 1 round par niveau d'expérience du prêtre. Tant que le prêtre l'a en main, il ne peut pas lancer le moindre sort.
+ÉPÉE ANIMÉE : Cette capacité fait apparaître une épée dans la main du lanceur qui ne peut être lâchée, volontairement ou non. Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais aucun bonus aux dégâts. Elle inflige 2d4 points de dégâts tranchants à toute cible qu'elle touche. L'épée fixe le nombre d'attaques par round du lanceur à 3 et dure 1 round par niveau d'expérience du lanceur. Tant que le lanceur l'a en main, il ne peut pas jeter le moindre sort.
 
 Désavantages :
 - Doit être d'alignement loyal bon, loyal neutre, loyal mauvais ou neutre strict.~
@@ -14454,14 +14454,14 @@ Avantages :
 - Peut lancer « Immobilisation des morts-vivants » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Don de Lathandre » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-DON DE LATHANDRE : Ce sort dure 1 round par niveau d'expérience et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Il protège également contre le drain de niveau.
+DON DE LATHANDRE : Cette capacité dure 1 round par niveau d'expérience du lanceur et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Elle protège également contre le drain de niveau et les effets sont cumulables.
 
 Désavantages :
 - Doit être d'alignement loyal bon, neutre bon, chaotique bon ou neutre strict.~
 @1024310 = ~DRUIDE TOTÉMIQUE : Ce druide s'identifie complètement à un animal. Cela lui procure une connexion spéciale avec le règne animal, et il peut faire appel à leurs esprits pour l'aider.
 
 Avantages :
-- Peut utiliser « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
 CONVOCATION D'UN ESPRIT ANIMAL : Le druide totémique peut invoquer un esprit animal (ours, loup, lion ou serpent) pour l'aider pendant 6 tours. L'esprit animal a 1 dé de vie au niveau 1, 3 dés de vie au niveau 3, 5 dés de vie au niveau 5, 7 dés de vie au niveau 7 et 10 dés de vie au niveau 10.
 
@@ -15708,7 +15708,7 @@ Avantages :
 - Bonus de 2 à la classe d'armure.
 - Bonus de 1 aux jets d'attaque et de dégâts tous les 3 niveaux d'expérience.
 - Bonus de 1 au facteur de vitesse tous les 4 niveaux d'expérience.
-- Peut utiliser la capacité « Kaï » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Kaï » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 KAÏ : Cette capacité dure 10 secondes et toutes ses attaques, pendant cette période, infligent le maximum de dégâts.
 
@@ -15751,7 +15751,7 @@ Désavantages :
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts avec les armes à distance tous les 3 niveaux d'expérience.
 - Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
-- Peut utiliser la capacité « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
+- Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
 TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau d'expérience de l'archer :
  Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
@@ -15779,7 +15779,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 15 % en Déplacement silencieux et Se cacher dans l'ombre.
-- Peut utiliser la capacité de « Familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
+- Peut lancer « Familier » pour obtenir un pseudo-dragon (s'il est d'alignement loyal bon ou neutre bon) ou un dragon-fée (s'il est d'alignement chaotique bon).
 - Niveau 8 : Peut lancer « Convocation d'animaux I ».
 - Niveau 10 : Peut lancer « Convocation d'animaux II ».
 - Niveau 12 : Peut lancer « Convocation d'animaux III ».
@@ -15832,7 +15832,7 @@ Désavantages :
 
 Avantages :
 - Peut attribuer 3 étoiles dans le style de combat à deux armes.
-- Peut utiliser « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du personnage est doublée et il obtient un bonus 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round, et toutes les attaques font le maximum de dégâts. Ne peut être utilisée en conjonction avec « Hâte » ou « Hâte améliorée ».
 
@@ -15865,7 +15865,7 @@ Désavantages :
 @1025375 = ~DRUIDE TOTÉMIQUE : Ce druide s'identifie complètement à un animal. Cela lui procure une connexion spéciale avec le règne animal, et il peut faire appel à leurs esprits pour l'aider.
 
 Avantages :
-- Peut utiliser « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
 CONVOCATION D'UN ESPRIT ANIMAL : Le druide totémique peut invoquer un esprit animal (ours, loup, lion ou serpent) pour l'aider pendant 6 tours. L'esprit animal a 1 dé de vie au niveau 1, 3 dés de vie au niveau 3, 5 dés de vie au niveau 5, 7 dés de vie au niveau 7 et 10 dés de vie au niveau 10.
 
@@ -15912,7 +15912,7 @@ Avantages :
 - Peut lancer « Vision véritable » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Épée animée » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-ÉPÉE ANIMÉE : Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée ni rangée). Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais pas de dégâts bonus. Dotée de 3 attaques par rounds, elle inflige 2d4 points de dégâts et dure 1 round par niveau d'expérience du prêtre. Tant que le prêtre l'a en main, il ne peut pas lancer le moindre sort.
+ÉPÉE ANIMÉE : Cette capacité fait apparaître une épée dans la main du lanceur qui ne peut être lâchée, volontairement ou non. Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais aucun bonus aux dégâts. Elle inflige 2d4 points de dégâts tranchants à toute cible qu'elle touche. L'épée fixe le nombre d'attaques par round du lanceur à 3 et dure 1 round par niveau d'expérience du lanceur. Tant que le lanceur l'a en main, il ne peut pas jeter le moindre sort.
 
 Désavantages :
 - Doit être d'alignement loyal bon, loyal neutre, loyal mauvais ou neutre strict.~
@@ -15922,7 +15922,7 @@ Avantages :
 - Peut lancer « Immobilisation des morts-vivants » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Don de Lathandre » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-DON DE LATHANDRE : Ce sort dure 1 round par niveau d'expérience et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Il protège également contre le drain de niveau.
+DON DE LATHANDRE : Cette capacité dure 1 round par niveau d'expérience du lanceur et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Elle protège également contre le drain de niveau et les effets sont cumulables.
 
 Désavantages :
 - Doit être d'alignement loyal bon, neutre bon, chaotique bon ou neutre strict.~
@@ -15942,7 +15942,7 @@ CAPACITÉS :
 - Peut se spécialiser (deux étoiles) dans n'importe quel style de combat, et allouer trois étoiles dans le style de combat à deux armes.
 - Bonus de 2 points en vitesse de déplacement.
 - Immunité aux attaques sournoises.
-- Peut utiliser « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 RAGE DU BARBARE : Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
 
@@ -16112,11 +16112,12 @@ PARAMÈTRES :
 Points de vie : 12
 Classe d'armure : 2
 Résistance à la magie : 35 %
-Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
+Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
 
 Capacités spéciales :
-- 65 % en Déplacement silencieux / Se cacher dans l'ombre
-- 15 % en Vol à la tire
+- Déplacement silencieux : 65 %
+- Se cacher dans l'ombre : 65 %
+- Vol à la tire : 15 %
 - Immunisé au drain de niveau, au sommeil et à la pétrification
 
 Poids : 1~
@@ -16128,10 +16129,12 @@ Points de vie : 12
 Classe d'armure : 8
 Résistance à la magie : 10 %
 
-Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 Capacités spéciales :
-- 35 % de résistance aux dégâts tranchants, perforants et de projectiles
-- 100 % de résistance au feu
+- Résistance aux dégâts tranchants : 35 %
+- Résistance aux dégâts perforants : 35 %
+- Résistance aux dégâts de projectiles : 35 %
+- Résistance au feu : 100 %
 - Peut lancer Poussière de verre deux fois par jour (tous les ennemis dans un rayon de 4,5 mètres doivent réussir un jet de sauvegarde contre les souffles sous peine d'avoir un malus de 4 à leur classe d'armure et un malus de 2 à leur TAC0 pendant 30 secondes)
 - Régénère 1 point de vie par round
 - Immunisé au drain de niveau, au sommeil et à la pétrification
@@ -16144,7 +16147,7 @@ PARAMÈTRES :
 Points de vie : 12
 Classe d'armure : 6
 Résistance à la magie : 25 %
-Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 
 Capacités spéciales :
 - Peut lancer Image miroir une fois par jour
@@ -16158,12 +16161,13 @@ PARAMÈTRES :
 Points de vie : 12
 Classe d'armure : 2
 Résistance à la magie : 35 %
-Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 
 Capacités spéciales :
-- 50 % en Vol à la tire
-- 25 % en Déplacement silencieux / Se cacher dans l'ombre
-- 20 % en Détection et désamorçage des pièges
+- Vol à la tire : 50 %
+- Déplacement silencieux : 25 %
+- Se cacher dans l'ombre : 25 %
+- Détection et désamorçage des pièges : 20 %
 - Peut lancer Flou une fois par jour
 - Immunisé au drain de niveau, au sommeil et à la pétrification
 
@@ -16175,10 +16179,12 @@ PARAMÈTRES :
 Points de vie : 9
 Classe d'armure : 4
 Résistance à la magie : 15 %
-Combat : 1 attaque par round, 17 en TAC0, 1d6 dégâts
+Combat : 1 attaque par round, 17 au TAC0, 1d6 dégâts
 
 Capacités spéciales :
-- 100 % de résistance au feu, au froid et à l'électricité
+- Résistance au feu : 100 %
+- Résistance au froid : 100 %
+- Résistance à l'électricité : 100 %
 - Peut lancer Métamorphose une fois par jour
 - Régénère 1 point de vie par round
 
@@ -16201,7 +16207,7 @@ PARAMÈTRES :
 Points de vie : 12
 Classe d'armure : 0
 Résistance à la magie : 35 %
-Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
+Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
 
 Capacités spéciales :
 - Peut lancer Flou une fois par jour
@@ -16216,10 +16222,12 @@ PARAMÈTRES :
 Points de vie : 12
 Classe d'armure : 4
 Résistance à la magie : 15 %
-Combat : 2 attaques par round, 15 en TAC0, 1d6 dégâts
+Combat : 2 attaques par round, 15 au TAC0, 1d6 dégâts
 
 Capacités spéciales :
-- 100 % de résistance au feu, au froid et à l'électricité
+- Résistance au feu : 100 %
+- Résistance au froid : 100 %
+- Résistance à l'électricité : 100 %
 - Peut lancer Horreur une fois par jour
 - Régénère 1 point de vie par round
 
@@ -16231,12 +16239,15 @@ PARAMÈTRES :
 Points de vie : 12
 Classe d'armure : 3
 Résistance à la magie : 45 %
-Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 
 Capacités spéciales :
-- 75 % de résistance au feu, au froid et à l'électricité
-- 40 % en Détection et désamorçage des pièges
-- 20 % en Déplacement silencieux / Se cacher dans l'ombre
+- Résistance au feu : 75 %
+- Résistance au froid : 75 %
+- Résistance à l'électricité : 75 %
+- Détection et désamorçage des pièges : 40 %
+- Déplacement silencieux : 20 %
+- Se cacher dans l'ombre : 20 %
 
 Poids : 1~
 @1025679 = ~Créées par le sort de Semences de feu. Jetées contre des adversaires, elles explosent en formant de petites boules de feu pour 2d8 de dégâts dans une zone d'effet de 2,1 mètres. Ces semences de feu s'utilisent comme arme.
@@ -16284,7 +16295,7 @@ PARAMÈTRES :
 
 Capacités de charge :
 - Bouclier mental
-  Immunité aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la domination, à la détection des alignements, à la paralysie, à l'étourdissement, aux attaques psioniques, au sommeil et à la débilité mentale
+  Immunité aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la détection des alignements, à la paralysie, à l'étourdissement, aux attaques psioniques, au sommeil et à la débilité mentale
   Durée : 1 tour
 
 Poids : 1~
@@ -16652,7 +16663,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Lorsque ce sort est jeté sur un individu empoisonné, il ralentit considérablement les effets du venin, neutralisant presque tous les poisons, à l'exception des plus mortels. À noter que ce sort guérit également l'état d'ébriété.~
+Lorsque ce sort est jeté sur un individu empoisonné, il ralentit considérablement les effets du venin, neutralisant presque tous les poisons, à l'exception des plus mortels. À noter que ce sort guérit également l'ébriété.~
 @1025890 = ~Puiser dans la puissance divine
 (Invocation)
 
@@ -16783,7 +16794,7 @@ Temps d'incantation : 9
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Le puissant sort de Guérison permet au lanceur de débarrasser la cible du sort de toute forme de maladies ou de blessures l'affectant. Toutes les maladies, la surdité et la cécité sont guéries et l'intégralité des points de vie perdus à la suite de blessures sont restaurés. Il permet aussi de neutraliser les poisons et l'état d'ébriété ainsi que d'annuler les effets du sort Débilité mentale et toutes les formes de folies causées par des sorts ou des lésions au cerveau. Naturellement, les effets de ce sort peuvent être rendus caducs par des blessures ou des maladies ultérieures.~
+Le puissant sort de Guérison permet au lanceur de débarrasser la cible du sort de toute forme de maladies ou de blessures l'affectant. Toutes les maladies, la surdité et la cécité sont guéries et l'intégralité des points de vie perdus à la suite de blessures sont restaurés. Il permet aussi de neutraliser les poisons et l'ébriété ainsi que d'annuler les effets du sort Débilité mentale et toutes les formes de folies causées par des sorts ou des lésions au cerveau. Naturellement, les effets de ce sort peuvent être rendus caducs par des blessures ou des maladies ultérieures.~
 @1025935 = ~Cri de la banshee
 (Nécromancie)
 
@@ -17498,7 +17509,7 @@ Temps d'incantation : 5
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Lorsqu'il lance ce sort et appose ses mains sur une créature, le lanceur restaure 14 points de vie à cette dernière. Cette guérison ne peut affecter les créatures dépourvues de corps physique, ni soigner les blessures des créatures mortes-vivantes ou d'origine extraplanaire. La guérison est permanente tant que la cible ne reçoit pas de nouvelles blessures, qui devront être guéries comme n'importe quels autres sévices. À noter que ce sort guérit également l'état d'ébriété.~
+Lorsqu'il lance ce sort et appose ses mains sur une créature, le lanceur restaure 14 points de vie à cette dernière. Cette guérison ne peut affecter les créatures dépourvues de corps physique, ni soigner les blessures des créatures mortes-vivantes ou d'origine extraplanaire. La guérison est permanente tant que la cible ne reçoit pas de nouvelles blessures, qui devront être guéries comme n'importe quels autres sévices. À noter que ce sort guérit également l'ébriété.~
 @1026194 = ~Guérison des maladies
 (Abjuration)
 
@@ -17570,7 +17581,7 @@ Temps d'incantation : 4
 Zone d'effet : 1 créature
 Jet de sauvegarde : annule
 
-La cible doit réussir un jet de sauvegarde contre les sorts à -2 pour empêcher le lanceur d'envahir son esprit. Les effets de ce sort sont similaires à ceux du sort profane Domination, à quelques différences près. Il est important de noter que ce sort ne donne pas accès aux pensées, souvenirs ou sensations de la cible. Le lanceur peut seulement lui ordonner d'effectuer certaines tâches ou actions pendant la durée du sort. Pour contrôler le sujet, le lanceur doit être à portée et être en mesure de le voir. Ce contrôle dure jusqu'à la fin du sort, ou jusqu'à ce qu'un sort de Dissipation de la magie soit lancé avec succès.~
+La cible doit réussir un jet de sauvegarde contre les sorts à -2 pour empêcher le lanceur d'envahir son esprit. Les effets de ce sort sont similaires à ceux du sort profane de 5ème niveau Domination, à quelques différences près. Il est important de noter que ce sort ne donne pas accès aux pensées, souvenirs ou sensations de la cible. Le lanceur peut seulement lui ordonner d'effectuer certaines tâches ou actions pendant la durée du sort. Pour contrôler le sujet, le lanceur doit être à portée et être en mesure de le voir. Ce contrôle dure jusqu'à la fin du sort, ou jusqu'à ce qu'un sort de Dissipation de la magie soit lancé avec succès.~
 @1026208 = ~Harmonie défensive
 (Enchantement/Charme)
 
@@ -17844,7 +17855,7 @@ Temps d'incantation : 5
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Lorsqu'il jette ce sort, le lanceur doit se représenter clairement les visages de ses compagnons et se concentrer sur l'unité du groupe. Une fois l'incantation achevée, tous les membres du groupe situés dans un rayon de 4,5 mètres autour du lanceur reçoivent une guérison de 1d8 points de vie +1 par niveau d'expérience du lanceur. La guérison est permanente, du moins tant que la créature ciblée ne reçoit pas de nouveaux dégâts ; les blessures ainsi causées devront être soignées comme toute autre blessure normale. À noter que ce sort guérit également l'état d'ébriété.~
+Lorsqu'il jette ce sort, le lanceur doit se représenter clairement les visages de ses compagnons et se concentrer sur l'unité du groupe. Une fois l'incantation achevée, tous les membres du groupe situés dans un rayon de 4,5 mètres autour du lanceur reçoivent une guérison de 1d8 points de vie +1 par niveau d'expérience du lanceur. La guérison est permanente, du moins tant que la créature ciblée ne reçoit pas de nouveaux dégâts ; les blessures ainsi causées devront être soignées comme toute autre blessure normale. À noter que ce sort guérit également l'ébriété.~
 @1026254 = ~Répulsion des morts-vivants
 (Abjuration)
 
@@ -18497,56 +18508,56 @@ LOYAL BON, NEUTRE BON : Pseudo-dragon
 - Points de vie : 12
 - Classe d'armure : 0
 - Résistance à la magie : 35 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
 - Capacités spéciales : peut lancer Flou une fois par jour ; régénère 1 point de vie par round ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 LOYAL NEUTRE : Furet
 - Points de vie : 12
 - Classe d'armure : 2
 - Résistance à la magie : 35 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
-- Capacités spéciales : possède 50 % en Vol à la tire, 25 % en Déplacement silencieux / Se cacher dans l'ombre et 20 % en Détection et désamorçage des pièges ; peut lancer Flou une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.
+- Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
+- Capacités spéciales : possède 50 % en Vol à la tire, 25 % en Déplacement silencieux et Se cacher dans l'ombre, et 20 % en Détection et désamorçage des pièges ; peut lancer Flou une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 LOYAL MAUVAIS : Diablotin
 - Points de vie : 9
 - Classe d'armure : 4
 - Résistance à la magie : 15 %
-- Combat : 1 attaque par round, 17 en TAC0, 1d6 dégâts
+- Combat : 1 attaque par round, 17 au TAC0, 1d6 dégâts
 - Capacités spéciales : 100 % de résistance au feu, au froid et à l'électricité ; peut lancer Métamorphose une fois par jour ; régénère 1 point de vie par round.
 
 NEUTRE STRICT : Lapin
 - Points de vie : 12
 - Classe d'armure : 3
 - Résistance à la magie : 45 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
-- Capacités spéciales : possède 40 % en Détection et désamorçage des pièges et 20 % en Déplacement silencieux / Se cacher dans l'ombre ; 75 % de résistance au feu, au froid et à l'électricité.
+- Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
+- Capacités spéciales : possède 40 % en Détection et désamorçage des pièges et 20 % en Déplacement silencieux et Se cacher dans l'ombre ; 75 % de résistance au feu, au froid et à l'électricité.
 
 NEUTRE MAUVAIS : Méphite poussiéreux
 - Points de vie : 12
 - Classe d'armure : 8
 - Résistance à la magie : 10 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 - Capacités spéciales : 100 % de résistance au feu ; 35 % de résistance aux dégâts tranchants, perforants et de projectiles ; peut lancer Poussière de verre deux fois par jour ; régénère 1 point de vie par round ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 CHAOTIQUE BON : Dragon fée
 - Points de vie : 12
 - Classe d'armure : 6
 - Résistance à la magie : 25 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 - Capacités spéciales : peut lancer Image miroir une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 CHAOTIQUE NEUTRE : Chat
 - Points de vie : 12
 - Classe d'armure : 2
 - Résistance à la magie : 35 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
-- Capacités spéciales : possède 65 % en Déplacement silencieux / Se cacher dans l'ombre et 15 % en Vol à la tire ; immunisé au drain de niveau, au sommeil et à la pétrification.
+- Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
+- Capacités spéciales : possède 65 % en Déplacement silencieux et Se cacher dans l'ombre, et 15 % en Vol à la tire ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 CHAOTIQUE MAUVAIS : Quasit
 - Points de vie : 12
 - Classe d'armure : 4
 - Résistance à la magie : 15 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d6 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d6 dégâts
 - Capacités spéciales : 100 % de résistance au feu, au froid et à l'électricité ; peut lancer Horreur une fois par jour ; régénère 1 point de vie par round.~
 @1026378 = ~Rupture hasardeuse de Nahal
 (Invocation/Évocation)
@@ -21480,11 +21491,11 @@ Poids : 12~
 Avantages :
 - Immunité au drain de niveau et à la peur.
 - Peut repousser les morts-vivants comme un paladin de même niveau d'expérience.
-- Peut utiliser « Absorption de vie » une fois par jour.
+- Peut lancer « Absorption de vie » une fois par jour.
 
 ABSORPTION DE VIE : Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire, et soigne le chevalier noir d'autant de points de vie.
 
-- Peut utiliser « Arme empoisonnée » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Arme empoisonnée » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
 ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la cible. Chaque cible ne peut être affectée qu'une fois par round. Le montant des dégâts de poison dépend du niveau d'expérience du personnage :
 
@@ -21493,7 +21504,7 @@ Niveau 5 : la cible subit 1 point de dégât de poison par seconde pendant 12 s
 Niveau 9 : la cible subit 1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler), et subit immédiatement 4 points de dégâts de poison (pas de jet de sauvegarde)
 Niveau 13 : la cible subit 1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler), et subit immédiatement 6 points de dégâts de poison (pas de jet de sauvegarde)
 
-- Peut utiliser « Aura de désespoir » une fois par jour à partir du niveau 3.
+- Peut lancer « Aura de désespoir » une fois par jour à partir du niveau 3.
 
 AURA DE DÉSESPOIR : Lorsque cette capacité est activée, tous les ennemis dans un rayon de 4,5 mètres autour du chevalier noir subissent des effets négatifs en fonction de son niveau d'expérience :
 
@@ -22142,56 +22153,56 @@ LOYAL BON, NEUTRE BON : Pseudo-dragon
 - Points de vie : 12
 - Classe d'armure : 0
 - Résistance à la magie : 35 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
 - Capacités spéciales : peut lancer Flou une fois par jour ; régénère 1 point de vie par round ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 LOYAL NEUTRE : Furet
 - Points de vie : 12
 - Classe d'armure : 2
 - Résistance à la magie : 35 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
-- Capacités spéciales : possède 50 % en Vol à la tire, 25 % en Déplacement silencieux / Se cacher dans l'ombre et 20 % en Détection et désamorçage des pièges ; peut lancer Flou une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.
+- Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
+- Capacités spéciales : possède 50 % en Vol à la tire, 25 % en Déplacement silencieux et Se cacher dans l'ombre, et 20 % en Détection et désamorçage des pièges ; peut lancer Flou une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 LOYAL MAUVAIS : Diablotin
 - Points de vie : 9
 - Classe d'armure : 4
 - Résistance à la magie : 15 %
-- Combat : 1 attaque par round, 17 en TAC0, 1d6 dégâts
+- Combat : 1 attaque par round, 17 au TAC0, 1d6 dégâts
 - Capacités spéciales : 100 % de résistance au feu, au froid et à l'électricité ; peut lancer Métamorphose une fois par jour ; régénère 1 point de vie par round.
 
 NEUTRE STRICT : Lapin
 - Points de vie : 12
 - Classe d'armure : 3
 - Résistance à la magie : 45 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
-- Capacités spéciales : possède 40 % en Détection et désamorçage des pièges et 20 % en Déplacement silencieux / Se cacher dans l'ombre ; 75 % de résistance au feu, au froid et à l'électricité.
+- Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
+- Capacités spéciales : possède 40 % en Détection et désamorçage des pièges et 20 % en Déplacement silencieux et Se cacher dans l'ombre ; 75 % de résistance au feu, au froid et à l'électricité.
 
 NEUTRE MAUVAIS : Méphite poussiéreux
 - Points de vie : 12
 - Classe d'armure : 8
 - Résistance à la magie : 10 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 - Capacités spéciales : 100 % de résistance au feu ; 35 % de résistance aux dégâts tranchants, perforants et de projectiles ; peut lancer Poussière de verre deux fois par jour ; régénère 1 point de vie par round ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 CHAOTIQUE BON : Dragon fée
 - Points de vie : 12
 - Classe d'armure : 6
 - Résistance à la magie : 25 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 - Capacités spéciales : peut lancer Image miroir une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 CHAOTIQUE NEUTRE : Chat
 - Points de vie : 12
 - Classe d'armure : 2
 - Résistance à la magie : 35 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
-- Capacités spéciales : possède 65 % en Déplacement silencieux / Se cacher dans l'ombre et 15 % en Vol à la tire ; immunisé au drain de niveau, au sommeil et à la pétrification.
+- Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
+- Capacités spéciales : possède 65 % en Déplacement silencieux et Se cacher dans l'ombre, et 15 % en Vol à la tire ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 CHAOTIQUE MAUVAIS : Quasit
 - Points de vie : 12
 - Classe d'armure : 4
 - Résistance à la magie : 15 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d6 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d6 dégâts
 - Capacités spéciales : 100 % de résistance au feu, au froid et à l'électricité ; peut lancer Horreur une fois par jour ; régénère 1 point de vie par round.~
 @1030209 = ~Mot de pouvoir : sommeil
 (Conjuration/Convocation)
@@ -23116,7 +23127,7 @@ Capacités d'équipement :
 - Immunité aux poisons
 
 Capacités de charge :
-- Guérison du poison et de l'état d'ébriété (une fois par jour)
+- Guérison du poison et de l'ébriété (une fois par jour)
   Portée : contact
   Zone d'effet : 1 créature
 
@@ -23276,7 +23287,7 @@ Capacités :
 Classe d'armure : -4
 Points de vie : 48
 Résistance à la magie : 65 %
-Capacités spéciales : 99 % en Déplacement silencieux / Se cacher dans l'ombre, 60 % en Détection et Désamorçage des pièges et 60 % en Détection des illusions~
+Capacités spéciales : 99 % en Déplacement silencieux et Se cacher dans l'ombre, 60 % en Détection et désamorçage des pièges et Détection des illusions~
 @1031207 = ~C'est votre familier, un méphite poussiéreux réfugié dans votre sac à dos. Il n'est pas très bon combattant, mais il résiste un peu à la magie et il peut lancer deux fois par jour le sort Poussière de verre pour aider son maître.
 
 Capacités :
@@ -23700,7 +23711,7 @@ Avantages :
 - Bonus de 10 % en Déplacement silencieux et Se cacher dans l'ombre.
 - Discrétion totale : le maître des ombres peut Se cacher dans l'ombre même s'il est observé.
 - Esprit fuyant : bonus de 1 aux jets de sauvegarde.
-- Peut utiliser « Pas de l'ombre » une fois par jour tous les 5 niveaux d'expérience à partir du niveau 5.
+- Peut lancer « Pas de l'ombre » une fois par jour tous les 5 niveaux d'expérience à partir du niveau 5.
 
 PAS DE L'OMBRE : Permet d'entrer dans le Plan de l'ombre et de s'y déplacer pendant 7 secondes, tandis que le temps est figé pour tout le reste du monde. Dans cet état, le maître des ombres ne peut ni attaquer, ni lancer de sorts.
 
@@ -23816,8 +23827,8 @@ FAISCEAU DE LA CONSCIENCE SOLAIRE : Le moine de la Conscience Solaire provoque 
 
 Désavantages :
 - Doit être d'alignement loyal bon.
-- Ne peut utiliser la capacité de « Coup étourdissant ».
-- Ne peut utiliser la capacité de « Paume vibratoire ».~
+- Ne peut utiliser la capacité « Coup étourdissant ».
+- Ne peut utiliser la capacité « Paume vibratoire ».~
 @1031985 = ~Position défensive~
 @1031986 = ~Attaque de souffle~
 @1031987 = ~La Dague de Kylee~
@@ -24019,11 +24030,36 @@ Capacités spéciales :
 
 Ce sort dure 1 round par niveau d'expérience du lanceur de sorts. Il le protège contre l'électricité, le feu, le froid et les projectiles non-magiques.~
 @1032249 = ~Épée animée
+(Évocation)
 
-Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée, volontairement ou non). Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais aucun bonus aux dégâts. Elle inflige 2d4 points de dégâts à toute cible qu'elle touche. L'arme fixe le nombre d'attaques par round du prêtre à 3 et dure 1 round par niveau d'expérience. Tant que le personnage l'a en main, il ne peut pas lancer le moindre sort.~
+Niveau : 4
+Portée : 0
+Durée : 1 round par niveau
+Temps d'incantation : 5 (3 à partir du niveau 20)
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité fait apparaître une épée dans la main du lanceur qui ne peut être lâchée, volontairement ou non. Cette arme peut atteindre ses ennemis comme une arme d'enchantement +4 et fournit un bonus de 4 au TAC0, mais aucun bonus aux dégâts. Elle inflige 2d4 points de dégâts tranchants à toute cible qu'elle touche. L'épée fixe le nombre d'attaques par round du lanceur à 3 et dure 1 round par niveau d'expérience du lanceur. Tant que le lanceur l'a en main, il ne peut pas jeter le moindre sort.~
 @1032250 = ~Don de Lathandre
+(Conjuration)
 
-Ce sort dure 1 round par niveau d'expérience et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Il protège également contre le drain de niveau.~
+Niveau : 4
+Portée : 0
+Durée : 1 round par niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité dure 1 round par niveau d'expérience du lanceur et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Elle protège également contre le drain de niveau et les effets sont cumulables.~
+@1032251 = ~Coup étourdissant
+
+Portée : 0
+Durée : 9 secondes
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Toutes les attaques à mains nues réussies au cours des 9 prochaines secondes obligent les créatures touchées à réussir un jet de sauvegarde contre les sorts sous peine d'être étourdies pendant 9 secondes. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.~
 @1032252 = ~Paume vibratoire
 
 Portée : 0
@@ -24515,7 +24551,7 @@ Nemes <nemes.level@gmail.com>~
 
 CAPACITÉS :
 
-- Peut porter uniquement l'armure de cuir, la besantine et l'armure de peau.
+- Peut porter uniquement une armure de cuir, une besantine ou une armure de peau.
 - Ne peut utiliser de bouclier plus lourd que la targe.
 - Ne peut utiliser que les armes suivantes : dague, gourdin, lance, hache, bâton, fléchette, fronde et arc court.
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
@@ -24545,7 +24581,7 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 Avantages :
 - Peut lancer « Exaltation » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
+EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
 
 - Peut lancer « Faveur divine » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -24677,7 +24713,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature (autre que le lanceur)
 Jet de sauvegarde : aucun
 
-Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
+Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
 @1032371 = ~Faveur divine
 (Conjuration)
 
@@ -25054,14 +25090,14 @@ LOYAL BON, NEUTRE BON : Pseudo-dragon
 - Points de vie : 12
 - Classe d'armure : 0
 - Résistance à la magie : 35 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d3 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d3 dégâts
 - Capacités spéciales : peut lancer Flou une fois par jour ; régénère 1 point de vie par round ; immunisé au drain de niveau, au sommeil et à la pétrification.
 
 CHAOTIQUE BON : Dragon fée
 - Points de vie : 12
 - Classe d'armure : 6
 - Résistance à la magie : 25 %
-- Combat : 2 attaques par round, 15 en TAC0, 1d2 dégâts
+- Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 - Capacités spéciales : peut lancer Image miroir une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.~
 @1032889 = ~Métamorphose en araignée-sabre
 
@@ -25315,8 +25351,8 @@ PARAMÈTRES :
 Capacités d'équipement :
 - Jet de sauvegarde contre les sorts de l'école de la Transmutation : +2
 
-TAC0 : +2 / +3 contre les créatures artificielles
-Dégâts : 1d6 +2 (contondant), +1 (contondant) contre les créatures artificielles
+TAC0 : +2 / +3 contre les golems
+Dégâts : 1d6 +2 (contondant), +1 (contondant) contre les golems
 Facteur de vitesse : 2
 Type de compétence : gourdin
 Type : arme à une main
@@ -25484,7 +25520,7 @@ Poids : 4~
 
 CAPACITÉS :
 
-- Peut porter uniquement l'armure de cuir, la besantine et l'armure de peau.
+- Peut porter uniquement une armure de cuir, une besantine ou une armure de peau.
 - Ne peut utiliser de bouclier plus lourd que la targe.
 - Ne peut utiliser que les armes suivantes : dague, gourdin, lance, hache, bâton, fléchette, fronde et arc court.
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
@@ -27875,7 +27911,7 @@ Capacités d'équipement :
 - Résistance à la magie : +30 %
 
 TAC0 : +3
-Dégâts : 1d8 +3 (tranchant), +2 (tranchant) contre les fiélons
+Dégâts : 1d8 +3 (tranchant), +2 (tranchant) contre les démons
 Facteur de vitesse : 2
 Type de compétence : épée longue
 Type : arme à une main
@@ -31076,7 +31112,7 @@ Le collier que Khalid souhaite offrir à Jaheira pour leur anniversaire est term
 Avantages :
 - Peut lancer « Exaltation » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
+EXALTATION : Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.
 
 - Peut lancer « Faveur divine » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -31095,7 +31131,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 créature (autre que le lanceur)
 Jet de sauvegarde : aucun
 
-Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'état d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
+Cette capacité permet au lanceur de porter secours à une créature autre que lui-même. En touchant la créature ciblée, il la guérit de tout effet de peur, de sommeil, de débilité mentale, d'inconscience, de berserk, de confusion, d'échecs de test de moral et d'ébriété. En outre, le bénéficiaire est protégé de tous les effets précédemment décrits pendant un tour.~
 @1056945 = ~Faveur divine
 (Conjuration)
 
@@ -31616,8 +31652,8 @@ Poids : 2~
 PARAMÈTRES :
 
 Capacités d'équipement :
-- Classe d'armure : +1, +2 contre les démons et les diables
-- Jets de sauvegarde : +1, +2 contre les démons et les diables
+- Classe d'armure : +1, +2 contre les démons
+- Jets de sauvegarde : +1, +2 contre les démons
 
 Poids : 0~
 @1058557 = ~Veuillez m'excuser, j'ai beaucoup de gens très malades. Je ne peux pas m'occuper d'Hyreth tant que je n'ai pas terminé avec mes patients.~
