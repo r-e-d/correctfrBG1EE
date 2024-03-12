@@ -5153,18 +5153,21 @@ CAPACITÉS :
 - Ne peut être que compétent (une étoile) dans les styles de combat.
 - Peut distribuer 25 points par niveau d'expérience (40 au niveau 1) dans les talents de roublard suivants : Crochetage de serrures, Détection et désamorçage des pièges, Vol à la tire, Déplacement silencieux, Se cacher dans l'ombre, Détection des illusions et Pose de pièges.
 - Débute avec des scores de base de 10 % en Crochetage de serrures, 5 % en Détection et désamorçage des pièges, 15 % en Vol à la tire, 10 % en Déplacement silencieux et 5 % en Se cacher dans l'ombre.
-- Peut avoir recours à l'attaque sournoise pour augmenter ses dégâts :
-  Niveau 1-4 : x2
-  Niveau 5-8 : x3
-  Niveau 9-12 : x4
-  Niveau 13 et plus : x5
+- Peut avoir recours à l'attaque sournoise pour multiplier ses dégâts :
+
+ Niveau 1-4 : dégâts x2.
+ Niveau 5-8 : dégâts x3.
+ Niveau 9-12 : dégâts x4.
+ Niveau 13 et plus : dégâts x5.
+
 - Peut poser un piège une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGES : Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le voleur augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
-  Niveau 1 : le piège inflige 2d8 +5 dégâts (projectile).
-  Niveau 11 : le piège inflige 2d8 +5 dégâts (projectile), +2d6 dégâts de poison par round pendant 3 rounds.
-  Niveau 16 : le piège inflige 3d8 +5 dégâts (projectile), +4d8 +2 dégâts de feu.
-  Niveau 21 : le piège inflige 3d8 +5 dégâts (projectile), +20 dégâts de poison sans jet de sauvegarde ; la cible meurt instantanément si elle échoue à un jet de sauvegarde contre la mort à +4.
+POSE DE PIÈGE : Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le voleur augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
+
+ Niveau 1-10 : le piège inflige 2d8 +5 dégâts (projectile).
+ Niveau 11-15 : le piège inflige 2d8 +5 dégâts (projectile), +2d6 dégâts de poison par round pendant 3 rounds.
+ Niveau 16-20 : le piège inflige 3d8 +5 dégâts (projectile), +4d8 +2 dégâts de feu.
+ Niveau 21 et plus : le piège inflige 3d8 +5 dégâts (projectile), +20 dégâts de poison sans jet de sauvegarde ; la cible meurt instantanément si elle échoue à un jet de sauvegarde contre la mort à +4.
 
 - Ne peut pas être d'alignement loyal bon.
 - Dés de vie : d6.
@@ -5182,9 +5185,11 @@ CAPACITÉS :
 - Score de connaissances accru.
 - Peut lancer des sorts profanes à partir du niveau 2.
 - Peut lancer « Chant du barde ». Lorsqu'elle est active, cette capacité octroie aux alliés les bonus suivants :
-  Augmente le moral à sa valeur moyenne
-  Protection contre la peur
-  Apaisement de la peur
+
+ Augmente le moral à sa valeur moyenne.
+ Protection contre la peur.
+ Apaisement de la peur.
+
 - Doit être d'alignement partiellement neutre.
 - Dés de vie : d6.~
 @1009574 = ~GUERRIER / MAGE : Ce personnage peut utiliser les capacités d'un guerrier et d'un mage, toutefois il ne peut lancer de sort tant qu'il porte une armure. Il peut atteindre la spécialisation, mais pas la maîtrise dans le maniement des armes.
@@ -5270,10 +5275,12 @@ Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
 Ce sort permet de réveiller d'entre les morts un guerrier squelette qui servira le lanceur quelles que soient les conditions. La puissance du guerrier squelette dépend du niveau d'expérience du lanceur :
-  Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
-  Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
-  Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
-  Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
+ Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
+ Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
+ Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
+ Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
 Le guerrier squelette peut suivre le lanceur, rester dans une zone pour attaquer une créature s'introduisant dans ce lieu, etc. Il reste animé jusqu'à ce qu'il soit détruit au combat, repoussé ou au terme de 8 heures. Ce sort ne peut être dissipé.~
 @1009747 = ~Nous sommes aussi prêts que possible. Téléportez-nous dans cette bibliothèque secrète.~
 @1009755 = ~Je ne dirai rien de tel si nous n'étions pas seuls. Si des Ducs se font tuer impunément, quelle chance aurais-je ? Il est simplement curieux qu'Eltan tombe malade à ce moment précis et qu'Angelo Dosan prenne sa place avec tant de vigueur. Il n'a pas l'air ambitieux, cet Angelo, mais Sarevok pourrait bien avoir fait naître en lui des instincts plus rapaces. Il a cette capacité, dit-on, et travaillerait en assez étroite collaboration avec ce nouveau chef du Poing Enflammé.~
@@ -6783,6 +6790,7 @@ Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
 Ce sort crée une sphère de 60 centimètres de diamètre dans la main du lanceur qui fonce inévitablement vers sa cible. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial additionnel contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
+
  Niveau 1 : 1d4 points de dégâts magiques, cécité pendant 1 round.
  Niveau 2 : 1d4 points de dégâts magiques, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0) pendant 10 secondes.
  Niveau 3 : 1d6 points de dégâts magiques, brûle la victime pour 1d8 points de dégâts de feu supplémentaires.
@@ -6918,10 +6926,12 @@ Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
 Ce sort permet de réveiller d'entre les morts un guerrier squelette qui servira le lanceur quelles que soient les conditions. La puissance du guerrier squelette dépend du niveau d'expérience du lanceur :
-  Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
-  Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
-  Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
-  Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
+ Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
+ Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
+ Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
+ Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
 Le guerrier squelette peut suivre le lanceur, rester dans une zone pour attaquer une créature s'introduisant dans ce lieu, etc. Il reste animé jusqu'à ce qu'il soit détruit au combat, repoussé ou au terme de 8 heures. Ce sort ne peut être dissipé.~
 @1012186 = ~Toucher glacial
 (Nécromancie)
@@ -14030,7 +14040,7 @@ Pour participer à une partie multijoueur de Baldur's Gate, les joueurs doivent 
 @1024183 = ~Déplacement silencieux~
 @1024184 = ~Se cacher dans l'ombre~
 @1024185 = ~Détection des illusions~
-@1024186 = ~Pose de piège~
+@1024186 = ~Pose de pièges~
 @1024187 = ~Furtivité~
 @1024198 = ~NEUTRE STRICT : Les personnages véritablement neutres croient à un équilibre ultime des forces et refusent de considérer les actions comme étant soit bonnes, soit mauvaises. Étant donné que la majorité des individus émettent des jugements, les personnages véritablement neutres sont très rares. Ils font tout leur possible pour éviter de prendre le parti des forces du bien ou du mal, de la loi ou du chaos. Leur tâche est de veiller à ce que toutes ces forces demeurent dans une confrontation équilibrée. Les personnages véritablement neutres sont parfois contraints à des alliances plutôt spéciales. Dans une large mesure, ils sont obligés de se ranger du côté des opprimés quelle que soit la situation, changeant même parfois de camp lorsque le perdant devient le gagnant. Un druide véritablement neutre peut s'associer à la baronnie locale pour réduire au silence une tribu de gnolls mauvais, et abandonner ses alliés ou changer de camp lorsque les gnolls sont à deux doigts de l'anéantissement. Il essaiera d'empêcher chacun des deux camps de devenir trop puissant. Les personnages vraiment neutres sont à l'évidence très rares dans le monde.~
 @1024204 = ~DEMI-ORQUES : Les demi-orques sont issus de l'union de parents humains et orques. Ils sont aussi grands que les humains, mais un peu plus lourds à cause de leur masse musculaire. Leur peau verdâtre, leur front fuyant, leurs mâchoires saillantes, leurs dents proéminentes et leur pilosité grossière les rendent faciles à reconnaître. Les demi-orques sont tolérés sur la Côte des Épées car, contrairement au nord, les habitants de cette région n'ont pas subi d'attaques orques depuis plusieurs siècles. Les demi-orques sont connus pour leur grande force.
@@ -14086,11 +14096,13 @@ CAPACITÉS :
 - Ne peut être que compétent (une étoile) dans le style de combat à une arme, et ne peut pas avoir recours aux autres styles de combat.
 - Bonus de 2 points en vitesse de déplacement, et 1 point supplémentaire tous les 5 niveaux d'expérience.
 - Le moine peut effectuer une attaque à mains nues par tour ; il gagne 1/2 attaque supplémentaire tous les 3 niveaux d'expérience. Quand le moine gagne des niveaux d'expérience, les dégâts infligés par ses poings augmentent également :
-Niveau 1-2 : 1d6.
-Niveau 3-5 : 1d8.
-Niveau 6-8 : 1d10.
-Niveau 9-14 : 1d12.
-Niveau 15 et plus : 1d20.
+
+ Niveau 1-2 : 1d6.
+ Niveau 3-5 : 1d8.
+ Niveau 6-8 : 1d10.
+ Niveau 9-14 : 1d12.
+ Niveau 15 et plus : 1d20.
+
 - Au niveau 9, le poing du moine est considéré comme une arme d'enchantement +1 et bénéficie donc d'un bonus de 1 à ses jets d'attaque et de dégâts. Ce bonus évolue pour atteindre 2 au niveau 12, 3 au niveau 15 et 4 au niveau 25.
 - Bonus de 2 aux jets de sauvegarde contre les sorts.
 - Parade de projectiles : Bonus de 1 à la classe d'armure contre les projectiles par tranche de 3 niveaux d'expérience.
@@ -14320,6 +14332,7 @@ Avantages :
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
 TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau d'expérience de l'archer :
+
  Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
  Niveau 8 : La cible subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
  Niveau 12 : La cible subit un malus de 1 à la Force pendant 10 secondes.
@@ -14334,9 +14347,11 @@ Désavantages :
 Avantages :
 - Bonus de 20 % en Déplacement silencieux et Se cacher dans l'ombre.
 - Peut réaliser des attaques sournoises, mais avec un multiplicateur de dégâts moindre par rapport aux voleurs :
-  Niveau 1-8 : x2
-  Niveau 9-16 : x3
-  Niveau 17 et plus : x4
+
+ Niveau 1-8 : dégâts x2.
+ Niveau 9-16 : dégâts x3.
+ Niveau 17 et plus : dégâts x4.
+
 - Accès à trois sorts profanes, à partir du niveau 12 : « Hâte », « Protection contre les projectiles non-magiques » et « Déviation de sorts mineurs ».
 
 Désavantages :
@@ -14357,16 +14372,23 @@ Désavantages :
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
-- L'attaque sournoise peut atteindre un multiplicateur de x7 au lieu de son maximum de x5 (Remarque : cette valeur n'est atteignable qu'à très haut niveau, ce qui n'est possible que dans Baldur's Gate II.).
-- Peut enduire son arme de poison une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- L'attaque sournoise peut atteindre un multiplicateur de dégâts de x7 au lieu de son maximum de x5 (Remarque : cette valeur n'est atteignable qu'à très haut niveau, ce qui n'est possible que dans Baldur's Gate II.).
 
-ARME EMPOISONNÉE :
-Chaque coup réussi au cours du prochain round empoisonnera la cible. Chaque cible ne peut être affectée qu'une fois par round. Le montant des dégâts de poison dépend du niveau d'expérience du personnage :
+ Niveau 1-4 : dégâts x2.
+ Niveau 5-8 : dégâts x3.
+ Niveau 9-12 : dégâts x4.
+ Niveau 13-16 : dégâts x5.
+ Niveau 17-20 : dégâts x6.
+ Niveau 21 et plus : dégâts x7.
 
-Niveau 1 : la cible subit 1 point de dégât de poison par seconde pendant 6 secondes (annulé par un jet de sauvegarde contre les poisons à +1)
-Niveau 5 : la cible subit 1 point de dégât de poison par seconde pendant 12 secondes (annulé par un jet de sauvegarde contre les poisons) et subit immédiatement 2 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 9 : la cible subit 1 point de dégât de poison par seconde pendant 18 secondes (annulé par un jet de sauvegarde contre les poisons à -1) et subit immédiatement 4 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 13 : la cible subit 1 point de dégât de poison par seconde pendant 24 secondes (annulé par un jet de sauvegarde contre les poisons à -2) et subit immédiatement 6 points de dégâts de poison (pas de jet de sauvegarde)
+- Peut lancer « Arme empoisonnée » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+
+ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
+
+ Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 Désavantages :
 - Il n'a que 15 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -14376,11 +14398,12 @@ Avantages :
 - Bonus de 15 % en Pose de pièges.
 - Peut poser des pièges spéciaux en plus de ceux utilisés par les voleurs tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGES SPÉCIAUX : Permet de poser un piège à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
-  Niveau 1 : Le piège inflige 3d8 +5 dégâts (projectile) et ralentit la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -4.
-  Niveau 11 : Le piège inflige 4d8 +5 dégâts (projectile) et immobilise la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -1.
-  Niveau 16 : Le piège déclenche le sort « Sphère résistante d'Otiluke » ciblé sur la victime pendant 7 rounds si elle échoue à un jet de sauvegarde contre les sorts.
-  Niveau 21 : Le piège déclenche le sort « Labyrinthe » sur la victime.
+POSE DE PIÈGE SPÉCIAL : Permet de poser un piège à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
+  
+ Niveau 1-10 : Le piège inflige 3d8 +5 dégâts (projectile) et ralentit la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -4.
+ Niveau 11-15 : Le piège inflige 4d8 +5 dégâts (projectile) et immobilise la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -1.
+ Niveau 16-20 : Le piège déclenche le sort « Sphère résistante d'Otiluke » ciblé sur la victime pendant 7 rounds si elle échoue à un jet de sauvegarde contre les sorts.
+ Niveau 21 et plus : Le piège déclenche le sort « Labyrinthe » sur la victime.
 
 Désavantages :
 - Il n'a que 20 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -14400,9 +14423,9 @@ Avantages :
 - Peut attribuer 3 étoiles dans le style de combat à deux armes.
 - Peut lancer « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du personnage est doublée et il obtient un bonus 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round, et toutes les attaques font le maximum de dégâts. Ne peut être utilisée en conjonction avec « Hâte » ou « Hâte améliorée ».
+SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, tous ses jets de dégâts font le maximum de dégâts. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.
 
-SPIRALE DÉFENSIVE : Durant les 4 prochains rounds, le personnage ne peut se déplacer, et il obtient un bonus de 1 à la classe d'armure par niveau d'expérience, jusqu'à un maximum de -10.
+SPIRALE DÉFENSIVE : Durant les 4 prochains rounds, le lanceur ne peut pas se déplacer, et il obtient un bonus de 1 à sa classe d'armure par niveau d'expérience, jusqu'à un bonus maximum de 10 à la classe d'armure au niveau 10. Spirale défensive ne peut pas être employée en conjonction avec Spirale offensive. Les effets ne sont pas cumulables.
 
 Désavantages :
 - Score de connaissances divisé par 2.
@@ -14411,9 +14434,10 @@ Désavantages :
 
 Avantages :
 - La chanson du bouffon n'aide pas ses alliés. En revanche, tous les ennemis dans un rayon de 9 mètres doivent réussir un jet de sauvegarde contre les sorts à chaque round sous peine de subir ses effets :
-  Niveau 1 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion.
-  Niveau 15 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
-  Niveau 20 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, un jet de sauvegarde contre les sorts à +2 sous peine de tomber inconscients et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
+
+ Niveau 1-14 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion.
+ Niveau 15-19 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
+ Niveau 20 et plus : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, un jet de sauvegarde contre les sorts à +2 sous peine de tomber inconscients et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
 
 Désavantages :
 - Aucun.~
@@ -14422,9 +14446,10 @@ Désavantages :
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
 - La chanson du Scalde a des effets différents de celle du barde :
-  Niveau 1-14 : Les alliés gagnent un bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
-  Niveau 15-19 : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur.
-  Niveau 20 et plus : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur, l'étourdissement et la confusion.
+
+ Niveau 1-14 : Les alliés gagnent un bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
+ Niveau 15-19 : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur.
+ Niveau 20 et plus : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur, l'étourdissement et la confusion.
 
 Désavantages :
 - Score de Vol à la tire divisé par 4.~
@@ -14434,7 +14459,7 @@ Avantages :
 - Peut lancer « Éclair » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Bouclier tempête » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-BOUCLIER TEMPÊTE : Ce sort dure 1 round par niveau d'expérience du lanceur de sorts. Il le protège contre l'électricité, le feu, le froid et les projectiles non-magiques.
+BOUCLIER TEMPÊTE : Cette capacité immunise le lanceur au feu, au froid, à l'électricité et le protège contre les projectiles non-magiques pendant 1 round par niveau d'expérience du lanceur.
 
 Désavantages :
 - Doit être d'alignement neutre mauvais, chaotique mauvais ou chaotique neutre.~
@@ -14463,7 +14488,7 @@ Désavantages :
 Avantages :
 - Peut lancer « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-CONVOCATION D'UN ESPRIT ANIMAL : Le druide totémique peut invoquer un esprit animal (ours, loup, lion ou serpent) pour l'aider pendant 6 tours. L'esprit animal a 1 dé de vie au niveau 1, 3 dés de vie au niveau 3, 5 dés de vie au niveau 5, 7 dés de vie au niveau 7 et 10 dés de vie au niveau 10.
+CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
 
 Désavantages :
 - Ne peut pas se métamorphoser.~
@@ -14482,12 +14507,13 @@ Avantages :
 - Niveau 7 : Peut se métamorphoser, en plus des formes normales, en araignée-sabre, en bébé wiverne, et en salamandre de feu.
 - Niveau 19 : Acquiert un usage supplémentaire de métamorphose.
 - Six sorts profanes jusqu'au 6ème niveau sont ajoutés à son répertoire :
-  Niveau 1 : Orbe chromatique
-  Niveau 2 : Toile d'araignée
-  Niveau 3 : Éclair
-  Niveau 4 : Invisibilité majeure
-  Niveau 5 : Chaos
-  Niveau 6 : Chaîne d'éclairs
+
+ Niveau 1 : Orbe chromatique.
+ Niveau 2 : Toile d'araignée.
+ Niveau 3 : Éclair.
+ Niveau 4 : Invisibilité majeure.
+ Niveau 5 : Chaos.
+ Niveau 6 : Chaîne d'éclairs.
 
 Désavantages :
 - Ne peut porter d'armure plus lourde que celle de cuir.
@@ -14586,6 +14612,9 @@ Cliquez sur le bouton « Ne plus jamais afficher » pour fermer ce menu dérou
 @1024466 = ~Sorts profanes~
 @1024467 = ~Sorts divins/druidiques~
 @1024485 = ~Êtes-vous sûr(e) de vouloir retirer définitivement ce sort de votre livre de sorts profanes ?~
+@1024493 = ~Dégâts d'attaque sournoise sextuples~
+@1024494 = ~Dégâts d'attaque sournoise octuples~
+@1024495 = ~Dégâts d'attaque sournoise nonuples~
 @1024496 = ~Détecte les pièges / les illusions~
 @1024497 = ~Arrête de détecter les pièges / les illusions~
 @1024500 = ~Arrête de repousser les morts-vivants~
@@ -15754,6 +15783,7 @@ Avantages :
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
 TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau d'expérience de l'archer :
+
  Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
  Niveau 8 : La cible subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
  Niveau 12 : La cible subit un malus de 1 à la Force pendant 10 secondes.
@@ -15768,9 +15798,11 @@ Désavantages :
 Avantages :
 - Bonus de 20 % en Déplacement silencieux et Se cacher dans l'ombre.
 - Peut réaliser des attaques sournoises, mais avec un multiplicateur de dégâts moindre par rapport aux voleurs :
-  Niveau 1-8 : x2
-  Niveau 9-16 : x3
-  Niveau 17 et plus : x4
+
+ Niveau 1-8 : dégâts x2.
+ Niveau 9-16 : dégâts x3.
+ Niveau 17 et plus : dégâts x4.
+ 
 - Accès à trois sorts profanes, à partir du niveau 12 : « Hâte », « Protection contre les projectiles non-magiques » et « Déviation de sorts mineurs ».
 
 Désavantages :
@@ -15791,16 +15823,23 @@ Désavantages :
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
-- L'attaque sournoise peut atteindre un multiplicateur de x7 au lieu de son maximum de x5 (Remarque : cette valeur n'est atteignable qu'à très haut niveau, ce qui n'est possible que dans Baldur's Gate II.).
-- Peut enduire son arme de poison une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- L'attaque sournoise peut atteindre un multiplicateur de dégâts de x7 au lieu de son maximum de x5 (Remarque : cette valeur n'est atteignable qu'à très haut niveau, ce qui n'est possible que dans Baldur's Gate II.).
 
-ARME EMPOISONNÉE :
-Chaque coup réussi au cours du prochain round empoisonnera la cible. Chaque cible ne peut être affectée qu'une fois par round. Le montant des dégâts de poison dépend du niveau d'expérience du personnage :
+ Niveau 1-4 : dégâts x2.
+ Niveau 5-8 : dégâts x3.
+ Niveau 9-12 : dégâts x4.
+ Niveau 13-16 : dégâts x5.
+ Niveau 17-20 : dégâts x6.
+ Niveau 21 et plus : dégâts x7.
 
-Niveau 1 : la cible subit 1 point de dégât de poison par seconde pendant 6 secondes (annulé par un jet de sauvegarde contre les poisons à +1)
-Niveau 5 : la cible subit 1 point de dégât de poison par seconde pendant 12 secondes (annulé par un jet de sauvegarde contre les poisons) et subit immédiatement 2 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 9 : la cible subit 1 point de dégât de poison par seconde pendant 18 secondes (annulé par un jet de sauvegarde contre les poisons à -1) et subit immédiatement 4 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 13 : la cible subit 1 point de dégât de poison par seconde pendant 24 secondes (annulé par un jet de sauvegarde contre les poisons à -2) et subit immédiatement 6 points de dégâts de poison (pas de jet de sauvegarde)
+- Peut lancer « Arme empoisonnée » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+
+ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
+
+ Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 Désavantages :
 - Il n'a que 15 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -15810,11 +15849,12 @@ Avantages :
 - Bonus de 15 % en Pose de pièges.
 - Peut poser des pièges spéciaux en plus de ceux utilisés par les voleurs tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGES SPÉCIAUX : Permet de poser un piège à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
-  Niveau 1 : Le piège inflige 3d8 +5 dégâts (projectile) et ralentit la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -4.
-  Niveau 11 : Le piège inflige 4d8 +5 dégâts (projectile) et immobilise la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -1.
-  Niveau 16 : Le piège déclenche le sort « Sphère résistante d'Otiluke » ciblé sur la victime pendant 7 rounds si elle échoue à un jet de sauvegarde contre les sorts.
-  Niveau 21 : Le piège déclenche le sort « Labyrinthe » sur la victime.
+POSE DE PIÈGE SPÉCIAL : Permet de poser un piège à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
+  
+ Niveau 1-10 : Le piège inflige 3d8 +5 dégâts (projectile) et ralentit la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -4.
+ Niveau 11-15 : Le piège inflige 4d8 +5 dégâts (projectile) et immobilise la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -1.
+ Niveau 16-20 : Le piège déclenche le sort « Sphère résistante d'Otiluke » ciblé sur la victime pendant 7 rounds si elle échoue à un jet de sauvegarde contre les sorts.
+ Niveau 21 et plus : Le piège déclenche le sort « Labyrinthe » sur la victime.
 
 Désavantages :
 - Il n'a que 20 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -15834,9 +15874,9 @@ Avantages :
 - Peut attribuer 3 étoiles dans le style de combat à deux armes.
 - Peut lancer « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du personnage est doublée et il obtient un bonus 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round, et toutes les attaques font le maximum de dégâts. Ne peut être utilisée en conjonction avec « Hâte » ou « Hâte améliorée ».
+SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, tous ses jets de dégâts font le maximum de dégâts. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.
 
-SPIRALE DÉFENSIVE : Durant les 4 prochains rounds, le personnage ne peut se déplacer, et il obtient un bonus de 1 à la classe d'armure par niveau d'expérience, jusqu'à un maximum de -10.
+SPIRALE DÉFENSIVE : Durant les 4 prochains rounds, le lanceur ne peut pas se déplacer, et il obtient un bonus de 1 à sa classe d'armure par niveau d'expérience, jusqu'à un bonus maximum de 10 à la classe d'armure au niveau 10. Spirale défensive ne peut pas être employée en conjonction avec Spirale offensive. Les effets ne sont pas cumulables.
 
 Désavantages :
 - Score de connaissances divisé par 2.
@@ -15845,9 +15885,10 @@ Désavantages :
 
 Avantages :
 - La chanson du bouffon n'aide pas ses alliés. En revanche, tous les ennemis dans un rayon de 9 mètres doivent réussir un jet de sauvegarde contre les sorts à chaque round sous peine de subir ses effets :
-  Niveau 1 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion.
-  Niveau 15 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
-  Niveau 20 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, un jet de sauvegarde contre les sorts à +2 sous peine de tomber inconscients et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
+
+ Niveau 1-14 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion.
+ Niveau 15-19 : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
+ Niveau 20 et plus : les ennemis doivent réussir un jet de sauvegarde contre les sorts à +2 sous peine de confusion, un jet de sauvegarde contre les sorts à +2 sous peine de tomber inconscients et un jet de sauvegarde contre les sorts sous peine d'être ralentis.
 
 Désavantages :
 - Aucun.~
@@ -15856,9 +15897,10 @@ Désavantages :
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
 - La chanson du Scalde a des effets différents de celle du barde :
-  Niveau 1-14 : Les alliés gagnent un bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
-  Niveau 15-19 : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur.
-  Niveau 20 et plus : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur, l'étourdissement et la confusion.
+
+ Niveau 1-14 : Les alliés gagnent un bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
+ Niveau 15-19 : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur.
+ Niveau 20 et plus : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur, l'étourdissement et la confusion.
 
 Désavantages :
 - Score de Vol à la tire divisé par 4.~
@@ -15867,7 +15909,7 @@ Désavantages :
 Avantages :
 - Peut lancer « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-CONVOCATION D'UN ESPRIT ANIMAL : Le druide totémique peut invoquer un esprit animal (ours, loup, lion ou serpent) pour l'aider pendant 6 tours. L'esprit animal a 1 dé de vie au niveau 1, 3 dés de vie au niveau 3, 5 dés de vie au niveau 5, 7 dés de vie au niveau 7 et 10 dés de vie au niveau 10.
+CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
 
 Désavantages :
 - Ne peut pas se métamorphoser.~
@@ -15886,12 +15928,13 @@ Avantages :
 - Niveau 7 : Peut se métamorphoser, en plus des formes normales, en araignée-sabre, en bébé wiverne, et en salamandre de feu.
 - Niveau 19 : Acquiert un usage supplémentaire de métamorphose.
 - Six sorts profanes jusqu'au 6ème niveau sont ajoutés à son répertoire :
-  Niveau 1 : Orbe chromatique
-  Niveau 2 : Toile d'araignée
-  Niveau 3 : Éclair
-  Niveau 4 : Invisibilité majeure
-  Niveau 5 : Chaos
-  Niveau 6 : Chaîne d'éclairs
+
+ Niveau 1 : Orbe chromatique.
+ Niveau 2 : Toile d'araignée.
+ Niveau 3 : Éclair.
+ Niveau 4 : Invisibilité majeure.
+ Niveau 5 : Chaos.
+ Niveau 6 : Chaîne d'éclairs.
 
 Désavantages :
 - Ne peut porter d'armure plus lourde que celle de cuir.
@@ -15902,7 +15945,7 @@ Avantages :
 - Peut lancer « Éclair » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 - Peut lancer « Bouclier tempête » une fois par jour tous les 10 niveaux d'expérience (une utilisation au niveau 1).
 
-BOUCLIER TEMPÊTE : Ce sort dure 1 round par niveau d'expérience du lanceur de sorts. Il le protège contre l'électricité, le feu, le froid et les projectiles non-magiques.
+BOUCLIER TEMPÊTE : Cette capacité immunise le lanceur au feu, au froid, à l'électricité et le protège contre les projectiles non-magiques pendant 1 round par niveau d'expérience du lanceur.
 
 Désavantages :
 - Doit être d'alignement neutre mauvais, chaotique mauvais ou chaotique neutre.~
@@ -16532,8 +16575,6 @@ Ce sort affecte toute personne ou mammifère sur lequel il est lancé. Le terme 
 Si la cible de l'enchantement rate son jet de sauvegarde contre les sorts à +3, elle considère le lanceur comme un véritable ami et allié méritant son attention et sa protection. Le lanceur peut donner des ordres à la créature charmée qui les exécutera aussi vite que possible.
 
 Si le lanceur nuit ou essaie de nuire à la créature sous le charme par une action manifeste, ou si un sort de Dissipation de la magie est jeté avec succès à la créature charmée, le charme est alors rompu. Si plusieurs effets de charmes affectent simultanément une créature, le charme le plus récent prend le dessus. Notez que la créature charmée se souvient parfaitement des événements qui ont eu lieu lorsqu'elle était sous le charme. Notez également qu'une créature charmée ne peut pas quitter la zone où elle a été charmée.~
-@1025833 = ~Pose de pièges~
-@1025834 = ~Pose de pièges spéciaux~
 @1025840 = ~Métamorphose en ours brun~
 @1025841 = ~Peau d'écorce
 (Transmutation)
@@ -16566,6 +16607,7 @@ Zone d'effet : 1 créature
 Jet de sauvegarde : spécial
 
 Ce sort crée une sphère de 60 centimètres de diamètre dans la main du lanceur qui fonce inévitablement vers sa cible. L'effet de l'orbe sur la cible varie en fonction du niveau d'expérience du lanceur. L'orbe inflige des dégâts qui ne peuvent être évités par un jet de sauvegarde, et un effet spécial additionnel contre lequel la cible peut se protéger au moyen d'un jet de sauvegarde contre les sorts à +6 :
+
  Niveau 1 : 1d4 points de dégâts magiques, cécité pendant 1 round.
  Niveau 2 : 1d4 points de dégâts magiques, fait souffrir la victime (pénalité de 1 à la Force, à la Dextérité, à la classe d'armure et au TAC0) pendant 10 secondes.
  Niveau 3 : 1d6 points de dégâts magiques, brûle la victime pour 1d8 points de dégâts de feu supplémentaires.
@@ -17349,10 +17391,12 @@ Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
 Ce sort permet de réveiller d'entre les morts un guerrier squelette qui servira le lanceur quelles que soient les conditions. La puissance du guerrier squelette dépend du niveau d'expérience du lanceur :
-  Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
-  Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
-  Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
-  Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
+ Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
+ Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
+ Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
+ Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
 Le guerrier squelette peut suivre le lanceur, rester dans une zone pour attaquer une créature s'introduisant dans ce lieu, etc. Il reste animé jusqu'à ce qu'il soit détruit au combat, repoussé ou au terme de 8 heures. Ce sort ne peut être dissipé.~
 @1026164 = ~Appel de la foudre
 (Transmutation)
@@ -17641,11 +17685,11 @@ Jet de sauvegarde : annule
 
 Grâce à ce sort, le lanceur peut empoisonner une victime ayant raté son jet de sauvegarde contre les poisons. Les effets exacts dépendent du niveau d'expérience du lanceur et sont détaillés ci-dessous :
 
- Niveau 7-9 : 2d8 (+2 par round)
- Niveau 10-12 : 3d8 (+3 par round)
- Niveau 13-14 : 4d8 (+4 par round)
- Niveau 15-16 : 6d8 (+5 par round)
- Niveau 17 et plus : 8d8 (+6 par round)
+ Niveau 7-9 : 2d8 (+2 par round).
+ Niveau 10-12 : 3d8 (+3 par round).
+ Niveau 13-14 : 4d8 (+4 par round).
+ Niveau 15-16 : 6d8 (+5 par round).
+ Niveau 17 et plus : 8d8 (+6 par round).
 
 Les créatures réussissant leur jet de sauvegarde contre les poisons ne sont pas affectées par ce sort.~
 @1026218 = ~Sainte puissance
@@ -19137,9 +19181,9 @@ Jet de sauvegarde : aucun
 
 Pour jeter ce sort, le lanceur doit projeter en l'air plusieurs œufs d'araignée tout en prononçant la dernière formule magique. Les œufs éclosent aussitôt pour donner vie à des araignées adultes sous son contrôle télépathique. Le type d'araignée dépend du niveau d'expérience du lanceur :
 
-Niveau 7-8 : araignée géante
-Niveau 9-11 : araignée éclipsante
-Niveau 12 et plus : araignée-sabre
+ Niveau 7-8 : araignée géante.
+ Niveau 9-11 : araignée éclipsante.
+ Niveau 12 et plus : araignée-sabre.
 
 Quand le sort est lancé, il existe 20 % de chances qu'il apparaisse deux araignées du type approprié au lieu d'une seule. Les araignées restent sous le contrôle du lanceur jusqu'à ce qu'elles soient tuées ou jusqu'à expiration du sort.~
 @1026478 = ~Œil de magicien
@@ -19170,10 +19214,12 @@ Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
 Ce sort permet de réveiller d'entre les morts un guerrier squelette qui servira le lanceur quelles que soient les conditions. La puissance du guerrier squelette dépend du niveau d'expérience du lanceur :
-  Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
-  Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
-  Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
-  Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
+ Niveau 1-6 : le guerrier squelette a 3 dés de vie et combat avec une épée longue.
+ Niveau 7-10 : le guerrier squelette a 5 dés de vie et combat avec une épée longue +1.
+ Niveau 11-14 : le guerrier squelette a 7 dés de vie et combat avec une épée bâtarde +1.
+ Niveau 15 et plus : le guerrier squelette a 9 dés de vie et combat avec une épée à deux mains +1.
+
 Le guerrier squelette peut suivre le lanceur, rester dans une zone pour attaquer une créature s'introduisant dans ce lieu, etc. Il reste animé jusqu'à ce qu'il soit détruit au combat, repoussé ou au terme de 8 heures. Ce sort ne peut être dissipé.~
 @1026491 = ~Nuage mortel
 (Évocation)
@@ -21497,21 +21543,21 @@ ABSORPTION DE VIE : Inflige 2 points de dégâts magiques par niveau d'expérie
 
 - Peut lancer « Arme empoisonnée » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la cible. Chaque cible ne peut être affectée qu'une fois par round. Le montant des dégâts de poison dépend du niveau d'expérience du personnage :
+ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
 
-Niveau 1 : la cible subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler)
-Niveau 5 : la cible subit 1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler), et subit immédiatement 2 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 9 : la cible subit 1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler), et subit immédiatement 4 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 13 : la cible subit 1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler), et subit immédiatement 6 points de dégâts de poison (pas de jet de sauvegarde)
+ Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 - Peut lancer « Aura de désespoir » une fois par jour à partir du niveau 3.
 
 AURA DE DÉSESPOIR : Lorsque cette capacité est activée, tous les ennemis dans un rayon de 4,5 mètres autour du chevalier noir subissent des effets négatifs en fonction de son niveau d'expérience :
 
-  Niveau 3 : tous les ennemis subissent un malus de 1 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
-  Niveau 6 : tous les ennemis subissent un malus de 2 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
-  Niveau 15 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
-  Niveau 20 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+ Niveau 3-5 : tous les ennemis subissent un malus de 1 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
+ Niveau 6-14 : tous les ennemis subissent un malus de 2 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
+ Niveau 15-19 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+ Niveau 20 et plus : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
 
 Désavantages :
 - Doit être d'alignement mauvais.
@@ -22340,9 +22386,9 @@ Jet de sauvegarde : aucun
 
 Pour jeter ce sort, le lanceur doit projeter en l'air plusieurs œufs d'araignée tout en prononçant la dernière formule magique. Les œufs éclosent aussitôt pour donner vie à des araignées adultes sous son contrôle télépathique. Le type d'araignée dépend du niveau d'expérience du lanceur :
 
-Niveau 7-8 : araignée géante
-Niveau 9-11 : araignée éclipsante
-Niveau 12 et plus : araignée-sabre
+ Niveau 7-8 : araignée géante.
+ Niveau 9-11 : araignée éclipsante.
+ Niveau 12 et plus : araignée-sabre.
 
 Quand le sort est lancé, il existe 20 % de chances qu'il apparaisse deux araignées du type approprié au lieu d'une seule. Les araignées restent sous le contrôle du lanceur jusqu'à ce qu'elles soient tuées ou jusqu'à expiration du sort.~
 @1030233 = ~Immunité contre les sorts
@@ -23737,10 +23783,12 @@ JUMEAU DE L'OMBRE : Cette capacité de haut niveau crée une réplique presque 
 Désavantages :
 - Ne peut être d'alignement loyal.
 - Il a recours à une version moins puissante de l'attaque sournoise des voleurs non spécialisés :
-  Niveaux 1 à 4 : x1 (pas de multiplicateur)
-  Niveaux 5 à 8 : x2
-  Niveaux 9 à 12 : x3
-  Niveau 13 et plus : x4
+
+ Niveau 1-4 : dégâts x1 (pas de multiplicateur).
+ Niveau 5-8 : dégâts x2.
+ Niveau 9-12 : dégâts x3.
+ Niveau 13 et plus : dégâts x4.
+
 - Il n'a que 20 points (30 au niveau 1) à répartir dans ses talents de roublard à chaque niveau d'expérience.
 - Ne peut pas poser de pièges.
 
@@ -23868,18 +23916,20 @@ Remarque : si la résolution de votre écran est inférieure à 1024x768, cette
 @1032213 = ~Oh, je défaille d'entendre cela. Et par « défaillir », je veux dire que ça me fait mal au cœur. Ne vous y trompez pas : je vous suis reconnaissante de m'avoir portée secours, et je suis heureuse de voyager à vos côtés, mais je ne suis pas vraiment ce que l'on peut qualifier de demoiselle en détresse.~ [NEL33]
 @1032220 = ~Pose de piège
 
-Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le voleur augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
-- Niveau 1 : le piège inflige 2d8 +5 points de dégâts (projectile).
-- Niveau 11 : le piège inflige 2d8 +5 points de dégâts (projectile), +2d6 dégâts de poison par round pendant 3 rounds.
-- Niveau 16 : le piège inflige 3d8 +5 points de dégâts (projectile), +4d8 +2 dégâts de feu.
-- Niveau 21 : le piège inflige 3d8 +5 points de dégâts (projectile), +20 dégâts de poison sans jet de sauvegarde ; la cible meurt instantanément si elle rate un jet de sauvegarde contre la mort à +4.~
+Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le voleur augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis. Les effets dépendent du niveau d'expérience du lanceur :
+
+ Niveau 1-10 : le piège inflige 2d8 +5 points de dégâts (projectile).
+ Niveau 11-15 : le piège inflige 2d8 +5 points de dégâts (projectile), +2d6 dégâts de poison par round pendant 3 rounds.
+ Niveau 16-20 : le piège inflige 3d8 +5 points de dégâts (projectile), +4d8 +2 dégâts de feu.
+ Niveau 21 et plus : le piège inflige 3d8 +5 points de dégâts (projectile), +20 dégâts de poison sans jet de sauvegarde ; la cible meurt instantanément si elle rate un jet de sauvegarde contre la mort à +4.~
 @1032221 = ~Pose de piège spécial
 
-Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
-- Niveau 1 : le piège inflige 3d8 +5 points de dégâts (projectile) et ralentit la victime pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
-- Niveau 11 : le piège inflige 4d8 +5 points de dégâts (projectile) et immobilise la victime pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -1.
-- Niveau 16 : le piège déclenche le sort Sphère résistante d'Otiluke sur la victime pendant 7 rounds si elle rate un jet de sauvegarde contre les sorts.
-- Niveau 21 : le piège déclenche le sort Labyrinthe sur la victime.~
+Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis. Les effets dépendent du niveau d'expérience du lanceur :
+
+ Niveau 1-10 : le piège inflige 3d8 +5 points de dégâts (projectile) et ralentit la victime pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
+ Niveau 11-15 : le piège inflige 4d8 +5 points de dégâts (projectile) et immobilise la victime pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -1.
+ Niveau 16-20 : le piège déclenche le sort Sphère résistante d'Otiluke sur la victime pendant 7 rounds si elle rate un jet de sauvegarde contre les sorts.
+ Niveau 21 et plus : le piège déclenche le sort Labyrinthe sur la victime.~
 @1032222 = ~Rayon de la Conscience Solaire
 
 Le personnage projette un rayon de lumière de sa paume, infligeant à une cible unique 1d8 dégâts de feu tous les 2 niveaux d'expérience pour un maximum de 5d8 au niveau 10. Les morts-vivants subissent 6 points de dégâts supplémentaires. Il n'y pas de jet de sauvegarde contre cette capacité.~
@@ -23911,17 +23961,19 @@ Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire,
 @1032230 = ~Aura de désespoir
 
 Cette capacité affecte tous les adversaires à moins de 4,5 mètres, n'autorise pas de jet de sauvegarde, et s'améliore avec les niveaux d'expérience :
-- Niveau 3 : pénalités de 1 aux jets d'attaque, de dégâts et une pénalité de 2 à la classe d'armure pendant 1 tour.
-- Niveau 6 : pénalités de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
-- Niveau 15 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
-- Niveau 20 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.~
+
+ Niveau 3-5 : pénalités de 1 aux jets d'attaque, de dégâts et une pénalité de 2 à la classe d'armure pendant 1 tour.
+ Niveau 6-14 : pénalités de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
+ Niveau 15-19 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+ Niveau 20 et plus : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.~
 @1032231 = ~Tir ajusté
 
 Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets suivants (en plus des dégâts normaux) :
-- Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
-- Niveau 8 : La cible subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
-- Niveau 12 : La cible subit un malus de 1 à la Force pendant 10 secondes.
-- Niveau 16 : La cible subit 2 points de dégâts perforants supplémentaires.~
+
+ Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
+ Niveau 8 : La cible subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
+ Niveau 12 : La cible subit un malus de 1 à la Force pendant 10 secondes.
+ Niveau 16 : La cible subit 2 points de dégâts perforants supplémentaires.~
 @1032233 = ~Pas de l'ombre
 
 Le personnage entre dans le Plan de l'ombre et s'y déplace pendant 7 secondes, tandis que le temps est figé pour tout le reste du monde. Le maître des ombres ne peut ni attaquer, ni lancer de sorts tant qu'il est dans le Plan des Ombres.~
@@ -23941,33 +23993,59 @@ Cet état dure un tour. Sous Furie, le personnage obtient un bonus de 2 aux jets
 À la fin de la Furie, le personnage est essoufflé, et écope d'un malus de 2 aux jets d'attaque, de dégâts ainsi qu'à la classe d'armure pendant 5 rounds.~
 @1032236 = ~Arme empoisonnée
 
-Chaque coup réussi au cours des 5 prochains rounds empoisonnera la cible. Chaque cible ne peut être affectée qu'une fois par round. Le montant des dégâts de poison dépend du niveau d'expérience du personnage :
+Portée : 0
+Durée : 5 rounds
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : spécial
 
-Niveau 1 : la cible subit 1 point de dégât de poison par seconde pendant 6 secondes (annulé par un jet de sauvegarde contre les poisons à +1)
-Niveau 5 : la cible subit 1 point de dégât de poison par seconde pendant 12 secondes (annulé par un jet de sauvegarde contre les poisons) et subit immédiatement 2 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 9 : la cible subit 1 point de dégât de poison par seconde pendant 18 secondes (annulé par un jet de sauvegarde contre les poisons à -1) et subit immédiatement 4 points de dégâts de poison (pas de jet de sauvegarde)
-Niveau 13 : la cible subit 1 point de dégât de poison par seconde pendant 24 secondes (annulé par un jet de sauvegarde contre les poisons à -2) et subit immédiatement 6 points de dégâts de poison (pas de jet de sauvegarde)~
+Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
+
+ Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).~
 @1032237 = ~Spirale offensive
 
-Durant les 4 prochains rounds, la vitesse de déplacement du personnage est doublée et il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round, et toutes ses attaques font le maximum de dégâts. Ne peut être utilisée en conjonction avec « Hâte » ou « Hâte améliorée ».~
+Portée : 0
+Durée : 4 rounds
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, tous ses jets de dégâts font le maximum de dégâts. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.~
 @1032238 = ~Spirale défensive
 
-Durant les 4 prochains rounds, le personnage ne peut se déplacer, et il obtient un bonus de 1 à la classe d'armure par niveau d'expérience, jusqu'à un maximum de -10.~
-@1032239 = ~Convocation d'un esprit animal
+Portée : 0
+Durée : 4 rounds
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
-Peut invoquer un esprit animal particulier (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. Le personnage peut invoquer un animal de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10.~
+Durant les 4 prochains rounds, le lanceur ne peut pas se déplacer, et il obtient un bonus de 1 à sa classe d'armure par niveau d'expérience, jusqu'à un bonus maximum de 10 à la classe d'armure au niveau 10. Spirale défensive ne peut pas être employée en conjonction avec Spirale offensive. Les effets ne sont pas cumulables.~
+@1032239 = ~Convocation d'un esprit animal
+(Conjuration)
+
+Niveau : 6
+Portée : 9 mètres
+Durée : 6 tours
+Temps d'incantation : 1
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
+
+Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.~
 @1032240 = ~Esprit serpent
 
-Le personnage peut invoquer un esprit serpent. L'animal dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10.~
+Le lanceur peut invoquer un esprit serpent. L'esprit serpent dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons.~
 @1032241 = ~Esprit ours
 
-Le personnage peut invoquer un esprit ours. L'animal dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10.~
+Le lanceur peut invoquer un esprit ours. L'esprit ours dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort.~
 @1032242 = ~Esprit lion
 
-Le personnage peut invoquer un esprit lion. L'animal dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10.~
+Le lanceur peut invoquer un esprit lion. L'esprit lion dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10.~
 @1032243 = ~Esprit loup
 
-Le personnage peut invoquer un esprit loup. L'animal dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10.~
+Le lanceur peut invoquer un esprit loup. L'esprit loup dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.~
 @1032244 = ~Métamorphose en araignée
 
 Force : 15
@@ -24027,8 +24105,16 @@ Capacités spéciales :
 - Immunité aux armes non-magiques
 - Vitesse de déplacement diminuée~
 @1032248 = ~Bouclier tempête
+(Abjuration)
 
-Ce sort dure 1 round par niveau d'expérience du lanceur de sorts. Il le protège contre l'électricité, le feu, le froid et les projectiles non-magiques.~
+Niveau : 3
+Portée : 0
+Durée : 1 round par niveau
+Temps d'incantation : 3
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité immunise le lanceur au feu, au froid, à l'électricité et le protège contre les projectiles non-magiques pendant 1 round par niveau d'expérience du lanceur.~
 @1032249 = ~Épée animée
 (Évocation)
 
@@ -24563,17 +24649,19 @@ CAPACITÉS :
 - Il peut utiliser la Danse shamanique à volonté.
 
 DANSE SHAMANIQUE : Les shamans peuvent convoquer des esprits alliés grâce à une danse rituelle. Durant la danse, le shaman subit un malus de 4 à la classe d'armure et il ne peut se déplacer, attaquer, lancer des sorts, utiliser des objets ou des capacités spéciales, ou effectuer toute autre activité. À chaque round, tandis que le shaman danse, il a 35 % de chances de base plus 2 % pour chaque niveau d'expérience supplémentaire qu'un esprit réponde à l'appel, avec un maximum de 75 % au niveau 20. Tous les esprits convoqués disparaîtront si le shaman se déplace, arrête de danser, ou si l'esprit quitte le champ de vision. Les esprits augmentent en puissance au fur et à mesure que le shaman gagne des niveaux d'expérience :
-  Niveau 1 : Esprits animaux mineurs (serpent, renard, limier), jusqu'à 2 esprits en même temps
-  Niveau 6 : Esprits animaux majeurs (ours, panthère, sanglier), jusqu'à 3 esprits en même temps
-  Niveau 12 : Esprits de la nature mineurs (esprit d'air mineur, esprit de terre mineur, esprit de feu mineur), jusqu'à 4 esprits en même temps
-  Niveau 18 : Esprits de la nature majeurs (esprit d'air, esprit de terre, esprit de feu), jusqu'à 5 esprits en même temps
+
+ Niveau 1-5 : Esprits animaux mineurs (serpent, renard, limier), jusqu'à 2 esprits en même temps.
+ Niveau 6-11 : Esprits animaux majeurs (ours, panthère, sanglier), jusqu'à 3 esprits en même temps.
+ Niveau 12-17 : Esprits de la nature mineurs (esprit d'air mineur, esprit de terre mineur, esprit de feu mineur), jusqu'à 4 esprits en même temps.
+ Niveau 18 et plus : Esprits de la nature majeurs (esprit d'air, esprit de terre, esprit de feu), jusqu'à 5 esprits en même temps.
+
 Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disponibles en fonction du niveau d'expérience du shaman. Par exemple, au niveau 12, le shaman convoquera un esprit de la nature mineur, un esprit animal majeur ou un esprit animal mineur, mais il ne pourra pas choisir lesquels apparaîtront. Les esprits feront de leur mieux pour protéger le shaman, mais il ne les contrôle pas directement.
 
-- Aucun bonus de sorts par jour lié à une grande Sagesse
-- Doit être d'alignement neutre bon, neutre strict ou neutre mauvais
-- Ne peut pas être jumelé ou multi-classé
-- Le shaman n'est pas éligible pour une forteresse. (Cela concerne uniquement la campagne Baldur's Gate II : Les Ombres de l'Amn dans Baldur's Gate II : Enhanced Edition.)
-- Dés de vie : d8~
+- Aucun bonus de sorts par jour lié à une grande Sagesse.
+- Doit être d'alignement neutre bon, neutre strict ou neutre mauvais.
+- Ne peut pas être jumelé ou multi-classé.
+- Le shaman n'est pas éligible pour une forteresse (cela concerne uniquement la campagne Baldur's Gate II : Les Ombres de l'Amn dans Baldur's Gate II : Enhanced Edition).
+- Dés de vie : d8.~
 @1032343 = ~Enfant, vos visions de créatures et d'esprits invisibles ont grandement préoccupé votre père adoptif, Gorion. Ce fut seulement après qu'un chaman d'une tribu barbare Uthgardte du Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a effectué la cérémonie d'initiation qui a été la première étape sur la voie de l'esprit pour devenir un chaman.~
 @1032344 = ~SHAMAN : Les Shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les Shamans sont plus spirituels que primitifs. Les Shamans sélectionnent de nouveaux sorts à apprendre quand ils gagnent des niveaux ; une fois appris, le Shaman peut les lancer tous les jours sans mémorisation.~
 @1032346 = ~PRÊTRE DE TYR : Tyr est la divinité de la justice et de la loi. Ses principales préoccupations sont le châtiment des criminels et la promotion globale de la loi et du bien dans le monde. La croyance en la justice rendue par l'exercice bienveillant de la force, ou du moins la vigilance armée, est sa raison d'être. Tyr est une divinité d'importance dans le panthéon féérunien grâce à sa position de meneur de la Triade, un trio de dieux d'alignement loyal bon qui se consacrent collectivement aux concepts de courage, de justice, de persévérance, de devoir, d'obéissance, d'honneur, de soulagement de la souffrance et, dans une certaine mesure, de martyre vertueux.
@@ -24933,7 +25021,7 @@ Poids : 7~
 @1032641 = ~Souhaitez-vous savoir autre chose sur le vol ?~
 @1032643 = ~Pour crocheter une serrure, sélectionnez le bouton Larcin puis le conteneur ou la porte que vous voulez déverrouiller. Si votre compétence en Crochetage de serrures est suffisamment élevée, vous déjouerez le verrou et vous serez en mesure d'ouvrir la porte ou le coffre. Mais méfiez-vous des pièges.~
 @1032646 = ~Les pièges détectés sont surlignés en rouge. Pour les désarmer, sélectionnez le bouton Larcin puis le piège. Si votre compétence en Détection et désamorçage des pièges est suffisamment élevée, le piège sera désarmé.~
-@1032647 = ~Vous trouverez la compétence Pose de pièges dans le menu des capacités spéciales. Sélectionnez l'icône Pose de piège puis l'emplacement sur l'écran où vous voulez poser votre piège. Si votre compétence en Pose de pièges est suffisamment élevée, la prochaine personne qui traversera cet endroit déclenchera le piège et subira des dégâts.~
+@1032647 = ~Vous trouverez la compétence Pose de piège dans le menu des capacités spéciales. Sélectionnez l'icône Pose de piège puis l'emplacement sur l'écran où vous voulez poser votre piège. Si votre compétence en Pose de pièges est suffisamment élevée, la prochaine personne qui traversera cet endroit déclenchera le piège et subira des dégâts.~
 @1032649 = ~Lorsque vous êtes caché, vous pouvez attaquer par derrière avec une arme de classe du Voleur et causer des dégâts supplémentaires d'attaque sournoise. Toute attaque réalisée lorsque vous êtes caché bénéficie d'un bonus de 4 aux jets d'attaque et de dégâts, quelle que soit l'arme utilisée.~ ~Lorsque vous êtes cachée, vous pouvez attaquer par derrière avec une arme de classe du Voleur et causer des dégâts supplémentaires d'attaque sournoise. Toute attaque réalisée lorsque vous êtes cachée bénéficie d'un bonus de 4 aux jets d'attaque et de dégâts, quelle que soit l'arme utilisée.~
 @1032650 = ~En sélectionnant le bouton Détection des pièges, vous restez aux aguets pour tout ce qui sort de l'ordinaire. S'il y a une porte ou un autre objet caché, vous le trouverez automatiquement en même temps que vous détecterez des pièges.~
 @1032652 = ~Effronté, va ! Oui, revenez quand vous le souhaiterez.~ ~Effrontée, va ! Oui, revenez quand vous le souhaiterez.~
@@ -25532,17 +25620,19 @@ CAPACITÉS :
 - Il peut utiliser la Danse shamanique à volonté.
 
 DANSE SHAMANIQUE : Les shamans peuvent convoquer des esprits alliés grâce à une danse rituelle. Durant la danse, le shaman subit un malus de 4 à la classe d'armure et il ne peut se déplacer, attaquer, lancer des sorts, utiliser des objets ou des capacités spéciales, ou effectuer toute autre activité. À chaque round, tandis que le shaman danse, il a 35 % de chances de base plus 2 % pour chaque niveau d'expérience supplémentaire qu'un esprit réponde à l'appel, avec un maximum de 75 % au niveau 20. Tous les esprits convoqués disparaîtront si le shaman se déplace, arrête de danser, ou si l'esprit quitte le champ de vision. Les esprits augmentent en puissance au fur et à mesure que le shaman gagne des niveaux d'expérience :
-  Niveau 1 : Esprits animaux mineurs (serpent, renard, limier), jusqu'à 2 esprits en même temps
-  Niveau 6 : Esprits animaux majeurs (ours, panthère, sanglier), jusqu'à 3 esprits en même temps
-  Niveau 12 : Esprits de la nature mineurs (esprit d'air mineur, esprit de terre mineur, esprit de feu mineur), jusqu'à 4 esprits en même temps
-  Niveau 18 : Esprits de la nature majeurs (esprit d'air, esprit de terre, esprit de feu), jusqu'à 5 esprits en même temps
+
+ Niveau 1-5 : Esprits animaux mineurs (serpent, renard, limier), jusqu'à 2 esprits en même temps.
+ Niveau 6-11 : Esprits animaux majeurs (ours, panthère, sanglier), jusqu'à 3 esprits en même temps.
+ Niveau 12-17 : Esprits de la nature mineurs (esprit d'air mineur, esprit de terre mineur, esprit de feu mineur), jusqu'à 4 esprits en même temps.
+ Niveau 18 et plus : Esprits de la nature majeurs (esprit d'air, esprit de terre, esprit de feu), jusqu'à 5 esprits en même temps.
+
 Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disponibles en fonction du niveau d'expérience du shaman. Par exemple, au niveau 12, le shaman convoquera un esprit de la nature mineur, un esprit animal majeur ou un esprit animal mineur, mais il ne pourra pas choisir lesquels apparaîtront. Les esprits feront de leur mieux pour protéger le shaman, mais il ne les contrôle pas directement.
 
-- Aucun bonus de sorts par jour lié à une grande Sagesse
-- Doit être d'alignement neutre bon, neutre strict ou neutre mauvais
-- Ne peut pas être jumelé ou multi-classé
-- Le shaman n'est pas éligible pour une forteresse. (Cela concerne uniquement la campagne Baldur's Gate II : Les Ombres de l'Amn dans Baldur's Gate II : Enhanced Edition.)
-- Dés de vie : d8~
+- Aucun bonus de sorts par jour lié à une grande Sagesse.
+- Doit être d'alignement neutre bon, neutre strict ou neutre mauvais.
+- Ne peut pas être jumelé ou multi-classé.
+- Le shaman n'est pas éligible pour une forteresse (cela concerne uniquement la campagne Baldur's Gate II : Les Ombres de l'Amn dans Baldur's Gate II : Enhanced Edition).
+- Dés de vie : d8.~
 @1034085 = ~Lorsque vous étiez enfant, vos visions de créatures et d'esprits invisibles préoccupaient grandement votre père adoptif, Gorion. C'est seulement après qu'un chaman d'une tribu barbare uthgardte de Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a accompli pour vous la cérémonie d'initiation qui était la première étape sur la voie de l'esprit pour devenir chaman. Quand votre demi-frère, Sarevok Anchev, a tué votre père, vous avez quitté Château-Suif afin de renforcer vos liens avec les royaumes fantômes. Votre pouvoir a grandi, tout comme ceux de Sarevok ; la confrontation était devenue inévitable. Gorion a été vengé et Sarevok est mort de vos mains. Vous êtes désormais le héros de la Porte de Baldur. Bien que la ville et ses habitants célèbrent votre nom, votre attention est à jamais partagée entre deux mondes coexistants, le monde physique et le monde invisible et spirituel.~ ~Lorsque vous étiez enfant, vos visions de créatures et d'esprits invisibles préoccupaient grandement votre père adoptif, Gorion. C'est seulement après qu'un chaman d'une tribu barbare uthgardte de Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a accompli pour vous la cérémonie d'initiation qui était la première étape sur la voie de l'esprit pour devenir chamane. Quand votre demi-frère, Sarevok Anchev, a tué votre père, vous avez quitté Château-Suif afin de renforcer vos liens avec les royaumes fantômes. Votre pouvoir a grandi, tout comme ceux de Sarevok ; la confrontation était devenue inévitable. Gorion a été vengé et Sarevok est mort de vos mains. Vous êtes désormais l'héroïne de la Porte de Baldur. Bien que la ville et ses habitants célèbrent votre nom, votre attention est à jamais partagée entre deux mondes coexistants, le monde physique et le monde invisible et spirituel.~
 @1034086 = ~Hé ! <CHARNAME>, tu es réveillé ? C'est moi, Imoen.~ [BD34086] ~Hé ! <CHARNAME>, tu es réveillée ? C'est moi, Imoen.~ [BD34086]
 @1034088 = ~SHAMAN : Les Shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les shamans sont plus spirituels que primitifs. Les shamans sélectionnent de nouveaux sorts à apprendre à chaque gain de niveau d'expérience ; une fois appris, le shaman peut les lancer sans avoir besoin de les mémoriser.~
