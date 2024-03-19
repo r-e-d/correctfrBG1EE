@@ -12397,6 +12397,8 @@ Poids : 0~
 @1020713 = ~Soins et articles divers d'Alvanhendar~
 @1020715 = ~Insérez le CD de Baldur's Gate~
 @1020718 = ~restreindre accès aux échoppes~
+@1020723 = ~Minsc encaissera 15 points de dégâts non-létaux lorsqu'il ne sera plus enragé.~
+@1020726 = ~Minsc n'est plus enragé et perd ses 15 points de vie temporaires. S'il possédait 15 points de vie ou moins, cela le rend inconscient.~
 @1020727 = ~J'ai promis à Tremain Belde'ar de porter secours à son fils au Temple d'Umberlie, près des quais. Tremain m'attendra dans une demeure juste au nord de la Maison des Merveilles.~
 @1020728 = ~Laissez-moi, espèce de crustacé insolent !~ [NERED02]
 @1020729 = ~Cette potion permet de gagner une forte résistance contre toutes les attaques et d'acquérir des bonus à chaque jet de sauvegarde. Les effets de l'élixir durent 5 tours, mais ne peuvent servir qu'aux guerriers. Ce liquide est d'une apparence trouble et ne ressemble en rien aux autres potions.
@@ -14136,7 +14138,7 @@ CAPACITÉS :
 - Immunité aux attaques sournoises.
 - Peut lancer « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-RAGE DU BARBARE : Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
+RAGE DU BARBARE : Le lanceur devient enragé pendant 5 rounds. Tant qu'il est enragé, le lanceur obtient un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La Rage du barbare immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
 
 - Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et de projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
 - Dés de vie : d12.~
@@ -14162,10 +14164,9 @@ HIATUS ENTROPIQUE : Un hiatus entropique génère un effet complètement aléat
 Avantages :
 - Peut lancer « Furie » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-FURIE : Cet état dure 1 tour. Sous Furie, le berserker gagne un bonus de 2 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure, et devient immunisé aux charmes, à l'immobilisation, à la peur, à la confusion, à la débilité mentale, au labyrinthe, au drain de niveau, à l'emprisonnement, à l'étourdissement et au sommeil. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de la Furie, pouvant rendre le personnage inconscient.
+FURIE : Le lanceur devient enragé pendant 1 tour. Tant qu'il est enragé, le lanceur obtient un bonus de 2 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure, et devient immunisé aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la débilité mentale, à l'immobilisation, à la paralysie, à l'emprisonnement, au drain de niveau, au labyrinthe, à l'étourdissement et au sommeil. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de la Furie, sous forme de dégâts non-létaux pouvant rendre le lanceur inconscient si ce dernier dispose de 15 points de vie ou moins. À la fin de la Furie, le lanceur est essoufflé, et écope d'un malus de 2 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure pendant 5 rounds. De plus, la capacité Furie ne peut pas être utilisée durant cette période de convalescence.
 
 Désavantages :
-- Essoufflement après la Furie : malus de 2 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure pendant 5 rounds.
 - Ne peut se spécialiser dans les armes à distance.
 - Ne peut pas être d'alignement loyal.~
 @1024285 = ~TUEUR DE MAGICIENS : Ce guerrier a reçu un entraînement spécifique qui lui permet d'exceller dans la chasse et l'attaque des lanceurs de sorts.
@@ -14184,7 +14185,7 @@ Avantages :
 - Bonus de 1 au facteur de vitesse tous les 4 niveaux d'expérience.
 - Peut lancer « Kaï » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-KAÏ : Cette capacité dure 10 secondes et toutes ses attaques, pendant cette période, infligent le maximum de dégâts.
+KAÏ : Cette capacité permet aux jets de dégâts de base de l'arme du lanceur d'infliger le maximum de dégâts pendant 10 secondes. Par exemple, si son arme inflige 2d4 points de dégâts contondants +1d4 points de dégâts de froid, alors le jet de dégâts sera automatiquement de 8 points de dégâts contondants +1d4 points de dégâts de froid.
 
 Désavantages :
 - Ne peut utiliser d'armes à distance.
@@ -14209,7 +14210,7 @@ Avantages :
 - Immunité à l'immobilisation et aux charmes.
 
 Désavantages :
-- Ne peut utiliser la capacité « Imposition des mains ».
+- Ne peut lancer la capacité « Imposition des mains ».
 - Ne peut lancer de sorts divins.
 - Ne peut repousser les morts-vivants.~
 @1024289 = ~CHASSEUR DE MORTS-VIVANTS : Ce guerrier saint a dédié sa vie à l'anéantissement des morts-vivants et autres créatures surnaturelles, et est immunisé contre beaucoup de leurs plus dangereuses capacités.
@@ -14331,17 +14332,17 @@ Avantages :
 - Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
-TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau d'expérience de l'archer :
+TIR AJUSTÉ : Toute attaque à distance réussie du lanceur engendre des effets cumulatifs supplémentaires à la créature touchée en plus des dégâts normaux pendant les prochaines 10 secondes. Les effets dépendent du niveau d'expérience du lanceur et sont cumulables :
 
- Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
- Niveau 8 : La cible subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
- Niveau 12 : La cible subit un malus de 1 à la Force pendant 10 secondes.
- Niveau 16 : La cible subit 2 points de dégâts perforants supplémentaires.
+ Niveau 4 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
+ Niveau 8 : la créature touchée subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
+ Niveau 12 : la créature touchée subit un malus de 1 à la Force pendant 10 secondes.
+ Niveau 16 : la créature touchée subit 2 points de dégâts perforants supplémentaires.
 
 Désavantages :
 - Peut porter uniquement une armure de cuir, une besantine ou une armure de peau.
 - Ne peut être que compétent (une étoile) dans le maniement des armes de mêlée.
-- Ne peut utiliser « Charme-animal ».~
+- Ne peut lancer la capacité « Charme-animal ».~
 @1024299 = ~TRAQUEUR : Le traqueur est toujours à la recherche de renseignements, à l'aise aussi bien en ville que dans la nature. Les traqueurs sont des espions, des informateurs, des enquêteurs ; ils sont les rois du camouflage et de la furtivité, ce qui en fait des adversaires mortels.
 
 Avantages :
@@ -14372,7 +14373,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
-- L'attaque sournoise peut atteindre un multiplicateur de dégâts de x7 au lieu de son maximum de x5 (Remarque : cette valeur n'est atteignable qu'à très haut niveau, ce qui n'est possible que dans Baldur's Gate II.).
+- L'attaque sournoise peut atteindre un multiplicateur de dégâts de x7 au lieu de son maximum de x5.
 
  Niveau 1-4 : dégâts x2.
  Niveau 5-8 : dégâts x3.
@@ -14423,7 +14424,7 @@ Avantages :
 - Peut attribuer 3 étoiles dans le style de combat à deux armes.
 - Peut lancer « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, tous ses jets de dégâts font le maximum de dégâts. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.
+SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, ses jets de dégâts de base de son arme font le maximum de dégâts. Par exemple, si son arme inflige 2d4 points de dégâts contondants +1d4 points de dégâts de froid, alors le jet de dégâts sera automatiquement de 8 points de dégâts contondants +1d4 points de dégâts de froid. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.
 
 SPIRALE DÉFENSIVE : Durant les 4 prochains rounds, le lanceur ne peut pas se déplacer, et il obtient un bonus de 1 à sa classe d'armure par niveau d'expérience, jusqu'à un bonus maximum de 10 à la classe d'armure au niveau 10. Spirale défensive ne peut pas être employée en conjonction avec Spirale offensive. Les effets ne sont pas cumulables.
 
@@ -15739,7 +15740,7 @@ Avantages :
 - Bonus de 1 au facteur de vitesse tous les 4 niveaux d'expérience.
 - Peut lancer « Kaï » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-KAÏ : Cette capacité dure 10 secondes et toutes ses attaques, pendant cette période, infligent le maximum de dégâts.
+KAÏ : Cette capacité permet aux jets de dégâts de base de l'arme du lanceur d'infliger le maximum de dégâts pendant 10 secondes. Par exemple, si son arme inflige 2d4 points de dégâts contondants +1d4 points de dégâts de froid, alors le jet de dégâts sera automatiquement de 8 points de dégâts contondants +1d4 points de dégâts de froid.
 
 Désavantages :
 - Ne peut utiliser d'armes à distance.
@@ -15764,7 +15765,7 @@ Avantages :
 - Immunité à l'immobilisation et aux charmes.
 
 Désavantages :
-- Ne peut utiliser la capacité « Imposition des mains ».
+- Ne peut lancer la capacité « Imposition des mains ».
 - Ne peut lancer de sorts divins.
 - Ne peut repousser les morts-vivants.~
 @1025365 = ~CHASSEUR DE MORTS-VIVANTS : Ce guerrier saint a dédié sa vie à l'anéantissement des morts-vivants et autres créatures surnaturelles, et est immunisé contre beaucoup de leurs plus dangereuses capacités.
@@ -15782,17 +15783,17 @@ Avantages :
 - Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
-TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau d'expérience de l'archer :
+TIR AJUSTÉ : Toute attaque à distance réussie du lanceur engendre des effets cumulatifs supplémentaires à la créature touchée en plus des dégâts normaux pendant les prochaines 10 secondes. Les effets dépendent du niveau d'expérience du lanceur et sont cumulables :
 
- Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
- Niveau 8 : La cible subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
- Niveau 12 : La cible subit un malus de 1 à la Force pendant 10 secondes.
- Niveau 16 : La cible subit 2 points de dégâts perforants supplémentaires.
+ Niveau 4 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
+ Niveau 8 : la créature touchée subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
+ Niveau 12 : la créature touchée subit un malus de 1 à la Force pendant 10 secondes.
+ Niveau 16 : la créature touchée subit 2 points de dégâts perforants supplémentaires.
 
 Désavantages :
 - Peut porter uniquement une armure de cuir, une besantine ou une armure de peau.
 - Ne peut être que compétent (une étoile) dans le maniement des armes de mêlée.
-- Ne peut utiliser « Charme-animal ».~
+- Ne peut lancer la capacité « Charme-animal ».~
 @1025367 = ~TRAQUEUR : Le traqueur est toujours à la recherche de renseignements, à l'aise aussi bien en ville que dans la nature. Les traqueurs sont des espions, des informateurs, des enquêteurs ; ils sont les rois du camouflage et de la furtivité, ce qui en fait des adversaires mortels.
 
 Avantages :
@@ -15823,7 +15824,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
-- L'attaque sournoise peut atteindre un multiplicateur de dégâts de x7 au lieu de son maximum de x5 (Remarque : cette valeur n'est atteignable qu'à très haut niveau, ce qui n'est possible que dans Baldur's Gate II.).
+- L'attaque sournoise peut atteindre un multiplicateur de dégâts de x7 au lieu de son maximum de x5.
 
  Niveau 1-4 : dégâts x2.
  Niveau 5-8 : dégâts x3.
@@ -15874,7 +15875,7 @@ Avantages :
 - Peut attribuer 3 étoiles dans le style de combat à deux armes.
 - Peut lancer « Spirale offensive » et « Spirale défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, tous ses jets de dégâts font le maximum de dégâts. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.
+SPIRALE OFFENSIVE : Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, ses jets de dégâts de base de son arme font le maximum de dégâts. Par exemple, si son arme inflige 2d4 points de dégâts contondants +1d4 points de dégâts de froid, alors le jet de dégâts sera automatiquement de 8 points de dégâts contondants +1d4 points de dégâts de froid. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.
 
 SPIRALE DÉFENSIVE : Durant les 4 prochains rounds, le lanceur ne peut pas se déplacer, et il obtient un bonus de 1 à sa classe d'armure par niveau d'expérience, jusqu'à un bonus maximum de 10 à la classe d'armure au niveau 10. Spirale défensive ne peut pas être employée en conjonction avec Spirale offensive. Les effets ne sont pas cumulables.
 
@@ -15987,7 +15988,7 @@ CAPACITÉS :
 - Immunité aux attaques sournoises.
 - Peut lancer « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-RAGE DU BARBARE : Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
+RAGE DU BARBARE : Le lanceur devient enragé pendant 5 rounds. Tant qu'il est enragé, le lanceur obtient un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La Rage du barbare immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.
 
 - Au niveau 11, le barbare gagne un bonus de 10 % de résistance aux dégâts des armes tranchantes, perforantes et contondantes, et de projectiles. Ces résistances augmentent de 5 % aux niveaux 15 et 19.
 - Dés de vie : d12.~
@@ -16575,6 +16576,9 @@ Ce sort affecte toute personne ou mammifère sur lequel il est lancé. Le terme 
 Si la cible de l'enchantement rate son jet de sauvegarde contre les sorts à +3, elle considère le lanceur comme un véritable ami et allié méritant son attention et sa protection. Le lanceur peut donner des ordres à la créature charmée qui les exécutera aussi vite que possible.
 
 Si le lanceur nuit ou essaie de nuire à la créature sous le charme par une action manifeste, ou si un sort de Dissipation de la magie est jeté avec succès à la créature charmée, le charme est alors rompu. Si plusieurs effets de charmes affectent simultanément une créature, le charme le plus récent prend le dessus. Notez que la créature charmée se souvient parfaitement des événements qui ont eu lieu lorsqu'elle était sous le charme. Notez également qu'une créature charmée ne peut pas quitter la zone où elle a été charmée.~
+@1025829 = ~Le lanceur encaissera 15 points de dégâts non-létaux lorsqu'il ne sera plus enragé.~
+@1025830 = ~Le lanceur n'est plus enragé et perd ses 15 points de vie temporaires. S'il possédait 15 points de vie ou moins, cela le rend inconscient.~
+@1025832 = ~Il y a un piège ici~
 @1025840 = ~Métamorphose en ours brun~
 @1025841 = ~Peau d'écorce
 (Transmutation)
@@ -17887,7 +17891,7 @@ Temps d'incantation : 9
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-La Magie des vertueux est un puissant sort de combat qui améliore les capacités physiques du lanceur, le transformant en une formidable machine de guerre. Ce sort ajoute 1 point de vie temporaire supplémentaire par niveau d'expérience du lanceur, 1 point de Force par tranche de 3 niveaux d'expérience du lanceur (jusqu'à un maximum de 25) et fait que chaque coup réussi inflige les dégâts maximums. Les effets durent jusqu'à la fin du sort ou jusqu'à ce qu'ils soient dissipés par une source extérieure.~
+La Magie des vertueux est un puissant sort de combat qui améliore les capacités physiques du lanceur, le transformant en une formidable machine de guerre. Ce sort ajoute 1 point de vie temporaire supplémentaire par niveau d'expérience du lanceur, 1 point de Force par tranche de 3 niveaux d'expérience du lanceur (jusqu'à un maximum de 25) et permet aux jets de dégâts de base de l'arme du lanceur d'infliger le maximum de dégâts. Par exemple, si son arme inflige 2d4 points de dégâts contondants +1d4 points de dégâts de froid, alors le jet de dégâts sera automatiquement de 8 points de dégâts contondants +1d4 points de dégâts de froid. Les effets durent jusqu'à la fin du sort ou jusqu'à ce qu'ils soient dissipés par une source extérieure.~
 @1026252 = ~Guérison de masse
 (Nécromancie)
 
@@ -21552,18 +21556,18 @@ ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoiso
 
 - Peut lancer « Aura de désespoir » une fois par jour à partir du niveau 3.
 
-AURA DE DÉSESPOIR : Lorsque cette capacité est activée, tous les ennemis dans un rayon de 4,5 mètres autour du chevalier noir subissent des effets négatifs en fonction de son niveau d'expérience :
+AURA DE DÉSESPOIR : Cette capacité affecte toutes les créatures ennemies dans un rayon de 4,5 mètres autour du lanceur. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 3-5 : tous les ennemis subissent un malus de 1 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
- Niveau 6-14 : tous les ennemis subissent un malus de 2 aux jets d'attaque, de dégâts et de 2 à la classe d'armure pendant 1 tour.
- Niveau 15-19 : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
- Niveau 20 et plus : tous les ennemis subissent un malus de 4 aux jets d'attaque, de dégâts et de 4 à la classe d'armure pendant 1 tour, et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+ Niveau 3-5 : les créatures ennemies affectées subissent un malus de 1 aux jets d'attaque, de dégâts et un malus de 2 à la classe d'armure pendant 1 tour.
+ Niveau 6-14 : les créatures ennemies affectées subissent un malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
+ Niveau 15-19 : les créatures ennemies affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour. De plus, les créatures ennemies affectées ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+ Niveau 20 et plus : les créatures ennemies affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour. De plus, les créatures ennemies affectées ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
 
 Désavantages :
 - Doit être d'alignement mauvais.
-- Ne peut utiliser la capacité « Détection du mal ».
-- Ne peut utiliser la capacité « Imposition des mains ».
-- Ne peut utiliser la capacité « Protection contre le mal ».~
+- Ne peut lancer la capacité « Détection du mal ».
+- Ne peut lancer la capacité « Imposition des mains ».
+- Ne peut lancer la capacité « Protection contre le mal ».~
 @1028620 = ~Promettez à cet informateur tout ce qu'il désire en échange de son aide dans l'embuscade contre le moine de la Conscience Solaire. Brisez le moine et apportez son corps à mon disciple dans les Montagnes des Pics Brumeux. Il doit être lui-même témoin de la rupture de son dernier lien avec ce culte détesté de la lune. Quant à cet informateur, Sorrem, débarrassez-vous de lui une fois qu'il aura servi nos objectifs.
 
 A~
@@ -23759,7 +23763,7 @@ Avantages :
 - Esprit fuyant : bonus de 1 aux jets de sauvegarde.
 - Peut lancer « Pas de l'ombre » une fois par jour tous les 5 niveaux d'expérience à partir du niveau 5.
 
-PAS DE L'OMBRE : Permet d'entrer dans le Plan de l'ombre et de s'y déplacer pendant 7 secondes, tandis que le temps est figé pour tout le reste du monde. Dans cet état, le maître des ombres ne peut ni attaquer, ni lancer de sorts.
+PAS DE L'OMBRE : Cette capacité permet au lanceur d'entrer dans le Plan de l'ombre et de s'y déplacer pendant 7 secondes, tandis que le temps est figé pour le reste du monde. Tant qu'il est dans le Plan de l'ombre, le lanceur ne peut ni attaquer ni utiliser des objets ni lancer de sorts ou capacités ou encore effectuer de larcins (Crochetage de serrures, Vol à la tire et Désamorçage des pièges). Cepencant, tant qu'il est dans le Plan de l'ombre, le lanceur peut utiliser Se cacher dans l'ombre, Détection des pièges, Détection des illusions, ramasser des objets ou encore ouvrir des coffres. Il peut déclencher des pièges, mais leurs effets ne se produiront qu'à la fin de la durée de Pas de l'ombre.
 
 - Peut avoir accès aux capacités de haut niveau uniques « Labyrinthe de l'ombre », « Forme de l'ombre » et « Jumeau de l'ombre ».
 
@@ -23848,8 +23852,8 @@ POING DE GLACE : Lorsque cette capacité est activée, les poings du moine de l
 
 Désavantages :
 - Doit être d'alignement loyal mauvais.
-- Ne peut utiliser la capacité « Imposition des mains ».
-- Ne peut utiliser la capacité « Coup étourdissant ».~
+- Ne peut lancer la capacité « Imposition des mains ».
+- Ne peut lancer la capacité « Coup étourdissant ».~
 @1031984 = ~MOINE DE LA CONSCIENCE SOLAIRE : Les moines de la Conscience Solaire étaient les suivants d'Amaunator au temps de Néthéril, mais aujourd'hui, leur culte est divisé entre Lathandre, Séluné et Sunie. Les moines de la Conscience Solaire suivent strictement la loi, et ont recours à leur arts martiaux et leurs capacités magiques pour repousser le mal et la corruption où qu'ils se trouvent.
 
 Avantages :
@@ -23875,8 +23879,8 @@ FAISCEAU DE LA CONSCIENCE SOLAIRE : Le moine de la Conscience Solaire provoque 
 
 Désavantages :
 - Doit être d'alignement loyal bon.
-- Ne peut utiliser la capacité « Coup étourdissant ».
-- Ne peut utiliser la capacité « Paume vibratoire ».~
+- Ne peut lancer la capacité « Coup étourdissant ».
+- Ne peut lancer la capacité « Paume vibratoire ».~
 @1031985 = ~Position défensive~
 @1031986 = ~Attaque de souffle~
 @1031987 = ~La Dague de Kylee~
@@ -23959,24 +23963,52 @@ Si le jeteur de sorts nuit ou essaie de nuire à l'animal sous le charme par une
 
 Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire, et soigne le lanceur d'autant de points de vie. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre ce sort.~
 @1032230 = ~Aura de désespoir
+(Conjuration)
 
-Cette capacité affecte tous les adversaires à moins de 4,5 mètres, n'autorise pas de jet de sauvegarde, et s'améliore avec les niveaux d'expérience :
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 0
+Zone d'effet : rayon de 4,5 mètres
+Jet de sauvegarde : aucun
 
- Niveau 3-5 : pénalités de 1 aux jets d'attaque, de dégâts et une pénalité de 2 à la classe d'armure pendant 1 tour.
- Niveau 6-14 : pénalités de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
- Niveau 15-19 : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
- Niveau 20 et plus : pénalités de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour ; et les ennemis ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.~
+Cette capacité affecte toutes les créatures ennemies dans un rayon de 4,5 mètres autour du lanceur. Les effets dépendent du niveau d'expérience du lanceur :
+
+ Niveau 3-5 : les créatures ennemies affectées subissent un malus de 1 aux jets d'attaque, de dégâts et un malus de 2 à la classe d'armure pendant 1 tour.
+ Niveau 6-14 : les créatures ennemies affectées subissent un malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
+ Niveau 15-19 : les créatures ennemies affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour. De plus, les créatures ennemies affectées ayant 8 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.
+ Niveau 20 et plus : les créatures ennemies affectées subissent un malus de 4 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour. De plus, les créatures ennemies affectées ayant 18 dés de vie (ou niveaux d'expérience) ou moins fuient sous l'effet de la peur.~
 @1032231 = ~Tir ajusté
 
-Toute attaque à distance effectuée dans les 10 secondes qui suivent a les effets suivants (en plus des dégâts normaux) :
+Portée : 0
+Durée : 10 secondes
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
- Niveau 4 : La cible subit un malus de 1 au TAC0 pendant 20 secondes.
- Niveau 8 : La cible subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
- Niveau 12 : La cible subit un malus de 1 à la Force pendant 10 secondes.
- Niveau 16 : La cible subit 2 points de dégâts perforants supplémentaires.~
+Toute attaque à distance réussie du lanceur engendre des effets cumulatifs supplémentaires à la créature touchée en plus des dégâts normaux pendant les prochaines 10 secondes. Les effets dépendent du niveau d'expérience du lanceur et sont cumulables :
+
+ Niveau 4 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
+ Niveau 8 : la créature touchée subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
+ Niveau 12 : la créature touchée subit un malus de 1 à la Force pendant 10 secondes.
+ Niveau 16 : la créature touchée subit 2 points de dégâts perforants supplémentaires.~
+@1032232 = ~Kaï
+
+Portée : 0
+Durée : 10 secondes
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité permet aux jets de dégâts de base de l'arme du lanceur d'infliger le maximum de dégâts pendant 10 secondes. Par exemple, si son arme inflige 2d4 points de dégâts contondants +1d4 points de dégâts de froid, alors le jet de dégâts sera automatiquement de 8 points de dégâts contondants +1d4 points de dégâts de froid.~
 @1032233 = ~Pas de l'ombre
 
-Le personnage entre dans le Plan de l'ombre et s'y déplace pendant 7 secondes, tandis que le temps est figé pour tout le reste du monde. Le maître des ombres ne peut ni attaquer, ni lancer de sorts tant qu'il est dans le Plan des Ombres.~
+Portée : 0
+Durée : 7 secondes
+Temps d'incantation : 1
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité permet au lanceur d'entrer dans le Plan de l'ombre et de s'y déplacer pendant 7 secondes, tandis que le temps est figé pour le reste du monde. Tant qu'il est dans le Plan de l'ombre, le lanceur ne peut ni attaquer ni utiliser des objets ni lancer de sorts ou capacités ou encore effectuer de larcins (Crochetage de serrures, Vol à la tire et Désamorçage des pièges). Cepencant, tant qu'il est dans le Plan de l'ombre, le lanceur peut utiliser Se cacher dans l'ombre, Détection des pièges, Détection des illusions, ramasser des objets ou encore ouvrir des coffres. Il peut déclencher des pièges, mais leurs effets ne se produiront qu'à la fin de la durée de Pas de l'ombre.~
 @1032234 = ~Rage du barbare
 
 Portée : 0
@@ -23985,12 +24017,16 @@ Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Pendant 5 rounds, la rage confère au lanceur un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La rage immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.~
+Le lanceur devient enragé pendant 5 rounds. Tant qu'il est enragé, le lanceur obtient un bonus de 4 en Constitution et en Force, un bonus de 2 aux jets de sauvegarde contre les sorts et un malus de 2 à la classe d'armure. La Rage du barbare immunise aussi le lanceur aux charmes, à l'immobilisation, à la paralysie, à la peur, aux échecs de test de moral, au labyrinthe, à l'étourdissement, au sommeil, à la confusion et au drain de niveau.~
 @1032235 = ~Furie
 
-Cet état dure un tour. Sous Furie, le personnage obtient un bonus de 2 aux jets d'attaque, de dégâts ainsi qu'à la classe d'armure, et devient immunisé aux charmes, à l'immobilisation, à la peur, à la confusion, à la débilité mentale, au labyrinthe, au drain de niveau, à l'emprisonnement, à l'étourdissement et au sommeil. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de la Furie, pouvant rendre le personnage inconscient.
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
-À la fin de la Furie, le personnage est essoufflé, et écope d'un malus de 2 aux jets d'attaque, de dégâts ainsi qu'à la classe d'armure pendant 5 rounds.~
+Le lanceur devient enragé pendant 1 tour. Tant qu'il est enragé, le lanceur obtient un bonus de 2 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure, et devient immunisé aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la débilité mentale, à l'immobilisation, à la paralysie, à l'emprisonnement, au drain de niveau, au labyrinthe, à l'étourdissement et au sommeil. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de la Furie, sous forme de dégâts non-létaux pouvant rendre le lanceur inconscient si ce dernier dispose de 15 points de vie ou moins. À la fin de la Furie, le lanceur est essoufflé, et écope d'un malus de 2 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure pendant 5 rounds. De plus, la capacité Furie ne peut pas être utilisée durant cette période de convalescence.~
 @1032236 = ~Arme empoisonnée
 
 Portée : 0
@@ -24013,7 +24049,7 @@ Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, tous ses jets de dégâts font le maximum de dégâts. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.~
+Durant les 4 prochains rounds, la vitesse de déplacement du lanceur est doublée, il obtient un bonus de 2 aux jets d'attaque et de dégâts, ainsi qu'une attaque supplémentaire par round. De plus, ses jets de dégâts de base de son arme font le maximum de dégâts. Par exemple, si son arme inflige 2d4 points de dégâts contondants +1d4 points de dégâts de froid, alors le jet de dégâts sera automatiquement de 8 points de dégâts contondants +1d4 points de dégâts de froid. Spirale offensive ne peut pas être employée en conjonction avec Spirale défensive ainsi que les sorts profanes de 3ème et 6ème niveau Hâte ou Hâte améliorée ou encore avec une Huile de rapidité. Les effets ne sont pas cumulables.~
 @1032238 = ~Spirale défensive
 
 Portée : 0
@@ -24583,7 +24619,7 @@ Capacités spéciales :
 - Régénère 1 point de vie toutes les 2 secondes~
 @1032330 = ~Berserk
 
-Minsc entre dans un état berserk pendant 2 tours, durant lesquels il obtient un bonus de 2 à la Force et à la Dextérité, ainsi que l'immunité aux charmes, à la confusion, à la peur, à l'immobilisation, à l'étourdissement, au sommeil, à la débilité mentale et au labyrinthe. En outre, il gagne 15 points de vie temporaires, qui lui sont retirés lorsque l'état berserk prend fin (ce qui peut le faire descendre en dessous de 0 points de vie).~
+Minsc devient enragé pendant 1 tour. Tant qu'il est enragé, il obtient un bonus de 2 à la Force et à la Dextérité, ainsi que l'immunité aux charmes, à la confusion, à la peur, à la débilité mentale, à l'immobilisation, à l'étourdissement, au drain de niveau, au sommeil et au labyrinthe. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de Berserk, sous forme de dégâts non-létaux pouvant rendre Minsc inconscient si ce dernier dispose de 15 points de vie ou moins.~
 @1032331 = ~L'aube est particulièrement cruelle ce matin...
 
 Depuis aussi longtemps que vous pouvez vous en souvenir, votre expérience du vaste monde s'est restreinte aux murailles de la bibliothèque fortifiée de Château-Suif. Votre père adoptif, Gorion, a fait tout ce qui était en son pouvoir pour vous protéger du monde extérieur et vous éviter les ennuis.
@@ -24660,7 +24696,7 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 - Aucun bonus de sorts par jour lié à une grande Sagesse.
 - Doit être d'alignement neutre bon, neutre strict ou neutre mauvais.
 - Ne peut pas être jumelé ou multi-classé.
-- Le shaman n'est pas éligible pour une forteresse (cela concerne uniquement la campagne Baldur's Gate II : Les Ombres de l'Amn dans Baldur's Gate II : Enhanced Edition).
+- Le shaman n'est pas éligible pour une forteresse.
 - Dés de vie : d8.~
 @1032343 = ~Enfant, vos visions de créatures et d'esprits invisibles ont grandement préoccupé votre père adoptif, Gorion. Ce fut seulement après qu'un chaman d'une tribu barbare Uthgardte du Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a effectué la cérémonie d'initiation qui a été la première étape sur la voie de l'esprit pour devenir un chaman.~
 @1032344 = ~SHAMAN : Les Shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les Shamans sont plus spirituels que primitifs. Les Shamans sélectionnent de nouveaux sorts à apprendre quand ils gagnent des niveaux ; une fois appris, le Shaman peut les lancer tous les jours sans mémorisation.~
@@ -25631,7 +25667,7 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 - Aucun bonus de sorts par jour lié à une grande Sagesse.
 - Doit être d'alignement neutre bon, neutre strict ou neutre mauvais.
 - Ne peut pas être jumelé ou multi-classé.
-- Le shaman n'est pas éligible pour une forteresse (cela concerne uniquement la campagne Baldur's Gate II : Les Ombres de l'Amn dans Baldur's Gate II : Enhanced Edition).
+- Le shaman n'est pas éligible pour une forteresse.
 - Dés de vie : d8.~
 @1034085 = ~Lorsque vous étiez enfant, vos visions de créatures et d'esprits invisibles préoccupaient grandement votre père adoptif, Gorion. C'est seulement après qu'un chaman d'une tribu barbare uthgardte de Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a accompli pour vous la cérémonie d'initiation qui était la première étape sur la voie de l'esprit pour devenir chaman. Quand votre demi-frère, Sarevok Anchev, a tué votre père, vous avez quitté Château-Suif afin de renforcer vos liens avec les royaumes fantômes. Votre pouvoir a grandi, tout comme ceux de Sarevok ; la confrontation était devenue inévitable. Gorion a été vengé et Sarevok est mort de vos mains. Vous êtes désormais le héros de la Porte de Baldur. Bien que la ville et ses habitants célèbrent votre nom, votre attention est à jamais partagée entre deux mondes coexistants, le monde physique et le monde invisible et spirituel.~ ~Lorsque vous étiez enfant, vos visions de créatures et d'esprits invisibles préoccupaient grandement votre père adoptif, Gorion. C'est seulement après qu'un chaman d'une tribu barbare uthgardte de Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a accompli pour vous la cérémonie d'initiation qui était la première étape sur la voie de l'esprit pour devenir chamane. Quand votre demi-frère, Sarevok Anchev, a tué votre père, vous avez quitté Château-Suif afin de renforcer vos liens avec les royaumes fantômes. Votre pouvoir a grandi, tout comme ceux de Sarevok ; la confrontation était devenue inévitable. Gorion a été vengé et Sarevok est mort de vos mains. Vous êtes désormais l'héroïne de la Porte de Baldur. Bien que la ville et ses habitants célèbrent votre nom, votre attention est à jamais partagée entre deux mondes coexistants, le monde physique et le monde invisible et spirituel.~
 @1034086 = ~Hé ! <CHARNAME>, tu es réveillé ? C'est moi, Imoen.~ [BD34086] ~Hé ! <CHARNAME>, tu es réveillée ? C'est moi, Imoen.~ [BD34086]
@@ -27363,23 +27399,32 @@ Poids : 10~
 @1041000 = ~Nous allons voir ça. Merci, M'Khiin.~
 @1041001 = ~J'espère qu'il ne s'agit pas d'une ruse de champignon. Allons jeter un œil.~
 @1041002 = ~S'il s'agit d'un piège, je vous en tiendrai responsable.~
+@1041005 = ~*le myconide s'agite faiblement*~
 @1041006 = ~Je ne comprends pas... ou peut-être que si ? Vos paroles commencent à avoir du sens.~
 @1041007 = ~Attendez, je commence à vous comprendre. Ou alors je perds la tête. C'est l'un ou l'autre.~
 @1041008 = ~Qu'essayez-vous de dire, créature ?~
+@1041013 = ~*les mouvements du myconide sont de plus en plus faibles*~
 @1041014 = ~J'ai la tête qui tourne. Je dois... me concentrer...~
 @1041015 = ~Les spores m'étourdissent, et me donnent faim. Non, non, ce n'est pas le moment de manger. Concentration.~
 @1041016 = ~Que me faites-vous ? C'est un piège. Je dois garder les idées claires !~
+@1041017 = ~*le myconide bouge sporadiquement*~
 @1041018 = ~Aaargh... Ma tête !~
 @1041019 = ~Je comprends, à présent. Près d'un corps, au nord... Vous voulez que je prenne ce qu'il reste.~
+@1041022 = ~*le myconide meurt après un dernier frémissement*~
+@1041023 = ~*le myconide se penche en avant et gonfle en adoptant une position menaçante*~
 @1041025 = ~Argh, « margle » vous-même.~
 @1041026 = ~Vous me menacez ? Je vous préviens, je sais me défendre.~
+@1041027 = ~*le myconide avance, projetant des spores tout autour de lui*~
 @1041028 = ~J'aimerais parler votre langue, mais ce n'est pas le cas. Toutes mes excuses.~
 @1041029 = ~J'espère que « margle » est un terme flatteur dans la langue des spores.~
 @1041030 = ~Vous commencez à m'agacer, monstre.~
+@1041031 = ~*le myconide avance, projetant des spores tout autour de lui*~
 @1041034 = ~Vous avez beau être en colère, je le serai encore plus si vous n'arrêtez pas.~
+@1041035 = ~*le myconide ondule d'avant en arrière, comme s'il regardait autour de lui... il s'affaisse tristement*~
 @1041036 = ~S'agit-il d'un cimetière ? Je m'excuse. Comprenez-vous mes excuses ?~
 @1041037 = ~Vous abandonnez vos défunts dans de vieilles ruines ? Quelle horrible tradition funéraire. Pardon d'avoir marché sur vos ancêtres.~
 @1041038 = ~Je vais où bon me semble. Ôtez-vous de mon chemin, à présent.~
+@1041039 = ~*le myconide attaque*~
 @1041040 = ~Nous pourrions peut-être vous aider ?~
 @1041041 = ~Braillegosier ! C'est un plaisir de vous voir.~
 @1041042 = ~Vous arrivez au bon moment, surtout si vous comptiez vous faire manger par d'étranges champignons.~
@@ -30958,6 +31003,10 @@ Poids : 10~
 PARAMÈTRES :
 
 Poids : 20~
+@1056415 = ~*le myconide ondule d'avant en arrière, comme s'il regardait autour de lui... il s'affaisse tristement*~
+@1056419 = ~*le myconide s'agite d'une manière menaçante*~
+@1056421 = ~*le myconide enfle de rage*~
+@1056425 = ~*le myconide enfle de rage*~
 @1056454 = ~Je préfèrerais vous épargner, pour le bien de M'Khiin. Accepteriez-vous 100 pièces d'or en symbole de mon respect, et nous laisseriez-vous partir ?~
 @1056460 = ~Hein, c'tait pas vous qui l'aviez traitée de gamine pleurnicharde... ?~
 @1056492 = ~Lieutenante Otilda~
@@ -35166,7 +35215,7 @@ Capacités d'équipement :
 - Force : +1
 
 Capacités de combat :
-- 3 % de chances de provoquer la folie du berserker chez le porteur, perdant ainsi le contrôle de ses actions pendant 3 rounds
+- 3 % de chances de provoquer la folie du berserker chez le porteur pendant 3 rounds
 
 TAC0 : +2
 Dégâts : 1d8 +2 (tranchant), +1 (froid)
@@ -35658,6 +35707,7 @@ Nécessite :
  5 en Force
 
 Poids : 5~
+@1062136 = ~*le myconide attaque*~
 @1062138 = ~Que souhaitez-vous faire maintenant ?~
 @1062139 = ~Ce que je souhaite faire n'a pas d'importance pour Caelar, je le crains. Continuons notre route.~
 @1062140 = ~Parlez-moi de ces voleurs à la taverne du Chant de l'Elfe.~
