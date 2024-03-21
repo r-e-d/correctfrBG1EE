@@ -14332,12 +14332,12 @@ Avantages :
 - Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
-TIR AJUSTÉ : Toute attaque à distance réussie du lanceur engendre des effets cumulatifs supplémentaires à la créature touchée en plus des dégâts normaux pendant les prochaines 10 secondes. Les effets dépendent du niveau d'expérience du lanceur et sont cumulables :
+TIR AJUSTÉ : Pendant les 10 prochaines secondes, toute attaque à distance réussie du lanceur engendre des effets supplémentaires à la créature touchée. Les effets sont cumulables. Par exemple, si un lanceur de niveau 16 réussi son jet d'attaque à trois reprises au cours de la durée de Tir ajusté avec une arme à distance, la créature touchée subit un malus de 3 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes ainsi que 6 dégâts perforants supplémentaires en plus des dégâts normaux. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 4 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
- Niveau 8 : la créature touchée subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
- Niveau 12 : la créature touchée subit un malus de 1 à la Force pendant 10 secondes.
- Niveau 16 : la créature touchée subit 2 points de dégâts perforants supplémentaires.
+ Niveau 4-7 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
+ Niveau 8-11 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes et aux jets de sauvegarde contre les sorts pendant 15 secondes.
+ Niveau 12-15 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes.
+ Niveau 16 et plus : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes. De plus, la créature touchée subit 2 points de dégâts perforants supplémentaires.
 
 Désavantages :
 - Peut porter uniquement une armure de cuir, une besantine ou une armure de peau.
@@ -15783,12 +15783,12 @@ Avantages :
 - Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
-TIR AJUSTÉ : Toute attaque à distance réussie du lanceur engendre des effets cumulatifs supplémentaires à la créature touchée en plus des dégâts normaux pendant les prochaines 10 secondes. Les effets dépendent du niveau d'expérience du lanceur et sont cumulables :
+TIR AJUSTÉ : Pendant les 10 prochaines secondes, toute attaque à distance réussie du lanceur engendre des effets supplémentaires à la créature touchée. Les effets sont cumulables. Par exemple, si un lanceur de niveau 16 réussi son jet d'attaque à trois reprises au cours de la durée de Tir ajusté avec une arme à distance, la créature touchée subit un malus de 3 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes ainsi que 6 dégâts perforants supplémentaires en plus des dégâts normaux. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 4 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
- Niveau 8 : la créature touchée subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
- Niveau 12 : la créature touchée subit un malus de 1 à la Force pendant 10 secondes.
- Niveau 16 : la créature touchée subit 2 points de dégâts perforants supplémentaires.
+ Niveau 4-7 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
+ Niveau 8-11 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes et aux jets de sauvegarde contre les sorts pendant 15 secondes.
+ Niveau 12-15 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes.
+ Niveau 16 et plus : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes. De plus, la créature touchée subit 2 points de dégâts perforants supplémentaires.
 
 Désavantages :
 - Peut porter uniquement une armure de cuir, une besantine ou une armure de peau.
@@ -21543,7 +21543,7 @@ Avantages :
 - Peut repousser les morts-vivants comme un paladin de même niveau d'expérience.
 - Peut lancer « Absorption de vie » une fois par jour.
 
-ABSORPTION DE VIE : Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire, et soigne le chevalier noir d'autant de points de vie.
+ABSORPTION DE VIE : Cette capacité inflige 2 points de dégâts magiques par niveau d'expérience du lanceur à la créature ciblée, et soigne le lanceur d'autant de points de vie. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre cette capacité.
 
 - Peut lancer « Arme empoisonnée » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -23960,8 +23960,15 @@ En cas d'échec du jet de sauvegarde, il considère le lanceur comme un véritab
 
 Si le jeteur de sorts nuit ou essaie de nuire à l'animal sous le charme par une action non déguisée, ou si un sort de Dissipation de la magie est jeté avec succès, le charme est rompu. Si plusieurs effets de charmes affectent simultanément un animal, le charme le plus récent prend le dessus. Notez que le sujet deviendra hostile lorsque le charme prendra fin. Notez aussi que la créature ne peut pas quitter la zone dans laquelle elle a été charmée.~
 @1032229 = ~Absorption de vie
+(Nécromancie)
 
-Inflige 2 points de dégâts magiques par niveau d'expérience à un adversaire, et soigne le lanceur d'autant de points de vie. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre ce sort.~
+Portée : 9 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Cette capacité inflige 2 points de dégâts magiques par niveau d'expérience du lanceur à la créature ciblée, et soigne le lanceur d'autant de points de vie. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre cette capacité.~
 @1032230 = ~Aura de désespoir
 (Conjuration)
 
@@ -23985,12 +23992,12 @@ Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Toute attaque à distance réussie du lanceur engendre des effets cumulatifs supplémentaires à la créature touchée en plus des dégâts normaux pendant les prochaines 10 secondes. Les effets dépendent du niveau d'expérience du lanceur et sont cumulables :
+Pendant les 10 prochaines secondes, toute attaque à distance réussie du lanceur engendre des effets supplémentaires à la créature touchée. Les effets sont cumulables. Par exemple, si un lanceur de niveau 16 réussi son jet d'attaque à trois reprises au cours de la durée de Tir ajusté avec une arme à distance, la créature touchée subit un malus de 3 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes ainsi que 6 dégâts perforants supplémentaires en plus des dégâts normaux. Les effets dépendent du niveau d'expérience du lanceur :
 
- Niveau 4 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
- Niveau 8 : la créature touchée subit un malus de 1 aux jets de sauvegarde contre les sorts pendant 15 secondes.
- Niveau 12 : la créature touchée subit un malus de 1 à la Force pendant 10 secondes.
- Niveau 16 : la créature touchée subit 2 points de dégâts perforants supplémentaires.~
+ Niveau 4-7 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes.
+ Niveau 8-11 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes et aux jets de sauvegarde contre les sorts pendant 15 secondes.
+ Niveau 12-15 : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes.
+ Niveau 16 et plus : la créature touchée subit un malus de 1 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes. De plus, la créature touchée subit 2 points de dégâts perforants supplémentaires.~
 @1032232 = ~Kaï
 
 Portée : 0
