@@ -5091,6 +5091,9 @@ CAPACITÉS :
 - Commence avec deux étoiles dans le style de combat à deux armes.
 - Peut sélectionner une race ennemie, contre laquelle il recevra un bonus de 4 aux jets d'attaque et de dégâts en combat.
 - Peut lancer « Charme-animal » une fois par jour tous les 2 niveaux d'expérience (une utilisation au niveau 1).
+
+CHARME-ANIMAL : Cette capacité charme n'importe quel animal ciblé pendant 2 tours à moins qu'il ne réussisse un jet de sauvegarde contre les sorts. En cas d'échec du jet de sauvegarde contre les sorts, il considère le lanceur comme un véritable ami et allié méritant son attention et sa protection. Le lanceur peut donner des ordres à l'animal charmé qui les exécutera aussi vite que possible. Si le lanceur nuit ou essaie de nuire à l'animal sous le charme par une action manifeste, ou si un sort de Dissipation de la magie est jeté avec succès à l'animal charmé, le charme est alors rompu. Si plusieurs effets de charmes affectent simultanément un animal, le charme le plus récent prend le dessus. Notez que l'animal charmé se souvient parfaitement des événements qui ont eu lieu lorsqu'il était sous le charme. Notez également qu'un animal charmé ne peut pas quitter la zone où il a été charmé.
+
 - Peut se cacher dans l'ombre lorsqu'il porte une armure au moins aussi légère qu'une besantine.
 - Peut lancer des sorts druidiques à partir du niveau 8.
 - Doit être d'alignement bon.
@@ -5105,7 +5108,10 @@ CAPACITÉS :
 - Peut porter n'importe quelle armure et utiliser toutes les armes.
 - Peut se spécialiser (deux étoiles) dans le maniement de n'importe quelle arme.
 - Peut se spécialiser (deux étoiles) dans n'importe quel style de combat, et allouer trois étoiles dans le style de combat à deux armes.
-- Peut lancer « Imposition des mains » une fois par jour pour rendre à une créature un maximum de 2 points de vie par niveau d'expérience.
+- Peut lancer « Imposition des mains » une fois par jour.
+
+IMPOSITION DES MAINS : Le lanceur canalise l'énergie positive pour soigner la créature ciblée de 2 points de vie par niveau d'expérience, jusqu'à un maximum de 68 points de vie au niveau 34.
+
 - Peut lancer « Détection du mal » une fois par jour par niveau d'expérience (quatre utilisations au niveau 1).
 - Peut lancer « Protection contre le mal » une fois par jour par niveau d'expérience.
 - Peut repousser les morts-vivants comme un clerc possédant deux niveaux d'expérience de moins, à partir du niveau 3.
@@ -5124,18 +5130,23 @@ CAPACITÉS :
 - Ne peut être que compétent (une étoile) dans les styles de combat.
 - Peut repousser les morts-vivants.
 - Peut lancer des sorts divins.
-- Dés de vie : d8.~
+- Dés de vie : d8.
+
+Caractéristique requise pour le jumelage : Sagesse.~
 @1009560 = ~DRUIDE : Le druide sert la cause de la nature et de la neutralité. La nature sauvage est sa communauté. Il utilise ses pouvoirs spéciaux pour la protéger et préserver l'équilibre dans le monde.
 
 CAPACITÉS :
 
-- Ne peut porter que des armures non-métalliques.
-- Ne peut utiliser que des targes et des boucliers non-métalliques.
+- Ne peut porter d'armure plus lourde que la besantine.
+- Ne peut utiliser de bouclier plus lourd que la targe.
 - Ne peut utiliser que les armes suivantes : cimeterre, dague, gourdin, lance, bâton, fléchette et fronde.
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
 - Ne peut être que compétent (une étoile) dans les styles de combat.
 - Peut lancer des sorts druidiques.
-- Au niveau 7, il peut changer de forme en loup, en ours noir ou en ours brun une fois par jour.
+- Peut lancer « Métamorphose druidique » une fois par jour à partir du niveau 7.
+
+MÉTAMORPHOSE DRUIDIQUE : Cette capacité permet au lanceur de se métamorphoser en ours noir, en ours brun ou en loup. Chaque métamorphose ne peut être utilisée qu'une fois par jour.
+
 - Au niveau 15, il devient immunisé contre les poisons.
 - Au niveau 18, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 21 et 24.
 - Doit être d'alignement neutre strict.
@@ -6401,6 +6412,7 @@ Poids : 2~
 @1012114 = ~Soins des blessures graves~
 @1012120 = ~~
 @1012126 = ~Niveau pour repousser les morts-vivants~
+@1012127 = ~Montant de l'Imposition des mains~
 @1012140 = ~Armure
 (Conjuration)
 
@@ -9341,7 +9353,9 @@ Les ogres parlent couramment les langages des orques, des trolls, des géants de
 @1016002 = ~Cette chère Phlydia, toujours aussi étourdie, a perdu un autre de ses livres, « L'Histoire de Halruaa » cette fois-ci. La dernière fois qu'elle s'est rendue à Château-Suif, elle a égaré une œuvre entière en quatre tomes dans le foin que nous gardons pour nos vaches.~
 @1016006 = ~Belle journée, pas vrai ? Dommage que Nessa puisse pas en profiter, malade comme elle est. Faut qu'je chipe une de ces potions d'antidote à Hull. Il est resté boire hier soir et s'est fait tirer du lit tôt ce matin pour garder les portes ; alors j'parie qu'il y en a qui traînent quelque part.~
 @1016009 = ~Ah, c'est top ! Reste avec moi et on ira loin... Enfin, bon, si tu restes avec moi, on dépass'ra sans doute jamais les murs d'Château-Suif... Paraît qu'les bandits, z'en ont plus après l'or et les gemmes, mais après l'fer seulement. Encore un de leurs machins, bidules, paradoxes ou j'sais pas quoi. Bref, comme c'est dangereux, il faut porter une solide armure de plates et une hache à faire pâlir Tempus de jalousie ; mais l'ennui, c'est qu'au lieu d'te protéger, ça fait tout l'contraire : tout l'monde veut un bout d'ta personne, tu vois ?! Vu mon caractère, j'crois que j'préfère pas bouger...~
+@1016023 = ~Métamorphose druidique~
 @1016024 = ~Perleflamme Cheveux-d'Elfe, un vieux mage de Bérégost qui vient de temps à autre me rendre visite, a confié un parchemin d'identification à Téthtoril dans les jardins intérieurs. Je vous jure que ce château retomberait en poussière si je n'étais pas là pour m'occuper de tout.~
+@1016025 = ~Ceci n'est pas un sort mais plutôt une capacité innée des druides. Elle leur permet de se métamorphoser en ours.~
 @1016029 = ~Mais qu'est-ce que j'étais en train de faire, déjà ?~
 @1016032 = ~Eh là, gamin ! On cherche des poux dans la tête d'une sentinelle ?! Hé, il m'faut des renforts !~ ~Eh là, gamine ! On cherche des poux dans la tête d'une sentinelle ?! Hé, il m'faut des renforts !~
 @1016057 = ~Il faudrait une péniche remplie de grouilleux sur tous les lacs des Royaumes avant que j'accepte que quelqu'un comme vous revienne. Partez.~
@@ -14114,12 +14128,15 @@ CAPACITÉS :
 COUP ÉTOURDISSANT : Toutes les attaques à mains nues réussies au cours des 9 prochaines secondes obligent les créatures touchées à réussir un jet de sauvegarde contre les sorts sous peine d'être étourdies pendant 9 secondes. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.
 
 - Niveau 5 : Immunité aux maladies, à la hâte et au ralentissement.
-- Niveau 7 : Il peut utiliser « Imposition des mains » pour guérir 2 points de vie par niveau d'expérience.
+- Peut lancer « Imposition des mains (personnelle) » une fois par jour à partir du niveau 7.
+
+IMPOSITION DES MAINS (PERSONNELLE) : Le lanceur canalise l'énergie positive pour se soigner de 2 points de vie par niveau d'expérience, jusqu'à un maximum de 40 points de vie au niveau 20.
+
 - Niveau 8 : Bonus de 1 au facteur de vitesse.
 - Niveau 9 : Bonus de 1 aux jets de sauvegarde et immunité aux charmes.
 - Niveau 11 : Immunité aux poisons.
 - Niveau 12 : Bonus de 1 au facteur de vitesse.
-- Niveau 13 : « Paume Vibratoire » une fois par jour.
+- Niveau 13 : « Paume vibratoire » une fois par jour.
 
 PAUME VIBRATOIRE : Pendant les 5 prochaines secondes, les attaques à mains nues réussies forcent les créatures touchées à réussir un jet de sauvegarde contre les sorts sous peine de mourir. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.
 
@@ -14220,7 +14237,7 @@ Avantages :
 - Immunité à l'immobilisation et au drain de niveau.
 
 Désavantages :
-- Ne peut pas utiliser la capacité « Imposition des mains ».~
+- Ne peut lancer la capacité « Imposition des mains ».~
 @1024290 = ~ABJURATEUR : mage spécialisé dans la magie protectrice.
 
 Avantages :
@@ -14386,10 +14403,10 @@ Avantages :
 
 ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
 
- Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
- Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
- Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
- Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
+ Niveau 1-4 : la créature touchée subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : la créature touchée subit 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : la créature touchée subit 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : la créature touchée subit 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 Désavantages :
 - Il n'a que 15 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -14492,16 +14509,16 @@ Avantages :
 CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
 
 Désavantages :
-- Ne peut pas se métamorphoser.~
+- Ne peut lancer la capacité « Métamorphose druidique ».~
 @1024311 = ~MÉTAMORPHE : Ce druide n'est pas un métamorphe parce qu'il a accès à une grande variété de formes mais plutôt parce qu'il ne se consacre qu'à une seule transformation. Il a accepté d'être infecté par la lycanthropie mais, grâce à son intense entraînement et à son étude approfondie de cette capacité, il est capable de la contrôler. Il devient un loup-garou, l'espèce la plus célèbre de lycanthropes.
 
 Avantages :
-- Peut se métamorphoser en loup-garou une fois par jour tous les 2 niveaux d'expérience (une utilisation au niveau 1).
-- Au niveau 13, il peut se métamorphoser en loup-garou majeur une fois par jour.
+- Peut lancer « Métamorphose en loup-garou » une fois par jour tous les 2 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Métamorphose en loup-garou majeur » une fois par jour à partir du niveau 13.
 
 Désavantages :
 - Ne peut porter aucune armure.
-- Ne peut se métamorphoser en d'autres formes en raison de l'effort requis pour maintenir l'équilibre de sa forme primaire.~
+- Ne peut lancer la capacité « Métamorphose druidique » en raison de l'effort requis pour maintenir l'équilibre de sa forme primaire.~
 @1024312 = ~JUSTICIER : Membre d'une secte spéciale, ce druide s'est dévoué au combat contre ceux qui profanent la nature. Ils possèdent des pouvoirs qui dépassent ceux des druides normaux, qu'ils ont gagnés par des rituels intensifs, très épuisants sur le plan physique.
 
 Avantages :
@@ -15775,7 +15792,7 @@ Avantages :
 - Immunité à l'immobilisation et au drain de niveau.
 
 Désavantages :
-- Ne peut pas utiliser la capacité « Imposition des mains ».~
+- Ne peut lancer la capacité « Imposition des mains ».~
 @1025366 = ~ARCHER : Maître au tir à l'arc, il est capable de réussir les tirs les plus précis et les plus difficiles. Mais pour devenir aussi efficace avec un arc, il doit négliger certaines capacités de port d'armure et de maniement des armes de mêlée.
 
 Avantages :
@@ -15837,10 +15854,10 @@ Avantages :
 
 ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
 
- Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
- Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
- Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
- Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
+ Niveau 1-4 : la créature touchée subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : la créature touchée subit 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : la créature touchée subit 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : la créature touchée subit 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 Désavantages :
 - Il n'a que 15 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -15913,16 +15930,16 @@ Avantages :
 CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
 
 Désavantages :
-- Ne peut pas se métamorphoser.~
+- Ne peut lancer la capacité « Métamorphose druidique ».~
 @1025376 = ~MÉTAMORPHE : Ce druide n'est pas un métamorphe parce qu'il a accès à une grande variété de formes mais plutôt parce qu'il ne se consacre qu'à une seule transformation. Il a accepté d'être infecté par la lycanthropie mais, grâce à son intense entraînement et à son étude approfondie de cette capacité, il est capable de la contrôler. Il devient un loup-garou, l'espèce la plus célèbre de lycanthropes.
 
 Avantages :
-- Peut se métamorphoser en loup-garou une fois par jour tous les 2 niveaux d'expérience (une utilisation au niveau 1).
-- Au niveau 13, il peut se métamorphoser en loup-garou majeur une fois par jour.
+- Peut lancer « Métamorphose en loup-garou » une fois par jour tous les 2 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Métamorphose en loup-garou majeur » une fois par jour à partir du niveau 13.
 
 Désavantages :
 - Ne peut porter aucune armure.
-- Ne peut se métamorphoser en d'autres formes en raison de l'effort requis pour maintenir l'équilibre de sa forme primaire.~
+- Ne peut lancer la capacité « Métamorphose druidique » en raison de l'effort requis pour maintenir l'équilibre de sa forme primaire.~
 @1025377 = ~JUSTICIER : Membre d'une secte spéciale, ce druide s'est dévoué au combat contre ceux qui profanent la nature. Ils possèdent des pouvoirs qui dépassent ceux des druides normaux, qu'ils ont gagnés par des rituels intensifs, très épuisants sur le plan physique.
 
 Avantages :
@@ -16560,6 +16577,7 @@ Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
 Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un rayon de 4,5 mètres reçoivent individuellement le sort Protection contre le mal. Ce sort crée une barrière magique autour des bénéficiaires à 30 centimètres de distance. La barrière se déplace avec les bénéficiaires et a deux effets majeurs : premièrement, les bénéficiaires reçoivent un bonus de 2 à leurs jets de sauvegarde et à leur classe d'armure contre toute attaque effectuée par les créatures d'alignement mauvais. Deuxièmement, les démons convoqués ne peuvent pas prendre pour cible les bénéficiaires. Les effets ne sont pas cumulables.~
+@1025826 = ~Charme-animal~
 @1025827 = ~Charme-personne ou mammifère
 (Enchantement/Charme)
 
@@ -16698,6 +16716,8 @@ Nécessite :
 Poids : 3~
 @1025880 = ~Araignée éclipsante~
 @1025881 = ~Araignée éclipsante~
+@1025884 = ~Métamorphose druidique~
+@1025885 = ~Ceci n'est pas un sort mais plutôt une capacité innée des druides. Elle leur permet de se métamorphoser en ours.~
 @1025888 = ~Ralentissement du poison
 (Nécromancie)
 
@@ -21549,10 +21569,10 @@ ABSORPTION DE VIE : Cette capacité inflige 2 points de dégâts magiques par n
 
 ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
 
- Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
- Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
- Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
- Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
+ Niveau 1-4 : la créature touchée subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : la créature touchée subit 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : la créature touchée subit 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : la créature touchée subit 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).
 
 - Peut lancer « Aura de désespoir » une fois par jour à partir du niveau 3.
 
@@ -23863,7 +23883,7 @@ RAYON DE LA CONSCIENCE SOLAIRE : Le moine de la Conscience Solaire projette un 
 
 - Niveau 5 : « Poings enflammés » une fois par jour.
 
-POINGS ENFLAMMÉS : Le moine de la Conscience Solaire concentre sa lumière intérieure dans ses attaques à mains nues, transformant ses poings en armes enflammées qui infligent 2d6 points de dégâts de feu supplémentaires pendant un round. La durée de cette capacité augmente jusqu'à 2 rounds au niveau 9, 3 rounds au niveau 12, 4 rounds au niveau 15 et 5 rounds au niveau 25. Cette capacité spéciale modifie automatiquement les attaques de base ; il n'y a pas besoin de changer d'arme.
+POINGS ENFLAMMÉS : Le lanceur concentre sa lumière intérieure dans ses attaques à mains nues, transformant ses poings en armes enflammées qui infligent 2d6 points de dégâts de feu supplémentaires pendant 1 round. La durée de cette capacité augmente jusqu'à 2 rounds au niveau 9, 3 rounds au niveau 12, 4 rounds au niveau 15 et 5 rounds au niveau 25. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.
 
 - Niveau 6 : Peut avoir recours à « Rayon de la Conscience Solaire » deux fois par jour.
 - Niveau 8 : « Soleil Ascendant » une fois par jour.
@@ -23944,21 +23964,44 @@ Le personnage se nimbe de flammes qui agissent comme un Bouclier de feu (rouge),
 
 Le personnage provoque une explosion de lumière intense qui touche toutes les créatures à moins de 4,5 mètres à la ronde. Les victimes subissent 9d6 points de dégâts de feu, +3 contre les morts-vivants, mais peuvent diviser les dommages par deux grâce à un jet de sauvegarde contre les sorts. En outre, toutes les créatures (excepté le personnage) doivent réussir un jet de sauvegarde contre les sorts pour ne pas être aveuglées pendant deux heures.~
 @1032225 = ~Imposition des mains (personnelle)
+(Nécromancie)
 
-Le personnage puise dans l'énergie positive pour se soigner à hauteur de 2 points de vie par niveau d'expérience.~
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Le lanceur canalise l'énergie positive pour se soigner de 2 points de vie par niveau d'expérience, jusqu'à un maximum de 40 points de vie au niveau 20.~
 @1032226 = ~Imposition des mains
+(Nécromancie)
 
-Le personnage puise dans l'énergie positive pour soigner une créature qu'il touche à hauteur de 2 points de vie par niveau d'expérience.~
+Portée : contact
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Le lanceur canalise l'énergie positive pour soigner la créature ciblée de 2 points de vie par niveau d'expérience, jusqu'à un maximum de 68 points de vie au niveau 34.~
 @1032227 = ~Poings enflammés
 
-Le personnage concentre sa lumière intérieure dans ses attaques à mains nues, transformant ses poings en armes enflammées qui infligent 2d6 dégâts de feu supplémentaires pendant un round. La durée de cette capacité augmente jusqu'à 2 rounds au niveau 9, 3 rounds au niveau 12, 4 rounds au niveau 15 et 5 rounds au niveau 25. Cette capacité spéciale modifie automatiquement les attaques de base ; il n'y a pas besoin de changer d'arme.~
+Portée : 0
+Durée : spéciale
+Temps d'incantation : 1
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Le lanceur concentre sa lumière intérieure dans ses attaques à mains nues, transformant ses poings en armes enflammées qui infligent 2d6 points de dégâts de feu supplémentaires pendant 1 round. La durée de cette capacité augmente jusqu'à 2 rounds au niveau 9, 3 rounds au niveau 12, 4 rounds au niveau 15 et 5 rounds au niveau 25. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.~
 @1032228 = ~Charme-animal
+(Enchantement)
 
-Ce sort affecte n'importe quel animal ciblé. Ce dernier a tout de même droit à un jet de sauvegarde contre les sorts pour y échapper. Le charme dure deux tours.
+Portée : contact
+Durée : 2 tours
+Temps d'incantation : 1
+Zone d'effet : 1 animal
+Jet de sauvegarde : annule
 
-En cas d'échec du jet de sauvegarde, il considère le lanceur comme un véritable ami et allié méritant son attention et sa protection. Le lanceur peut lui donner des ordres auxquels il obéira le plus vite possible.
-
-Si le jeteur de sorts nuit ou essaie de nuire à l'animal sous le charme par une action non déguisée, ou si un sort de Dissipation de la magie est jeté avec succès, le charme est rompu. Si plusieurs effets de charmes affectent simultanément un animal, le charme le plus récent prend le dessus. Notez que le sujet deviendra hostile lorsque le charme prendra fin. Notez aussi que la créature ne peut pas quitter la zone dans laquelle elle a été charmée.~
+Cette capacité charme n'importe quel animal ciblé pendant 2 tours à moins qu'il ne réussisse un jet de sauvegarde contre les sorts. En cas d'échec du jet de sauvegarde contre les sorts, il considère le lanceur comme un véritable ami et allié méritant son attention et sa protection. Le lanceur peut donner des ordres à l'animal charmé qui les exécutera aussi vite que possible. Si le lanceur nuit ou essaie de nuire à l'animal sous le charme par une action manifeste, ou si un sort de Dissipation de la magie est jeté avec succès à l'animal charmé, le charme est alors rompu. Si plusieurs effets de charmes affectent simultanément un animal, le charme le plus récent prend le dessus. Notez que l'animal charmé se souvient parfaitement des événements qui ont eu lieu lorsqu'il était sous le charme. Notez également qu'un animal charmé ne peut pas quitter la zone où il a été charmé.~
 @1032229 = ~Absorption de vie
 (Nécromancie)
 
@@ -24044,10 +24087,10 @@ Jet de sauvegarde : spécial
 
 Chaque coup réussi au cours des 5 prochains rounds empoisonnera la créature touchée. Chaque créature touchée ne peut être affectée qu'une fois par round et les dégâts périodiques sont cumulables. Le montant des dégâts de poison dépend du niveau d'expérience du lanceur :
 
- Niveau 1-4 : 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
- Niveau 5-8 : 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
- Niveau 9-12 : 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
- Niveau 13 et plus : 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).~
+ Niveau 1-4 : la créature touchée subit 1 point de dégât de poison par seconde pendant 6 secondes (jet de sauvegarde contre les poisons à +1 pour annuler).
+ Niveau 5-8 : la créature touchée subit 2 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 12 secondes (jet de sauvegarde contre les poisons pour annuler).
+ Niveau 9-12 : la créature touchée subit 4 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 18 secondes (jet de sauvegarde contre les poisons à -1 pour annuler).
+ Niveau 13 et plus : la créature touchée subit 6 points de dégâts de poison (sans jet de sauvegarde), +1 point de dégât de poison par seconde pendant 24 secondes (jet de sauvegarde contre les poisons à -2 pour annuler).~
 @1032237 = ~Spirale offensive
 
 Portée : 0
@@ -24078,18 +24121,56 @@ Jet de sauvegarde : aucun
 
 Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.~
 @1032240 = ~Esprit serpent
+(Conjuration)
+
+Niveau : 1
+Portée : 9 mètres
+Durée : 6 tours
+Temps d'incantation : 1
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
 
 Le lanceur peut invoquer un esprit serpent. L'esprit serpent dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons.~
 @1032241 = ~Esprit ours
+(Conjuration)
+
+Niveau : 1
+Portée : 9 mètres
+Durée : 6 tours
+Temps d'incantation : 1
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
 
 Le lanceur peut invoquer un esprit ours. L'esprit ours dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort.~
 @1032242 = ~Esprit lion
+(Conjuration)
+
+Niveau : 1
+Portée : 9 mètres
+Durée : 6 tours
+Temps d'incantation : 1
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
 
 Le lanceur peut invoquer un esprit lion. L'esprit lion dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10.~
 @1032243 = ~Esprit loup
+(Conjuration)
+
+Niveau : 1
+Portée : 9 mètres
+Durée : 6 tours
+Temps d'incantation : 1
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
 
 Le lanceur peut invoquer un esprit loup. L'esprit loup dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.~
 @1032244 = ~Métamorphose en araignée
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 15
 Dextérité : 17
@@ -24103,6 +24184,12 @@ Capacités spéciales :
 - Vitesse de déplacement augmentée~
 @1032245 = ~Métamorphose en bébé wiverne
 
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
 Force : 16
 Dextérité : 17
 
@@ -24113,6 +24200,12 @@ Dégâts : 1d6 (perforant), +5 par seconde pendant 20 secondes (poison, jet de 
 Capacités spéciales :
 - Immunité à l'immobilisation, à la paralysie, au ralentissement, au drain de niveau, aux toiles d'araignées, à l'enchevêtrement et aux sorts de Glisse.~
 @1032246 = ~Métamorphose en salamandre de feu
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 18/75
 Dextérité : 19
@@ -24127,6 +24220,12 @@ Capacités spéciales :
 - Résistance au feu : 50 %
 - Souffle de feu trois fois par jour (inflige 2d6 de points de dégâts de feu à la cible)~
 @1032247 = ~Métamorphose en gelée moutarde
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 14
 Dextérité : 9
@@ -24216,7 +24315,22 @@ Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
 Le lanceur gagne un bonus de 2 à ses jets de sauvegarde, 50 % de résistance à toute forme de dégâts physiques, et un malus de 50 % à sa vitesse de déplacement pendant un tour. Position défensive ne peut pas être employée en conjonction avec Résistance d'acier.~
+@1032255 = ~Métamorphose druidique
+
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Cette capacité permet au lanceur de se métamorphoser en ours noir, en ours brun ou en loup. Chaque métamorphose ne peut être utilisée qu'une fois par jour.~
 @1032256 = ~Métamorphose en loup
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 15
 Dextérité : 18
@@ -24232,6 +24346,12 @@ Capacités spéciales :
 - Vitesse de déplacement augmentée~
 @1032257 = ~Métamorphose en ours brun
 
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
 Force : 18/00
 Dextérité : 12
 
@@ -24242,6 +24362,12 @@ Dégâts : 1d6 (perforant), frappe comme une arme d'enchantement +1
 Capacités spéciales :
 - Vitesse de déplacement augmentée~
 @1032258 = ~Métamorphose en ours noir
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 18/00
 Dextérité : 12
@@ -24254,8 +24380,20 @@ Capacités spéciales :
 - Vitesse de déplacement augmentée~
 @1032259 = ~Métamorphose en forme naturelle
 
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
 Cette capacité permet au personnage de mettre fin à la métamorphose et de reprendre sa forme originale.~
 @1032260 = ~Métamorphose en flind
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 17
 Dextérité : 17
@@ -24269,6 +24407,12 @@ Capacités spéciales :
 - Vitesse de déplacement augmentée~
 @1032261 = ~Métamorphose en ogre
 
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
 Force : 18/00
 Dextérité : 9
 
@@ -24279,6 +24423,12 @@ Dégâts : 4d6 (contondant), frappe comme une arme d'enchantement +1
 Capacités spéciales :
 - Vitesse de déplacement augmentée~
 @1032262 = ~Changement de forme en flagelleur mental
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 10
 Dextérité : 10
@@ -24294,6 +24444,12 @@ Capacités spéciales :
 - Souffle psionique (étourdit les créatures ennemies pendant 1 tour si elles ratent un jet de sauvegarde contre les sorts)~
 @1032263 = ~Changement de forme en golem de fer
 
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
 Force : 24
 Dextérité : 9
 
@@ -24302,19 +24458,25 @@ Attaques par round : 1
 Dégâts : 4d10 (contondant), frappe comme une arme d'enchantement +4
 
 Capacités spéciales :
-- Résistance au feu : 125 %
-- Résistance au feu magique : 125 %
-- Résistance au froid : 100 %
-- Résistance au froid magique : 100 %
-- Résistance à l'électricité : 100 %
-- Résistance à l'acide : 100 %
 - Résistance à la magie : 100 %
 - Résistance aux dégâts tranchants : 20 %
 - Résistance aux dégâts contondants : 20 %
 - Résistance aux dégâts perforants : 20 %
 - Résistance aux dégâts de projectiles : 20 %
+- Résistance au feu : 125 %
+- Résistance au feu magique : 125 %
+- Résistance au froid magique : 100 %
+- Résistance au froid : 100 %
+- Résistance à l'électricité : 100 %
+- Résistance à l'acide : 100 %
 - Immunité aux armes d'enchantement +2 ou inférieures, aux attaques sournoises, au sommeil, à la peur, à l'immobilisation, aux charmes, à la paralysie et aux poisons~
 @1032264 = ~Changement de forme en troll géant
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 18
 Dextérité : 20
@@ -24327,6 +24489,12 @@ Capacités spéciales :
 - Immunité à l'étourdissement, au sommeil, à l'immobilisation et à la paralysie
 - Régénère 1 point de vie par seconde~
 @1032265 = ~Changement de forme en muloup majeur
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 19
 Dextérité : 19
@@ -24342,9 +24510,15 @@ Capacités spéciales :
 - Résistance au froid magique : 50 %
 - Résistance à l'électricité : 50 %
 - Résistance à l'acide : 50 %
-- Immunité aux armes d'enchantement +1 ou inférieures.
-- Régénère 8 points de vie par seconde.~
+- Immunité aux armes d'enchantement +1 ou inférieures
+- Régénère 8 points de vie par seconde~
 @1032266 = ~Changement de forme en élémentaire de feu
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 9
 Dextérité : 9
@@ -24359,6 +24533,12 @@ Capacités spéciales :
 - Immunité aux armes d'enchantement +2 ou inférieures~
 @1032267 = ~Changement de forme en élémentaire de terre
 
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
 Force : 19
 Dextérité : 9
 
@@ -24367,7 +24547,7 @@ Attaques par round : 1
 Dégâts : 4d8 (contondant), frappe comme une arme d'enchantement +4
 
 Capacités spéciales :
-- Immunité aux armes d'enchantement +2 ou inférieures.~
+- Immunité aux armes d'enchantement +2 ou inférieures~
 @1032268 = ~Souffle de feu
 
 Portée : 4,5 mètres
@@ -24599,6 +24779,12 @@ Nous réalisons régulièrement de nombreuses améliorations au jeu. N'hésitez 
 Lorsque cette capacité est activée, les poings du moine de la Lune Noire se nimbent d'une coquille de glace. Pendant un tour, les attaques à mains nues infligent 2 dégâts de froid supplémentaires.~
 @1032328 = ~Métamorphose en loup-garou
 
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
 Force : 19
 Dextérité : 16
 
@@ -24609,6 +24795,12 @@ Dégâts : 1d6 (tranchant), frappe comme une arme d'enchantement +2
 Capacités spéciales :
 - Résistance à la magie : 20 %~
 @1032329 = ~Métamorphose en loup-garou majeur
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 21
 Dextérité : 20
@@ -24625,6 +24817,12 @@ Capacités spéciales :
 - Résistance à la magie : 40 %
 - Régénère 1 point de vie toutes les 2 secondes~
 @1032330 = ~Berserk
+
+Portée : 0
+Durée : 2 tours
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Minsc devient enragé pendant 1 tour. Tant qu'il est enragé, il obtient un bonus de 2 à la Force et à la Dextérité, ainsi que l'immunité aux charmes, à la confusion, à la peur, à la débilité mentale, à l'immobilisation, à l'étourdissement, au drain de niveau, au sommeil et au labyrinthe. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de Berserk, sous forme de dégâts non-létaux pouvant rendre Minsc inconscient si ce dernier dispose de 15 points de vie ou moins.~
 @1032331 = ~L'aube est particulièrement cruelle ce matin...
@@ -25231,6 +25429,12 @@ CHAOTIQUE BON : Dragon fée
 - Combat : 2 attaques par round, 15 au TAC0, 1d2 dégâts
 - Capacités spéciales : peut lancer Image miroir une fois par jour ; immunisé au drain de niveau, au sommeil et à la pétrification.~
 @1032889 = ~Métamorphose en araignée-sabre
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
 Force : 16
 Dextérité : 16
