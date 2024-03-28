@@ -5171,14 +5171,14 @@ CAPACITÉS :
  Niveau 9-12 : dégâts x4.
  Niveau 13 et plus : dégâts x5.
 
-- Peut poser un piège une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Pose de piège » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGE : Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le voleur augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
+POSE DE PIÈGE : Permet au lanceur de poser un piège à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur doit se déplacer à l'endroit ciblé pour poser le piège. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège ne peut être déclenché que par les créatures ennemies. Les effets du piège dépendent du niveau d'expérience du lanceur :
 
- Niveau 1-10 : le piège inflige 2d8 +5 dégâts (projectile).
- Niveau 11-15 : le piège inflige 2d8 +5 dégâts (projectile), +2d6 dégâts de poison par round pendant 3 rounds.
- Niveau 16-20 : le piège inflige 3d8 +5 dégâts (projectile), +4d8 +2 dégâts de feu.
- Niveau 21 et plus : le piège inflige 3d8 +5 dégâts (projectile), +20 dégâts de poison sans jet de sauvegarde ; la cible meurt instantanément si elle échoue à un jet de sauvegarde contre la mort à +4.
+ Niveau 1-10 : la créature touchée subit 2d8 +5 points de dégâts de projectiles.
+ Niveau 11-15 : la créature touchée subit 2d8 +5 points de dégâts de projectiles, +2d6 points de dégâts de poison par round pendant 3 rounds.
+ Niveau 16-20 : la créature touchée subit 3d8 +5 points de dégâts de projectiles, +4d8 +2 points de dégâts de feu.
+ Niveau 21 et plus : la créature touchée subit 3d8 +5 points de dégâts de projectiles, +20 points de dégâts de poison. De plus, la créature touchée est tuée instantanément si elle rate un jet de sauvegarde contre la mort à +4.
 
 - Ne peut pas être d'alignement loyal bon.
 - Dés de vie : d6.
@@ -5201,7 +5201,7 @@ CAPACITÉS :
  Protection contre la peur.
  Apaisement de la peur.
 
-- Doit être d'alignement partiellement neutre.
+- Doit être d'alignement loyal neutre, neutre bon, neutre strict, neutre mauvais ou chaotique neutre.
 - Dés de vie : d6.~
 @1009574 = ~GUERRIER / MAGE : Ce personnage peut utiliser les capacités d'un guerrier et d'un mage, toutefois il ne peut lancer de sort tant qu'il porte une armure. Il peut atteindre la spécialisation, mais pas la maîtrise dans le maniement des armes.
 
@@ -10494,7 +10494,7 @@ Poids : 0~
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
 - TAC0 : +15 contre les ogres-mages
 
 Capacités de combat :
@@ -14110,7 +14110,7 @@ CAPACITÉS :
 - Ne peut utiliser que les armes de voleur, sauf les armes à deux mains.
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
 - Ne peut être que compétent (une étoile) dans le style de combat à une arme, et ne peut pas avoir recours aux autres styles de combat.
-- Bonus de 2 points en vitesse de déplacement, et 1 point supplémentaire tous les 5 niveaux d'expérience.
+- Bonus de 2 en vitesse de déplacement, et 1 supplémentaire tous les 5 niveaux d'expérience.
 - Le moine peut effectuer une attaque à mains nues par tour ; il gagne 1/2 attaque supplémentaire tous les 3 niveaux d'expérience. Quand le moine gagne des niveaux d'expérience, les dégâts infligés par ses poings augmentent également :
 
  Niveau 1-2 : 1d6.
@@ -14121,7 +14121,7 @@ CAPACITÉS :
 
 - Au niveau 9, le poing du moine est considéré comme une arme d'enchantement +1 et bénéficie donc d'un bonus de 1 à ses jets d'attaque et de dégâts. Ce bonus évolue pour atteindre 2 au niveau 12, 3 au niveau 15 et 4 au niveau 25.
 - Bonus de 2 aux jets de sauvegarde contre les sorts.
-- Parade de projectiles : Bonus de 1 à la classe d'armure contre les projectiles par tranche de 3 niveaux d'expérience.
+- Bonus de 1 à la classe d'armure contre les projectiles tous les 3 niveaux d'expérience.
 - La classe d'armure initiale d'un moine est de 9 au niveau 1, et diminue ensuite de 1 tous les 2 niveaux d'expérience.
 - Peut lancer « Coup étourdissant » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -14414,14 +14414,14 @@ Désavantages :
 
 Avantages :
 - Bonus de 15 % en Pose de pièges.
-- Peut poser des pièges spéciaux en plus de ceux utilisés par les voleurs tous les 5 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Pose de piège spécial » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGE SPÉCIAL : Permet de poser un piège à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
-  
- Niveau 1-10 : Le piège inflige 3d8 +5 dégâts (projectile) et ralentit la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -4.
- Niveau 11-15 : Le piège inflige 4d8 +5 dégâts (projectile) et immobilise la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -1.
- Niveau 16-20 : Le piège déclenche le sort « Sphère résistante d'Otiluke » ciblé sur la victime pendant 7 rounds si elle échoue à un jet de sauvegarde contre les sorts.
- Niveau 21 et plus : Le piège déclenche le sort « Labyrinthe » sur la victime.
+POSE DE PIÈGE SPÉCIAL : Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
+
+ Niveau 1-10 : la créature touchée subit 3d8 +5 points de dégâts de projectiles. De plus, la créature touchée est ralentie pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
+ Niveau 11-15 : la créature touchée subit 4d8 +5 points de dégâts de projectiles. De plus, la créature touchée est immobilisée pendant 5 rounds si cette dernière est une créature humanoïde et qu'elle rate un jet de sauvegarde contre les sorts à -1.
+ Niveau 16-20 : la créature touchée subit les effets du sort profane de 4ème niveau Sphère résistante d'Otiluke, invulnérable et incapable d'agir pendant 7 rounds si elle rate un jet de sauvegarde contre les sorts.
+ Niveau 21 et plus : la créature touchée subit les effets du sort profane de 8ème niveau Labyrinthe, piégée dans labyrinthe extradimensionnel pendant une durée variable selon l'Intelligence de la créature touchée.
 
 Désavantages :
 - Il n'a que 20 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -14463,7 +14463,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
-- La chanson du Scalde a des effets différents de celle du barde :
+- La chanson du scalde a des effets différents de celle du barde non spécialisé :
 
  Niveau 1-14 : Les alliés gagnent un bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
  Niveau 15-19 : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur.
@@ -14480,7 +14480,7 @@ Avantages :
 BOUCLIER TEMPÊTE : Cette capacité immunise le lanceur au feu, au froid, à l'électricité et le protège contre les projectiles non-magiques pendant 1 round par niveau d'expérience du lanceur.
 
 Désavantages :
-- Doit être d'alignement neutre mauvais, chaotique mauvais ou chaotique neutre.~
+- Doit être d'alignement neutre mauvais, chaotique neutre ou chaotique mauvais.~
 @1024308 = ~PRÊTRE DE HEAUM : Les fidèles du dieu neutre des sentinelles et des protecteurs sont des guerriers à part entière. Ils sont souvent considérés comme les défenseurs des innocents.
 
 Avantages :
@@ -14500,13 +14500,13 @@ Avantages :
 DON DE LATHANDRE : Cette capacité dure 1 round par niveau d'expérience du lanceur et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Elle protège également contre le drain de niveau et les effets sont cumulables.
 
 Désavantages :
-- Doit être d'alignement loyal bon, neutre bon, chaotique bon ou neutre strict.~
+- Doit être d'alignement loyal bon, neutre bon, neutre strict ou chaotique bon.~
 @1024310 = ~DRUIDE TOTÉMIQUE : Ce druide s'identifie complètement à un animal. Cela lui procure une connexion spéciale avec le règne animal, et il peut faire appel à leurs esprits pour l'aider.
 
 Avantages :
 - Peut lancer « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
+CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour par tranche de 5 niveaux d'expérience du lanceur pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
 
 Désavantages :
 - Ne peut lancer la capacité « Métamorphose druidique ».~
@@ -15820,7 +15820,7 @@ Avantages :
  Niveau 1-8 : dégâts x2.
  Niveau 9-16 : dégâts x3.
  Niveau 17 et plus : dégâts x4.
- 
+
 - Accès à trois sorts profanes, à partir du niveau 12 : « Hâte », « Protection contre les projectiles non-magiques » et « Déviation de sorts mineurs ».
 
 Désavantages :
@@ -15865,14 +15865,14 @@ Désavantages :
 
 Avantages :
 - Bonus de 15 % en Pose de pièges.
-- Peut poser des pièges spéciaux en plus de ceux utilisés par les voleurs tous les 5 niveaux d'expérience (une utilisation au niveau 1).
+- Peut lancer « Pose de piège spécial » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGE SPÉCIAL : Permet de poser un piège à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis.
-  
- Niveau 1-10 : Le piège inflige 3d8 +5 dégâts (projectile) et ralentit la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -4.
- Niveau 11-15 : Le piège inflige 4d8 +5 dégâts (projectile) et immobilise la victime pendant 5 rounds si elle échoue à un jet de sauvegarde contre les sorts à -1.
- Niveau 16-20 : Le piège déclenche le sort « Sphère résistante d'Otiluke » ciblé sur la victime pendant 7 rounds si elle échoue à un jet de sauvegarde contre les sorts.
- Niveau 21 et plus : Le piège déclenche le sort « Labyrinthe » sur la victime.
+POSE DE PIÈGE SPÉCIAL : Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
+
+ Niveau 1-10 : la créature touchée subit 3d8 +5 points de dégâts de projectiles. De plus, la créature touchée est ralentie pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
+ Niveau 11-15 : la créature touchée subit 4d8 +5 points de dégâts de projectiles. De plus, la créature touchée est immobilisée pendant 5 rounds si cette dernière est une créature humanoïde et qu'elle rate un jet de sauvegarde contre les sorts à -1.
+ Niveau 16-20 : la créature touchée subit les effets du sort profane de 4ème niveau Sphère résistante d'Otiluke, invulnérable et incapable d'agir pendant 7 rounds si elle rate un jet de sauvegarde contre les sorts.
+ Niveau 21 et plus : la créature touchée subit les effets du sort profane de 8ème niveau Labyrinthe, piégée dans labyrinthe extradimensionnel pendant une durée variable selon l'Intelligence de la créature touchée.
 
 Désavantages :
 - Il n'a que 20 points à répartir dans ses talents de roublard à chaque niveau d'expérience.~
@@ -15914,7 +15914,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts.
-- La chanson du Scalde a des effets différents de celle du barde :
+- La chanson du scalde a des effets différents de celle du barde non spécialisé :
 
  Niveau 1-14 : Les alliés gagnent un bonus de 2 aux jets d'attaque, de dégâts et à la classe d'armure.
  Niveau 15-19 : Les alliés gagnent un bonus de 4 aux jets d'attaque, de dégâts et à la classe d'armure ainsi qu'une immunité à la peur.
@@ -15927,7 +15927,7 @@ Désavantages :
 Avantages :
 - Peut lancer « Convocation d'un esprit animal » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
+CONVOCATION D'UN ESPRIT ANIMAL : Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour par tranche de 5 niveaux d'expérience du lanceur pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.
 
 Désavantages :
 - Ne peut lancer la capacité « Métamorphose druidique ».~
@@ -15966,7 +15966,7 @@ Avantages :
 BOUCLIER TEMPÊTE : Cette capacité immunise le lanceur au feu, au froid, à l'électricité et le protège contre les projectiles non-magiques pendant 1 round par niveau d'expérience du lanceur.
 
 Désavantages :
-- Doit être d'alignement neutre mauvais, chaotique mauvais ou chaotique neutre.~
+- Doit être d'alignement neutre mauvais, chaotique neutre ou chaotique mauvais.~
 @1025379 = ~PRÊTRE DE HEAUM : Les fidèles du dieu neutre des sentinelles et des protecteurs sont des guerriers à part entière. Ils sont souvent considérés comme les défenseurs des innocents.
 
 Avantages :
@@ -15986,7 +15986,7 @@ Avantages :
 DON DE LATHANDRE : Cette capacité dure 1 round par niveau d'expérience du lanceur et confère un bonus de 1 aux jets d'attaque, de dégâts et aux jets de sauvegarde, ainsi qu'une attaque supplémentaire par round. Elle protège également contre le drain de niveau et les effets sont cumulables.
 
 Désavantages :
-- Doit être d'alignement loyal bon, neutre bon, chaotique bon ou neutre strict.~
+- Doit être d'alignement loyal bon, neutre bon, neutre strict ou chaotique bon.~
 @1025389 = ~ENTROPISTE : La magie entropique est un nouveau type de magie caractérisé par de puissants et dangereux sursauts de magie imprévisible appelés « hiatus entropiques ». Considérée généralement comme une conséquence malheureuse du Temps des Troubles, la magie entropique attire depuis récemment l'attention de nombreux mages curieux ou érudits.
 
 Les entropistes sont des mages qui se spécialisent dans l'étude de la magie entropique. Ils ont accès à des sorts leur permettant de se protéger de la magie entropique et de la façonner selon leur volonté. La magie entropique est extrêmement imprévisible et doit être utilisée avec prudence.
@@ -16370,7 +16370,7 @@ Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce bouclier de feu bleu protège le lanceur du froid en l'entourant de flammes. Non seulement ce bouclier lui octroie 50 % de Résistance au froid, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 mètre. Tout adversaire attaquant le lanceur avec une arme ou un sort subit 1d8 +2 points de dégâts de froid.~
+Le Bouclier de feu (bleu) protège le lanceur du froid en l'entourant de flammes glacées pendant 3 rounds plus 1 round par niveau d'expérience du lanceur. Non seulement ce bouclier lui octroie 50 % de résistance au froid, mais il inflige également 1d8 +2 points de dégâts de froid à toute créature dans un rayon de 1,1 mètre autour du lanceur ayant infligé des dégâts à son encontre.~
 @1025702 = ~Capitaine kobold~
 @1025703 = ~Capitaine kobold~
 @1025704 = ~Écoutez, on n'a pas gardé les cochons ensemble, okay ? Grrrr !~ [KOBLD02]
@@ -16951,7 +16951,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire tous les 2 niveaux d'expérience. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'une Dissipation de la magie soit lancée, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme Boule de feu.~
+En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire par tranche de 2 niveaux d'expérience du lanceur. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'un sort de Dissipation de la magie soit lancé avec succès, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme par exemple le sort Boule de feu.~
 @1025957 = ~Non-détection
 (Abjuration)
 
@@ -17072,7 +17072,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Un espace extradimensionnel apparaît lors de l'incantation de ce sort. La créature ciblée est alors transportée dans un labyrinthe qui change en permanence. La durée de ce sort dépend de l'Intelligence de la créature ciblée.
+Un espace extradimensionnel apparaît lors de l'incantation de ce sort. La créature ciblée est alors transportée dans un labyrinthe qui change en permanence. Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature ciblée a été emprisonnée par le Labyrinthe, cette dernière revient immédiatement, mettant fin prématurément au sort. La créature ciblée ne peut pas être libérée par le sort Dissipation de la magie. La durée de ce sort dépend de l'Intelligence de la créature ciblée :
 
 Intelligence de la créature ciblée - Temps passé dans un Labyrinthe
  moins de 3 - 20d4 rounds
@@ -17081,9 +17081,7 @@ Intelligence de la créature ciblée - Temps passé dans un Labyrinthe
  9 à 11 - 4d4 rounds
  12 à 14 - 3d4 rounds
  15 à 17 - 2d4 rounds
- 18 et plus - 1d4 rounds
-
-Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature a été emprisonnée par le Labyrinthe, cette dernière revient immédiatement, mettant fin prématurément au sort. Une créature ainsi emprisonnée ne peut pas être libérée par le sort Dissipation de la magie.~
+ 18 et plus - 1d4 rounds~
 @1025995 = ~Transmutation de la chair en pierre
 (Transmutation)
 
@@ -18381,7 +18379,7 @@ Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce bouclier de feu rouge protège le lanceur du feu en l'entourant de flammes. Non seulement ce bouclier lui octroie 50 % de Résistance au feu, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 mètre. Tout adversaire attaquant le lanceur avec une arme ou un sort subit 1d8 +2 points de dégâts de feu.~
+Le Bouclier de feu (rouge) protège le lanceur du feu en l'entourant de flammes pendant 3 rounds plus 1 round par niveau d'expérience du lanceur. Non seulement ce bouclier lui octroie 50 % de résistance au feu, mais il inflige également 1d8 +2 points de dégâts de feu à toute créature dans un rayon de 1,1 mètre autour du lanceur ayant infligé des dégâts à son encontre.~
 @1026331 = ~Déviation de sorts mineurs
 (Abjuration)
 
@@ -21576,7 +21574,7 @@ ARME EMPOISONNÉE : Chaque coup réussi au cours des 5 prochains rounds empoiso
 
 - Peut lancer « Aura de désespoir » une fois par jour à partir du niveau 3.
 
-AURA DE DÉSESPOIR : Cette capacité affecte toutes les créatures ennemies dans un rayon de 4,5 mètres autour du lanceur. Les effets dépendent du niveau d'expérience du lanceur :
+AURA DE DÉSESPOIR : Cette capacité affecte toutes les créatures ennemies dans un rayon de 4,5 mètres autour du lanceur sans jet de sauvegarde. Les effets dépendent du niveau d'expérience du lanceur :
 
  Niveau 3-5 : les créatures ennemies affectées subissent un malus de 1 aux jets d'attaque, de dégâts et un malus de 2 à la classe d'armure pendant 1 tour.
  Niveau 6-14 : les créatures ennemies affectées subissent un malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
@@ -22154,7 +22152,7 @@ Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce bouclier de feu bleu protège le lanceur du froid en l'entourant de flammes. Non seulement ce bouclier lui octroie 50 % de résistance au froid, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 mètre. Tout adversaire attaquant le lanceur avec un arme ou un sort subit 1d8 +2 points de dégâts de froid.~
+Le Bouclier de feu (bleu) protège le lanceur du froid en l'entourant de flammes glacées pendant 3 rounds plus 1 round par niveau d'expérience du lanceur. Non seulement ce bouclier lui octroie 50 % de résistance au froid, mais il inflige également 1d8 +2 points de dégâts de froid à toute créature dans un rayon de 1,1 mètre autour du lanceur ayant infligé des dégâts à son encontre.~
 @1030199 = ~Tempête de glace
 (Évocation)
 
@@ -22176,7 +22174,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire tous les 2 niveaux d'expérience. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'une Dissipation de la magie soit lancée, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme Boule de feu.~
+En lançant ce sort, le magicien se couvre d'une Peau de pierre jaillie du sol. La peau est magique et ne gêne pas le lanceur. Elle immunise le sujet contre toutes les attaques physiques infligées par des armes de corps-à-corps ou à distance. Le mage gagne une peau supplémentaire par tranche de 2 niveaux d'expérience du lanceur. Un mage de niveau 10, par exemple, dispose de 5 peaux tandis qu'au niveau 20 il en a 10. Chaque peau permet de stopper une attaque. Ainsi, un mage de niveau 10 pourra arrêter 5 attaques mais la sixième passera normalement. Les peaux restent sur le mage jusqu'à ce qu'un sort de Dissipation de la magie soit lancé avec succès, jusqu'à la fin du sort ou jusqu'à ce qu'elles aient toutes disparu à cause d'attaques. Notez que ce sort ne protège pas le mage des attaques magiques, comme par exemple le sort Boule de feu.~
 @1030203 = ~Protection contre l'électricité
 (Abjuration)
 
@@ -22372,7 +22370,7 @@ Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce bouclier de feu rouge protège le lanceur du feu en l'entourant de flammes. Non seulement ce bouclier lui octroie 50 % de Résistance au feu, mais il le protège aussi contre toute attaque lancée dans un rayon de 1,5 mètre. Tout adversaire attaquant le lanceur avec une arme ou un sort subit 1d8 +2 points de dégâts de feu.~
+Le Bouclier de feu (rouge) protège le lanceur du feu en l'entourant de flammes pendant 3 rounds plus 1 round par niveau d'expérience du lanceur. Non seulement ce bouclier lui octroie 50 % de résistance au feu, mais il inflige également 1d8 +2 points de dégâts de feu à toute créature dans un rayon de 1,1 mètre autour du lanceur ayant infligé des dégâts à son encontre.~
 @1030227 = ~Mot secret
 (Abjuration)
 
@@ -23787,7 +23785,7 @@ PAS DE L'OMBRE : Cette capacité permet au lanceur d'entrer dans le Plan de l'o
 
 - Peut avoir accès aux capacités de haut niveau uniques « Labyrinthe de l'ombre », « Forme de l'ombre » et « Jumeau de l'ombre ».
 
-LABYRINTHE DE L'OMBRE : Cette capacité de haut niveau ouvre temporairement un portail vers une petite zone sur le Plan de l'ombre. Toutes les créatures ennemies dans un rayon de 2,1 mètres autour du lanceur doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être piégées à l'intérieur du Labyrinthe de l'ombre. La durée de cette capacité dépend de l'Intelligence des créatures ciblées.
+LABYRINTHE DE L'OMBRE : Cette capacité de haut niveau ouvre temporairement un portail vers une petite zone sur le Plan de l'ombre. Toutes les créatures ennemies dans un rayon de 2,1 mètres autour du lanceur doivent effectuer un jet de sauvegarde contre les sorts à -4 ou être piégées à l'intérieur du Labyrinthe de l'ombre. Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où les créatures ciblées ont été emprisonnées par le Labyrinthe de l'ombre, ces dernières reviennent immédiatement, mettant fin prématurément à la capacité de haut niveau. Les créatures ciblées ne peuvent pas être libérées par le sort Dissipation de la magie. La durée de cette capacité dépend de l'Intelligence des créatures ciblées :
 
 Intelligence des créatures ciblées - Temps passé dans un Labyrinthe de l'ombre
  moins de 3 - 20d4 rounds
@@ -23798,15 +23796,13 @@ Intelligence des créatures ciblées - Temps passé dans un Labyrinthe de l'ombr
  15 à 17 - 2d4 rounds
  18 et plus - 1d4 rounds
 
-Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où les créatures ont été emprisonnées par le Labyrinthe de l'ombre, ces dernières reviennent immédiatement, mettant fin prématurément à la capacité de haut niveau. Les créatures ainsi emprisonnées ne peuvent pas être libérées par le sort Dissipation de la magie.
-
 FORME DE L'OMBRE : Cette capacité de haut niveau transpose temporairement une partie des tissus biologiques du lanceur avec des matériaux d'ombre, ce qui le rend partiellement désincarné. Pendant les 5 rounds suivants, toutes les attaques physiques dirigées contre le lanceur n'infligent que 50 % des dégâts normaux. Pendant cette période, le lanceur bénéficie aussi des effets d'Invisibilité majeure et ne peut pas être directement ciblé par des sorts.
 
 JUMEAU DE L'OMBRE : Cette capacité de haut niveau crée une réplique presque parfaite du lanceur pendant 1 tour. La réplique est créée à 60 % du niveau d'expérience actuel du lanceur. Elle dispose alors de toutes les capacités, les capacités spéciales, les capacités de haut niveau, les sorts et les points de vie que le lanceur aurait à ce niveau d'expérience. Elle hérite également de ses équipements et ses objets (y compris ceux des emplacements d'objets rapides) actuellement équipés. La réplique est pleinement sous le contrôle du lanceur.
 
 Désavantages :
-- Ne peut être d'alignement loyal.
-- Il a recours à une version moins puissante de l'attaque sournoise des voleurs non spécialisés :
+- Ne peut pas être d'alignement loyal.
+- A recours à une version moins puissante de l'attaque sournoise que le voleur non spécialisé :
 
  Niveau 1-4 : dégâts x1 (pas de multiplicateur).
  Niveau 5-8 : dégâts x2.
@@ -23822,8 +23818,8 @@ Caractéristiques requises pour le jumelage : Force, Dextérité, Charisme.~
 
 Avantages :
 - Dés de vie : d12.
-- Gagne 5 % de résistance aux dégâts tranchants, perforants, contondants et de projectiles par tranche de 5 niveaux d'expérience, jusqu'à un maximum de 20 % au niveau 20.
-- « Position défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
+- Bonus de 5 % à la résistance aux dégâts tranchants, contondants, perforants et de projectiles tous les 5 niveaux d'expérience, jusqu'à un maximum de 20 % au niveau 20.
+- Peut lancer « Position défensive » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
 POSITION DÉFENSIVE : Le lanceur gagne un bonus de 2 à ses jets de sauvegarde, 50 % de résistance à toute forme de dégâts physiques, et un malus de 50 % à sa vitesse de déplacement pendant un tour. Position défensive ne peut pas être employée en conjonction avec Résistance d'acier.
 
@@ -23831,31 +23827,21 @@ Désavantages :
 - Doit être un nain.
 - Ne peut atteindre que la maîtrise (quatre étoiles) avec les haches et les marteaux.
 - Ne peut que se spécialiser (deux étoiles) dans le maniement de n'importe quelle autre arme.~
+@1031977 = ~Disciple du dragon~
 @1031978 = ~DISCIPLE DU DRAGON : Les disciples du dragon sont de puissants ensorceleurs qui possèdent un ancêtre dragon parmi leur ascendance. Leur affinité naturelle avec la magie fait ressortir cet héritage draconique, et leur permet de lancer de puissants sortilèges tout en développant des capacités similaires à celles des dragons.
 
 Avantages :
 - Dés de vie : d6.
-- Niveau 1 : Bonus de 1 à la classe d'armure.
-- Niveau 3 : Attaque de souffle une fois par jour.
+- Bonus de 1 à la classe d'armure, et 1 supplémentaire tous les 5 niveaux d'expérience, jusqu'à un maximum de 5 au niveau 20.
+- Peut lancer « Attaque de souffle » une fois par jour à partir du niveau 3.
 
-ATTAQUE DE SOUFFLE : Le lanceur crache un jet de flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 points de dégâts de feu à toutes les créatures prises dans un cône de 140°. Le souffle inflige 1d8 points de dégâts de feu supplémentaires au niveau 6 et tous les 3 niveaux d'expérience par la suite, jusqu'à un maximum de 8d8 points de dégâts de feu au niveau 18.
+ATTAQUE DE SOUFFLE : Le lanceur crache un jet de flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 points de dégâts de feu à toutes les créatures touchées dans un cône de 140°, plus 1d8 points de dégâts de feu supplémentaires par tranche de 3 niveaux d'expérience du lanceur à partir du niveau 3, jusqu'à un maximum de 8d8 points de dégâts de feu au niveau 18.
 
-- Niveau 4 : 25 % de résistance au feu.
-- Niveau 5 : Bonus de 1 à la classe d'armure et à la Constitution.
-- Niveau 6 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 4d8.
-- Niveau 8 : 50 % de résistance au feu.
-- Niveau 9 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 5d8.
-- Niveau 10 : Bonus de 1 à la classe d'armure.
-- Niveau 12 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 6d8.
-- Niveau 12 : 75 % de résistance au feu.
-- Niveau 15 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 7d8.
-- Niveau 15 : Bonus de 1 à la classe d'armure et à la Constitution.
-- Niveau 16 : 100 % de résistance au feu.
-- Niveau 18 : Les dégâts de l'Attaque de souffle augmentent jusqu'à 8d8.
-- Niveau 20 : Bonus de 1 à la classe d'armure.
+- Bonus de 25 % à la résistance au feu tous les 4 niveaux d'expérience à partir du niveau 4, jusqu'à un maximum de 100 % au niveau 16.
+- Bonus de 1 à la Constitution au niveau 5 et au niveau 15.
 
 Désavantages :
-- Lance un sort de moins par niveau d'expérience et par jour que l'ensorceleur.~
+- Lance un sort de moins par niveau d'expérience et par jour que l'ensorceleur non spécialisé.~
 @1031981 = ~MOINE DE LA LUNE NOIRE : L'Ordre de la Lune Noire est un ordre monastique secret qui suit les préceptes de la sombre déesse Shar. Les moines de la Lune Noire ont recours à leurs prouesses physiques, à la magie noire et à beaucoup de subterfuges différents pour dissimuler leurs activités et frapper avec une précision mortelle.
 
 Avantages :
@@ -23877,25 +23863,21 @@ Désavantages :
 @1031984 = ~MOINE DE LA CONSCIENCE SOLAIRE : Les moines de la Conscience Solaire étaient les suivants d'Amaunator au temps de Néthéril, mais aujourd'hui, leur culte est divisé entre Lathandre, Séluné et Sunie. Les moines de la Conscience Solaire suivent strictement la loi, et ont recours à leur arts martiaux et leurs capacités magiques pour repousser le mal et la corruption où qu'ils se trouvent.
 
 Avantages :
-- Niveau 2 : « Rayon de la Conscience Solaire » une fois par jour.
+- Peut lancer « Rayon de la Conscience Solaire » une fois par jour à partir du niveau 2. Acquiert une nouvelle utilisation au niveau 6, au niveau 10 et au niveau 15.
 
-RAYON DE LA CONSCIENCE SOLAIRE : Le moine de la Conscience Solaire projette un rayon de lumière de sa paume, infligeant à une cible unique 1d8 points de dégâts de feu tous les 2 niveaux d'expérience, avec un maximum de 5d8 au niveau 10. Les morts-vivants subissent 6 points de dégâts supplémentaires.
+RAYON DE LA CONSCIENCE SOLAIRE : Le lanceur projette un rayon de lumière de sa paume, infligeant à la créature ciblée 1d8 points de dégâts de feu par tranche de 2 niveaux d'expérience du lanceur, jusqu'à un maximum de 5d8 points de dégâts de feu au niveau 10. Les créatures mortes-vivantes subissent 6 points de dégâts de feu supplémentaires. Il n'y pas de jet de sauvegarde contre cette capacité.
 
-- Niveau 5 : « Poings enflammés » une fois par jour.
+- Peut lancer « Poings enflammés » une fois par jour à partir du niveau 5.
 
 POINGS ENFLAMMÉS : Le lanceur concentre sa lumière intérieure dans ses attaques à mains nues, transformant ses poings en armes enflammées qui infligent 2d6 points de dégâts de feu supplémentaires pendant 1 round. La durée de cette capacité augmente jusqu'à 2 rounds au niveau 9, 3 rounds au niveau 12, 4 rounds au niveau 15 et 5 rounds au niveau 25. Cette capacité modifie automatiquement l'attaque normale du lanceur, sans avoir besoin de sélectionner une cible.
 
-- Niveau 6 : Peut avoir recours à « Rayon de la Conscience Solaire » deux fois par jour.
-- Niveau 8 : « Soleil Ascendant » une fois par jour.
+- Peut lancer « Soleil ascendant » une fois par jour à partir du niveau 8.
 
-SOLEIL ASCENDANT : Le moine de la Conscience Solaire se nimbe de flammes qui agissent comme un Bouclier de feu (rouge), lui conférant 50 % de résistance au feu et le protégeant des attaques à moins de 1,5 mètre : un adversaire qui frappe le personnage avec une arme ou un sort subit 1d8 +2 points de dégâts de feu.
+SOLEIL ASCENDANT : Le lanceur se nimbe de flammes qui agissent comme le sort profane de 4ème niveau Bouclier de feu (rouge) pendant 3 rounds plus 1 round par niveau d'expérience du lanceur, lui conférant 50 % de résistance au feu et infligeant 1d8 +2 points de dégâts de feu à toute créature dans un rayon de 1,1 mètre autour du lanceur ayant infligé des dégâts à son encontre.
 
-- Niveau 10 : Peut avoir recours à « Rayon de la Conscience Solaire » trois fois par jour.
-- Niveau 13 : « Faisceau de la Conscience Solaire » une fois par jour.
+- Peut lancer « Faisceau de la Conscience Solaire » une fois par jour à partir du niveau 13.
 
-FAISCEAU DE LA CONSCIENCE SOLAIRE : Le moine de la Conscience Solaire provoque une explosion de lumière intense qui touche toutes les créatures à moins de 4,5 mètres à la ronde. Les victimes subissent 9d6 points de dégâts de feu, +3 contre les morts-vivants, mais peuvent diviser les dommages par deux grâce à un jet de sauvegarde contre les sorts. En outre, toutes les créatures (excepté le personnage) doivent réussir un jet de sauvegarde contre les sorts pour ne pas être aveuglées pendant 2 heures.
-
-- Niveau 15 : Peut avoir recours à « Rayon de la Conscience Solaire » quatre fois par jour.
+FAISCEAU DE LA CONSCIENCE SOLAIRE : Le lanceur provoque une explosion de lumière intense qui touche toutes les créatures, alliées comme ennemies, dans un rayon de 4,5 mètres. Les créatures touchées subissent 9d6 points de dégâts de feu, +3 contre les créatures mortes-vivantes, mais peuvent diviser les dégâts par deux grâce à un jet de sauvegarde contre les sorts. En outre, les créatures touchées ayant échoué leur jet de sauvegarde contre les sorts sont également aveuglées pendant 2 heures.
 
 Désavantages :
 - Doit être d'alignement loyal bon.
@@ -23940,29 +23922,59 @@ Remarque : si la résolution de votre écran est inférieure à 1024x768, cette
 @1032213 = ~Oh, je défaille d'entendre cela. Et par « défaillir », je veux dire que ça me fait mal au cœur. Ne vous y trompez pas : je vous suis reconnaissante de m'avoir portée secours, et je suis heureuse de voyager à vos côtés, mais je ne suis pas vraiment ce que l'on peut qualifier de demoiselle en détresse.~ [NEL33]
 @1032220 = ~Pose de piège
 
-Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le voleur augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis. Les effets dépendent du niveau d'expérience du lanceur :
+Portée : 0
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
 
- Niveau 1-10 : le piège inflige 2d8 +5 points de dégâts (projectile).
- Niveau 11-15 : le piège inflige 2d8 +5 points de dégâts (projectile), +2d6 dégâts de poison par round pendant 3 rounds.
- Niveau 16-20 : le piège inflige 3d8 +5 points de dégâts (projectile), +4d8 +2 dégâts de feu.
- Niveau 21 et plus : le piège inflige 3d8 +5 points de dégâts (projectile), +20 dégâts de poison sans jet de sauvegarde ; la cible meurt instantanément si elle rate un jet de sauvegarde contre la mort à +4.~
+Permet au lanceur de poser un piège à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur doit se déplacer à l'endroit ciblé pour poser le piège. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège ne peut être déclenché que par les créatures ennemies. Les effets du piège dépendent du niveau d'expérience du lanceur :
+
+ Niveau 1-10 : la créature touchée subit 2d8 +5 points de dégâts de projectiles.
+ Niveau 11-15 : la créature touchée subit 2d8 +5 points de dégâts de projectiles, +2d6 points de dégâts de poison par round pendant 3 rounds.
+ Niveau 16-20 : la créature touchée subit 3d8 +5 points de dégâts de projectiles, +4d8 +2 points de dégâts de feu.
+ Niveau 21 et plus : la créature touchée subit 3d8 +5 points de dégâts de projectiles, +20 points de dégâts de poison. De plus, la créature touchée est tuée instantanément si elle rate un jet de sauvegarde contre la mort à +4.~
 @1032221 = ~Pose de piège spécial
 
-Permet de poser un collet à l'endroit choisi lorsqu'aucune créature hostile n'est en vue. La puissance des pièges s'améliore à mesure que le chasseur de primes augmente son niveau d'expérience. Les pièges ne peuvent être déclenchés que par les ennemis. Les effets dépendent du niveau d'expérience du lanceur :
+Portée : 30 mètres
+Durée : instantanée
+Temps d'incantation : 0
+Zone d'effet : spéciale
+Jet de sauvegarde : spécial
 
- Niveau 1-10 : le piège inflige 3d8 +5 points de dégâts (projectile) et ralentit la victime pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
- Niveau 11-15 : le piège inflige 4d8 +5 points de dégâts (projectile) et immobilise la victime pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -1.
- Niveau 16-20 : le piège déclenche le sort Sphère résistante d'Otiluke sur la victime pendant 7 rounds si elle rate un jet de sauvegarde contre les sorts.
- Niveau 21 et plus : le piège déclenche le sort Labyrinthe sur la victime.~
+Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
+
+ Niveau 1-10 : la créature touchée subit 3d8 +5 points de dégâts de projectiles. De plus, la créature touchée est ralentie pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
+ Niveau 11-15 : la créature touchée subit 4d8 +5 points de dégâts de projectiles. De plus, la créature touchée est immobilisée pendant 5 rounds si cette dernière est une créature humanoïde et qu'elle rate un jet de sauvegarde contre les sorts à -1.
+ Niveau 16-20 : la créature touchée subit les effets du sort profane de 4ème niveau Sphère résistante d'Otiluke, invulnérable et incapable d'agir pendant 7 rounds si elle rate un jet de sauvegarde contre les sorts.
+ Niveau 21 et plus : la créature touchée subit les effets du sort profane de 8ème niveau Labyrinthe, piégée dans labyrinthe extradimensionnel pendant une durée variable selon l'Intelligence de la créature touchée.~
 @1032222 = ~Rayon de la Conscience Solaire
 
-Le personnage projette un rayon de lumière de sa paume, infligeant à une cible unique 1d8 dégâts de feu tous les 2 niveaux d'expérience pour un maximum de 5d8 au niveau 10. Les morts-vivants subissent 6 points de dégâts supplémentaires. Il n'y pas de jet de sauvegarde contre cette capacité.~
+Portée : 15 mètres
+Durée : instantanée
+Temps d'incantation : 0
+Zone d'effet : 1 créature
+Jet de sauvegarde : aucun
+
+Le lanceur projette un rayon de lumière de sa paume, infligeant à la créature ciblée 1d8 points de dégâts de feu par tranche de 2 niveaux d'expérience du lanceur, jusqu'à un maximum de 5d8 points de dégâts de feu au niveau 10. Les créatures mortes-vivantes subissent 6 points de dégâts de feu supplémentaires. Il n'y pas de jet de sauvegarde contre cette capacité.~
 @1032223 = ~Soleil ascendant
 
-Le personnage se nimbe de flammes qui agissent comme un Bouclier de feu (rouge), lui conférant 50 % de résistance au feu et le protégeant des attaques à moins d'1,5 mètre. Tout adversaire à l'intérieur de ce périmètre qui frappe le personnage avec une arme ou un sort subit 1d8 +2 points de dégâts de feu.~
+Portée : 0
+Durée : 3 rounds + 1 round par niveau
+Temps d'incantation : 1
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Le lanceur se nimbe de flammes qui agissent comme le sort profane de 4ème niveau Bouclier de feu (rouge) pendant 3 rounds plus 1 round par niveau d'expérience du lanceur, lui conférant 50 % de résistance au feu et infligeant 1d8 +2 points de dégâts de feu à toute créature dans un rayon de 1,1 mètre autour du lanceur ayant infligé des dégâts à son encontre.~
 @1032224 = ~Faisceau de la Conscience Solaire
 
-Le personnage provoque une explosion de lumière intense qui touche toutes les créatures à moins de 4,5 mètres à la ronde. Les victimes subissent 9d6 points de dégâts de feu, +3 contre les morts-vivants, mais peuvent diviser les dommages par deux grâce à un jet de sauvegarde contre les sorts. En outre, toutes les créatures (excepté le personnage) doivent réussir un jet de sauvegarde contre les sorts pour ne pas être aveuglées pendant deux heures.~
+Portée : 0
+Durée : 2 heures
+Temps d'incantation : 1
+Zone d'effet : rayon de 4,5 mètres
+Jet de sauvegarde : spécial
+
+Le lanceur provoque une explosion de lumière intense qui touche toutes les créatures, alliées comme ennemies, dans un rayon de 4,5 mètres. Les créatures touchées subissent 9d6 points de dégâts de feu, +3 contre les créatures mortes-vivantes, mais peuvent diviser les dégâts par deux grâce à un jet de sauvegarde contre les sorts. En outre, les créatures touchées ayant échoué leur jet de sauvegarde contre les sorts sont également aveuglées pendant 2 heures.~
 @1032225 = ~Imposition des mains (personnelle)
 (Nécromancie)
 
@@ -24021,7 +24033,7 @@ Temps d'incantation : 0
 Zone d'effet : rayon de 4,5 mètres
 Jet de sauvegarde : aucun
 
-Cette capacité affecte toutes les créatures ennemies dans un rayon de 4,5 mètres autour du lanceur. Les effets dépendent du niveau d'expérience du lanceur :
+Cette capacité affecte toutes les créatures ennemies dans un rayon de 4,5 mètres autour du lanceur sans jet de sauvegarde. Les effets dépendent du niveau d'expérience du lanceur :
 
  Niveau 3-5 : les créatures ennemies affectées subissent un malus de 1 aux jets d'attaque, de dégâts et un malus de 2 à la classe d'armure pendant 1 tour.
  Niveau 6-14 : les créatures ennemies affectées subissent un malus de 2 aux jets d'attaque, de dégâts et à la classe d'armure pendant 1 tour.
@@ -24119,7 +24131,7 @@ Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour tous les 5 niveaux d'expérience pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.~
+Le lanceur peut invoquer un esprit animal (esprit ours, esprit loup, esprit lion ou esprit serpent) une fois par jour par tranche de 5 niveaux d'expérience du lanceur pendant 6 tours. L'esprit animal convoqué dispose de 1 dé de vie au niveau 1, de 3 dés de vie au niveau 3, de 5 dés de vie au niveau 5, de 7 dés de vie au niveau 7 et de 10 dés de vie au niveau 10. Les attaques de l'esprit serpent peuvent empoisonner la créature touchée si cette dernière échoue un jet de sauvegarde contre les poisons. Les attaques de l'esprit ours peuvent faire fuir la créature touchée sous l'effet de la peur si cette dernière échoue un jet de sauvegarde contre la mort. Les attaques de l'esprit loup infligent des dégâts de froid supplémentaires, peuvent à partir du niveau 3 paralyser la créature touchée si cette dernière échoue un jet de sauvegarde contre la paralysie et peuvent, à partir du niveau 10 drainer un niveau d'expérience si la créature touchée échoue un jet de sauvegarde contre la mort.~
 @1032240 = ~Esprit serpent
 (Conjuration)
 
@@ -24305,7 +24317,7 @@ Temps d'incantation : 1
 Zone d'effet : cône de 7,5 mètres avec un angle de 140°
 Jet de sauvegarde : aucun
 
-Le lanceur crache un jet de flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 points de dégâts de feu à toutes les créatures prises dans un cône de 140°. Le souffle inflige 1d8 points de dégâts de feu supplémentaires au niveau 6 et tous les 3 niveaux d'expérience par la suite, jusqu'à un maximum de 8d8 points de dégâts de feu au niveau 18.~
+Le lanceur crache un jet de flamme qui mesure 9 mètres de longueur. Le souffle inflige 3d8 points de dégâts de feu à toutes les créatures touchées dans un cône de 140°, plus 1d8 points de dégâts de feu supplémentaires par tranche de 3 niveaux d'expérience du lanceur à partir du niveau 3, jusqu'à un maximum de 8d8 points de dégâts de feu au niveau 18.~
 @1032254 = ~Position défensive
 
 Portée : 0
@@ -24917,7 +24929,7 @@ EXALTATION : Cette capacité permet au lanceur de porter secours à une créatu
 FAVEUR DIVINE : Cette capacité fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts par tranche de 3 niveaux d'expérience du lanceur pendant deux rounds.
 
 Désavantages :
-- Doit être d'alignement loyal bon, neutre bon ou loyal neutre.~
+- Doit être d'alignement loyal bon, loyal neutre ou neutre bon.~
 @1032349 = ~Protection de l'esprit
 (Abjuration)
 
@@ -25003,9 +25015,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort transporte une créature choisie par le lanceur sur le Plan Éthéré. La créature disparaît pendant 5 rounds, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la créature ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leur résistance à la magie afin que le chaman puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets de labyrinthe.
-
-Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature a été emprisonnée par le Portail éthéré, cette dernière revient immédiatement, mettant fin prématurément au sort. Une créature ainsi emprisonnée ne peut pas être libérée par le sort Dissipation de la magie.~
+Ce sort transporte la créature ciblée par le lanceur sur le Plan éthéré. La créature ciblée disparaît pendant 5 rounds, puis elle retourne dans le monde physique à l'endroit précis où elle était auparavant. Tant qu'elle est dans le Plan Éthéré, la créature ciblée ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leur résistance à la magie afin que le lanceur puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets de labyrinthe. Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature ciblée a été emprisonnée par le Portail éthéré, cette dernière revient immédiatement, mettant fin prématurément au sort. La créature ciblée ne peut pas être libérée par le sort Dissipation de la magie.~
 @1032362 = ~Châtiment éthéré~
 @1032363 = ~Châtiment éthéré
 (Conjuration)
@@ -25316,7 +25326,7 @@ Avantages :
 CHAOS DE LA BATAILLE : Cette capacité accorde un bonus aux créatures alliées et applique un malus aux créatures ennemies du lanceur dans une zone de 4,5 mètres de rayon centrée sur lui. Chaos de la bataille dure 1 tour et affecte au hasard la classe d'armure, les points de vie, le TAC0, les jets de sauvegarde ou la chance des créatures présentes dans la zone d'effet. L'amplitude du bonus et du malus sur les créatures affectées débute à 1 point (5 en ce qui concerne les points de vie), et augmente de 1 point (5 en ce qui concerne les points de vie) par tranche de 6 niveaux d'expérience du lanceur.
 
 Désavantages :
-- Doit être d'alignement chaotique bon, neutre strict, chaotique neutre ou chaotique mauvais.~
+- Doit être d'alignement neutre strict, chaotique bon, chaotique neutre ou chaotique mauvais.~
 @1032765 = ~Chaos de la bataille
 (Conjuration)
 
@@ -25722,7 +25732,7 @@ Poids : 0~
 
 PARAMÈTRES :
 
-Nécessite : 
+Nécessite :
  9 en Dextérité
  3 en Intelligence
 
@@ -26050,9 +26060,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort transporte une créature choisie par le lanceur sur le Plan Éthéré. La créature disparaît pendant 5 rounds, puis elle retourne dans le monde physique à l'endroit précis où elle était avant. Tant qu'elle est dans le Plan Éthéré, la créature ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leur résistance à la magie afin que le chaman puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets de labyrinthe.
-
-Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature a été emprisonnée par le Portail éthéré, cette dernière revient immédiatement, mettant fin prématurément au sort. Une créature ainsi emprisonnée ne peut pas être libérée par le sort Dissipation de la magie.~
+Ce sort transporte la créature ciblée par le lanceur sur le Plan éthéré. La créature ciblée disparaît pendant 5 rounds, puis elle retourne dans le monde physique à l'endroit précis où elle était auparavant. Tant qu'elle est dans le Plan Éthéré, la créature ciblée ne peut pas interagir avec quiconque ou quoi que ce soit résidant sur le Plan Primaire. Il n'y a pas de jet de sauvegarde contre ce sort, mais il est soumis à la résistance à la magie. Les créatures amicales peuvent réduire leur résistance à la magie afin que le lanceur puisse les cibler avec ce sort. En outre, Le Portail éthéré est inopérant contre les sorts et les capacités qui protègent contre les effets de labyrinthe. Notez que si le sort profane de 9ème niveau Liberté est lancé à l'endroit où la créature ciblée a été emprisonnée par le Portail éthéré, cette dernière revient immédiatement, mettant fin prématurément au sort. La créature ciblée ne peut pas être libérée par le sort Dissipation de la magie.~
 @1035365 = ~Forme spirituelle
 
 Portée : 0
@@ -27176,6 +27184,7 @@ Poids : 0~
 @1038135 = ~Creusefond. Phossey Creusefond.~
 @1038136 = ~Mes excuses. Comment vont les choses par ici ?~
 @1038137 = ~Ça ira. Dites-moi ce qu'il se passe.~
+@1038138 = ~Je suis ravie que vous soyez là. Peut-être pourrez-vous nous aider à nous occuper de ces maudits archers. J'ai un super Tonneau de BOUM prêt à faire exploser la partie en bois du mur, mais ces maudits croisés nous ont repérés.~
 @1038139 = ~Plus pour longtemps. Restez ici. Je vais me charger de votre problème d'archers.~
 @1038140 = ~Quelle affaire. Eh bien, bonne chance.~
 @1038141 = ~Les croisés peuvent tenir la porte principale indéfiniment. Si le mur ne s'effondre pas, nous ne pouvons qu'espérer arriver au point mort.~
@@ -27532,8 +27541,10 @@ Nous pourrions parvenir à distraire la garde qui surveille l'accès aux dédale
 @1040775 = ~Vous n'avez pas aimé mon ton... ? Partez d'ici ou vous aurez un échange d'idées aussi franc que déplaisant avec ma masse d'armes, espèce de guignol.~
 @1040776 = ~Vous avez l'air de quelqu'un qui va longuement et douloureusement converser avec ma masse d'armes. Voilà de quoi vous avez l'air.~
 @1040784 = ~Non, nous devons la distraire. Vous avez entendu les croisés près du feu parler de ce qu'il s'est passé quand une potion de souffle ardent est tombée dans la marmite ?~
+@1040803 = ~Nous avons le Tonneau de BOUM...~
 @1040806 = ~Le contenu des tonneaux est inutile.~
 @1040811 = ~Reculez.~
+@1040818 = ~Nous avons le Tonneau de BOUM...~
 @1040820 = ~Vous marquez un point...~
 @1040821 = ~Hé, mercenaire. Venez prendre un verre avec nous.~
 @1040840 = ~Il fait froid par ici. Prenez un verre.~
@@ -27546,8 +27557,7 @@ Nous pourrions parvenir à distraire la garde qui surveille l'accès aux dédale
 @1040872 = ~... Un moine du nom de Rasaad travaille en ce moment dans le bâtiment du Trône de Fer. Le Conseil en a fait un refuge pour ceux qui fuient Caelar. Et nous avons un certain Tiax enfermé dans le quartier général du Poing Enflammé.~ //Vérouillé. Tout changement de l'entrée doit être reporté dans la traduction du mod EET (dialog.tra, 1000042 et 1000043).
 @1040875 = ~En revanche, ne partez pas sans moi. Les ducs ne voudraient pas qu'il arrive quelque chose à leur héros.~ ~En revanche, ne partez pas sans moi. Les ducs ne voudraient pas qu'il arrive quelque chose à leur héroïne.~
 @1040881 = ~*la brèche dans le mur a récemment été réparée avec des planches en bois*~
-@1040882 = ~Tonneau de BOUM !~
-@1040883 = ~Un matériau explosif dérobé aux croisés de Caelar sur le Pont de Boreskyr où il été raffiné par Phossey Creusefond. Ce qui était auparavant plusieurs tonneaux de potions d'explosion est désormais un seul tonneau de BOUM. Le potentiel destructeur de l'explosif est encore à déterminer, mais il serait sage de rester à bonne distance au moment du BOUM.
+@1040883 = ~Un matériau explosif dérobé aux croisés de Caelar sur le Pont de Boreskyr où il été raffiné par Phossey Creusefond. Ce qui était auparavant plusieurs tonneaux de potions d'explosion est désormais un seul Tonneau de BOUM. Le potentiel destructeur de l'explosif est encore à déterminer, mais il serait sage de rester à bonne distance au moment du BOUM.
 
 PARAMÈTRES :
 
@@ -27588,8 +27598,10 @@ Poids : 10~
 @1040966 = ~Je dois y réfléchir.~
 @1040967 = ~Voici la graine enchantée. Une fois en contact avec les racines de l'arbre, elle poussera pour libérer sa magie.~
 @1040969 = ~Partez, dans ce cas.~
+@1040970 = ~*la créature fongique tremble... son corps émet une éructation continue depuis un orifice que vous ne pouvez pas voir*~
 @1040972 = ~Par les dieux ! L'odeur ici est pire que celle des latrines après le passage de Winthrop.~
 @1040973 = ~Quelle est cette pestilence ? En êtes-vous responsable ?~
+@1040974 = ~*des exhalations sifflantes envoient un nuage de spores flotter dans l'air*~
 @1040977 = ~C'est une perte de temps, et l'air devient de plus en plus infect. Il faut partir.~
 @1040978 = ~Vous avez une idée de ce que cette créature essayait de dire, Jaheira ?~
 @1040980 = ~Attendez... je crois que j'arrive à comprendre cette créature.~
@@ -29630,6 +29642,8 @@ L'esprit du monstre est tombé alors que je me heurtais à une cabale de magicie
 @1050371 = ~Bien sûr, prenez la poudre d'escampette, laissez-moi sauver le monde des forces du mal moi-même. Il n'y a pas de problème. Non, vraiment. Filez vite. Au revoir.~
 @1050377 = ~Bien sûr, prenez la poudre d'escampette, laissez-moi sauver le monde des forces du mal moi-même. Il n'y a pas de problème. Non, vraiment. Filez vite. Au revoir.~
 @1050387 = ~Cela me fait grand plaisir que vous soyez encore parmi nous, <CHARNAME>. Je n'ai pas eu l'occasion de vous poser la question : comment les choses se sont-elles passées pour vous dans les grottes sous Paldragon ?~ [BD50387]
+@1050389 = ~J'ai réussi à empoisonner la nourriture, mais pas l'eau. Le Tonneau de BOUM peut être déclenché quand vous voulez.~
+@1050392 = ~Je n'ai pas pu empoisonner leurs provisions, mais j'ai utilisé le Pendule de pierre pour placer les explosifs.~
 @1050395 = ~Cela explique pourquoi l'ennemi a l'air si endormi. Bon travail avec les explosifs. Maintenant, regardez les murs de Paldragon tomber devant nous !~ [BD50395]
 @1050402 = ~Bon. Bon nourriture...~
 @1050406 = ~Aargh ! Des croisés !~
@@ -30361,6 +30375,7 @@ Ce sort crée jusqu'à quatre sphères de lumière brillante (comme des feux fol
 @1052643 = ~Tout allié de la croisade est mon ennemi.~
 @1052644 = ~Venez, Rigah. Nous partons immédiatement pour le château Paldragon.~ [BD52644]
 @1052667 = ~La capitaine Corwin du Poing Enflammé sait où trouver plusieurs personnes qui pourraient m'aider. Elle m'escortera jusqu'à leurs emplacements à travers la ville.~
+@1052681 = ~Pendule de pierre~
 @1052682 = ~Cette amulette en forme d'œil d'élémentaire est conçue pour mener son utilisateur à un point faible de la surface de Toril.
 
 PARAMÈTRES :
@@ -30368,6 +30383,7 @@ PARAMÈTRES :
 Poids : 1~
 @1052683 = ~Le... « BOUM »... est un concentré d'explosif distillé. Placé au bon endroit sous Paldragon, il pourrait nous donner un avantage considérable au moment d'attaquer le château.~
 @1052684 = ~Vous voulez que je transporte un tonneau rempli de potion d'explosion sous Paldragon ?~
+@1052687 = ~Ce n'est pas un tonneau rempli de potion d'explosion, C'ÉTAIT un tonneau rempli de potion d'explosion : une douzaine de tonneaux en fait, ceux que vous avez empêchés de faire sauter le Pont de Boreskyr, <CHARNAME>. MAINTENANT, c'est un Tonneau de BOUM ! BOUM, c'est drôle et plus facile à dire. Que demander de plus ?~
 @1052704 = ~Implications troublantes
 
 Je dois guetter la présence de l'homme à la capuche.
@@ -31349,22 +31365,30 @@ M'Khiin a trouvé des trésors qu'elle peut utiliser.
 
 Dans la ville naine souterraine, nous avons trouvé une armure complète de gobelin possédée par son ancien propriétaire, Kruntur. J'ai convaincu M'Khiin de porter l'armure. Elle en aura besoin pour survivre.~
 @1056531 = ~L'autre là, Duncan, il prépare le départ du Poing pour Paldragon. Je vais aller m'assurer que la voie est libre. Vous devriez faire de même.~
-@1056555 = ~Aussi délicatement que possible, vous placez le tonneau de « BOUM » de Phossey Creusefond sur la ligne de faille située sous le château Paldragon.~
-@1056557 = ~Vous connaissez désormais le meilleur endroit où placer le tonneau de BOUM de Phossey Creusefond, afin qu'il puisse compromettre les défenses du château Paldragon. Mais cette information n'a que peu d'importance, car vous n'êtes pas en possession des explosifs.~
+@1056550 = ~*le Pendule de pierre tremble... le pendentif oscille légèrement, attirant subtilement mais indéniablement son détenteur vers l'est*~ ~*le Pendule de pierre tremble... le pendentif oscille légèrement, attirant subtilement mais indéniablement sa détentrice vers l'est*~
+@1056551 = ~*le Pendule de pierre se balance un moment au bout de sa chaîne, puis il tire d'un côté avant de s'immobiliser, vous indiquant de vous rendre à l'ouest afin de trouver la ligne de faille dans laquelle placer le Tonneau de BOUM de Phossey Creusefond*~
+@1056552 = ~*à nouveau, le Pendule de pierre s'agite de lui-même, tirant sur sa chaîne pour attirer son utilisateur vers le sud*~ ~*à nouveau, le Pendule de pierre s'agite de lui-même, tirant sur sa chaîne pour attirer son utilisatrice vers le sud*~
+@1056553 = ~*le Pendule de pierre bascule d'avant en arrière comme s'il possédait une vie propre, réfléchissant au meilleur moyen d'atteindre votre destination... au bout d'un moment, il prend une décision et tire vers le nord*~
+@1056554 = ~*le Pendule de pierre tourne sur sa chaîne, n'indiquant aucune direction précise... si ce qu'a dit Phossey Creusefond est vrai, vous vous trouvez sur un sol instable... les pierres sous vos pieds ont l'air assez robustes, mais les ombres des stalactites de la caverne ont soudain un air menaçant que vous n'aviez pas remarqué auparavant*~
+@1056555 = ~*aussi délicatement que possible, vous placez le Tonneau de BOUM de Phossey Creusefond sur la ligne de faille située sous le château Paldragon*~
+@1056556 = ~*le Tonneau de BOUM est prêt... sur un mot de Phossey Creusefond, il réduira en morceaux le sol sur lequel se tient la croisade*~
+@1056557 = ~*vous connaissez désormais le meilleur endroit où placer le Tonneau de BOUM de Phossey Creusefond, afin qu'il puisse compromettre les défenses du château Paldragon... mais cette information n'a que peu d'importance, car vous n'êtes pas en possession des explosifs*~
 @1056558 = ~Le siège de Paldragon
 
-Je devrais prévenir les commandants que le tonneau de BOUM a été placé.
+Je devrais prévenir les commandants que le Tonneau de BOUM a été placé.
 
-Grâce au Pendule de Pierre, j'ai atteint l'endroit où je dois placer le tonneau de BOUM de Phossey Creusefond. Il devrait mettre à mal les croisés. Je me sens déjà mieux, maintenant que je n'ai plus cette saleté de chose avec moi.~
+Grâce au Pendule de pierre, j'ai atteint l'endroit où je dois placer le Tonneau de BOUM de Phossey Creusefond. Il devrait mettre à mal les croisés. Je me sens déjà mieux, maintenant que je n'ai plus cette saleté de chose avec moi.~
 @1056559 = ~Le siège de Paldragon
 
-Je devrais prévenir les commandants que le tonneau de BOUM a été placé.
+Je devrais prévenir les commandants que le Tonneau de BOUM a été placé.
 
-Grâce au Pendule de Pierre, j'ai atteint l'endroit où je dois placer le tonneau de BOUM de Phossey Creusefond. Les croisés vont avoir une sacrée surprise.~
+Grâce au Pendule de pierre, j'ai atteint l'endroit où je dois placer le Tonneau de BOUM de Phossey Creusefond. Les croisés vont avoir une sacrée surprise.~
 @1056560 = ~*avale une potion*~
 @1056569 = ~Eh bien, ce sont des demi-orques, pour commencer, donc ils sont féroces et barbares. Contrairement à VOUS, bien évidemment, vous êtes le héros de la Porte de Baldur. Vous n'êtes pas comme eux.~ ~Eh bien, ce sont des demi-orques, pour commencer, donc ils sont féroces et barbares. Contrairement à VOUS, bien évidemment, vous êtes l'héroïne de la Porte de Baldur. Vous n'êtes pas comme eux.~
 @1056580 = ~Beaucoup ont péri lorsque les fiélons ont émergé de Paldragon, telle une vague de haine et de sulfure ravageant les terres. Personne n'y a échappé, aucune famille, aucun foyer, nul être cher. Toutes ces âmes sont mortes aux griffes des fiélons.~ [BD56580]
 @1056581 = ~Vous dressez là un tableau véritablement horrifique. Si ce que vous proposez est possible...~
+@1056592 = ~La nourriture et l'eau sont empoisonnées, mais je n'ai pas pu placer le Tonneau de BOUM de Phossey au bon endroit.~
+@1056595 = ~La nourriture et l'eau sont empoisonnées, le Tonneau de BOUM de Phossey Creusefond peut être déclenché quand vous le voulez.~
 @1056600 = ~Le sceau sur la base de cette statuette de pierre indique qu'il s'agit d'une œuvre antique d'un magicien néthérisse.
 
 Poids : 3~
@@ -31469,7 +31493,7 @@ EXALTATION : Cette capacité permet au lanceur de porter secours à une créatu
 FAVEUR DIVINE : Cette capacité fait bénéficier au lanceur d'un bonus de 1 à ses jets d'attaque et de dégâts par tranche de 3 niveaux d'expérience du lanceur pendant deux rounds.
 
 Désavantages :
-- Doit être d'alignement loyal bon, neutre bon ou loyal neutre.~
+- Doit être d'alignement loyal bon, loyal neutre ou neutre bon.~
 @1056943 = ~Exaltation~
 @1056944 = ~Exaltation
 (Abjuration)
@@ -31535,7 +31559,7 @@ Plusieurs gobelins ont tenté de me barrer la route, exigeant que je paie un pé
 J'ai embobiné les pillards gobelins pour passer.
 
 Des gobelins m'ont temporairement barré la route, exigeant que je paie un péage. J'ai réussi à passer sans rien payer et sans les massacrer.~
-@1057029 = ~Emplacement pour le tonneau de BOUM !~
+@1057029 = ~Emplacement pour le Tonneau de BOUM~
 @1057051 = ~J'aimerais que vous retourniez au camp pour le moment. Je vous contacterai si j'ai besoin de vos services.~
 @1057089 = ~Oui. Je souhaite que vous retourniez au camp pour le moment.~
 @1057140 = ~Le héros de la Porte de Baldur daigne s'adresser à moi. Quel honneur !~ [BD57140] ~L'héroïne de la Porte de Baldur daigne s'adresser à moi. Quel honneur !~ [BD57140]
@@ -31595,7 +31619,7 @@ J'ai provoqué les demi-orques mais je n'ai pas pu les vaincre.~
 @1057260 = ~Tenez, prenez ce bouclier. Isabella l'a pris à une petite-personne dont l'auberge a brûlé, à l'est d'ici. Je vous prie de le lui rendre avec mes excuses.~
 @1057261 = ~Prenez cet or aussi. Je n'en ai pas besoin. Vous en ferez sans doute meilleur usage au cours de vos voyages.~
 @1057272 = ~Souffle de dragon fantôme~
-@1057275 = ~Une poignée de poudre extraite du « tonneau de BOUM » de Phossey Creusefond. D'après la naine, la poudre est inerte. Mais elle n'a sans doute pas la même définition de ce mot que vous.
+@1057275 = ~Une poignée de poudre extraite du « Tonneau de BOUM » de Phossey Creusefond. D'après la naine, la poudre est inerte. Mais elle n'a sans doute pas la même définition de ce mot que vous.
 
 PARAMÈTRES :
 
@@ -32101,6 +32125,7 @@ Attendez à l'extérieur de Paldragon jusqu'à ce qu'elle passe à proximité, e
 
 Apparemment, j'ai accusé la mauvaise personne. Non seulement un innocent est mort, mais nous ne savons toujours pas qui est l'espion. J'imagine qu'à l'heure actuelle, le traître est parti depuis longtemps.~
 @1058649 = ~Officier croisé~
+@1058650 = ~*le Pendule de pierre vibre dans votre sac, mais il ne vous aidera pas beaucoup si vous le laissez dedans... pour qu'il vous serve de guide, vous devez le porter autour du cou*~
 @1058656 = ~Cette tunique colorée est ornée du symbole des croisés de Caelar.
 
 PARAMÈTRES :
@@ -32854,9 +32879,9 @@ Je dois retrouver Skie quelque part aux abords du château Paldragon.
 Skie Écudargent a fui le camp des assiégeants de la coalition. Je dois la retrouver avant qu'elle ne tombe aux mains de l'ennemi. La dernière fois que quelqu'un l'a vue, elle se dirigeait vers le château Paldragon.~
 @1059784 = ~Le siège de Paldragon
 
-J'ai l'ordre d'utiliser mon amulette, le Pendule de Pierre, afin de trouver un endroit adéquat pour placer un tonneau de BOUM.
+J'ai l'ordre d'utiliser mon amulette, le Pendule de pierre, afin de trouver un endroit adéquat pour placer un Tonneau de BOUM.
 
-Lorsque j'aurai localisé les grottes sous Paldragon, le torsin de Lancie voudrait que je fasse davantage qu'enquêter sur Hephernaan, Caelar et la croisade. J'ai récupéré ce que la naine Phossey Creusefond appelle un tonneau de BOUM ainsi qu'un pendentif, le Pendule de Pierre. Je dois suivre les indications de l'amulette jusqu'à un point précis sous le château, puis y laisser le tonneau pour que l'on puisse le faire exploser à un moment stratégique lors de la bataille à venir contre les sbires de Caelar.~
+Lorsque j'aurai localisé les grottes sous Paldragon, le torsin de Lancie voudrait que je fasse davantage qu'enquêter sur Hephernaan, Caelar et la croisade. J'ai récupéré ce que la naine Phossey Creusefond appelle un Tonneau de BOUM ainsi qu'un pendentif, le Pendule de pierre. Je dois suivre les indications de l'amulette jusqu'à un point précis sous le château, puis y laisser le tonneau pour que l'on puisse le faire exploser à un moment stratégique lors de la bataille à venir contre les sbires de Caelar.~
 @1059785 = ~Événements importants
 
 De Lancie m'a également demandé d'empoisonner les réserves d'eau et de nourriture. J'ai accepté.~
@@ -32930,12 +32955,12 @@ Maintenant que le sujet de l'attaque initiale est réglé, il est temps de dépl
 
 Je dois trouver Phossey Creusefond et lui parler.
 
-Sans le tonneau de BOUM en place, nous ne pouvons pas faire sauter les portes. Heureusement, Phossey Creusefond peut s'infiltrer depuis le dessus. Je dois la retrouver à l'est de la porte principale de Paldragon.~
+Sans le Tonneau de BOUM en place, nous ne pouvons pas faire sauter les portes. Heureusement, Phossey Creusefond peut s'infiltrer depuis le dessus. Je dois la retrouver à l'est de la porte principale de Paldragon.~
 @1059801 = ~Le siège de Paldragon
 
 Je peux désormais pénétrer dans le château Paldragon.
 
-Le tonneau de BOUM a fait ce que Phossey Creusefond avait promis. La porte principale de Paldragon est tombée.~
+Le Tonneau de BOUM a fait ce que Phossey Creusefond avait promis. La porte principale de Paldragon est tombée.~
 @1059802 = ~Le siège de Paldragon
 
 Je dois vaincre tous les archers afin que Phossey puisse mettre ses explosifs en place.
@@ -33508,6 +33533,7 @@ J'ai trouvé l'ombre d'un énorme dragon femelle qui gardait l'extérieur d'une 
 @1060912 = ~On dirait bien que le héros est là.~ ~On dirait bien que l'héroïne est là.~
 @1060916 = ~Vous parlez comme quelqu'un qui ne me connaît pas. Dites-moi, de Lancie, qu'est-ce qui pourrait être suffisamment important pour remettre à plus tard mon expédition vers les grottes sous Paldragon ?~
 @1060918 = ~La même chose que vous, j'imagine. Vaincre la Dame Étincelante en subissant un minimum de pertes. Votre arrivée et votre départ prochain pour les grottes sous Paldragon nous offrent de nouvelles possibilités. Phossey, parlez-moi de ce tonneau de potion d'explosion.~ [BD60918]
+@1060922 = ~Un Tonneau de BOUM ! Pas une potion d'explosion. Et vous n'avez pas b'soin de vous inquiéter. De toute ma carrière, je n'ai foiré qu'une fois cette année. Donc prenez le tonneau, mettez-le en sécurité, cachez-le là où il fera le plus de dégâts à la croisade, et lorsque vous reviendrez... BOUM ! D'accord ? Bien.~
 @1060923 = ~Quoi ? Je... j'imagine, je veux dire, c'est ma tente, mais... Bon, d'accord. Je vais... aller par là-bas, dans ce cas.~
 @1060925 = ~Nous savons que Paldragon est alimenté par les grottes que vous allez bientôt visiter, si tout se passe comme prévu. Si vous mettez quelques gouttes de ceci dans les réserves d'eau et de nourriture de l'ennemi, nous aurons un avantage certain lors de notre confrontation avec la Dame Étincelante.~ [BD60925]
 @1060943 = ~Je ne sais pas où nous allons, mais nous devons y aller vite. La limite entre une foule et une émeute est ténue, et j'aimerais bien ne pas être dehors lorsqu'elle sera atteinte.~
@@ -34283,6 +34309,10 @@ Capacités de combat :
 
 Capacités de charge :
 - Bouclier de feu (rouge) (deux fois par jour)
+  Résistance au feu : +50 %
+  Spécial : quiconque inflige des dégâts à l'utilisateur dans un rayon de 1,1 mètre subit 1d8 +2 points de dégâts de feu
+  Durée : 3 rounds + 1 round par niveau
+  Zone d'effet : l'utilisateur
 
 TAC0 : +3
 Dégâts : 1d6 +3 (contondant)
@@ -39002,6 +39032,7 @@ Pendant une période, des hobgobelins et des bandits utilisèrent le château co
 En 1 363 CV, les diables revinrent en Féérune pour reprendre le château et levèrent une armée. Ils marchèrent jusqu'au Gué-de-la-Dague, détruisant les bâtiments et massacrant des innocents sur leur passage. Un groupe d'aventuriers qui s'étaient rassemblés, tant par chance que par nécessité, détruisit l'armée et scella le portail à jamais.
 
 (Note : à jamais ? C'est ce qu'on verra.)~
+@1069150 = ~<LADYLORD> <CHARNAME> ! Nous avons besoin d'aide. Quand Phossey a raffiné les explosifs pour faire le Tonneau de BOUM, elle s'est retrouvée avec un résidu hautement instable et toxique. Nous pensions l'utiliser comme arme contre la croisade, mais si le feu atteint les tonneaux, nous serons tous tués.~ [BD69150]
 @1069152 = ~Un groupe de nains est arrivé au camp peu avant que l'assaut ne débute, et a prétendu répondre à votre appel à l'aide contre la croisade ?~
 @1069153 = ~On dirait qu'avoir le héros de la Porte de Baldur à nos côtés présente des avantages. Andrus, qu'en est-il de l'ennemi ?~ ~On dirait qu'avoir l'héroïne de la Porte de Baldur à nos côtés présente des avantages. Andrus, qu'en est-il de l'ennemi ?~
 @1069156 = ~La plupart de nos troupes ont attiré les forces ennemies autour de Paldragon, alors nos nouveaux... alliés... sont chargés de défendre le camp. Que les dieux nous viennent en aide ! À propos, Andrus, quelles sont les nouvelles de l'ennemi ?~
@@ -40357,6 +40388,10 @@ Rédigé par un sage ayant exploré les plans, ce volume usé par le temps fait 
 « ... les fiélons puissants possèdent des capacités magiques dont ils peuvent abuser à volonté. Cela peut inclure l'invisibilité et la téléportation... »
 
 Les lambeaux des pages de ce volume ne vous en apprennent pas plus, du moins, c'est tout ce que vous parvenez à déchiffrer.~
+@1070642 = ~*le Pendule de pierre bascule d'avant en arrière comme s'il possédait une vie propre, réfléchissant au meilleur moyen d'atteindre votre destination... au bout d'un moment, il prend une décision et tire vers le sud-ouest*~
+@1070643 = ~*à nouveau, le Pendule de pierre s'agite de lui-même, tirant sur sa chaîne pour attirer son utilisateur vers le sud-est*~ ~*à nouveau, le Pendule de pierre s'agite de lui-même, tirant sur sa chaîne pour attirer son utilisatrice vers le sud-est*~
+@1070644 = ~*le Pendule de pierre tremble... le pendentif oscille légèrement, attirant subtilement mais indéniablement son détenteur vers le nord-est*~ ~*le Pendule de pierre tremble... le pendentif oscille légèrement, attirant subtilement mais indéniablement sa détentrice vers le nord-est*~
+@1070645 = ~*le Pendule de pierre se balance un moment au bout de sa chaîne, puis il tire d'un côté avant de s'immobiliser, vous indiquant de vous rendre au nord-ouest afin de trouver la ligne de faille dans laquelle placer le Tonneau de BOUM de Phossey Creusefond*~
 @1070647 = ~~ [bdneo03]
 @1070648 = ~~ [bdneo04]
 @1070649 = ~~ [bdneo05]
@@ -40384,12 +40419,15 @@ Les lambeaux des pages de ce volume ne vous en apprennent pas plus, du moins, c'
 @1071017 = ~Ma cape se prend sans cesse dans les branches.~
 @1071075 = ~Ma maîtrise de la Toile défaille ! C'est inacceptable !~
 @1071087 = ~HouuuuUUUuuuUUUUu.~
-@1071114 = ~(Le plafond de la grotte ne présente aucune faiblesse que vous pourriez exploiter, mais si le pendule de pierre est précis, placer le tonneau de BOUM à cet endroit devrait avoir un effet dévastateur sur les défenses des croisés à Paldragon.)~
+@1071113 = ~*c'est un tas de grosses pierres qui dissimule une cachette*~
+@1071114 = ~*le plafond de la grotte ne présente aucune faiblesse que vous pourriez exploiter, mais si l'on en croit le Pendule de pierre, placer le Tonneau de BOUM à cet endroit devrait avoir un effet dévastateur sur les défenses des croisés à Paldragon*~
+@1071115 = ~*placer le Tonneau de BOUM*~
+@1071116 = ~*garder le Tonneau de BOUM, du moins pour l'instant*~
 @1071117 = ~Le siège de Paldragon
 
-Le pendule de pierre m'a indiqué l'endroit où placer le tonneau de BOUM
+Le Pendule de pierre m'a indiqué l'endroit où placer le Tonneau de BOUM.
 
-Grâce au pendule de pierre, je sais où placer le tonneau de BOUM, afin qu'il fasse le plus de dégâts possible aux croisés rassemblés au château Paldragon. J'ai marqué l'emplacement sur ma carte, au cas où je devrais y revenir.~
+Grâce au Pendule de pierre, je sais où placer le Tonneau de BOUM, afin qu'il fasse le plus de dégâts possible aux croisés rassemblés au château Paldragon. J'ai marqué l'emplacement sur ma carte, au cas où je devrais y revenir.~
 @1071120 = ~L'appel de l'entropiste
 
 Neera a tous les ingrédients nécessaires à la création de sa potion.
@@ -40405,6 +40443,7 @@ En explorant les grottes de la rivière souterraine j'ai rencontré un magicien 
 Je dois parler avec le torsin de Lancie.
 
 Les forces rassemblées contre la croisade ont pénétré dans la cour intérieure du château Paldragon. Je ferais mieux de parler de la progression de nos troupes avec un commandant de la coalition, avant d'entrer dans le château lui-même.~
+@1071127 = ~*le Pendule de pierre se balance d'avant en arrière, en quête de failles dans la roche... il donnera sans doute des indications plus précises lorsque vous vous rapprocherez du site*~
 @1071134 = ~Glint Gardnersonson
 
 Pritchard Gardnersonson, un parent de Glint, est au camp. Je devrais le chercher.
@@ -40464,7 +40503,7 @@ Les miliciens de Gué-de-la-Dague qui étaient en conflit avec Pritchard Gardner
 @1071155 = ~Rien, en fait. Je m'en vais.~
 @1071156 = ~Que dire ? Sois sans peur. Ne fuis point le combat. Respecte les lois de la guerre. Tels sont Ses commandements.~
 @1071157 = ~Est-ce la raison pour laquelle vous l'adorez ?~
-@1071158 = ~« Ne fuis point le combat ? » Alors, il n'est pas question de battre en retraite ?~
+@1071158 = ~« Ne fuis point le combat » ? Alors, il n'est pas question de battre en retraite ?~
 @1071159 = ~Quelles sont les lois de la guerre ?~
 @1071160 = ~Alors, vous ne craignez rien ?~
 @1071161 = ~Je n'ai plus de questions.~
