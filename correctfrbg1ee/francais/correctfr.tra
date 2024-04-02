@@ -5098,6 +5098,9 @@ CHARME-ANIMAL : Cette capacité charme n'importe quel animal ciblé pendant 2 t
 - Peut lancer des sorts druidiques à partir du niveau 8.
 - Doit être d'alignement bon.
 - Dés de vie : d10.
+- Peut avoir accès à la capacité de haut niveau unique « Pistage ».
+
+PISTAGE : Grâce à son intime connaissance des milieux naturels et des créatures qui y vivent, le lanceur peut utiliser cette capacité de haut niveau pour avoir une idée générale des créatures présentes dans une zone donnée.
 
 Caractéristiques requises pour le jumelage : Force, Dextérité, Sagesse.~
 @1009558 = ~PALADIN : Un paladin est un guerrier intrépide et pur, un modèle de bonté et d'authenticité. Tout comme le guerrier, le paladin est un homme d'action et de combat. Cependant, il vit pour des idéaux de droiture, de justice, d'honnêteté, de piété et de chevalerie. Il s'efforce d'être un exemple vivant de ces vertus, afin que d'autres puissent tirer des enseignements de son comportement et progresser grâce à ses actions.
@@ -5173,7 +5176,7 @@ CAPACITÉS :
 
 - Peut lancer « Pose de piège » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGE : Permet au lanceur de poser un piège à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur doit se déplacer à l'endroit ciblé pour poser le piège. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège ne peut être déclenché que par les créatures ennemies. Les effets du piège dépendent du niveau d'expérience du lanceur :
+POSE DE PIÈGE : Permet au lanceur de poser un piège à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur doit se déplacer à l'endroit ciblé pour poser le piège. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège ne peut être déclenché que par les créatures ennemies. Les effets du piège dépendent du niveau d'expérience du lanceur :
 
  Niveau 1-10 : la créature touchée subit 2d8 +5 points de dégâts de projectiles.
  Niveau 11-15 : la créature touchée subit 2d8 +5 points de dégâts de projectiles, +2d6 points de dégâts de poison par round pendant 3 rounds.
@@ -6525,7 +6528,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort confère à la cible une invulnérabilité totale aux projectiles non-magiques propulsés mécaniquement ou lancés manuellement (flèches, haches de jet, carreaux, fléchettes, marteaux de jet, billes et dagues de jet). Notez toutefois que ce sort n'apporte aucune protection contre les attaques magiques telles que Boule de feu, Éclair ou Projectile magique, pas plus qu'il ne protège contre les projectiles magiques tels que les flèches +1.~
+Ce sort confère à la cible une invulnérabilité totale aux projectiles non-magiques propulsés mécaniquement ou lancés manuellement (flèches, haches de jet, carreaux, fléchettes, marteaux de jet, billes, javelines et dagues de jet). Notez toutefois que ce sort n'apporte aucune protection contre les attaques magiques telles que Boule de feu, Éclair ou Projectile magique, pas plus qu'il ne protège contre les projectiles magiques tels que les flèches +1.~
 @1012151 = ~Résistance à la peur
 (Abjuration)
 
@@ -14111,7 +14114,7 @@ CAPACITÉS :
 - Ne peut être que compétent (une étoile) dans le maniement des armes.
 - Ne peut être que compétent (une étoile) dans le style de combat à une arme, et ne peut pas avoir recours aux autres styles de combat.
 - Bonus de 2 en vitesse de déplacement, et 1 supplémentaire tous les 5 niveaux d'expérience.
-- Le moine peut effectuer une attaque à mains nues par tour ; il gagne 1/2 attaque supplémentaire tous les 3 niveaux d'expérience. Quand le moine gagne des niveaux d'expérience, les dégâts infligés par ses poings augmentent également :
+- Le moine peut effectuer une attaque à mains nues par round ; il gagne 1/2 attaque supplémentaire par round tous les 3 niveaux d'expérience. Quand le moine gagne des niveaux d'expérience, les dégâts infligés par ses poings augmentent également :
 
  Niveau 1-2 : 1d6.
  Niveau 3-5 : 1d8.
@@ -14151,7 +14154,7 @@ CAPACITÉS :
 - Ne peut pas porter d'armure plus lourde que l'armure feuilletée.
 - Peut se spécialiser (deux étoiles) dans le maniement de n'importe quelle arme.
 - Peut se spécialiser (deux étoiles) dans n'importe quel style de combat, et allouer trois étoiles dans le style de combat à deux armes.
-- Bonus de 2 points en vitesse de déplacement.
+- Bonus de 2 en vitesse de déplacement.
 - Immunité aux attaques sournoises.
 - Peut lancer « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -14346,7 +14349,7 @@ Nécessite au moins 15 en Dextérité.~
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts avec les armes à distance tous les 3 niveaux d'expérience.
-- Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
+- Peut atteindre la grande maîtrise (cinq étoiles) dans les arcs courts, les arcs longs et les arbalètes.
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
 TIR AJUSTÉ : Pendant les 10 prochaines secondes, toute attaque à distance réussie du lanceur engendre des effets supplémentaires à la créature touchée. Les effets sont cumulables. Par exemple, si un lanceur de niveau 16 réussi son jet d'attaque à trois reprises au cours de la durée de Tir ajusté avec une arme à distance, la créature touchée subit un malus de 3 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes ainsi que 6 dégâts perforants supplémentaires en plus des dégâts normaux. Les effets dépendent du niveau d'expérience du lanceur :
@@ -14416,7 +14419,7 @@ Avantages :
 - Bonus de 15 % en Pose de pièges.
 - Peut lancer « Pose de piège spécial » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGE SPÉCIAL : Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
+POSE DE PIÈGE SPÉCIAL : Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
 
  Niveau 1-10 : la créature touchée subit 3d8 +5 points de dégâts de projectiles. De plus, la créature touchée est ralentie pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
  Niveau 11-15 : la créature touchée subit 4d8 +5 points de dégâts de projectiles. De plus, la créature touchée est immobilisée pendant 5 rounds si cette dernière est une créature humanoïde et qu'elle rate un jet de sauvegarde contre les sorts à -1.
@@ -15797,7 +15800,7 @@ Désavantages :
 
 Avantages :
 - Bonus de 1 aux jets d'attaque et de dégâts avec les armes à distance tous les 3 niveaux d'expérience.
-- Peut atteindre la grande maîtrise (5 étoiles) dans les arcs courts, les arcs longs et les arbalètes.
+- Peut atteindre la grande maîtrise (cinq étoiles) dans les arcs courts, les arcs longs et les arbalètes.
 - Peut lancer « Tir ajusté » une fois par jour tous les 4 niveaux d'expérience à partir du niveau 4.
 
 TIR AJUSTÉ : Pendant les 10 prochaines secondes, toute attaque à distance réussie du lanceur engendre des effets supplémentaires à la créature touchée. Les effets sont cumulables. Par exemple, si un lanceur de niveau 16 réussi son jet d'attaque à trois reprises au cours de la durée de Tir ajusté avec une arme à distance, la créature touchée subit un malus de 3 au TAC0 pendant 20 secondes, aux jets de sauvegarde contre les sorts pendant 15 secondes et à la Force pendant 10 secondes ainsi que 6 dégâts perforants supplémentaires en plus des dégâts normaux. Les effets dépendent du niveau d'expérience du lanceur :
@@ -15867,7 +15870,7 @@ Avantages :
 - Bonus de 15 % en Pose de pièges.
 - Peut lancer « Pose de piège spécial » une fois par jour tous les 5 niveaux d'expérience (une utilisation au niveau 1).
 
-POSE DE PIÈGE SPÉCIAL : Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
+POSE DE PIÈGE SPÉCIAL : Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
 
  Niveau 1-10 : la créature touchée subit 3d8 +5 points de dégâts de projectiles. De plus, la créature touchée est ralentie pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
  Niveau 11-15 : la créature touchée subit 4d8 +5 points de dégâts de projectiles. De plus, la créature touchée est immobilisée pendant 5 rounds si cette dernière est une créature humanoïde et qu'elle rate un jet de sauvegarde contre les sorts à -1.
@@ -16001,7 +16004,7 @@ CAPACITÉS :
 - Ne peut pas porter d'armure plus lourde que l'armure feuilletée.
 - Peut se spécialiser (deux étoiles) dans le maniement de n'importe quelle arme.
 - Peut se spécialiser (deux étoiles) dans n'importe quel style de combat, et allouer trois étoiles dans le style de combat à deux armes.
-- Bonus de 2 points en vitesse de déplacement.
+- Bonus de 2 en vitesse de déplacement.
 - Immunité aux attaques sournoises.
 - Peut lancer « Rage du barbare » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
@@ -17682,7 +17685,7 @@ Temps d'incantation : 9
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort protège la créature ciblée de toutes les formes de magie de mort pendant la durée du sort. Cela inclut, entre autres : Désintégration, Mot de pouvoir : mort, Sort de mort, Doigt de mort, etc.~
+Ce sort protège la créature ciblée de toutes les formes de magie de mort pendant la durée du sort. La créature affectée devient alors immunisée à la mort magique et à la désintégration. Cela inclut, entre autres, les sorts profanes de 6ème, 7ème et 9ème niveau Désintégration, Sort de mort, Doigt de mort et Mot de pouvoir : mort.~
 @1026214 = ~Appel de créatures des bois
 (Conjuration/Convocation)
 
@@ -18403,7 +18406,7 @@ Temps d'incantation : 3
 Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
-Ce sort confère à la cible une invulnérabilité totale aux projectiles non-magiques propulsés mécaniquement ou lancés manuellement (flèches, haches de jet, carreaux, fléchettes, marteaux de jet, billes et dagues de jet). Notez toutefois que ce sort n'apporte aucune protection contre les attaques magiques telles que Boule de feu, Éclair ou Projectile magique, pas plus qu'il ne protège contre les projectiles magiques tels que les flèches +1.~
+Ce sort confère à la cible une invulnérabilité totale aux projectiles non-magiques propulsés mécaniquement ou lancés manuellement (flèches, haches de jet, carreaux, fléchettes, marteaux de jet, billes, javelines et dagues de jet). Notez toutefois que ce sort n'apporte aucune protection contre les attaques magiques telles que Boule de feu, Éclair ou Projectile magique, pas plus qu'il ne protège contre les projectiles magiques tels que les flèches +1.~
 @1026335 = ~Protégé(e) contre les projectiles non-magiques~
 @1026343 = ~Désintégration
 (Transmutation)
@@ -22719,6 +22722,7 @@ Poids : 2~
 @1030311 = ~Bien combattu, <CHARNAME>. Vous avez montré que vous étiez un chef efficace, surtout si l'on considère ce avec quoi vous devez travailler.~ [BP_THES2] ~Bien combattu, <CHARNAME>. Vous avez montré que vous étiez une cheffe efficace, surtout si l'on considère ce avec quoi vous devez travailler.~ [BP_THES2]
 @1030327 = ~Oui, c'est un dégoûtant « magere », en effet.~
 @1030340 = ~Eh bien, en supposant que « svend » veut dire « poing » et « hjerte d'alv » veut dire « tête de drow », alors oui. Nous pensons à la même chose.~
+@1030342 = ~Quoi ? Les géants du feu ne prennent jamais le temps d'avaler un peu d'hydromel de temps à autre ?~
 @1030375 = ~C-c-comment osez-v-vous insinuer... ?~
 @1030378 = ~C'est un puissant guerrier, mais il aime cette « gerbille » avant tout.~ [DNR106H]
 @1030404 = ~Vous entendez ça ? Le Sorcier Rouge attend le bon moment, patientant pour prendre le contrôle.~ [DNR108D]
@@ -23810,7 +23814,7 @@ Désavantages :
  Niveau 13 et plus : dégâts x4.
 
 - Il n'a que 20 points (30 au niveau 1) à répartir dans ses talents de roublard à chaque niveau d'expérience.
-- Ne peut pas poser de pièges.
+- Ne peut lancer la capacité « Pose de piège » ou les capacités de haut niveau « Piège à explosion », « Piège temporel » et « Piège à pieux ».
 
 Caractéristiques requises pour le jumelage : Force, Dextérité, Charisme.~
 @1031974 = ~Protecteur nain~
@@ -23928,7 +23932,7 @@ Temps d'incantation : 1
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
-Permet au lanceur de poser un piège à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur doit se déplacer à l'endroit ciblé pour poser le piège. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège ne peut être déclenché que par les créatures ennemies. Les effets du piège dépendent du niveau d'expérience du lanceur :
+Permet au lanceur de poser un piège à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur doit se déplacer à l'endroit ciblé pour poser le piège. Les chances de poser le piège avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège ne peut être déclenché que par les créatures ennemies. Les effets du piège dépendent du niveau d'expérience du lanceur :
 
  Niveau 1-10 : la créature touchée subit 2d8 +5 points de dégâts de projectiles.
  Niveau 11-15 : la créature touchée subit 2d8 +5 points de dégâts de projectiles, +2d6 points de dégâts de poison par round pendant 3 rounds.
@@ -23942,7 +23946,7 @@ Temps d'incantation : 0
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
-Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges modifié par la chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
+Permet au lanceur de poser un piège spécial à l'endroit ciblé lorsqu'aucune créature hostile n'est en vue. Le lanceur peut jeter le piège spécial à l'endroit ciblé jusqu'à une distance de 30 mètres. Les chances de poser le piège spécial avec succès sont égales à la valeur en pourcentage du talent de roublard Pose de pièges plus le score de chance. Par exemple, un lanceur ayant 70 points au talent de roublard Pose de pièges et une chance de 1 aura 71 % de chances de réussite. Le piège spécial ne peut être déclenché que par les créatures ennemies. Les effets du piège spécial dépendent du niveau d'expérience du lanceur :
 
  Niveau 1-10 : la créature touchée subit 3d8 +5 points de dégâts de projectiles. De plus, la créature touchée est ralentie pendant 5 rounds si elle rate un jet de sauvegarde contre les sorts à -4.
  Niveau 11-15 : la créature touchée subit 4d8 +5 points de dégâts de projectiles. De plus, la créature touchée est immobilisée pendant 5 rounds si cette dernière est une créature humanoïde et qu'elle rate un jet de sauvegarde contre les sorts à -1.
@@ -24886,7 +24890,7 @@ Nemes <nemes.level@gmail.com>~
 @1032336 = ~Valamint szeretnénk köszönetünket kifejezni mindenkinek, akik valamilyen formában segítettek a Baldur Kapuja eredeti vagy Javított Kiadásának magyarításában, de a fenti listában nem szerepelnek.~
 @1032339 = ~Mode Histoire : activé~
 @1032340 = ~Mode Histoire : désactivé~
-@1032341 = ~SHAMAN : Les Shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les Shamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies pour obéir à leur volonté. Leur capacité d'invoquer des esprits puissants comme gardiens et défenseurs, en est un parfait exemple. Partagé entre les deux mondes, les Shamans privilégient l'équilibre à la domination.
+@1032341 = ~SHAMAN : Les shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les druides avec la nature, mais les shamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs, en est un parfait exemple. Partagés entre les deux mondes, les shamans privilégient l'équilibre à la domination.
 
 CAPACITÉS :
 
@@ -24914,7 +24918,14 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 - Doit être d'alignement neutre bon, neutre strict ou neutre mauvais.
 - Ne peut pas être jumelé ou multi-classé.
 - Le shaman n'est pas éligible pour une forteresse.
-- Dés de vie : d8.~
+- Dés de vie : d8.
+- Peut avoir accès aux capacités de haut niveau uniques « Forme spirituelle », « Châtiment éthéré » et « Élu des esprits ».
+
+FORME SPIRITUELLE : Le shaman se faufile dans un espace entre le monde des esprits et le plan matériel, ce qui le rend partiellement désincarné. Pendant les 5 rounds suivants, toutes les attaques physiques dirigées contre lui ne causent que 50 % des dégâts normaux. Pendant cette période, le shaman bénéficie aussi des effets d'Invisibilité majeure et ne peut pas être directement ciblé par des sorts.
+
+CHÂTIMENT ÉTHÉRÉ : Les silhouettes fantomatiques appelées par le shaman tourbillonnent autour du champ de bataille, et tourmentent les adversaires du shaman. Tous les ennemis dans la zone d'effet subissent 3d8 points de dégâts magiques par round pendant les 3 prochains rounds (pas de jet de sauvegarde). En outre, tous les ennemis vivants (les morts-vivants et les créatures artificielles ne sont pas affectés) doivent réussir leur jet de sauvegarde contre les sorts sous peine de perdre 2 points de Force à chaque round pendant 5 rounds. La perte de Force est cumulative, mais ce sort ne peut pas réduire la Force d'une créature au-dessous de 1.
+
+ÉLU DES ESPRITS : Cette puissante capacité de haut niveau protège le lanceur de la mort pendant 1 heure ou jusqu'à ce qu'elle soit consumée. Tant qu'il est sous la protection de ce rite, le lanceur est immunisé à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration. En outre, si le lanceur voit ses points de vie descendre sous les 10 % et que le rite est actif, il reçoit instantanément les effets du sort divin/druidique de 6ème niveau Guérison. Toutes les maladies, la surdité, la cécité, les poisons, l'ébriété et la débilité mentale sont guéris et l'intégralité de ses points de vie sont restaurés. La protection du rite (y compris l'immunité à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration) est complètement consumée dès que le sort Guérison est déclenché.~
 @1032343 = ~Enfant, vos visions de créatures et d'esprits invisibles ont grandement préoccupé votre père adoptif, Gorion. Ce fut seulement après qu'un chaman d'une tribu barbare Uthgardte du Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a effectué la cérémonie d'initiation qui a été la première étape sur la voie de l'esprit pour devenir un chaman.~
 @1032344 = ~SHAMAN : Les Shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les Shamans sont plus spirituels que primitifs. Les Shamans sélectionnent de nouveaux sorts à apprendre quand ils gagnent des niveaux ; une fois appris, le Shaman peut les lancer tous les jours sans mémorisation.~
 @1032346 = ~PRÊTRE DE TYR : Tyr est la divinité de la justice et de la loi. Ses principales préoccupations sont le châtiment des criminels et la promotion globale de la loi et du bien dans le monde. La croyance en la justice rendue par l'exercice bienveillant de la force, ou du moins la vigilance armée, est sa raison d'être. Tyr est une divinité d'importance dans le panthéon féérunien grâce à sa position de meneur de la Triade, un trio de dieux d'alignement loyal bon qui se consacrent collectivement aux concepts de courage, de justice, de persévérance, de devoir, d'obéissance, d'honneur, de soulagement de la souffrance et, dans une certaine mesure, de martyre vertueux.
@@ -25033,15 +25044,15 @@ Les silhouettes fantomatiques appelées par le shaman tourbillonnent autour du c
 @1032365 = ~Élu des esprits
 
 Portée : 0
-Durée : 5 tours
+Durée : 1 heure
 Temps d'incantation : 9
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce puissant rite protège le shaman de la mort pendant 10 tours ou jusqu'à ce qu'il soit déchargé. Tant qu'il est sous la protection de ce rite, le shaman est immunisé contre toutes les formes de magie de mort. En outre, si le shaman voit ses points de vie descendre sous les 10 % et que le rite est actif, le shaman reçoit instantanément un sort de Guérison. La protection du rite (y compris l'immunité à la mort) est complètement déchargée dès que le sort de Guérison est déclenché.
+Cette puissante capacité de haut niveau protège le lanceur de la mort pendant 1 heure ou jusqu'à ce qu'elle soit consumée. Tant qu'il est sous la protection de ce rite, le lanceur est immunisé à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration. En outre, si le lanceur voit ses points de vie descendre sous les 10 % et que le rite est actif, il reçoit instantanément les effets du sort divin/druidique de 6ème niveau Guérison. Toutes les maladies, la surdité, la cécité, les poisons, l'ébriété et la débilité mentale sont guéris et l'intégralité de ses points de vie sont restaurés. La protection du rite (y compris l'immunité à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration) est complètement consumée dès que le sort Guérison est déclenché.
 
 Pré-requis : Forme spirituelle~
-@1032366 = ~Protection de l'Élu des esprits épuisée~
+@1032366 = ~Protection de l'Élu des esprits consumée~
 @1032369 = ~Exaltation
 (Abjuration)
 
@@ -25861,7 +25872,7 @@ Nécessite :
 Poids : 4~
 @1034082 = ~shaman~
 @1034083 = ~shaman~
-@1034084 = ~SHAMAN : Les shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les shamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs en est un parfait exemple. Partagés entre les deux mondes, les shamans privilégient l'équilibre à la domination.
+@1034084 = ~SHAMAN : Les shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les druides avec la nature, mais les shamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs, en est un parfait exemple. Partagés entre les deux mondes, les shamans privilégient l'équilibre à la domination.
 
 CAPACITÉS :
 
@@ -25889,7 +25900,14 @@ Le type d'esprit convoqué est déterminé aléatoirement parmi les esprits disp
 - Doit être d'alignement neutre bon, neutre strict ou neutre mauvais.
 - Ne peut pas être jumelé ou multi-classé.
 - Le shaman n'est pas éligible pour une forteresse.
-- Dés de vie : d8.~
+- Dés de vie : d8.
+- Peut avoir accès aux capacités de haut niveau uniques « Forme spirituelle », « Châtiment éthéré » et « Élu des esprits ».
+
+FORME SPIRITUELLE : Le shaman se faufile dans un espace entre le monde des esprits et le plan matériel, ce qui le rend partiellement désincarné. Pendant les 5 rounds suivants, toutes les attaques physiques dirigées contre lui ne causent que 50 % des dégâts normaux. Pendant cette période, le shaman bénéficie aussi des effets d'Invisibilité majeure et ne peut pas être directement ciblé par des sorts.
+
+CHÂTIMENT ÉTHÉRÉ : Les silhouettes fantomatiques appelées par le shaman tourbillonnent autour du champ de bataille, et tourmentent les adversaires du shaman. Tous les ennemis dans la zone d'effet subissent 3d8 points de dégâts magiques par round pendant les 3 prochains rounds (pas de jet de sauvegarde). En outre, tous les ennemis vivants (les morts-vivants et les créatures artificielles ne sont pas affectés) doivent réussir leur jet de sauvegarde contre les sorts sous peine de perdre 2 points de Force à chaque round pendant 5 rounds. La perte de Force est cumulative, mais ce sort ne peut pas réduire la Force d'une créature au-dessous de 1.
+
+ÉLU DES ESPRITS : Cette puissante capacité de haut niveau protège le lanceur de la mort pendant 1 heure ou jusqu'à ce qu'elle soit consumée. Tant qu'il est sous la protection de ce rite, le lanceur est immunisé à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration. En outre, si le lanceur voit ses points de vie descendre sous les 10 % et que le rite est actif, il reçoit instantanément les effets du sort divin/druidique de 6ème niveau Guérison. Toutes les maladies, la surdité, la cécité, les poisons, l'ébriété et la débilité mentale sont guéris et l'intégralité de ses points de vie sont restaurés. La protection du rite (y compris l'immunité à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration) est complètement consumée dès que le sort Guérison est déclenché.~
 @1034085 = ~Lorsque vous étiez enfant, vos visions de créatures et d'esprits invisibles préoccupaient grandement votre père adoptif, Gorion. C'est seulement après qu'un chaman d'une tribu barbare uthgardte de Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a accompli pour vous la cérémonie d'initiation qui était la première étape sur la voie de l'esprit pour devenir chaman. Quand votre demi-frère, Sarevok Anchev, a tué votre père, vous avez quitté Château-Suif afin de renforcer vos liens avec les royaumes fantômes. Votre pouvoir a grandi, tout comme ceux de Sarevok ; la confrontation était devenue inévitable. Gorion a été vengé et Sarevok est mort de vos mains. Vous êtes désormais le héros de la Porte de Baldur. Bien que la ville et ses habitants célèbrent votre nom, votre attention est à jamais partagée entre deux mondes coexistants, le monde physique et le monde invisible et spirituel.~ ~Lorsque vous étiez enfant, vos visions de créatures et d'esprits invisibles préoccupaient grandement votre père adoptif, Gorion. C'est seulement après qu'un chaman d'une tribu barbare uthgardte de Val de Bise ait livré un ancien parchemin à Château-Suif que la vraie nature de vos capacités s'est fait connaître. Il a accompli pour vous la cérémonie d'initiation qui était la première étape sur la voie de l'esprit pour devenir chamane. Quand votre demi-frère, Sarevok Anchev, a tué votre père, vous avez quitté Château-Suif afin de renforcer vos liens avec les royaumes fantômes. Votre pouvoir a grandi, tout comme ceux de Sarevok ; la confrontation était devenue inévitable. Gorion a été vengé et Sarevok est mort de vos mains. Vous êtes désormais l'héroïne de la Porte de Baldur. Bien que la ville et ses habitants célèbrent votre nom, votre attention est à jamais partagée entre deux mondes coexistants, le monde physique et le monde invisible et spirituel.~
 @1034086 = ~Hé ! <CHARNAME>, tu es réveillé ? C'est moi, Imoen.~ [BD34086] ~Hé ! <CHARNAME>, tu es réveillée ? C'est moi, Imoen.~ [BD34086]
 @1034088 = ~SHAMAN : Les Shamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les Druides avec la nature, mais les shamans sont plus spirituels que primitifs. Les shamans sélectionnent de nouveaux sorts à apprendre à chaque gain de niveau d'expérience ; une fois appris, le shaman peut les lancer sans avoir besoin de les mémoriser.~
@@ -35840,8 +35858,26 @@ Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
 Ce sort permet au lanceur d'ériger un mur de lames tournoyantes, acérées comme des rasoirs. Elles scintillent et virevoltent à grande vitesse autour du lanceur, créant ainsi une barrière impénétrable qui se déplace avec lui. Toute créature, alliée comme ennemie, tentant de traverser la Sphère de lames reçoit 10d10 points de dégâts tranchants à chaque round passé dans la zone d'effet de cette dernière. Les créatures se trouvant dans la zone d'effet de la Sphère de lames peuvent tenter un jet de sauvegarde contre les sorts à -2. S'il est réussi, alors aucun dégât n'est infligé pour ce round. La Sphère de lames reste en place pendant 1 tour. Les sorts Barrière de lames et Sphère de lames sont cumulables.~
+@1062049 = ~Assassinat
+(Transmutation)
+
+Portée : 0
+Durée : 1 round
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Faisant usage de toutes les techniques ingénieuses que le lanceur a apprises au cours d'innombrables batailles, cette capacité de haut niveau permet à tous ses jets de dégâts durant le prochain round d'être considérés comme des attaques sournoises, en utilisant le multiplicateur actuel d'attaque sournoise du lanceur afin de déterminer les dégâts infligés.~
 @1062051 = ~Trompe-la-mort
-Dans un effort extraordinaire, un voleur de haut niveau peut éviter une mort quasi certaine. Cet effet dure 5 rounds durant lesquels les jets de sauvegarde contre la mort reçoivent un bonus de 5, les points de vie sont augmentés de 20 et le voleur devient immunisé contre la magie de mort.~
+(Transmutation)
+
+Portée : contact
+Durée : 5 rounds
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Dans un effort extraordinaire, le lanceur peut éviter une mort quasi certaine. Les effets de cette capacité de haut niveau durent 5 rounds durant lesquels le lanceur reçoit un bonus de 5 aux jets de sauvegarde contre la paralysie, la mort et les poisons, 20 points de vie temporaires et il devient immunisé à la mort magique, à la pétrification, à la désintégration, au drain de niveau et à l'emprisonnement. Les effets ne sont pas cumulables.~
 @1062053 = ~Cet anneau de protection améliore la classe d'armure et les jets de sauvegarde de son porteur contre tous les types d'attaques. Les propriétés magiques de l'anneau l'empêchent d'être porté avec d'autres objets magiques accordant une protection, dont les armures enchantées.
 
 PARAMÈTRES :
@@ -39851,10 +39887,10 @@ Temps d'incantation : 9
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce puissant rite protège le shaman de la mort pendant 1 heure ou jusqu'à ce qu'il soit déchargé. Tant qu'il est sous la protection de ce rite, le shaman est immunisé contre toutes les formes de magie de mort. En outre, si le shaman voit ses points de vie descendre sous les 10 % et que le rite est actif, le shaman reçoit instantanément un sort de Guérison. La protection du rite (y compris l'immunité à la mort) est complètement déchargée dès que le sort de Guérison est déclenché.
+Cette puissante capacité de haut niveau protège le lanceur de la mort pendant 1 heure ou jusqu'à ce qu'elle soit consumée. Tant qu'il est sous la protection de ce rite, le lanceur est immunisé à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration. En outre, si le lanceur voit ses points de vie descendre sous les 10 % et que le rite est actif, il reçoit instantanément les effets du sort divin/druidique de 6ème niveau Guérison. Toutes les maladies, la surdité, la cécité, les poisons, l'ébriété et la débilité mentale sont guéris et l'intégralité de ses points de vie sont restaurés. La protection du rite (y compris l'immunité à la mort magique, à l'emprisonnement, à la pétrification et à la désintégration) est complètement consumée dès que le sort Guérison est déclenché.
 
 Pré-requis : Forme spirituelle~
-@1070254 = ~Protection de l'Élu des esprits épuisée~
+@1070254 = ~Protection de l'Élu des esprits consumée~
 @1070255 = ~Rappel de l'esprit~
 @1070256 = ~Rappel de l'esprit
 (Nécromancie)
