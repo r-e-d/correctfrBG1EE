@@ -10804,7 +10804,7 @@ Résistance au feu : +50 %
 Durée : 2 heures
 
 Poids : 1~
-@1017661 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et des bonus aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
+@1017661 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et les bonus associés aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
 
 PARAMÈTRES :
 
@@ -10817,7 +10817,7 @@ Poids : 1~
 PARAMÈTRES :
 
 Poids : 1~
-@1017663 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et des bonus aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
+@1017663 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et les bonus associés aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
 
 PARAMÈTRES :
 
@@ -10825,7 +10825,7 @@ Force : 21 (Force de géant du froid)
 Durée : 2 heures
 
 Poids : 1~
-@1017664 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et des bonus aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
+@1017664 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et les bonus associés aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
 
 PARAMÈTRES :
 
@@ -10833,7 +10833,7 @@ Force : 22 (Force de géant du feu)
 Durée : 2 heures
 
 Poids : 1~
-@1017665 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et des bonus aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
+@1017665 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et les bonus associés aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
 
 PARAMÈTRES :
 
@@ -10841,7 +10841,7 @@ Force : 23 (Force de géant des nuages)
 Durée : 2 heures
 
 Poids : 1~
-@1017666 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et des bonus aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
+@1017666 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et les bonus associés aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
 
 PARAMÈTRES :
 
@@ -10954,7 +10954,7 @@ Spécial : Invisibilité
 Durée : 12 heures
 
 Poids : 1~
-@1017853 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et des bonus aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
+@1017853 = ~Cette potion n'est utilisable que par les combattants. Quiconque boit une potion de force de géant acquiert une Force surhumaine et les bonus associés aux jets d'attaque et de dégâts quand il utilise une arme de mêlée ou de jet. L'effet de la potion dure deux heures.
 
 PARAMÈTRES :
 
