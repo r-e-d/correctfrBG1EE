@@ -5205,7 +5205,16 @@ CAPACITÉS :
  Apaisement de la peur.
 
 - Doit être d'alignement loyal neutre, neutre bon, neutre strict, neutre mauvais ou chaotique neutre.
-- Dés de vie : d6.~
+- Dés de vie : d6.
+- Peut avoir accès aux capacités de haut niveau uniques « Flûte magique » et « Chant du barde amélioré ».
+
+FLÛTE MAGIQUE : Cette capacité de haut niveau permet de créer une flûte magique faite de pure énergie magique pendant 24 heures. La flûte magique dispose de capacités de charge s'utilisant comme une baguette magique. Lorsque le lanceur en joue, elle dispose des capacités de charge ci-dessous :
+
+ Résistance à la peur (pour le groupe) - 1 charge
+ Globe d'invulnérabilité - 1 charge
+ Boule de feu à retardement - 3 charges
+
+CHANT DU BARDE AMÉLIORÉ : Ce chant aux pouvoirs décuplés octroie aux membres du groupe dans un rayon de 5 mètres autour du lanceur un bonus de 4 aux jets d'attaque et de dégâts ainsi qu'à la classe d'armure, une immunité à la peur, aux échecs de test de moral, à l'étourdissement, à la confusion et aux armes non-magiques ainsi qu'un bonus de 5 % à la résistance à la magie. De plus, le lanceur obtient également un bonus de 6 classe d'armure supplémentaire (pour un total de 10 classe d'armure bonus) et un bonus de 5 % à la résistance à la magie supplémentaire (pour un total de 10 % résistance à la magie bonus). Un lanceur victime d'un effet de silence ne peut lancer Chant du barde amélioré. Les membres du groupe victime d'un effet de surdité ne sont pas affectés. Les effets ne sont pas cumulables, mais peuvent se cumuler avec les effets du Chant du barde du scalde. Cette capacité de haut niveau remplace le Chant du barde.~
 @1009574 = ~GUERRIER / MAGE : Ce personnage peut utiliser les capacités d'un guerrier et d'un mage, toutefois il ne peut lancer de sort tant qu'il porte une armure. Il peut atteindre la spécialisation, mais pas la maîtrise dans le maniement des armes.
 
 Les gnomes peuvent choisir cette multi-classe, mais deviennent guerriers / illusionnistes par défaut. Les gnomes sont la seule race à pouvoir associer une classe de mage spécialisé à une multi-classe.~
