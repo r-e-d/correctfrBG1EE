@@ -6484,6 +6484,7 @@ Lorsque ce sort est jeté, le lanceur et tout son équipement deviennent intangi
 (Abjuration)
 
 Niveau : 3
+Sphère : protection
 Portée : 12 mètres
 Durée : instantanée
 Temps d'incantation : 5
@@ -6545,7 +6546,7 @@ Niveau : 2
 Portée : 9 mètres
 Durée : 1 heure
 Temps d'incantation : 1
-Zone d'effet : rayon de 4,5 mètres
+Zone d'effet : les alliés dans un rayon de 5 mètres
 Jet de sauvegarde : aucun
 
 Le lanceur insuffle du courage aux bénéficiaires du sort et élève leur moral à son plus haut niveau. Au fur et à mesure que la durée du sort s'écoule, le moral des bénéficiaires revient à son niveau normal. Si les bénéficiaires sont affectés par une peur magique, cette dernière s'annule et ils retrouvent leur calme.~
@@ -6997,7 +6998,7 @@ Niveau : 1
 Portée : 9 mètres
 Durée : spéciale
 Temps d'incantation : 1
-Zone d'effet : 1 créature
+Zone d'effet : 1 créature (autre que le lanceur)
 Jet de sauvegarde : aucun
 
 Grâce à ce sort, le lanceur absorbe la force vitale d'une créature pour l'ajouter à la sienne. La créature visée subit 4 points de dégâts magiques, tandis que le lanceur gagne 4 points de vie. Si le lanceur dépasse son total maximum de points de vie avec ce sort, alors il gagne la différence en points de vie temporaires, ces points de vie temporaires lui sont retirés après 1 tour. La plupart des créatures artificielles et mortes-vivantes sont immunisées contre ce sort.~
@@ -16846,6 +16847,8 @@ Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
 En sollicitant sa divinité, le prêtre lançant le sort de Marteau spirituel fait apparaître un marteau de guerre magique. Il peut s'en servir pendant toute la durée du sort. Ce dernier frappe comme une arme magique, avec un bonus de 1 aux jets d'attaque et de dégâts par tranche de 6 niveaux d'expérience du jeteur de sorts, jusqu'à un bonus total de 3 aux jets d'attaque et de dégâts dans le cas d'un jeteur de sorts de niveau 13. Les dégâts de base infligés lorsqu'il atteint sa cible sont exactement identiques à ceux infligés par un marteau de guerre non-magique (1d4 +1 contre les opposants de taille humaine ou plus petits, 1d4 contre les opposants de taille supérieure, plus le bonus magique).~
+@1025902 = ~Convocation de loup effrayant~
+@1025903 = ~Convocation de blême~
 @1025909 = ~Charme-personne
 (Enchantement/Charme)
 
@@ -17092,6 +17095,7 @@ Zone d'effet : rayon de 5 mètres
 Jet de sauvegarde : aucun
 
 En jetant ce sort, le lanceur crée une violente averse de grêlons dans une zone de 9 mètres de diamètre pendant 4 rounds et inflige 2d8 points de dégâts de froid à toute créature située dans la zone d'effet. Par ailleurs, quiconque reste dans la zone d'effet subit 2d8 points de dégâts de froid chaque round pendant 4 rounds.~
+@1025983 = ~Invocation de fongus~
 @1025984 = ~Convocation d'animaux I
 (Conjuration/Convocation)
 
@@ -17147,6 +17151,7 @@ Jet de sauvegarde : spécial
 
 Le sort Doigt de mort élimine la force vitale de la victime. Le lanceur doit pointer son doigt en direction de la victime une fois l'incantation terminée. Si la cible rate son jet de sauvegarde contre les sorts à -2, elle est tuée instantanément. Dans le cas d'un jet de sauvegarde contre les sorts réussi, elle reçoit malgré tout 2d8 +1 points de dégâts.~
 @1026008 = ~<CHARNAME> peut désormais devenir l'Écorcheur à volonté.~
+@1026013 = ~Transformation en elfe noir~
 @1026015 = ~Force
 (Transmutation)
 
@@ -17424,7 +17429,7 @@ Sphère : charme
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : les ennemis humanoïdes dans un rayon de 1,2 mètre autour de la cible
+Zone d'effet : les humanoïdes ennemis dans un rayon de 1,2 mètre autour de la cible
 Jet de sauvegarde : sorts (annule)
 
 Ce sort fige sur place une ou plusieurs créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -17539,7 +17544,7 @@ En jetant ce sort, le prêtre peut généralement annuler une malédiction ordin
 Niveau : 3
 Sphère : protection
 Portée : 45,5 mètres
-Durée : permanente
+Durée : instantanée
 Temps d'incantation : 6
 Zone d'effet : les alliés dans un rayon de 5 mètres
 Jet de sauvegarde : aucun
@@ -17577,7 +17582,7 @@ Sphère : loi
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 5
-Zone d'effet : 1 humanoïde ou mammifère
+Zone d'effet : 1 créature
 Jet de sauvegarde : sorts (annule)
 
 La victime visée qui rate un jet de sauvegarde contre les sorts subit les pleins effets du sort d'Obstination bornée, qui la pousse à errer au hasard, à attaquer la personne la plus proche ou à rester immobile, en proie à la confusion.~
@@ -17980,7 +17985,7 @@ La Magie des vertueux est un puissant sort de combat qui améliore les capacité
 Niveau : 5
 Sphère : guérison
 Portée : 0
-Durée : permanente
+Durée : instantanée
 Temps d'incantation : 5
 Zone d'effet : les alliés dans un rayon de 5 mètres autour du lanceur
 Jet de sauvegarde : aucun
@@ -18894,6 +18899,7 @@ Zone d'effet : les ennemis dans un rayon de 5 mètres
 Jet de sauvegarde : sorts (annule)
 
 Ce sort crée un nuage de particules dorées et scintillantes dans la zone d'effet. Les ennemis se trouvant dans cette zone doivent réussir un jet de sauvegarde contre les sorts sous peine d'être aveuglés (malus de 4 pour les jets d'attaque et la classe d'armure) pendant 4 rounds. De plus, tous les ennemis ayant échoué leur jet de sauvegarde contre les sorts sont recouverts de cette poussière inamovible, révélant ainsi les créatures invisibles. La poussière s'estompe au bout de 4 rounds.~
+@1026412 = ~Contingence : Image miroir~
 @1026414 = ~Convocation de vache
 (Toutes écoles)
 
@@ -18934,7 +18940,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 1 tour
 Temps d'incantation : 3
-Zone d'effet : les ennemis humanoïdes dans un rayon de 1,2 mètre autour de la cible
+Zone d'effet : les humanoïdes ennemis dans un rayon de 1,2 mètre autour de la cible
 Jet de sauvegarde : sorts à -1 (annule)
 
 Ce sort paralyse 1d4 créatures humaines, demi-humaines ou humanoïdes pendant 1 tour. Le sort d'Immobilisation des personnes affecte tout humain bipède, demi-humain ou humanoïde de taille humaine ou inférieure (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.). Ainsi, un guerrier de niveau 10 pourra être immobilisé, mais pas un ogre. L'effet est centré sur la victime choisie par le lanceur. Tout ennemi situé à moins de 1,2 mètre de la cible est également affecté. Les créatures qui réussissent leur jet de sauvegarde contre les sorts à -1 ne sont pas affectées par les effets du sort. Les morts-vivants, quant à eux, ne peuvent pas être immobilisés.
@@ -19050,7 +19056,7 @@ Niveau : 3
 Portée : 10,5 mètres
 Durée : 2 rounds par niveau
 Temps d'incantation : 3
-Zone d'effet : les ennemis morts-vivants dans un rayon de 1,6 mètre autour de la cible
+Zone d'effet : les morts-vivants ennemis dans un rayon de 1,6 mètre autour de la cible
 Jet de sauvegarde : sorts (annule)
 
 Ce sort immobilise 1d4 créatures mortes-vivantes sur place. Ses effets sont centrés sur la victime choisie par le lanceur. Tout ennemi mort-vivant se trouvant dans un rayon de 1,2 mètre autour de la cible est également affecté. Ceux qui réussissent leur jet de sauvegarde contre les sorts échappent totalement aux effets du sort. Les créatures ainsi immobilisées ne peuvent ni bouger ni parler, mais restent conscientes de ce qui se passe autour d'elles et peuvent continuer à utiliser toutes les capacités ne nécessitant ni la parole, ni un déplacement quelconque. L'immobilisation n'empêche pas l'aggravation de l'état de santé du sujet due aux blessures.~
@@ -19069,6 +19075,7 @@ Ce sort permet au magicien de créer de petites boules de feu (une par niveau d'
 (Abjuration)
 
 Niveau : 3
+Sphère : protection
 Portée : 12 mètres
 Durée : instantanée
 Temps d'incantation : 5
@@ -19953,7 +19960,7 @@ Niveau : 7
 Portée : 12 mètres
 Durée : 6 rounds + 1 round par niveau
 Temps d'incantation : 7
-Zone d'effet : les ennemis morts-vivants dans un rayon de 1,6 mètre autour de la cible
+Zone d'effet : les morts-vivants ennemis dans un rayon de 1,6 mètre autour de la cible
 Jet de sauvegarde : spécial
 
 Le sort Contrôle des morts-vivants permet au lanceur de prendre le contrôle des créatures mortes-vivantes situées dans la zone d'effet. Un lien télépathique est créé entre le lanceur et les créatures mortes-vivantes, permettant un contrôle total de ces dernières. Si les créatures mortes-vivantes disposent de 3 dés de vie (ou niveaux d'expérience) ou moins, aucun jet de sauvegarde n'est permis. Si les créatures mortes-vivantes disposent de 4 dés de vie (ou niveaux d'expérience) ou plus, un jet de sauvegarde contre les sorts est autorisé pour tenter de résister à la prise de contrôle. Les créatures mortes-vivantes restent sous le contrôle du lanceur pendant toute la durée du sort ou jusqu'à ce qu'elles soient affectées par un sort de Dissipation de la magie lancé avec succès.~
@@ -20158,7 +20165,8 @@ Jet de sauvegarde : aucun
 
 Ce sort confère une invulnérabilité totale contre toutes les armes enchantées ayant un niveau d'enchantement inférieur ou égal à +5 (armes non-magiques incluses). Les attaques de certains monstres puissants sont également considérées comme magiques. L'incroyable puissance de ce sort, dont le temps d'incantation est très court, est compensée par sa durée très limitée, ce qui permet tout au plus au lanceur de souffler quelques instants au beau milieu d'un combat intense. Il convient également de noter qu'il est impossible de combiner ce sort avec le sort profane de 6ème niveau Protection contre les armes magiques. Ses effets se prolongent jusqu'à leur expiration naturelle ou qu'ils soient dissipés par une source extérieure.~
 @1026661 = ~Protégé(e) par un sort d'Immunité absolue~
-@1026663 = ~Chaîne de contingences
+@1026662 = ~Chaîne de contingence~
+@1026663 = ~Chaîne de contingence
 (Invocation)
 
 Niveau : 9
@@ -23979,7 +23987,7 @@ Remarque : si la résolution de votre écran est inférieure à 1024x768, cette
 
 Portée : 0
 Durée : instantanée
-Temps d'incantation : 1
+Temps d'incantation : 0
 Zone d'effet : spéciale
 Jet de sauvegarde : spécial
 
@@ -24841,7 +24849,7 @@ Baldur's Gate : Enhanced Edition contient l'épique quête originale de plus de
 
 Nous réalisons régulièrement de nombreuses améliorations au jeu. N'hésitez pas à rejoindre notre forum officiel ou à visiter le site internet de Baldur's Gate : Enhanced Edition pour en savoir plus !~
 @1032324 = ~La Dernière flèche de Rhyte +2~
-@1032325 = ~Convocation de Blême
+@1032325 = ~Convocation de blême
 (Conjuration)
 
 Portée : 9 mètres
@@ -24864,6 +24872,7 @@ Le lien que Faldorn entretient avec la nature sauvage se manifeste entre autres 
 @1032327 = ~Poing de glace
 (Nécromancie)
 
+Niveau : 1
 Portée : 0
 Durée : 1 tour
 Temps d'incantation : 1
@@ -28323,7 +28332,7 @@ L'heure est venue de passer à l'action. Araya et moi sommes d'accord, nous ne p
 @1045197 = ~Convocation de déva
 (Conjuration/Convocation)
 
-Niveau : quête
+Niveau : 7
 Portée : 12 mètres
 Durée : 4 rounds + 1 round par niveau
 Temps d'incantation : 5
@@ -35924,6 +35933,7 @@ Nécessite :
  8 en Force
 
 Poids : 3~
+@1062043 = ~Drainage vital~
 @1062047 = ~Sphère de lames
 (Invocation)
 
@@ -37387,6 +37397,7 @@ Poids : 0~
 @1064452 = ~*cette énorme porte n'a aucune serrure visible... elle semble être reliée à un mécanisme situé dans une des pièces à proximité*~
 @1064453 = ~*vous voyez un liquide trouble remuer dans le globe... le verre semble extrêmement fragile... vous pourriez le briser sans problème*~
 @1064462 = ~Archer squelette~
+@1064469 = ~Drainage vital~
 @1064470 = ~*le squelette tortueux d'un énorme wyrm est enroulé contre le mur au fond de cette grotte*~
 @1064472 = ~Cette collection de tomes arcaniques, de livres d'histoire et de textes religieux traite de nécromancie ainsi que de prophéties et de la religion de Bhaal. Elle contient beaucoup d'informations, mais rien qui ne vous intéresse.
 
