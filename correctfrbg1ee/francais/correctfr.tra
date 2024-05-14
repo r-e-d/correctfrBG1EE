@@ -6881,7 +6881,7 @@ Temps d'incantation : 3
 Zone d'effet : trajectoire de l'éclair
 Jet de sauvegarde : sorts (1/2)
 
-En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau d'expérience du jeteur de sorts (dégâts maximum de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). L'éclair prend naissance à une portée et une hauteur déterminées par le magicien et s'étend sur une ligne directe partant du magicien. Par exemple, si un éclair de 12 mètres est lancé à 54 mètres du magicien, son extrémité la plus éloignée est à 66 mètres (54 +12). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.~
+En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau d'expérience du jeteur de sorts (dégâts maximums de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). L'éclair prend naissance à une portée et une hauteur déterminées par le magicien et s'étend sur une ligne directe partant du magicien. Par exemple, si un éclair de 12 mètres est lancé à 54 mètres du magicien, son extrémité la plus éloignée est à 66 mètres (54 +12). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.~
 @1012180 = ~Projectile magique
 (Invocation)
 
@@ -7047,7 +7047,7 @@ Temps d'incantation : 3
 Zone d'effet : les alliés dans un rayon de 5 mètres
 Jet de sauvegarde : aucun
 
-Au lancement de ce sort, toutes les créatures affectées voient leur vitesse de déplacement doublée, gagnent un bonus de 2 à l'initiative, et peuvent porter une attaque supplémentaire par round (jusqu'à un maximum de 6 attaques par round) pendant 3 rounds plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20. Ainsi, une créature se déplaçant normalement à 6 et portant une attaque par round se déplacera à 12 et attaquera deux fois par round. Ce sort affectera toutes les créatures alliées se trouvant dans la zone d'effet désignée au moment du lancement du sort (ainsi, une créature quittant la zone d'effet sera toujours accélérée, tandis qu'une créature entrant dans la zone d'effet après le lancement du sort ne sera pas affectée). Ce sort n'est pas cumulatif avec lui-même ou avec tout autre effet magique similaire. Le temps d'incantation ou la durée des sorts ne peuvent pas être accélérés. La fréquence des effets périodiques affectant les créatures sous l'effet d'un sort de Hâte, comme par exemple les dégâts infligés par les poisons ou les points de vie rendus par la régénération, est grandement accélérée. Notez que ce sort annule les effets du sort profane de 3ème niveau Lenteur, et que les créatures affectées voient leur score de fatigue augmenté de 4. L'effet dure jusqu'à expiration du sort, ou jusqu'à sa dissipation par une source extérieure.~
+Au lancement de ce sort, toutes les créatures affectées voient leur vitesse de déplacement doublée, gagnent un bonus de 2 à l'initiative, et peuvent porter une attaque supplémentaire par round (jusqu'à un maximum de 6 attaques par round) pendant 3 rounds plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20. Ainsi, une créature se déplaçant normalement à 6 et portant une attaque par round se déplacera à 12 et attaquera deux fois par round. Ce sort affectera toutes les créatures alliées se trouvant dans la zone d'effet désignée au moment du lancement du sort (ainsi, une créature quittant la zone d'effet sera toujours accélérée, tandis qu'une créature entrant dans la zone d'effet après le lancement du sort ne sera pas affectée). Ce sort n'est pas cumulatif avec lui-même ou avec tout autre effet magique similaire. Le temps d'incantation ou la durée des sorts ne peuvent pas être accélérés. La fréquence des effets périodiques affectant les créatures sous l'effet d'un sort de Hâte, comme par exemple les dégâts infligés par les poisons ou les points de vie rendus par la régénération, est grandement accélérée. Notez que ce sort annule les effets du sort profane de 3ème niveau Lenteur, et que les créatures affectées voient leur score de fatigue augmenté de 4 à la fin du sort. L'effet dure jusqu'à expiration du sort, ou jusqu'à sa dissipation par une source extérieure.~
 @1012194 = ~Déblocage
 (Transmutation)
 
@@ -10322,7 +10322,7 @@ Poids : 0~
 @1017321 = ~Oh, chérie, tu me connais. On connaît bien son Slythie... Hé là, pas la peine de nous regarder pendant qu'on se fait des mamours, compris ? Ce sont pas vos oignons... Quoi, mon cœur ? Je n'ai pas bien entendu... Hé, ma fiancée Krystin me dit que vous avez un faible pour les Grands-Ducs. C'est vraiment dommage pour Entar Écudargent, hein ?~
 @1017326 = ~Déguerpissez.~
 @1017373 = ~Mémoriser~
-@1017378 = ~Points de vie maximum~
+@1017378 = ~Points de vie maximums~
 @1017380 = ~Paralysie / Mort / Poisons~
 @1017381 = ~Baguettes / Sceptres / Bâtons~
 @1017383 = ~Souffles~
@@ -13710,6 +13710,36 @@ Poids : 3~
 @1023786 = ~C'est très généreux de votre part, mais si vous partez, vous nous exterminerez de toute façon. D'autres viendront, d'autres imbéciles viendront juste pour combattre les êtres « diaboliques » que nous sommes. Non, nous devons rester seuls ici et vous aussi. Dans le sommeil de la mort, vous ne connaîtrez pas la solitude. Si Sélaad revient, nous réessaierons peut-être. Mais en attendant, nous restons ici.~
 @1023790 = ~Rôdeur invisible~
 @1023793 = ~Transmutation de la chair en pierre~
+@1023799 = ~Purification d'aura de Daer'Ragh
+
+Niveau : 4
+Portée : 0
+Durée : 2 rounds + 2 rounds par tranche de 4 niveaux
+Temps d'incantation : 4
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+L'utilisation de la magie provoque la concentration de résidus magiques autour du lanceur, ce qui empêche même le plus puissant des magiciens d'utiliser des sorts rapidement. La Purification d'aura de Daer'Ragh se débarrasse de ces résidus au début de l'incantation du sort suivant, ce qui permet d'enchaîner plus rapidement le lancement de sorts. Cet effet dure 2 rounds au niveau 1, puis 5 rounds au niveau 8 plus 2 rounds par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 11 rounds au niveau 20.~
+@1023801 = ~Agilité mentale de Daer'Ragh
+
+Niveau : 2
+Portée : 0
+Durée : 2 rounds + 2 rounds par tranche de 4 niveaux
+Temps d'incantation : 4
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Ce sort accélère les processus mentaux du lanceur, lui permettant de lancer des sorts plus rapidement que la normale. Ainsi, le lanceur reçoit un bonus de 1 au temps d'incantation pendant 2 rounds au niveau 1. À partir du niveau 12, le lanceur reçoit un bonus de 2 au temps d'incantation plus 1 par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un bonus maximum de 4 au temps d'incantation au niveau 20, pendant 7 rounds plus 2 rounds par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 11 rounds au niveau 20. Cet effet n'est pas cumulable.~
+@1023803 = ~Habileté physique de Daer'Ragh
+
+Niveau : 3
+Portée : 0
+Durée : 2 rounds + 2 rounds par tranche de 4 niveaux
+Temps d'incantation : 4
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Ce sort aiguise les réflexes du lanceur, lui permettant de combattre plus vite et plus efficacement. Ainsi, le lanceur reçoit un bonus de 1 attaque par round supplémentaire ainsi qu'un bonus de 1 à la Dextérité pendant 2 rounds au niveau 1. À partir du niveau 12, le lanceur reçoit un bonus de 2 attaques par round supplémentaires plus 1 attaque par round supplémentaire par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 4 attaques par round supplémentaires au niveau 20, ainsi qu'un bonus de 1 à la Dextérité plus 1 à la Dextérité au niveau 20, pendant 7 rounds plus 2 rounds par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 11 rounds au niveau 20. Ces effets ne sont pas cumulables.~
 @1023804 = ~Hahahaha ! La Mort vous souhaite la bienvenue ! Ha ha ha ha !~ [SHAEL_01]
 @1023805 = ~Ici, vous tomberez !~ [SHAEL_03]
 @1023806 = ~~ [SHAEL_04]
@@ -16341,7 +16371,7 @@ Temps d'incantation : 3
 Zone d'effet : les alliés dans un rayon de 5 mètres
 Jet de sauvegarde : aucun
 
-Au lancement de ce sort, toutes les créatures affectées voient leur vitesse de déplacement doublée, gagnent un bonus de 2 à l'initiative, et peuvent porter une attaque supplémentaire par round (jusqu'à un maximum de 6 attaques par round) pendant 3 rounds plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20. Ainsi, une créature se déplaçant normalement à 6 et portant une attaque par round se déplacera à 12 et attaquera deux fois par round. Ce sort affectera toutes les créatures alliées se trouvant dans la zone d'effet désignée au moment du lancement du sort (ainsi, une créature quittant la zone d'effet sera toujours accélérée, tandis qu'une créature entrant dans la zone d'effet après le lancement du sort ne sera pas affectée). Ce sort n'est pas cumulatif avec lui-même ou avec tout autre effet magique similaire. Le temps d'incantation ou la durée des sorts ne peuvent pas être accélérés. La fréquence des effets périodiques affectant les créatures sous l'effet d'un sort de Hâte, comme par exemple les dégâts infligés par les poisons ou les points de vie rendus par la régénération, est grandement accélérée. Notez que ce sort annule les effets du sort profane de 3ème niveau Lenteur, et que les créatures affectées voient leur score de fatigue augmenté de 4. L'effet dure jusqu'à expiration du sort, ou jusqu'à sa dissipation par une source extérieure.~
+Au lancement de ce sort, toutes les créatures affectées voient leur vitesse de déplacement doublée, gagnent un bonus de 2 à l'initiative, et peuvent porter une attaque supplémentaire par round (jusqu'à un maximum de 6 attaques par round) pendant 3 rounds plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20. Ainsi, une créature se déplaçant normalement à 6 et portant une attaque par round se déplacera à 12 et attaquera deux fois par round. Ce sort affectera toutes les créatures alliées se trouvant dans la zone d'effet désignée au moment du lancement du sort (ainsi, une créature quittant la zone d'effet sera toujours accélérée, tandis qu'une créature entrant dans la zone d'effet après le lancement du sort ne sera pas affectée). Ce sort n'est pas cumulatif avec lui-même ou avec tout autre effet magique similaire. Le temps d'incantation ou la durée des sorts ne peuvent pas être accélérés. La fréquence des effets périodiques affectant les créatures sous l'effet d'un sort de Hâte, comme par exemple les dégâts infligés par les poisons ou les points de vie rendus par la régénération, est grandement accélérée. Notez que ce sort annule les effets du sort profane de 3ème niveau Lenteur, et que les créatures affectées voient leur score de fatigue augmenté de 4 à la fin du sort. L'effet dure jusqu'à expiration du sort, ou jusqu'à sa dissipation par une source extérieure.~
 @1025690 = ~Ce type de casque d'apparat, fait de cuir ou de métal renforcé, couvre le visage et le crâne. Les trous pour les yeux et le nez ne sont pas de trop.
 
 PARAMÈTRES :
@@ -16391,32 +16421,33 @@ Le Bouclier de feu (bleu) protège le lanceur du froid en l'entourant de flammes
 
 Niveau : 2
 Portée : 0
-Durée : 1 round + 2 rounds par tranche de 4 niveaux
+Durée : 2 rounds + 2 rounds par tranche de 4 niveaux
 Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort accélère les processus mentaux du lanceur, lui permettant de lancer des sorts plus rapidement.~
-@1025709 = ~Agilité physique de Daer'Ragh
+Ce sort accélère les processus mentaux du lanceur, lui permettant de lancer des sorts plus rapidement que la normale. Ainsi, le lanceur reçoit un bonus de 1 au temps d'incantation pendant 2 rounds au niveau 1. À partir du niveau 12, le lanceur reçoit un bonus de 2 au temps d'incantation plus 1 par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un bonus maximum de 4 au temps d'incantation au niveau 20, pendant 7 rounds plus 2 rounds par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 11 rounds au niveau 20. Cet effet n'est pas cumulable.~
+@1025708 = ~Habileté physique de Daer'Ragh~
+@1025709 = ~Habileté physique de Daer'Ragh
 
 Niveau : 3
 Portée : 0
-Durée : 1 round + 2 rounds par tranche de 4 niveaux
+Durée : 2 rounds + 2 rounds par tranche de 4 niveaux
 Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Ce sort améliore les réflexes du lanceur, lui permettant de combattre plus vite et plus efficacement.~
+Ce sort aiguise les réflexes du lanceur, lui permettant de combattre plus vite et plus efficacement. Ainsi, le lanceur reçoit un bonus de 1 attaque par round supplémentaire ainsi qu'un bonus de 1 à la Dextérité pendant 2 rounds au niveau 1. À partir du niveau 12, le lanceur reçoit un bonus de 2 attaques par round supplémentaires plus 1 attaque par round supplémentaire par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 4 attaques par round supplémentaires au niveau 20, ainsi qu'un bonus de 1 à la Dextérité plus 1 à la Dextérité au niveau 20, pendant 7 rounds plus 2 rounds par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 11 rounds au niveau 20. Ces effets ne sont pas cumulables.~
 @1025711 = ~Purification d'aura de Daer'Ragh
 
 Niveau : 4
 Portée : 0
-Durée : 1 round + 2 rounds par tranche de 4 niveaux
+Durée : 2 rounds + 2 rounds par tranche de 4 niveaux
 Temps d'incantation : 4
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-L'utilisation de la magie provoque la concentration de résidus magiques autour du lanceur de sorts ce qui empêche, même le plus puissant des magiciens, d'utiliser des sorts rapidement. La purification d'aura de Daer'Ragh permet de se débarrasser de ces résidus au début de l'incantation du sort suivant, ce qui permet d'enchaîner plus rapidement le lancer des sorts.~
+L'utilisation de la magie provoque la concentration de résidus magiques autour du lanceur, ce qui empêche même le plus puissant des magiciens d'utiliser des sorts rapidement. La Purification d'aura de Daer'Ragh se débarrasse de ces résidus au début de l'incantation du sort suivant, ce qui permet d'enchaîner plus rapidement le lancement de sorts. Cet effet dure 2 rounds au niveau 1, puis 5 rounds au niveau 8 plus 2 rounds par tranche de 4 niveaux d'expérience du lanceur, jusqu'à un maximum de 11 rounds au niveau 20.~
 @1025716 = ~Ce météore luisant a été créé avec le sortilège Minuscules météores de Melf.
 
 PARAMÈTRES :
@@ -16705,7 +16736,7 @@ Temps d'incantation : 3
 Zone d'effet : trajectoire de l'éclair
 Jet de sauvegarde : sorts (1/2)
 
-En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau d'expérience du jeteur de sorts (dégâts maximum de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). L'éclair prend naissance à une portée et une hauteur déterminées par le magicien et s'étend sur une ligne directe partant du magicien. Par exemple, si un éclair de 12 mètres est lancé à 54 mètres du magicien, son extrémité la plus éloignée est à 66 mètres (54 +12). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.~
+En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau d'expérience du jeteur de sorts (dégâts maximums de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). L'éclair prend naissance à une portée et une hauteur déterminées par le magicien et s'étend sur une ligne directe partant du magicien. Par exemple, si un éclair de 12 mètres est lancé à 54 mètres du magicien, son extrémité la plus éloignée est à 66 mètres (54 +12). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.~
 @1025869 = ~Invisibilité majeure
 (Illusion/Fantasme)
 
@@ -21269,7 +21300,7 @@ PARAMÈTRES :
 
 Maudite :
 - Constitution : -1 (permanent)
-- Points de vie maximum : -10 %
+- Points de vie maximums : -10 %
 - Intolérance aux potions de soins communes
 - Le porteur risque de s'empoisonner en combat
 - Le porteur risque de s'infliger la folie du berserker
@@ -23911,7 +23942,7 @@ Avantages :
 - Bonus de 10 % en Détection des illusions.
 - Peut lancer « Poing de glace » une fois par jour tous les 4 niveaux d'expérience (une utilisation au niveau 1).
 
-POING DE GLACE : Lorsque cette capacité est activée, les poings du moine de la Lune Noire se nimbent d'une coquille de glace. Pendant un tour, les attaques à mains nues infligent 2 dégâts de froid supplémentaires.
+POING DE GLACE : Lorsque cette capacité est activée, les poings du moine de la Lune Noire se nimbent d'une carapace de glace. Pendant 1 tour, les attaques à mains nues infligent 3 points de dégâts de froid supplémentaires à chaque coup réussi. Les effets sont cumulables.
 
 - Niveau 1 : « Cécité » une fois par jour.
 - Niveau 3 : « Flou » une fois par jour.
@@ -24858,7 +24889,7 @@ Temps d'incantation : 5
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Nul ne sait de quelle façon Tiax a appris ce pouvoir de nécromancie, sans doute parce que la question paraîtrait une peu incongrue de la part d'une victime de ses créations. Ce sortilège invoque une blême sauvage au service de Tiax pendant deux heures, après quoi la créature retourne à la poussière.~
+Nul ne sait de quelle façon Tiax a appris cette capacité, sans doute parce qu'il paraîtrait une peu incongrue de poser la question alors que l'on se fait massacrer par l'une de ses créations. Cette capacité convoque un blême féroce au service de Tiax pendant 2 heures, après quoi le blême retourne à la poussière. Les blêmes disposent de 3 attaques par round et infligent 1d8 points de dégâts perforants, leurs attaques peuvent paralyser la créature touchée pendant 7 rounds si cette dernière échoue un jet de sauvegarde contre la paralysie. De plus, les attaques des blêmes infligent à la créature touchée un malus cumulable de 2 à ses jets d'attaque pendant 200 secondes si cette dernière échoue un jet de sauvegarde contre les souffles. Les blêmes sont immunisés à l'étourdissement, au drain de niveau, à la peur, aux échecs de test de moral, aux poisons, à l'immobilisation, à la paralysie, au sommeil, à la pétrification, à la confusion, aux charmes et à la mort magique.~
 @1032326 = ~Convocation de Loup effrayant
 (Conjuration)
 
@@ -24868,7 +24899,7 @@ Temps d'incantation : 5
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Le lien que Faldorn entretient avec la nature sauvage se manifeste entre autres par ce pouvoir qui lui permet d'invoquer un puissant loup effrayant. L'animal suivra les ordres de Faldorn pendant deux heures, ou jusqu'à sa mort.~
+Le lien que Faldorn entretient avec la nature sauvage se manifeste entre autres par cette capacité qui lui permet de convoquer un puissant loup effrayant. L'animal suivra les ordres de Faldorn pendant 2 heures, ou jusqu'à sa mort. Les loups effrayants disposent de 1 attaque par round et infligent 1d10 points de dégâts perforants. Les loups effrayants disposent également de 100 % de résistance au froid et de 50 % de résistance à l'électricité. Enfin, les loups effrayants sont immunisés à l'étourdissement, au drain de niveau, à la peur, aux échecs de test de moral, aux poisons, à l'immobilisation, à la paralysie, au sommeil, à la pétrification, à la confusion, aux charmes et à la mort magique.~
 @1032327 = ~Poing de glace
 (Nécromancie)
 
@@ -24879,7 +24910,7 @@ Temps d'incantation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Lorsque cette capacité est activée, les poings du moine de la Lune Noire se nimbent d'une coquille de glace. Pendant un tour, les attaques à mains nues infligent 2 dégâts de froid supplémentaires.~
+Lorsque cette capacité est activée, les poings du moine de la Lune Noire se nimbent d'une carapace de glace. Pendant 1 tour, les attaques à mains nues infligent 3 points de dégâts de froid supplémentaires à chaque coup réussi. Les effets sont cumulables.~
 @1032328 = ~Métamorphose en loup-garou
 
 Portée : 0
@@ -24927,7 +24958,7 @@ Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Minsc devient enragé pendant 1 tour. Tant qu'il est enragé, il obtient un bonus de 2 à la Force et à la Dextérité, ainsi que l'immunité aux charmes, à la confusion, à la peur, à la débilité mentale, à l'immobilisation, à l'étourdissement, au drain de niveau, au sommeil et au labyrinthe. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de Berserk, sous forme de dégâts non-létaux pouvant rendre Minsc inconscient si ce dernier dispose de 15 points de vie ou moins.~
+Minsc devient enragé pendant 2 tours. Tant qu'il est enragé, il obtient un bonus de 2 à la Force et à la Dextérité, ainsi que l'immunité aux charmes, à la confusion, à la peur, aux échecs de test de moral, à la débilité mentale, à l'immobilisation, à la paralysie, à l'étourdissement, au drain de niveau, au sommeil et au labyrinthe. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de Berserk, sous forme de dégâts non-létaux pouvant rendre Minsc inconscient si ce dernier dispose de 15 points de vie ou moins.~
 @1032331 = ~L'aube est particulièrement cruelle ce matin...
 
 Depuis aussi longtemps que vous pouvez vous en souvenir, votre expérience du vaste monde s'est restreinte aux murailles de la bibliothèque fortifiée de Château-Suif. Votre père adoptif, Gorion, a fait tout ce qui était en son pouvoir pour vous protéger du monde extérieur et vous éviter les ennuis.
@@ -25394,6 +25425,7 @@ Poids : 7~
 @1032691 = ~Y a-t-il d'autres informations que je peux vous donner à propos des déplacements et des sujets connexes ?~
 @1032693 = ~Sélectionnez la porte que vous souhaitez ouvrir, et si elle n'est pas fermée à clef, elle s'ouvrira.~
 @1032705 = ~Vous pouvez choisir un certain nombre de sorts à mettre dans votre parchemin de sorts divins/druidiques. Ce seront les sorts que votre personnage connaîtra au début du jeu.~
+@1032715 = ~Affiche les points de vie actuels et maximums de chacun des membres du groupe sur leur portrait.~
 @1032716 = ~Lorsqu'un personnage gagne un niveau d'expérience, cette option détermine s'il obtient automatiquement le maximum de points de vie supplémentaires possibles. Si elle est désactivée, le jeu suit les règles d'AD&D en la matière.~
 @1032730 = ~Chance de coup critique augmentée~
 @1032743 = ~Ombre
@@ -35063,7 +35095,7 @@ Capacités d'équipement :
 - Points de vie : -10
 
 Capacités de combat :
-- À chaque coup critique : la cible perd 15 % de ses points de vie maximum
+- À chaque coup critique : la cible perd 15 % de ses points de vie maximums
 
 TAC0 : +2
 Dégâts : 2d4 +2 (contondant)
@@ -37670,7 +37702,7 @@ Avec les serviteurs de la Dame Étincelante battant en retraite et la menace du 
 @1065128 = ~Je... je suis d'accord avec de Lancie.~ [BD65128]
 @1065137 = ~Sentinelle croisée~
 @1065140 = ~afficher les points de vie du personnage~
-@1065141 = ~points de vie maximum lors du passage au niveau supérieur~
+@1065141 = ~points de vie maximums lors du passage au niveau supérieur~
 @1065167 = ~Vous avez entendu la capitaine. Arrêtez-les !~ [BD65167]
 @1065171 = ~Événements importants
 
@@ -38063,6 +38095,7 @@ J'ai vaincu un des alliés de Korlasz. D'autres dangers m'attendent probablement
 Je devrais suivre Imoen pour découvrir d'où provient ce bruit.
 
 Imoen est en colère. Le nombre de réfugiés en ville et la rumeur d'une guerre avec une « croisade » la rendent nerveuse. Elle est venue me voir pour me dire qu'elle avait entendu du bruit près de sa chambre. À présent, elle compte aller mener l'enquête. Je devrais probablement la suivre.~
+@1066657 = ~Affiche les points de vie actuels et maximums de chacun des membres du groupe sur leur portrait.~
 @1066658 = ~Lorsqu'un personnage gagne un niveau d'expérience, cette option détermine s'il obtient automatiquement le maximum de points de vie supplémentaires possibles. Si cette option est désactivée, le jeu suit les règles d'AD&D en la matière.~
 @1066659 = ~Active/désactive les attaques furtives et les attaques handicapantes, des compétences spéciales similaires à celles de la troisième édition de Donjons & Dragons(R) de Wizards of the Coast.~
 @1066689 = ~Le siège de Paldragon
