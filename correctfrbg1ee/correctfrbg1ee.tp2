@@ -19,6 +19,7 @@ LANGUAGE ~Francais~
 		 ~correctfrbg1ee/francais/correctfr.tra~
 		 ~correctfrbg1ee/francais/correctobjets.tra~
 		 ~correctfrbg1ee/francais/correctcreatures.tra~
+		 ~correctfrbg1ee/francais/correctsorts.tra~
 		 ~correctfrbg1ee/francais/soundset.tra~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -631,6 +632,19 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 	// Correction de l'infobulle pour coller au nom (Thalantyr le Conjurateur)
 	COPY_EXISTING ~THALAN.CRE~ ~override~
 		WRITE_LONG 0x0c 12277
+	BUT_ONLY_IF_IT_CHANGES
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// Correctifs sorts, capacités et parchemins        \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+	// Ajout de la description de la capacité Création de flèches empoisonnées
+	COPY_EXISTING ~SPIN116.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @300
 	BUT_ONLY_IF_IT_CHANGES
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\

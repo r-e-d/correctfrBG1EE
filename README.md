@@ -191,6 +191,12 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	- Thalantyr le Conjurateur (THALAN.CRE).
 	</pre>
 	</details>
+- Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (descriptions, etc.) :
+	<details><summary>Cliquez ici pour afficher les corrections.</summary>
+	<pre>
+	- Création de flèches empoisonnées (SPIN116.SPL).
+	</pre>
+	</details>
 ##
 
 #### [20] Patch audio français
