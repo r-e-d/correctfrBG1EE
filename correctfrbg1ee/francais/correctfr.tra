@@ -5472,7 +5472,7 @@ Poids : 0~
 PARAMÈTRES :
 
 Capacités de combat :
-- La cible subit 1 point de dégâts de poison par seconde pendant 20 secondes (jet de sauvegarde contre les poisons pour annuler)
+- La cible subit 1 point de dégât de poison par seconde pendant 20 secondes (jet de sauvegarde contre les poisons pour annuler)
 
 Dégâts : 1d3 (projectile)
 Facteur de vitesse : 2
@@ -6385,7 +6385,7 @@ Poids : 1~
 PARAMÈTRES :
 
 Capacités de combat :
-- La cible subit 1 point de dégâts de poison par seconde pendant 15 secondes (jet de sauvegarde contre les poisons pour annuler)
+- La cible subit 1 point de dégât de poison par seconde pendant 15 secondes (jet de sauvegarde contre les poisons pour annuler)
 
 TAC0 : +2
 Dégâts : 1d4 +2 (perforant)
@@ -10531,7 +10531,7 @@ Poids : 0~
 PARAMÈTRES :
 
 Capacités de combat :
-- La cible subit 1 point de dégâts de poison par seconde pendant 20 secondes (jet de sauvegarde contre les poisons pour annuler)
+- La cible subit 1 point de dégât de poison par seconde pendant 20 secondes (jet de sauvegarde contre les poisons pour annuler)
 
 Dégâts : 1d6 (projectile)
 Arme de trait : arc
@@ -12406,12 +12406,12 @@ Poids : 1~
 @1020657 = ~Ça, c'est la propriété du Consortium des Marchands et moi j'suis le garde. La porte était fermée pour une bonne raison. Vous avez forcé la serrure, donc vous êtes des criminels maintenant. Je vais lâcher mes toutous esquiveurs sur vous, histoire qu'ils soient rassasiés pour la soirée !~
 @1020665 = ~Vous... vous avez tué Ange... Ouiiiiiiin... !~
 @1020666 = ~Nous devons nous rendre aux Caves Souterraines pour retrouver Slythe et Krystin, deux des meurtriers de Sarevok. Eltan pense que Sarevok songe à faire assassiner les Grands-Ducs Belt et Liia. Nous devons nous assurer que cela n'arrive pas. Nous devons également accompagner Eltan jusqu'à la bâtisse du Maître du port, qui se trouve du côté est du port.~
-@1020676 = ~Ce sont les flèches empoisonnées personnelles d'Eldoth. Il a appris à utiliser les poisons alors qu'il n'était qu'un enfant. Il peut créer de quoi empoisonner 5 flèches chaque jour. C'est la seule personne qui peut les utiliser sans risques.
+@1020676 = ~Ce sont les flèches empoisonnées personnelles d'Eldoth. Il a appris à utiliser les poisons alors qu'il n'était qu'un enfant et peut créer de quoi empoisonner 5 flèches chaque jour. C'est la seule personne qui peut les utiliser sans risques.
 
 PARAMÈTRES :
 
 Capacités de combat :
-- La cible subit 1 point de dégâts de poison toutes les 3 secondes pendant 40 secondes (jet de sauvegarde contre les poisons pour annuler)
+- La cible subit 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes (jet de sauvegarde contre les poisons pour annuler)
 
 Dégâts : 1d6 (projectile)
 Arme de trait : arc
@@ -13074,7 +13074,7 @@ Ce sort permet au lanceur de se métamorphoser en une autre créature. Il gagne 
 Pendant toute la durée du sort, le lanceur peut se métamorphoser à volonté, autant de fois qu'il le désire avec une métamorphose maximum par round. Dans certains cas, le lanceur gagnera les attaques naturelles, et dans d'autres, les armes de ces formes. Cependant, le lanceur ne peut pas jeter de sorts lorsqu'il est affecté par une métamorphose et doit reprendre sa forme naturelle. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la gelée moutarde, par exemple) sont également acquises. Les points de vie du lanceur restent inchangés quelle que soit la forme adoptée.
 
 Les métamorphoses possibles sont les suivantes :
-- Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme d'enchantement +3
+- Flind : manie une hallebarde magique qui inflige +1 point de dégât de feu et frappe comme une arme d'enchantement +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
 - Araignée : empoisonne l'adversaire quand elle le touche
@@ -19226,7 +19226,7 @@ Ce sort permet au lanceur de se métamorphoser en une autre créature. Il gagne 
 Pendant toute la durée du sort, le lanceur peut se métamorphoser à volonté, autant de fois qu'il le désire avec une métamorphose maximum par round. Dans certains cas, le lanceur gagnera les attaques naturelles, et dans d'autres, les armes de ces formes. Cependant, le lanceur ne peut pas jeter de sorts lorsqu'il est affecté par une métamorphose et doit reprendre sa forme naturelle. Si les attributs mentaux sont conservés, ceux physiques s'adaptent à la nouvelle forme. Les résistances naturelles à certaines formes d'attaques (contre les projectiles et les armes contondantes de la gelée moutarde, par exemple) sont également acquises. Les points de vie du lanceur restent inchangés quelle que soit la forme adoptée.
 
 Les métamorphoses possibles sont les suivantes :
-- Flind : manie une hallebarde magique qui inflige +1 dégât de feu et frappe comme une arme d'enchantement +3
+- Flind : manie une hallebarde magique qui inflige +1 point de dégât de feu et frappe comme une arme d'enchantement +3
 - Gelée moutarde : capable d'empoisonner ou de ralentir les adversaires (jet de sauvegarde contre les poisons pour annuler)
 - Ogre : capable de causer des dégâts massifs
 - Araignée : empoisonne l'adversaire quand elle le touche
@@ -31450,7 +31450,7 @@ Capacités d'équipement :
 - Une attaque supplémentaire par round
 
 Capacités de combat :
-- 34 % de chances que la cible subisse 1 point de dégâts de poison par seconde pendant 2 rounds (jet de sauvegarde contre les poisons pour annuler)
+- 34 % de chances que la cible subisse 1 point de dégât de poison par seconde pendant 2 rounds (jet de sauvegarde contre les poisons pour annuler)
 - Revient dans la main du porteur après avoir été lancée
 
 TAC0 : +2
@@ -36092,7 +36092,7 @@ Poids : 3~
 PARAMÈTRES :
 
 Capacités de combat :
-- Inflige 1 point de dégâts tranchant par round pendant 2 rounds
+- Inflige 1 point de dégât tranchant par round pendant 2 rounds
 - À chaque coup critique : la cible est infectée par la maladie (malus de 2 à la Force et à la Dextérité pendant 1 tour, non cumulatif)
 
 TAC0 : +1
@@ -39080,7 +39080,7 @@ Poids : 0~
 PARAMÈTRES :
 
 Capacités de combat :
-- Inflige 1 point de dégâts perforant par round pendant 2 rounds
+- Inflige 1 point de dégât perforant par round pendant 2 rounds
 - À chaque attaque sournoise : draine 2 points de Force à la cible et les donne au porteur pendant 5 rounds (non cumulatif)
 
 PARAMÈTRES :
