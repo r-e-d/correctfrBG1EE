@@ -2416,9 +2416,9 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 @1005651 = ~~ [PBEAR08]
 @1005652 = ~Aaaaaaaaaaaaarh !~ [GHOUL04]
 @1005653 = ~~ [GHOUL05]
-@1005654 = ~~ [GHOUL01]
+@1005654 = ~Aaarhh.~ [GHOUL01]
 @1005655 = ~~ [GHOUL06]
-@1005656 = ~~ [GHOUL07]
+@1005656 = ~Aaarh !~ [GHOUL07]
 @1005657 = ~Aaaah aah !~ [GHOUL08]
 @1005658 = ~Aaaaaaaaaaarrrrrhhhhh...~ [GHOUL09]
 @1005659 = ~~ [GHAST01]
@@ -2455,7 +2455,7 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 Aujourd'hui, j'ai vendu 500 pièces d'or la carapace d'ankheg que j'ai trouvée ! C'est une fortune !~
 @1005836 = ~Taërom « Grondemarteau » m'a proposé de fabriquer une armure de plates avec ma carapace d'ankheg. Cela coûtera 4 000 pièces d'or, et il m'a dit avoir entendu parler d'une récompense de 5 000 pièces d'or pour la tête de Bassilus.~
 @1005838 = ~~ [GHAST03]
-@1005839 = ~~ [GHAST04]
+@1005839 = ~Aaarrrh !~ [GHAST04]
 @1005840 = ~~ [GHAST05]
 @1005841 = ~~ [GHAST06]
 @1005842 = ~NO SOUND EFFECT----DO NOT USE~ [GHAST07]
@@ -12125,6 +12125,8 @@ Quatre-vingt-dix-huit chopes de bière sur le mur !~
 @1019538 = ~De quoi parlez-vous, nous n'avons tué personne. Vos souvenirs sont un peu embrouillés et vous devriez peut-être vous calmer pour que nous puissions découvrir qui a vraiment tué vos « frères ».~
 @1019553 = ~Alors comme ça il est votre compagnon maintenant ! C'est vraiment étrange. Je ne connais pas beaucoup de gens capables d'assassiner leurs « compagnons ».~
 @1019559 = ~Vous avez raison. J'ai eu besoin de votre aide pour tuer Osmadi. Merci. Là où vous avez tort, c'est lorsque vous me traitez de « vulgaire assassin » car... je suis un druide de l'Ombre. Si j'ai empoisonné Osmadi et ses compagnons, c'est pour nous débarrasser de leur influence. À présent, nous devrions pouvoir nous emparer de la région sans difficulté. Hélas, il n'y aura plus de place ici pour des citadins fouineurs. Il est temps pour vous de subir la furie de la nature, comme seul je sais la déclencher. Adieu !~
+@1019561 = ~Faites place à Gretek et aux Démolisseurs de Montprofond !~
+@1019562 = ~Si vous êtes vraiment les Démolisseurs de Montprofond, vous pouvez vous débrouiller tout seul. Je ne nettoie pas les rues devant de vulgaires fanfarons.~
 @1019563 = ~Oui, bien sûr. Nous étions, euh, sur le point de partir...~
 @1019618 = ~Mineur Beldin~
 @1019619 = ~Quelles rumeurs avez-vous entendu au bar récemment ?~
