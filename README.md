@@ -390,6 +390,15 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
+#### Version 0.10 &nbsp;(21 août 2024)
+
+  - Relecture et uniformisation de tous les sorts.
+  - Ajout de cartouches manquants.
+  - Uniformisation BGEE et BG2EE.
+  - Amélioration des descriptions des classes.
+  - Modification des lignes de narration.
+  - Corrections diverses.
+
 #### Version 0.9 &nbsp;(21 janvier 2024)
 
   - Nouveau composant : Restauration des cinématiques classiques.
