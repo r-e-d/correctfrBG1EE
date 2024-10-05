@@ -7,7 +7,7 @@
 </div><br>
 
 
-**Auteurs :** <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=10748">Lefreut</a> et <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12991">Jazira</a>
+**Auteurs :** <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=10748">Lefreut</a>, <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12991">Jazira</a> et <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905">Rivvers</a>
 
 **Forum du mod :** <a href="https://www.baldursgateworld.fr/viewforum.php?f=756">Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear</a>
 
@@ -55,7 +55,7 @@ Le mod « Correction de la traduction de Baldur's Gate : Enhanced Edition et Bal
 
 #### Compatibilité avec les autres mods
 
-« Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » est un mod WeiDU et devrait par conséquent être compatible avec n'importe quel mod WeiDU. Si vous rencontrez des bugs, veuillez contacter <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=10748">Lefreut</a> ou <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12991">Jazira</a>, ou encore poster dans le <a href="https://www.baldursgateworld.fr/viewforum.php?f=756">Forum du mod</a>.
+« Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » est un mod WeiDU et devrait par conséquent être compatible avec n'importe quel mod WeiDU. Si vous rencontrez des bugs, veuillez contacter <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=10748">Lefreut</a>, <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12991">Jazira</a> ou <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905">Rivvers</a>, ou encore poster dans le <a href="https://www.baldursgateworld.fr/viewforum.php?f=756">Forum du mod</a>.
 
 #### Ordre d'installation
 
@@ -306,7 +306,7 @@ Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 
 ## <a name="credits" id="credits"></a>Crédits et remerciements
 
-#### Auteurs : <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=10748">Lefreut</a> et <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12991">Clément « Jazira » Bizieau</a>
+#### Auteurs : <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=10748">Lefreut</a>, <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12991">Clément « Jazira » Bizieau</a> et <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905">Rivvers</a>
 
 ##
 
@@ -363,8 +363,8 @@ Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 
 #### Information sur les droits d'auteur
 
-###### Le mod « Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » n'est pas développé, supporté ni approuvé par BioWare&trade; ou Interplay/Black Isle, Overhaul Games, Beamdog ou Wizards of the Coast. Il a été développé par Lefreut et Jazira, et est basé sur les jeux Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear.
-###### Tout le contenu du mod appartient à &copy; Lefreut et Jazira.
+###### Le mod « Correction de la traduction de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear » n'est pas développé, supporté ni approuvé par BioWare&trade; ou Interplay/Black Isle, Overhaul Games, Beamdog ou Wizards of the Coast. Il a été développé par Lefreut, Jazira et Rivvers, et est basé sur les jeux Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear.
+###### Tout le contenu du mod appartient à &copy; Lefreut, Jazira et Rivvers.
 ###### Baldur's Gate et Baldur's Gate : Tales of the Sword Coast à &copy; TSR, Inc. Baldur's Gate : Siege of Dragonspear à &copy; Beamdog, Inc. Le moteur Infinity Engine appartient à &copy; BioWare Corp. Toutes les autres marques et droits d'auteur appartiennent à leurs propriétaires respectifs.
 
 ###### Ce mod a été créé pour être librement apprécié par tous les joueurs de Baldur's Gate : Enhanced Edition et Baldur's Gate : Siege of Dragonspear. Cependant, il ne doit pas être vendu, publié, compilé ou redistribué sous une forme quelconque sans le consentement de ses auteurs.
