@@ -5002,6 +5002,9 @@ Sarevok~
 @1009310 = ~Oui, <PRO_BROTHERSISTER> ! Mettez-y toute votre énergie et nous terminerons cette aventure comme il sied à notre héritage ! Affrontez-moi ! Faites face au nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Dévoilez-vous et finissons-en !~ [SAREV12]
 @1009314 = ~Oui, <PRO_BROTHERSISTER> ! Mettez-y toute votre énergie et nous terminerons cette aventure comme il sied à notre héritage ! Affrontez-moi ! Faites face au nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Dévoilez-vous et finissons-en !~ [SAREV12]
 @1009315 = ~Vous ne comprenez pas encore ? Le seul mal qu'il y ait à combattre, c'est celui qui est en nous !~
+@1009322 = ~Vous n'avez entendu que votre pitoyable petit esprit essayant d'appréhender ses propres capacités ! Bhaal est mort, et sa conscience flotte depuis longtemps au gré des vents célestes ! C'est sa puissance que je recherche, pas sa résurrection ! Et vous qui voulez m'arrêter, vous allez mourir ici ce soir ! Affrontez-moi ! Faites face au nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Dévoilez-vous et finissons-en !~ [SAREV12]
+@1009323 = ~Espèce d'imbécile ! Je ne souhaite pas RESTAURER son pouvoir, mais seulement le RÉCOLTER ! Avec le sang divin qui coule dans ces veines, je contrôlerai tout ce qu'il a si sottement perdu ! Je DEVIENDRAI Bhaal. C'EST... la seule issue acceptable. Il ne nous reste plus qu'à mettre fin à tout cela d'une manière... digne de notre héritage ! Affrontez-moi ! Faites face au nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Dévoilez-vous et finissons-en !~ [SAREV12]
+@1009324 = ~Je ne peux pas être plus fort ; je suis déjà fort ! C'est vous qui êtes faible, vous qui avez détruit l'assassin en vous. J'ai DOMPTÉ le mien, et j'en fais ce que je veux ! Le dieu est mort, mais son pouvoir est là, il attend une volonté. Cette volonté, je l'ai... Tous les autres échoueront ! Venez et défiez votre frère ! Affrontez-moi ! Faites face au nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Dévoilez-vous et finissons-en !~ [SAREV12]
 @1009325 = ~C'en est fait de tant de cruauté ! Ce dieu restera mort et vous allez le rejoindre !~
 @1009326 = ~(Elle est morte ! Ça devait finir ainsi ! Ces fous de rashémis qui vagabondent dans les royaumes, espéraient-ils échapper aux yeux de Thay ? Il reste seulement à déterminer ce qu'ils faisaient là.) Vous ! <CHARNAME> ! Je voyagerai avec vous jusqu'à ce que je découvre ce qu'elle mijotait. D'accord ?~
 @1009330 = ~Dans ce cas, vous finirez par connaître le même sort qu'elle ! Adieu et bon débarras.~
@@ -5013,7 +5016,8 @@ Sarevok~
 @1009365 = ~Doppelgänger majeur~
 @1009371 = ~fin du dialogue~
 @1009373 = ~Aucun sprite~
-@1009380 = ~Main secondaire utilisée.~
+@1009375 = ~Type d'objet incorrect.~ [GAM_47]
+@1009380 = ~Main secondaire utilisée.~ [GAM_47]
 @1009381 = ~Arme à deux mains équipée.~ [GAM_47]
 @1009396 = ~Basilic majeur~
 @1009397 = ~Basilic majeur~
