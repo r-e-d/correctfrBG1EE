@@ -62,6 +62,7 @@
 @1000250 = ~Poursuivez votre chemin et laissez-moi tranquille. Moi j'irai de mon côté.~
 @1000254 = ~Halte, voyageurs ! Avant d'entrer, vous devez léguer un ouvrage de grande valeur à nos bibliothèques.~ [KEEPR01]
 @1000259 = ~Vous êtes accusé du meurtre des dirigeants du Trône de Fer. Rendez-vous et vous aurez une chance d'avoir un procès équitable !~
+@1000273 = ~Enfin libéré de cette prison lugubre ! Quatre-vingt-cinq jours à vivre comme un nain, c'est trop long pour un membre du Peuple-Fée. Vous n'avez pas l'air plus glorieux que moi, mais je vous dois ma liberté et je vais donc mettre mes pouvoirs au service de votre cause. Je suis Xan ; que diriez-vous de surmonter l'impossible ensemble ?~
 @1000311 = ~J'ai bi-bien peur de devoir partir aussi. Jaheira et moi sommes inséparables.~
 @1000312 = ~Votre compagnie serait appréciée.~
 @1000314 = ~Je vais déjà à Nashkel. Mes compagnons actuels veulent également visiter cet endroit.~
@@ -141,6 +142,7 @@
 @1000696 = ~Mais je ne possède rien d'autre que ma connaissance des bois ! Attendez, je pourrais vous donner des informations ! J'ai entendu des oiseaux parler d'une « chose qui brille » pas loin d'ici ! Je ne sais pas ce que c'est car ni moi, ni les oiseaux n'avons jamais cherché à savoir. Cela vous suffit-il ?~
 @1000701 = ~Je vous remercie ! Voici une potion qui pourra vous aider au cours de vos voyages.~
 @1000702 = ~Je vous remercie, même si c'est à contrecœur. J'ai peut-être quelque chose pour vous, bien que ce ne soit pas grand-chose. S'il vous plaît, laissez-moi, je dois réparer les dégâts.~
+@1000707 = ~Partez maintenant ou je vous explose la tête ! C'est not' arbre magique, et s'il contient un trésor, il est à nous ! Hein, Krumm ?~
 @1000717 = ~Non ? Vous refuseriez un cadeau de si grande valeur ? Acceptez au moins l'élixir rouge. Volez-le-moi au prix dérisoire de 40 pièces d'or.~
 @1000731 = ~J'espère que vous avez semé des miettes pour que nous retrouvions notre chemin. Les autres ne l'ont pas fait, alors ils ont décidé de rester. Voulez-vous que nous essayions de trouver notre chemin ensemble ? Voici une devinette, dont je connaissais la réponse, mais que j'ai oubliée. Si vous me la rappelez, nous reviendrons tous à la lumière du jour ; si vous perdez, vous resterez avec moi dans les ténèbres et oublierez d'où nous venons...
 
@@ -330,7 +332,7 @@ Il n'a ni bouche, ni dents ; pourtant il mange sa nourriture sans discontinuer.
 @1002168 = ~Je dis que je ne vous aime pas ! Donnez-moi une seule raison de ne pas vous mettre en bouillie afin d'utiliser votre peau pour emmailloter mon enfant ! À quel titre devrais-je vous accepter ?!~
 @1002169 = ~Je n'ai jamais vu de « simples » marchands armés comme vous l'êtes ! Vous avez plutôt l'air de marchands de problèmes ! Je suis sûr que vous mentez ! JE PENSE QUE VOUS ALLEZ MOURIR !~
 @1002172 = ~Hum. Vous avez du bon sens, mais moi j'ai déjà ce qu'il faut ici. À quoi vous serviriez ?!~
-@1002190 = ~Hé... les gars ! Vous m'remettez ? Votre vieux pote ! *hoquette* C'est si bon d'vous revoir. S'est passé plein d'choses depuis vot'départ. Hé, hé ! Ch'ai entendu toutes sortes de choses. Paraît qu'on vous r'cherche pour meurtre, les gars ? Ha, alors z'êtes des meurtriers ! Enfin, ch'vous aime bien quand même. Hé ! Ch'ai du nouveau pour vous. Ça vous intéresse ?~
+@1002190 = ~Hé... les gars ! Vous m'remettez ? Votre vieux pote Husam ! *hoquette* C'est si bon d'vous revoir. S'est passé plein d'choses depuis vot' départ. Hé, hé ! Ch'ai entendu toutes sortes de choses. Paraît qu'on vous r'cherche pour meurtre. Ha, alors z'êtes des meurtriers, hein ? Enfin, ch'vous aime bien quand même. Hé ! Ch'ai du nouveau pour vous. Ça vous intéresse ?~
 @1002192 = ~Bon, hé hé, ch'vous raconte. Paraît qu'le Duc Eltan est malade. Son bras droit *hoquette* la Balafre s'est fait tuer, il a été assassiné. *rote* Voilà, c'est tout. Ch'dois y aller maintenant, si vous v'lez en savoir plus, v'nez au Chant d'l'Elfe. À plus !~
 @1002193 = ~*rote* Hep là ! Ch'est moi, Husam. J'dois vous parler. Suivez-moi.~
 @1002207 = ~Ça va se passer ce soir ! S'ils réussissent, Sarevok prendra le pouvoir sur toute la ville. Nous devons déguerpir tout de suite et aller chez les Ducs avant qu'il ne soit trop tard. Allons au palais maintenant !~
@@ -447,6 +449,7 @@ Il n'a ni bouche, ni dents ; pourtant il mange sa nourriture sans discontinuer.
 @1002859 = ~Oh non non non. Il me faut quelqu'un avec plus de références. Nous avons des invités importants cette semaine et je ne peux pas mettre leur confort en péril. Désolé, mais je ne peux pas vous prendre.~
 @1002860 = ~Bon, j'aurais préféré quelqu'un avec un peu plus de références, mais j'ai tellement besoin d'aide. Je vous engage, mais attention où vous mettez les pieds. Nous avons des invités de marque en ce moment, alors il vaut mieux que vous vous teniez à l'écart. Nettoyez les salles de l'aile est et laissez-moi l'ouest.~
 @1002863 = ~Qu'est-ce que cette intrusion ?! Expliquez votre présence ici !~
+@1002874 = ~Eh ben, la maison d'grand-mère vaut bien quelques piécettes, mais rien à voir avec c'palace-là.~
 @1002878 = ~Le Grand Hall du Palais Ducal ! Oh, c'était un plaisir de servir sous les ordres de sa seigneurie.~
 @1002883 = ~J'ai rien compris à c'que vous v'nez d'dire. Vous parlez bien la langue commune ?~
 @1002887 = ~Pfff ! Z'êtes pas un vrai voleur si vous causez pas argot ! Allez parler 'vec Alatos, avant d'vous faire tuer ! Cassez-vous, maint'nant, bande de minus !~
@@ -454,13 +457,14 @@ Il n'a ni bouche, ni dents ; pourtant il mange sa nourriture sans discontinuer.
 @1002889 = ~On sera vite fixés. Restez sur vos gardes c'te nuit. Moi et le Rouge on dirigera les opérations. La cible, c'est une baraque de nobles à côté de l'Esturgeon Sautillant. On partagera l'or en trois, et y aura d'autres coups à faire si ça vous chante. D'ac ?~
 @1002895 = ~Quel cran ! Faudrait faire gaffe à eux pour pas s'faire choper près de l'Esturgeon. Un tiers ou rien.~
 @1002897 = ~L'feu d'signalement est allumé ! On s'retrouve au crépuscule près d'l'Esturgeon, et amenez-vous dans le noir. Si vous ram'nez l'groupe, les gardes vont s'douter de quelque chose.~
-@1002899 = ~Sacré nom d'un chien, débouchez vos oreilles ! C'est pourtant clair, faites dégager vot'groupe ! C'est pas suspect du tout tous ces voleurs dans la rue ! Autant faire briller le soleil et crier « AU VOL ! » Faites-les dégager ou cassez-vous !~
+@1002899 = ~Sacré nom d'un chien, débouchez vos oreilles ! C'est pourtant clair, faites dégager vot' groupe ! C'est pas suspect du tout tous ces voleurs dans la rue ! Autant faire briller le soleil et crier « AU VOL ! » Faites-les dégager ou cassez-vous !~
 @1002902 = ~Z'osez montrer vot' face ici après c'qui s'est passé ?! Z'avez pas donné l'signal, imbécile ! Un garde nous a attrapés par surprise et l'Rouge a reçu sa lame en plein ventre ! J'veux un duel jusqu'à la mort entre moi et vous ! Si un d'vos amis bouge, mes hommes n'en f'ront qu'une bouchée ! Z'allez voir, l'Rouge vous jettera lui-même dans les plans inférieurs !~
-@1002907 = ~C'est comme ça pour moi et l'Rouge. La cible ce soir, c'est du tout cuit, et le butin est énorme. Pas un p'tit coup minable : z'avez réussi au test. Maintenant, il s'agit d'bijoux, d'objets précieux piqués à Eauprofonde. Un mage peu puissant avait besoin d'une gemme appelée « esseulite », et Gantolandan a répondu. Sa piaule est not'cible, mais il s'ra plus rusé qu'la dernière fois. On s'rejoint au crépuscule près d'la Lame et des Étoiles pour passer à l'acte.~
-@1002908 = ~Sacré nom d'un chien, débouchez vos oreilles ! C'est pourtant clair, faites dégager vot'groupe ! C'est pas suspect du tout tous ces voleurs dans la rue ! Autant faire briller le soleil et crier « AU VOL ! » Faites-les dégager ou cassez-vous avec eux !~
+@1002907 = ~C'est comme ça pour moi et l'Rouge. La cible ce soir, c'est du tout cuit, et le butin est énorme. Pas un p'tit coup minable : z'avez réussi au test. Maintenant, il s'agit d'bijoux, d'objets précieux piqués à Eauprofonde. Un mage peu puissant avait besoin d'une gemme appelée « esseulite », et Gantolandan a répondu. Sa piaule est not' cible, mais il s'ra plus rusé qu'la dernière fois. On s'rejoint au crépuscule près d'la Lame et des Étoiles pour passer à l'acte.~
+@1002908 = ~Sacré nom d'un chien, débouchez vos oreilles ! C'est pourtant clair, faites dégager vot' groupe ! C'est pas suspect du tout tous ces voleurs dans la rue ! Autant faire briller le soleil et crier « AU VOL ! » Faites-les dégager ou cassez-vous avec eux !~
 @1002913 = ~Vous avez tort de croire que je vais vous faire confiance. Mettez-vous sur le côté et aucun mal ne vous sera fait, à vous comme à vos laquais.~ [GORIN12]
 @1002917 = ~Jamais Féérune n'a connu pire voleur ! Le fait de réveiller Gantolandan a rameuté plus de gardes que de rats autour d'un morceau de fromage, ou de chats autour d'un rat ! Et j'ai pas envie d'être le rongeur dans tout ça ! J'ai même pas reçu une gemme pour le dérangement en plus ! Si ça s'sait, on me foutra plus jamais la paix à la guilde. Vous non plus : beaucoup d'nos frères vont demander à Alatos pourquoi qu'il vous a pris. Z'avez pas fait vos preuves c'te nuit !~
 @1002920 = ~Vous êtes réceptif pour un vieil homme. Vous savez pourquoi je suis ici. Rendez-vous et personne ne sera blessé ! Si vous résistez, vous le paierez de votre vie ! Remettez-nous votre enfant !~
+@1002923 = ~Vous les avez engagés pour faire vot' sale boulot en vous disant qu'on pouvait les sacrifier. Ils sont d'la race des voleurs comme nous ! Un frère voleur qui devrait mourir parce qu'il fait pas partie de la guilde ? Non, j'refuse, et j'insiste ! Qu'ils restent avec nous, qu'ils fassent leur boulot et qu'ils s'cassent. Ils sont avec NOUS et vous l'avez voulu !~
 @1002924 = ~V'là pour avoir assuré pendant la fuite ! C'est difficile, mais ça vaut la peine ! Toutes les portes seront ouvertes, ou fermées à clef mais crochetables.~
 @1002925 = ~J'ai rien compris à c'que vous v'nez d'dire. Vous parlez bien la langue commune ?~
 @1002953 = ~Zzz... *tousse* quoi... qui... qui va là ?~
@@ -1512,7 +1516,7 @@ La créature touchée par ce sort disparaît et devient indétectable à la visi
 @1004513 = ~Seuls les plus forts s'imposeront.~ [SAREV04]
 @1004514 = ~Une fois ma tâche accomplie, les rues seront couvertes de sang !~ [SAREV05]
 @1004515 = ~Je ne crains pas la mort, eh... Et vous ?~ [SAREV06]
-@1004516 = ~Le meurtre est l'œuvre de notre père ; poursuivez-la comme je le fais.~ [SAREV07]
+@1004516 = ~Le meurtre est l'œuvre de notre père ! Poursuivez-la comme je le fais.~ [SAREV07]
 @1004517 = ~Vous êtes réceptif, pour un vieil homme. Vous savez pourquoi je suis ici. Rendez-vous, et personne ne sera blessé. Si vous résistez, vous le paierez de votre vie ! Remettez-nous votre enfant !~ [SAREV10]
 @1004518 = ~Je suis désolé que vous le preniez comme ça, vieil homme.~ [SAREV11]
 @1004519 = ~Ah oui... euhmmm... l'addition... Hum... encore un verre, mademoiselle, je pense que j'aurai de quoi payer. Hum...~ [VOLOO01]
@@ -1558,7 +1562,7 @@ La créature touchée par ce sort disparaît et devient indétectable à la visi
 @1004559 = ~Mes hommages, petits fripons. *hoquette*~ [HUSAM01]
 @1004560 = ~Ils sont trop nombreux ! Sauve qui peuuuut !~ [HUSAM02]
 @1004561 = ~Les Voleurs de l'Ombre vous passent le bonjour.~ [HUSAM03]
-@1004562 = ~*hoquette* Ah, je crois que j'ai un peu trop bu...~ [HUSAM04]
+@1004562 = ~*hoquette* Ah, je crois que j'ai un peu trop bu.~ [HUSAM04]
 @1004563 = ~*rote* Ouah... *vomit et tousse*~ [HUSAM05]
 @1004564 = ~Un jour, j'aurai ma revanche ! Ha ha ha ha ! *hoquette et rote*~ [HUSAM06]
 @1004565 = ~Rester couché, semer la terreur et tuer : voilà mes passe-temps préférés.~ [HUSAM07]
@@ -1597,7 +1601,7 @@ La créature touchée par ce sort disparaît et devient indétectable à la visi
 @1004600 = ~Je suis très fier de vous. Tout comme Gorion, j'en suis sûr.~ [TETHT02]
 @1004601 = ~*chante* Durant l'année des Tourelles, un hôte prestigieux nous viendra de l'Est comme une épidémie de sauterelles. C'est ce que dit le sage Alaundo.~ [CHANT01]
 @1004603 = ~*chante* Lorsque les ombres descendront sur les terres, nos seigneurs divins marcheront à nos côtés comme nos égaux. C'est ce que dit le grand Alaundo.~ [CHANT02]
-@1004605 = ~*chante* Le Ver parcourra la terre et une telle infection suivra son sillage que tous ceux qui auront eu vent de son passage périront de cette épidémie. C'est ce que dit le sage Alaundo.~ [CHANT03]
+@1004605 = ~*chante* Le ver parcourra la terre et une telle infection suivra son sillage que tous ceux qui auront eu vent de son passage périront de cette épidémie. C'est ce que dit le sage Alaundo.~ [CHANT03]
 @1004606 = ~*chante* Lorsque le conflit glissera vers les Vaux, les grands lézards du Nord descendront armés de feu et de fureur. C'est ce que dit le grand Alaundo.~ [CHANT04]
 @1004607 = ~*chante* Le Seigneur du Meurtre périra, mais avant sa chute il engendrera une lignée de mortels qui sèmeront le chaos sur leur passage. C'est ce que dit le sage Alaundo.~ [CHANT05]
 @1004609 = ~Je m'excuse, mais je dois me retirer.~ [GUIDE01]
@@ -1617,6 +1621,7 @@ La créature touchée par ce sort disparaît et devient indétectable à la visi
 @1004624 = ~Je ne suis pas un paillasson !~ [KEEPR02]
 @1004625 = ~On dirait que ces gaillards cherchent les ennuis. Eh bien, je vais leur en donner.~ [TRANZ01]
 @1004633 = ~Quoi ? Comment osez-vous remettre en question les fonctions d'intermédiaire qui me reviennent à juste titre ? Je vais... je vais...~
+@1004656 = ~Je suis venu livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~ ~Je suis venue livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~
 @1004662 = ~Épargnez-moi votre humour, j'ai autre chose à faire. Partez s'il vous plaît. Et ne revenez pas à moins que je ne sois de meilleure humeur.~
 @1004666 = ~Attaquer~
 @1004688 = ~Jeter un sort~
@@ -1741,7 +1746,7 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 @1004818 = ~Des corvées ? Mais je suis mort !~ [CASSN02]
 @1004819 = ~Hé, s'il vous plaît... Y'a donc personne pour m'aider ? Personne ? Oooh, je n'ai nulle part où aller.~ [BRUNN01]
 @1004820 = ~Aaah, ce sera dur sans mon fils.~ [BRUNN02]
-@1004821 = ~Arrêtez-vous une seconde, la jeunesse, je crois avoir entendu ce que vous avez fait pour ce vieux Brun.~ [WILTN01]
+@1004821 = ~Arrêtez-vous une seconde, la jeunesse. Je crois avoir entendu ce que vous avez fait pour ce vieux Brun.~ [WILTN01]
 @1004822 = ~Les gens bien sont si rares, de nos jours.~ [WILTN02]
 @1004823 = ~Hé hé hé ha ha ! Ne vous battez pas ! Si vous vous battez, vous mourrez !~ [CATTC01]
 @1004824 = ~Clic clic, clic clic ! C'est pas bien ce que vous faites là ! Hi hi hi hi hi hi hi hi hi ha !~ [CATTC02]
@@ -1800,7 +1805,7 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 @1004884 = ~Mes prix sont les meilleurs de tout le sud d'Eauprofonde.~ [STORE04]
 @1004885 = ~Oh là là, je suis si fatigué.~ [MINER01]
 @1004886 = ~Ahh... Laissez-nous... nous avons beaucoup de travail... devant nous, ahh...~ [MINER02]
-@1004887 = ~*tousse* Oh, je crois que je crache du sang !~ [MINER03]
+@1004887 = ~*tousse* Oh, j'crois que j'crache du sang !~ [MINER03]
 @1004888 = ~Il fait tellement sombre ici.~ [MINER04]
 @1004889 = ~Aidez-nous... s'il vous plaît.~ [SLAVE02]
 @1004890 = ~Sauvez-moi, cher monsieur, s'il vous plaît, sauvez-moi.~ [SLAVE03] ~Sauvez-moi, chère madame, s'il vous plaît, sauvez-moi.~ [SLAVE03]
@@ -1948,7 +1953,7 @@ Remarque : après avoir attaqué, le bénéficiaire du sort n'est plus complèt
 @1005147 = ~J'vais tout écraser !~ [OGREE01]
 @1005148 = ~Moi, écraser votre sale tête !~ [OGREE03]
 @1005149 = ~Hé, j'vais vous écraser le nez ! Hahéhé.~ [OGREE04]
-@1005150 = ~Hoohahahahaha, hahahaha.~ [OGREM01]
+@1005150 = ~Hoohahahahahaa, hahahahaaa.~ [OGREM01]
 @1005151 = ~Hoo wayagama. Votre impudence vous sera fatale.~ [OGREM02]
 @1005152 = ~Kiaaaaaaahooo !~ [OGREM03]
 @1005154 = ~Ayaaah ! Mourez, bande de bovins !~ [OGREM04]
@@ -2740,6 +2745,7 @@ Aujourd'hui, j'ai vendu 500 pièces d'or la carapace d'ankheg que j'ai trouvée�
 @1006319 = ~Je fais partie de la noblesse. Vous êtes donc assuré de l'exactitude de mes propos. Il y a des hommes sauvages qui vivent dans ces bois. Ils se baptisent eux-mêmes « druides », mais cela n'est qu'une couverture pour cacher leur nature sanguinaire. Ce sont des tueurs, et ils doivent être pourchassés. Ils ont déjà tué un ami qui m'était très cher !~ ~Je fais partie de la noblesse. Vous êtes donc assurée de l'exactitude de mes propos. Il y a des hommes sauvages qui vivent dans ces bois. Ils se baptisent eux-mêmes « druides », mais cela n'est qu'une couverture pour cacher leur nature sanguinaire. Ce sont des tueurs, et ils doivent être pourchassés. Ils ont déjà tué un ami qui m'était très cher !~
 @1006327 = ~~
 @1006328 = ~Flèche~
+@1006330 = ~On m'a promis une récompense pour ma contribution à la défaite des pêcheurs alliés à Talos. C'est étonnant, mais je n'ai pas l'impression d'avoir aidé une enfant, mais plutôt d'avoir servi de pion à un dieu malveillant. Il ne faut pas se moquer des divinités... ou elles vous rendent la pareille.~
 @1006337 = ~Masse d'armes~
 @1006338 = ~Masse d'armes~
 @1006342 = ~Pierre~
@@ -2759,6 +2765,8 @@ Aujourd'hui, j'ai vendu 500 pièces d'or la carapace d'ankheg que j'ai trouvée�
 @1006365 = ~Camarade, voudriez-vous que je vous fasse un sermon sur la sagesse d'Oghma ? Non ? Eh bien, peut-être une autre fois.~
 @1006378 = ~Il s'est passé beaucoup de choses ces derniers temps. Vu que vous êtes mes meilleurs potes, je vais vous raconter tout ce que je sais. Le Poing Enflammé a décidé de poursuivre la communauté locale des voleurs de manière plus... agressive que d'habitude. Je parie que c'est à cause de la mort de leur commandant en chef, la Balafre. Son remplaçant, Angelo, est un peu plus... coriace. Si vous voulez rester dans les rues, vous avez intérêt à vous y connaître en clandestinité.~
 @1006389 = ~Posez plutôt vos questions à Husam.~
+@1006404 = ~Talos, le dieu de la destruction, se cache derrière les actes des pêcheurs ! Umberlie se cache derrière la jeune prêtresse Tenya ! Je ne vois pas comment éviter de déplaire à l'un, et je ne souhaite pas vraiment les faveurs de l'autre. Je ne veux plus avoir affaire à eux.~
+@1006405 = ~Les pêcheurs sont guidés par le dieu Talos ! Bien sûr, cela apporte de l'eau au moulin de Tenya, car Talos est une divinité qui détruit sans réfléchir. L'enfant aura la priorité dans cette affaire.~
 @1006427 = ~J'ai rencontré l'un des groupes de pillards qui grouillent actuellement sur la côte. Ils étaient à la recherche de fer et d'or, mais le fer était le véritable objectif de leur mission.~
 @1006434 = ~Si ça vous intéresse, je suis un Grismanteau d'Evéreska. Il est de mon devoir de surveiller les événements politiques des nations humaines le long de nos frontières. Pour l'instant, tout ce que je sais, c'est qu'une sorte d'organisation marchande, connue sous le nom du Trône de Fer, tente de semer le trouble le long de la Côte des Épées. À quelle fin, je ne saurais dire, car j'ai été capturé avant de pouvoir en apprendre davantage.~
 @1006437 = ~J'ai rencontré les bandits qui infestent actuellement la côte. J'ai laissé échapper le fait que j'étais au courant pour Tazok, ce qui m'a valu cher. Il faudra que je trouve un autre moyen de découvrir leur camp.~
@@ -2776,7 +2784,7 @@ Poids : 2~
 @1006472 = ~Narlen qu'j'm'appelle, et qu'importe si j'vous aime ou pas. Si vous arrivez à vous en sortir, alors vous serez des miens. Autrement vous ne me servirez pas à grand-chose.~
 @1006475 = ~Excusez-moi ? Je suis vraiment désolé de vous déranger, mais vous pourriez m'aider ? J'ai perdu mon petit chien et j'arrive plus à l'retrouver. Il a sûrement très peur maintenant.~
 @1006484 = ~Bonjour, <CHARNAME>,
-Si tu lis ceci, c'est que j'ai péri d'une mort prématurée. Je te demanderais bien de ne pas me pleurer, mais je me sens beaucoup mieux à l'idée que c'est sans doute le cas. Il y a des choses que je dois te dire dans cette lettre que j'aurais pu te dire plus tôt. Toutefois, comme ma mort est survenue trop tôt, je n'ai pas eu le temps de le faire. Tout d'abord, je ne suis pas ton père biologique, car ce titre revient à une entité connue sous le nom de Bhaal. Le Bhaal dont je parle est celui que tu connais en tant que divinité. Au cours du conflit connu sous le nom de Temps des Troubles, lorsque les Dieux ont parcouru Féérune, Bhaal a également été emporté par la mort. Il avait, dans une certaine mesure, été averti de la fin qui l'attendait pendant cette période. Pour des raisons que je ne connais pas, il recherchait des femmes de toutes les races et les violait. Ta mère était l'une de ces femmes, et comme tu le sais, elle est morte en te donnant le jour. J'étais son ami et occasionnellement son amant. Je me suis senti obligé de t'élever comme si tu étais de mon propre sang. Je t'ai toujours considéré comme mon propre enfant, et j'espère que tu me considéreras encore comme ton père. Tu n'es pas un enfant comme les autres. Le sang des Dieux coule dans tes veines. Si tu utilises notre grande bibliothèque, tu verras que les prophéties de notre fondateur Alaundo sur la descendance de Bhaal sont nombreuses. Beaucoup de personnes voudront t'utiliser pour leur propre compte. L'une d'entre elles, un homme qui se fait appeler Sarevok, constitue le principal danger. Il a étudié ici, à Château-Suif, et en sait donc beaucoup sur ton histoire et sur qui tu es.
+Si tu lis ceci, c'est que j'ai péri d'une mort prématurée. Je te demanderais bien de ne pas me pleurer, mais je me sens beaucoup mieux à l'idée que c'est sans doute le cas. Il y a des choses que je dois te dire dans cette lettre que j'aurais pu te dire plus tôt. Toutefois, comme ma mort est survenue trop tôt, je n'ai pas eu le temps de le faire. Tout d'abord, je ne suis pas ton père biologique, car ce titre revient à une entité connue sous le nom de Bhaal. Le Bhaal dont je parle est celui que tu connais en tant que divinité. Au cours du conflit connu sous le nom de Temps des Troubles, lorsque les dieux ont parcouru Féérune, Bhaal a également été emporté par la mort. Il avait, dans une certaine mesure, été averti de la fin qui l'attendait pendant cette période. Pour des raisons que je ne connais pas, il recherchait des femmes de toutes les races et les violait. Ta mère était l'une de ces femmes, et comme tu le sais, elle est morte en te donnant le jour. J'étais son ami et occasionnellement son amant. Je me suis senti obligé de t'élever comme si tu étais de mon propre sang. Je t'ai toujours considéré comme mon propre enfant, et j'espère que tu me considéreras encore comme ton père. Tu n'es pas un enfant comme les autres. Le sang des dieux coule dans tes veines. Si tu utilises notre grande bibliothèque, tu verras que les prophéties de notre fondateur Alaundo sur la descendance de Bhaal sont nombreuses. Beaucoup de personnes voudront t'utiliser pour leur propre compte. L'une d'entre elles, un homme qui se fait appeler Sarevok, constitue le principal danger. Il a étudié ici, à Château-Suif, et en sait donc beaucoup sur ton histoire et sur qui tu es.
 
 Gorion.~
 @1006485 = ~Durant la période des Avatars, le Seigneur du Meurtre engendrera une lignée de mortels. Elle sera composée de personnes bonnes ou maléfiques, mais tous sèmeront le chaos. Lorsque les bâtards de la Bête auront atteint l'âge adulte, ils dévasteront le territoire de la Côte des Épées. L'un de ces descendants s'élèvera au-dessus des autres et réclamera l'héritage de son père. Cet héritier écrira l'histoire de la Côte des Épées pour les siècles à venir...~
@@ -2826,6 +2834,7 @@ Rieltar
 @1006569 = ~Sous l'effet de la magie, Thaldorn nous a appris beaucoup de choses sur le Trône de Fer. Il se propose de devenir le principal cartel commercial de toute la Côte des Épées. Ils ont eu recours à une campagne d'information mensongère pour faire monter la tension entre les nations de la Porte de Baldur et de l'Amn. Ils ont détourné le fer à destination de la Porte de Baldur en sabotant les mines de Nashkel et se sont servis du Frisson et les Griffes Noires pour éliminer tout commerce le long de la Côte des Épées. L'unique réserve de fer de la Côte des Épées sera la base du Trône de Fer à Bois-Manteau. Si la Porte de Baldur entre en guerre contre l'Amn, il lui faudra se ravitailler auprès du Trône de Fer pour obtenir les matériaux indispensables à la guerre. Le Trône de Fer sera alors en mesure d'exiger n'importe quoi.~
 @1006578 = ~Sous l'effet du charme, Davaëorn nous en a appris beaucoup sur les mines de Bois-Manteau. Il nous a expliqué comment détruire les mines ! Le premier niveau de la mine renferme un bouchon magique. S'il est ouvert, à l'aide d'une clef qui appartient à Davaëorn, il est possible d'inonder toute la mine ! Il nous a dit que sa clef se trouvait dans un coffre caché dans sa chambre à coucher.~
 @1006579 = ~Nous avons accepté de suivre un certain Deagan pour rencontrer son maître aux Trois Vieilles Chopes.~
+@1006586 = ~Sous l'effet de la magie, Delthyr nous a appris que les Ménestrels pensent que je descendais du dieu mort Bhaal ! Cette information est des plus inquiétantes.~
 @1006592 = ~Le Duc nous a demandé de nous rendre à Château-Suif. Il pense que nous pourrons y recueillir des informations importantes auprès des chefs du Trône de Fer. Il nous a confié un ouvrage de valeur ; nous devons le remettre au Gardien du portail à Château-Suif, sinon on ne nous laissera jamais entrer.~
 @1006593 = ~Nous avons tué Rashad, qui s'est avéré être un doppelgänger. Il administrait du poison au Grand-Duc Eltan depuis plusieurs jours.~
 @1006594 = ~Eltan nous a demandé de l'accompagner chez le Maître du port.~
@@ -3999,7 +4008,7 @@ Jergal se leva de son trône, une expression de lassitude sur le visage, et dit�
 
 Les trois hommes commencèrent immédiatement à se quereller, tandis que Jergal les observait avec indifférence. Lorsqu'il devint clair qu'ils mourraient tous d'épuisement ou se battraient éternellement, le Seigneur de la Fin de Toutes Choses intervint : « Après tout ce que vous avez sacrifié, allez-vous repartir sans rien ? Pourquoi ne pas diviser la charge et organiser un concours d'habileté pour vous partager les différentes fonctions ? »
 
-Baine, Bhaal et Myrkul considérèrent la proposition du Dieu et acquiescèrent. Jergal prit les têtes de ses trois liches les plus puissantes et les tendit aux trois hommes afin qu'ils puissent se départager en jouant une partie de boules avec les crânes. Chacun des mortels lança donc un crâne dans la Gaste Grise. Quiconque parviendrait à le lancer le plus loin serait le vainqueur.
+Baine, Bhaal et Myrkul considérèrent la proposition du dieu et acquiescèrent. Jergal prit les têtes de ses trois liches les plus puissantes et les tendit aux trois hommes afin qu'ils puissent se départager en jouant une partie de boules avec les crânes. Chacun des mortels lança donc un crâne dans la Gaste Grise. Quiconque parviendrait à le lancer le plus loin serait le vainqueur.
 
 À cet instant, Malar, le Seigneur des Bêtes, arriva chez Jergal. Quand il sut que tout le pouvoir de Jergal irait au vainqueur de la compétition, il courut après les crânes et chercha à interrompre le concours, de manière à pouvoir y participer et obtenir une partie de la récompense. Baine, Bhaal et Myrkul recommencèrent à se battre, car l'épreuve n'avait plus aucun sens. De nouveau, Jergal intervint : « Pourquoi ne laissez-vous pas Dame Fortune décider. Vous éviterez ainsi d'avoir à partager avec la Bête ? »
 
@@ -4020,7 +4029,7 @@ Dans la partie orientale de Shaar, au-delà de la Grande Faille, vivaient autref
 
 Incapable de contenir sa curiosité, le roi titan courut après la sphère qui rebondissait et ses disciples dévoués suivirent respectueusement ses traces. La météorite continua de rouler jusqu'à la Grande-Mer et disparut dans les profondeurs. Le monarque plongea dans la mer et, à l'instar d'un lemming, la race entière des titans l'imita, disparaissant à jamais.
 
-Regrettant les destruction qu'elles avaient provoquées, les puissances promirent de maîtriser leur curiosité afin d'éviter de tels désastres à l'avenir. Elles ont tenu parole à ce jour, interdisant la poursuite intempestive d'idées nouvelles et la véritable coopération entre races intelligentes de Toril.~
+Regrettant les destructions qu'elles avaient provoquées, les puissances promirent de maîtriser leur curiosité afin d'éviter de tels désastres à l'avenir. Elles ont tenu parole à ce jour, interdisant la poursuite intempestive d'idées nouvelles et la véritable coopération entre races intelligentes de Toril.~
 @1007337 = ~Histoire des Sœurs de la lumière et des ténèbres :
 
 C'était la naissance du monde et du paradis. Une fois l'Espace des Royaumes créé par le Seigneur Ao, il y eut une longue période de néant éternel avant que la lumière et l'obscurité ne deviennent des entités séparées dans ce royaume brumeux d'ombres. Au milieu de ce sombre chaos se dressèrent 13 seigneurs de l'ombre, les Ombrevari. Personne ne sait s'ils venaient d'ailleurs ou s'ils étaient les enfants de l'ombre.
@@ -4789,7 +4798,7 @@ Poids : 0~
 @1008548 = ~J'ose dire que ce que nous essayons de faire ici est plus que du simple pillage ! C'est une quête de connaissance de l'histoire. Et si vous ne comprenez pas ces choses-là, je vous suggère de partir dès que possible. Vous trouverez peu de choses ici qui satisferont vos appétits de mercenaires.~
 @1008549 = ~Un criminel ordinaire ! Très bien ! Prenez-nous tout l'or que vous pourrez, ça ne sera pas grand-chose. Nous avons dû réapprovisionner le camp trois fois à cause des actes de sabotage, alors nous n'avons pas une grosse fortune ici. De plus, nous n'avons aucune idée de ce que nous allons trouver ; d'ailleurs, cela nous importe peu que ça vaille quelque chose ou non. Nous sommes en quête de connaissance. Dégagez, maintenant que vous avez vos petits gains. Laissez-nous à notre labeur.~
 @1008552 = ~Nous avons peu à vous offrir, 50 pièces d'or vous suffiraient-elles ? C'est tout ce que nous pouvons donner, comme nous avons dû réapprovisionner le camp trois fois. Maudits soient ces saboteurs ! Votre simple présence pourrait suffire à décourager nos mystérieux assaillants. Ça vous dit ? Ce serait juste pour un petit moment.~
-@1008553 = ~Mon Dieu ! C'est l'occasion de vivre le jour le plus passionnant de nos fouilles ! Nous allons essayer d'atteindre une nouvelle salle aujourd'hui, peut-être les quartiers du chaman ou du chef ! Nous pourrions y trouver de très nombreuses reliques. Promenez-vous parmi les hommes, votre présence les rassurera sans aucun doute.~
+@1008553 = ~Mon dieu ! C'est l'occasion de vivre le jour le plus passionnant de nos fouilles ! Nous allons essayer d'atteindre une nouvelle salle aujourd'hui, peut-être les quartiers du chaman ou du chef ! Nous pourrions y trouver de très nombreuses reliques. Promenez-vous parmi les hommes, votre présence les rassurera sans aucun doute.~
 @1008554 = ~Mais... comme vous voulez. Nous pouvons peut-être réunir 50 autres pièces d'or à nous tous, mais cela signifie que nous DEVONS en avoir fini aujourd'hui. Est-ce que 100 pièces d'or vous conviennent ?~
 @1008556 = ~C'est une bonne question, jeune homme. Je pense que nous sommes les premiers à pénétrer dans cette salle depuis près de 5 000 ans. Même les dieux de Néthéril étaient jeunes à l'époque !~ ~C'est une bonne question, jeune fille. Je pense que nous sommes les premiers à pénétrer dans cette salle depuis près de 5 000 ans. Même les dieux de Néthéril étaient jeunes à l'époque !~
 @1008558 = ~Je... je pense pouvoir expliquer la folie qui s'est emparée de mes hommes. Ils semblaient crier dans une langue ancienne, mais j'ai reconnu le mot « Kozah ». C'est le nom d'une ancienne puissance ; le nom d'un dieu du Pandémonium. La tribu qui vivait ici devait vénérer Kozah et la destruction qu'il a provoquée. L'artefact qui se trouve dans ce sarcophage de pierre doit être la cause de toute cette effusion de sang. Cet artefact est certainement maudit ! Nous devrions le laisser dans cette tombe à tout jamais. Il vaut mieux qu'il ne voie jamais la lumière du jour.~
@@ -5549,6 +5558,8 @@ Entar mort et Eltan malade, les autres Ducs ont convoqué des élections d'urgen
 @1010128 = ~Sarevok a fait quelque chose aux membres encore vivants du Trône de Fer, quelque chose d'étrange.~
 @1010129 = ~Quelque chose ne va pas dans le bâtiment du Trône de Fer. Les gens disent que ses membres se comportent vraiment bizarrement... S'agirait-il d'autres doppelgängers ? J'espère que non.~
 @1010131 = ~Le Duc Entar Écudargent est mort. Avec la maladie du Duc Eltan, il y a de fortes chances pour que Sarevok soit élu, notamment parce qu'il possède les ressources du Trône de Fer et qu'il est décidé à « punir » l'Amn.~
+@1010134 = ~*vous avez été dérangé pendant votre sommeil... attention aux monstres*~ [ERROR09] ~*vous avez été dérangée pendant votre sommeil... attention aux monstres*~ [ERROR09]
+@1010135 = ~*vous avez été dérangé pendant votre sommeil... attention aux monstres*~ [ERROR09] ~*vous avez été dérangée pendant votre sommeil... attention aux monstres*~ [ERROR09]
 @1010137 = ~Convocation de vache
 (Convocation)
 
@@ -5561,12 +5572,23 @@ Jet de sauvegarde : aucun
 
 Le nom du sort est suffisamment éloquent !~
 @1010141 = ~Utilisation d'arme magique.~ [GAM_47]
-@1010144 = ~La mélopée envoûtante des sirènes vous tire de votre sommeil.~ [ERROR09]
-@1010145 = ~Les grognements des kobolds vous tirent de votre sommeil.~ [ERROR09]
-@1010146 = ~Le hurlement terrifiant du loup des glaces vous réveille en sursaut. Vous en êtes encore à reprendre vos esprits lorsque les loups se jettent sur vous.~ [ERROR09]
-@1010148 = ~L'odeur putride du tombeau vous réveille et, au sortir du sommeil, vous vous trouvez face à un assaut de squelettes.~ [ERROR09]
-@1010150 = ~Vous rêviez qu'une meute de chiens vous traquait et vous vous réveillez alors qu'elle allait vous mettre en pièces... mais la meute est là, bien réelle autour de vous, assoiffée de sang.~ [ERROR09]
-@1010154 = ~Non loin de là, des hobgobelins parlent d'une voix gutturale, ce qui vous réveille.~ [ERROR09]
+@1010143 = ~*les hurlements d'une bande de grouilleux surgissant de la nuit vous tirent du sommeil*~ [ERROR09]
+@1010144 = ~*la mélopée envoûtante des sirènes vous tire de votre sommeil*~ [ERROR09]
+@1010145 = ~*les grognements des kobolds vous tirent de votre sommeil*~ [ERROR09]
+@1010146 = ~*le hurlement terrifiant du loup des glaces vous réveille en sursaut... vous en êtes encore à reprendre vos esprits lorsque les loups se jettent sur vous*~ [ERROR09]
+@1010147 = ~*les hurlements d'un commando xvart vous arrachent à vos rêves au moment précis où ceux-ci devenaient passionnants*~ [ERROR09]
+@1010148 = ~*l'odeur putride du tombeau trouble votre repos... en vous réveillant, vous vous trouvez face à un assaut de squelettes*~ [ERROR09]
+@1010149 = ~*la puanteur des gnolls emplit l'air... vous remerciez les dieux d'avoir pu vous réveiller à temps et vous attrapez votre arme*~ [ERROR09]
+@1010150 = ~*vous rêviez qu'une meute de chiens vous traquait et vous vous réveillez alors qu'elle allait vous mettre en pièces... mais la meute est là, bien réelle autour de vous, assoiffée de sang*~ [ERROR09]
+@1010151 = ~*des pas lourds d'ogres vous tirent du sommeil... vous attrapez rapidement votre arme, en priant pour qu'ils ne vous aient pas encore vus*~ [ERROR09]
+@1010152 = ~*un remugle de chairs en putréfaction vous réveille, et vous apercevez un zombie qui se dirige vers vous en titubant*~ [ERROR09]
+@1010153 = ~*un cri de loup vous réveille en sursaut... vous en êtes encore à reprendre vos esprits qu'une meute de loups est déjà sur vous*~ [ERROR09]
+@1010154 = ~*non loin de là, des hobgobelins parlent d'une voix gutturale, ce qui vous réveille*~ [ERROR09]
+@1010155 = ~*les glapissements aigus des tasloïs vous tirent soudain du sommeil*~ [ERROR09]
+@1010157 = ~*l'odeur putride caractéristique des morts-vivants vous arrache au sommeil... c'est avec un sentiment d'horreur que vous constatez que des blêmes vous assaillent*~ [ERROR09]
+@1010158 = ~*vous vous réveillez en proie à des sueurs froides... jetant un regard aux alentours, vous découvrez dans un sursaut de terreur un énorme insecte qui descend vers vous... huit pattes, un trop grand nombre d'yeux... c'est une araignée géante*~ [ERROR09]
+@1010159 = ~*les voix rauques des bandits vous tirent du sommeil*~ [ERROR09]
+@1010160 = ~*des bruits stridents vous réveillent en sursaut... même en regardant autour de vous, vous ne voyez pas ce qui produit ce bruit affreux*~ [ERROR09]
 @1010172 = ~Interrogé sur son passé, XZAR a peu de réponses cohérentes à offrir. Son désir de découvrir la cause de la pénurie de fer paraît avéré, mais ses motivations restent obscures. S'il tient des discours incohérents, ses facultés intellectuelles lui permettent cependant de pratiquer la magie. Il marmonne bien qu'il est, ainsi que son associé Montaron, au service d'un groupe puissant, mais si on lui demande d'être plus précis, il s'agite et ne dit plus un mot pendant un certain temps. Il est pour le moins dérangé, et le réseau qui a cru bon de l'engager doit bel et bien être animé d'un noir dessein.~
 @1010183 = ~Interrogée sur son passé, ALORA dit venir d'Iriaebor. Enfant, elle était jolie, confiante, et curieuse au point que ses parents s'en arrachaient les cheveux. Ils ont eu beau vouloir la calmer, la convaincre de se contenter de rester chez elle au coin d'un bon feu comme toute petite-personne qui se respecte, Alora n'a fait que trouver sa vie de plus en plus étouffante, si bien qu'elle a fini par partir pour explorer le vaste monde. Elle a vite eu toutes sortes d'ennuis, à force d'aller au mauvais endroit et de s'attirer les foudres des mauvaises personnes. Elle a débarqué à la Porte de Baldur et c'est là qu'elle a découvert sa vocation : le vol. S'enrichir n'est pas sa motivation majeure ; non, simplement, il y a trop de choses intéressantes derrière les portes fermées à clef. Son air modeste l'aide à mener son monde en bateau et son bon caractère lui a souvent évité la prison.~
 @1010185 = ~Interrogé sur son passé, MINSC se proclame guerrier berserker de la nation de Rashéménie, loin à l'est, bien que son affinité pour les animaux témoigne également de ses compétences de rôdeur. Il accomplit son pèlerinage, le « dajemma », un rite de passage à l'âge adulte sous la forme d'un voyage, et il cherche l'aventure et la gloire dans la bataille. Il s'enorgueillit d'être le garde du corps d'une jeune wychlaran de Rashéménie nommée Dynahéir, et tous ceux qui voudraient du mal à sa protégée n'ont qu'à bien se tenir. Il ignore pourquoi elle a choisi de venir sur la Côte des Épées, mais il lui voue une loyauté sans faille. S'il la sert avec honneur et s'il montre sa bravoure au combat, il espère, à leur retour, être admis dans la loge berserker du Dragon de Glace. Il tient pour remarquable le fait d'avoir acquis un animal comme compagnon : « Bouh » serait, selon lui, un hamster géant de l'espace miniature. De telles créatures existent peut-être dans les Royaumes, mais Minsc a très certainement reçu trop de coups sur la tête. Il a bon caractère, mais ses tendances naturelles de berserker prennent souvent le dessus.~
@@ -5602,10 +5624,14 @@ Nécessite :
 Poids : 6~
 @1010216 = ~Interrogé sur son passé, EDWIN déclare tout de go qu'il n'a pas la moindre intention de répondre et vous conseille de vous mêler de vos oignons. Il ajoute que vous pouvez vous estimer heureux de profiter de sa compagnie et marmonne qu'il s'en ira quand il voudra. La camaraderie n'est pas son fort, et il préfère parler tout seul qu'avoir des relations avec les autres. Il porte haut les couleurs des Sorciers Rouges de Thay, même si l'on peut à juste titre se demander ce qu'un membre de cette organisation fabrique ici, aussi à l'ouest, si loin de ses bases arrières. De toute façon, Edwin ne risque pas d'éclairer votre lanterne.~ ~Interrogé sur son passé, EDWIN déclare tout de go qu'il n'a pas la moindre intention de répondre et vous conseille de vous mêler de vos oignons. Il ajoute que vous pouvez vous estimer heureuse de profiter de sa compagnie et marmonne qu'il s'en ira quand il voudra. La camaraderie n'est pas son fort, et il préfère parler tout seul qu'avoir des relations avec les autres. Il porte haut les couleurs des Sorciers Rouges de Thay, même si l'on peut à juste titre se demander ce qu'un membre de cette organisation fabrique ici, aussi à l'ouest, si loin de ses bases arrières. De toute façon, Edwin ne risque pas d'éclairer votre lanterne.~
 @1010217 = ~Interrogée sur son passé, c'est avec fierté que VICONIA révèle être une elfe noire de la cité de Menzoberranzan. Elle ne dit pas grand-chose des raisons qui l'ont amenée à quitter le monde aveugle de l'Ombre-Terre, mais les séparations de ce genre sont rarement heureuses. Elle affirme ne plus adorer la déesse araignée Lolth, abandon dont vous savez qu'il a souvent des conséquences fatales. Elle suit désormais Shar, choix adéquat pour une elfe noire, même si cela ne signifie pas qu'elle a renoncé à la violence dont son peuple est coutumier. Elle juge les lois de la surface étranges et inadaptées ; sans doute cela vient-il de son inexpérience. De même, elle se fait une image très naïve de la façon dont les habitants de la surface considèrent son peuple. Beaucoup ne lui laisseront pas la chance qu'elle paraît attendre, et apparaître en sa compagnie pourrait même influer sur la manière dont on vous considère. Vous savez qu'elle possède, en tant qu'elfe noire, une résistance à la magie.~
-@1010218 = ~Quand vous essayez d'attraper Bouh, il détale, et Minsc vous signifie d'un regard noir qu'il vaudrait mieux ne pas insister.~ [GAM_48]
-@1010219 = ~Alora vous reprend l'objet d'un geste vif. « Navrée, mais je dois le garder sur moi. C'est mon porte-bonheur. »~ [GAM_47]
-@1010220 = ~La lame refuse de se laisser manier. Elle doit être accordée à son propriétaire de telle sorte que nul autre ne puisse l'utiliser. Sa garde porte le nom « XAN ».~ [GAM_47]
-@1010222 = ~Edwin écarte votre main d'une pichenette rageuse. « Gardez vos sales pattes loin de cette amulette ! C'est un souvenir de Thay, n'y touchez pas ! »~ [GAM_47]
+@1010218 = ~*scouic... quand vous essayez d'attraper Bouh, il détale, et Minsc vous signifie d'un regard noir qu'il vaudrait mieux ne pas insister*~ [GAM_48]
+@1010219 = ~*Alora vous reprend l'objet d'un geste agile et vif* « Navrée, mais je dois le garder sur moi. C'est mon porte-bonheur. »~ [GAM_47]
+@1010220 = ~*la lame refuse de se laisser manier... elle doit être liée à son propriétaire de telle sorte que nul autre ne puisse l'utiliser... sa garde porte le nom « XAN »*~ [GAM_47]
+@1010221 = ~*ces flèches sont étrangement constituées, elles sont apparemment encochées de sorte que seul leur créateur, Eldoth, peut en comprendre l'usage*~ [GAM_47]
+@1010222 = ~*Edwin écarte votre main d'une pichenette rageuse* « Gardez vos sales pattes loin de cette amulette ! C'est un souvenir de Thay, n'y touchez pas ! »~ [GAM_47]
+@1010225 = ~*le cri d'un soldat amnien vous réveille*~ [ERROR09]
+@1010226 = ~*les pas lourds d'un garde du Poing Enflammé vous tirent de votre sommeil*~ [ERROR09]
+@1010227 = ~*un des gardiens du château vous dérange dans votre sommeil*~ [ERROR09]
 @1010230 = ~Patte de lapin +2~
 @1010231 = ~C'est la patte de lapin porte-bonheur d'Alora.
 
@@ -5699,7 +5725,10 @@ Poids : 10~
 PARAMÈTRES :
 
 Poids : 185~
-@1010297 = ~D'affreux crépitements d'insecte vous réveillent en sursaut.~ [ERROR09]
+@1010296 = ~*les pas des mercenaires du Trône de Fer vous réveillent*~ [ERROR09]
+@1010297 = ~*d'affreux crépitements d'insectes vous réveillent en sursaut*~ [ERROR09]
+@1010298 = ~*une rafale de vent vous fouette et vous réveille en sursaut... votre regard tombe sur la silhouette sombre d'une wiverne*~ [ERROR09]
+@1010299 = ~*le fracas de pas lourds vous tirent du sommeil*~ [ERROR09]
 @1010303 = ~Cette arme puissante a été créée par les forgerons de l'antique Myth Drannor. Les lames de lune servent au long processus du choix d'un régnant sur l'île d'Éternelle-Rencontre. Une lame de lune choisit son propriétaire et, dans le cas présent, celle-ci a choisi l'elfe Xan. Seul Xan peut utiliser cette arme, et toute autre personne se trouvera incapable de la soulever. Cette lame de lune confère à son utilisateur une résistance au feu et un bonus à la classe d'armure.
 
 PARAMÈTRES :
@@ -5855,7 +5884,7 @@ Vous pouvez maintenant modifier ci-dessus les données concernant le joueur et l
 @1010673 = ~~
 @1010677 = ~*chante* Le Seigneur du Meurtre périra, mais avant sa chute il engendrera une lignée de mortels qui sèmeront le chaos sur leur passage. C'est ce que dit le sage Alaundo.~ [CHANT05]
 @1010678 = ~*chante* Lorsque les ombres descendront sur les terres, nos seigneurs divins marcheront à nos côtés comme nos égaux. C'est ce que dit le grand Alaundo.~ [CHANT02]
-@1010679 = ~*chante* Le Ver parcourra la terre et une telle infection suivra son sillage que tous ceux qui auront eu vent de son passage périront de cette épidémie. C'est ce que dit le sage Alaundo.~ [CHANT03]
+@1010679 = ~*chante* Le ver parcourra la terre et une telle infection suivra son sillage que tous ceux qui auront eu vent de son passage périront de cette épidémie. C'est ce que dit le sage Alaundo.~ [CHANT03]
 @1010680 = ~*chante* Lorsque le conflit glissera vers les Vaux, les grands lézards du Nord descendront armés de feu et de fureur. C'est ce que dit le grand Alaundo.~ [CHANT04]
 @1010681 = ~*chante* Durant l'année des Tourelles, un hôte prestigieux nous viendra de l'Est comme une épidémie de sauterelles. C'est ce que dit le sage Alaundo.~ [CHANT01]
 @1010686 = ~La distance n'y change rien ! Vous êtes une wychlaran de Rashéménie, je suis un magicien de Thay ! Le fait que vous soyez là signifie que je dois y être moi aussi !~
@@ -5870,6 +5899,7 @@ Vous pouvez maintenant modifier ci-dessus les données concernant le joueur et l
 @1010783 = ~Je « prétends » être quelqu'un qu'il vaut mieux éviter d'ennuyer. Je m'en voudrais de devoir faire couler votre sang.~
 @1010796 = ~C'était un doppelgänger, tout comme toi. Par respect pour le visage que tu as revêtu, amiroir, je vais te laisser vivre. Fuis, avant que je change d'avis !~
 @1010797 = ~C'était un doppelgänger, tout comme toi. Par respect pour le visage que tu as revêtu, amiroir, je vais te laisser vivre. Fuis, avant que je change d'avis !~
+@1010800 = ~Ils avaient raison, <CHARNAME>. T'es devenu un monstre... Je ne sais pas ce qui te traque dans ces souterrains, mais deux personnes viennent de les rallier ! Allez, Deder... au nom de Gorion.~
 @1010803 = ~Il a été mis fin à la session multijoueur.~
 @1010811 = ~ATTENTION !
 Transformer votre personnage en personnage à classes jumelées est une modification importante. Assurez-vous d'avoir bien assimilé les éléments suivants, ainsi que ceux présents dans le manuel.
@@ -5934,7 +5964,7 @@ Le fait que vous ne puissiez pas choisir une des options ci-dessus peut avoir di
 @1010953 = ~Résistance à la peur~
 @1010962 = ~Cela permet de sauvegarder votre personnage dans le dossier « characters » du répertoire Baldur's Gate. Vous pourrez utiliser ce personnage au cours de parties multijoueurs en cliquant sur le bouton d'importation de l'écran Création de Personnage. Exporter un personnage ne le retire pas de la partie en cours et il ne subira aucune modification.~
 @1010963 = ~Vous pouvez importer un ou des personnages de la partie sauvegardée que vous avez choisie. Si vous participez à une partie multijoueur, l'hôte de session peut choisir de restreindre les scores de caractéristique, les objets ou l'expérience des personnages importés.~
-@1010973 = ~Vous vous réveillez en sursaut, la peau couverte de sueur. Dans l'obscurité de la crypte, vous pouvez entendre des murmures...~ [ERROR09]
+@1010973 = ~*vous vous réveillez en sursaut, la peau couverte de sueur... dans l'obscurité de la crypte, vous pouvez entendre des murmures*~ [ERROR09]
 @1010974 = ~Une maison engloutie par les eaux. Vous ne savez pas depuis combien de temps elle est abandonnée.~
 @1010984 = ~Parlez un langage normal, espèce d'abomination ! Je ne comprends pas un traître mot de ce que vous racontez !~
 @1010994 = ~Euh... oui. Prat... c'est bien moi. Redites-moi pourquoi on devait attendre là, dans ces cryptes ?~
@@ -5951,7 +5981,7 @@ Le fait que vous ne puissiez pas choisir une des options ci-dessus peut avoir di
 @1011040 = ~Moi, j'm'en vais.~ [IMOEN22]
 @1011041 = ~Moi, j'm'en vais.~ [IMOEN26]
 @1011042 = ~Que dieu vous garde si vous réussissez !~ [IMOEN27]
-@1011043 = ~Je ne sais rien de plus, alors laissez-moi partir !~ [IMOEN28]
+@1011043 = ~Je n'sais rien de plus, alors laissez-moi partir !~ [IMOEN28]
 @1011044 = ~Je m'en vais.~ [IMOEN29]
 @1011045 = ~Chez moi, Gros-Ventre me racontait toujours une histoire...~ [IMOEN30]
 @1011053 = ~Mortbise +3~
@@ -6010,37 +6040,39 @@ Nécessite :
 
 Poids : 7~
 @1011063 = ~Bonjour à vous.~ [FELFF01]
-@1011065 = ~Je préfère de loin les régions boisées, mais il faut être souple, par les temps qui courent.~ [FELFF02]
+@1011065 = ~Je préfère de loin les régions boisées, mais il faut être souple par les temps qui courent.~ [FELFF02]
 @1011070 = ~Peu des membres du Peuple-Fée s'intéressent aux affaires d'état.~ [FELFF03]
-@1011075 = ~~ [FELFF05]
-@1011076 = ~~ [FELFF06]
+@1011075 = ~Oooh !~ [FELFF05]
+@1011076 = ~Ahh ! Ooohhhhh...~ [FELFF06]
 @1011077 = ~Oui ?~ [GENMG01]
 @1011078 = ~Que désirez-vous ?~ [GENMG02]
 @1011079 = ~Hein ?~ [GENMG03]
 @1011081 = ~Vous avez besoin de quelque chose ?~ [GENMG04]
-@1011082 = ~Bonjour la compagnie !~ [GENMG05]
+@1011082 = ~Bonjour la compagnie.~ [GENMG05]
 @1011083 = ~Salut, camarade.~ [GENMG06]
 @1011084 = ~Hein ?~ [GENMG07]
-@1011085 = ~Salut !~ [GENMG08]
-@1011086 = ~Parlez plus fort ! Plus fort !~ [GENMG09]
+@1011085 = ~Salut.~ [GENMG08]
+@1011086 = ~Parlez plus fort. Plus fort !~ [GENMG09]
 @1011089 = ~Qu'est-ce que vous voulez ?~ [GENMG10]
+@1011090 = ~Je suis venu livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~ ~Je suis venue livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~
 @1011091 = ~Euh, z'avez quelque chose en tête ?~ [GENMG11]
 @1011092 = ~Ouais, cop' ?~ [GENMG12]
 @1011093 = ~Salut, cop'.~ [GENMG13]
 @1011094 = ~Ciao.~ [GENMG14]
-@1011095 = ~Salut, toi !~ [GENMG15]
-@1011096 = ~Toutes mes excuses, mais je crains devoir vous tuer.~ [GENMT01]
-@1011097 = ~Vous l'aurez bien cherché, cop' ! Attendez voir !~ [GENMT02]
-@1011098 = ~J'ai une lame avec vot'nom dessus !~ [GENMT03]
-@1011099 = ~Vot'fin est proche, on parie ?~ [GENMT04]
-@1011101 = ~Mes excuses, mais z'avez rendez-vous avec la mort !~ [GENMT05]
+@1011095 = ~Salut toi.~ [GENMG15]
+@1011096 = ~Toutes mes excuses, mais je crains d'avoir à vous tuer.~ [GENMT01]
+@1011097 = ~Vous l'aurez bien cherché, cop'. Attendez voir.~ [GENMT02]
+@1011098 = ~J'ai une lame avec vot' nom dessus.~ [GENMT03]
+@1011099 = ~Vot' fin est proche, on parie ?~ [GENMT04]
+@1011101 = ~Mes excuses, mais z'avez rendez-vous avec la mort.~ [GENMT05]
 @1011102 = ~J'vais vous écrabouiller la tête ! Z'allez voir, j'vais vous faire votre affaire !~ [GENMT06]
-@1011103 = ~J'préfèrerais qu'on arrête les bavardages, et qu'on passe au carnage !~ [GENMT07]
-@1011104 = ~À vot'place, j'prendrais la poudre d'escampette.~ [GENMT08]
-@1011105 = ~Craignez mon courroux, car il est grand en effet !~ [GENMT09]
-@1011106 = ~Allez, dégainez vos épées et vos sorts, et passons aux choses sérieuses, hein !~ [GENMT10]
+@1011103 = ~J'préfèrerais qu'on arrête les bavardages et qu'on passe au carnage.~ [GENMT07]
+@1011104 = ~À vot' place, j'prendrais la poudre d'escampette.~ [GENMT08]
+@1011105 = ~Craignez mon courroux, car il est grand en effet.~ [GENMT09]
+@1011106 = ~Allez, dégainez vos épées et vos sorts et passons aux choses sérieuses, hein !~ [GENMT10]
 @1011107 = ~Ouais ?~ [GENFG01]
-@1011109 = ~Salut !~ [GENFG02]
+@1011108 = ~Je suis venu livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~ ~Je suis venue livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~
+@1011109 = ~Salut.~ [GENFG02]
 @1011110 = ~Ciao.~ [GENFG03]
 @1011111 = ~Hé là, camarade.~ [GENFG04]
 @1011112 = ~Oui, camarade ?~ [GENFG05]
@@ -6050,55 +6082,55 @@ Poids : 7~
 @1011116 = ~Enchantée de faire votre connaissance.~ [GENFG09]
 @1011117 = ~Salutations.~ [GENFG10]
 @1011118 = ~Oui ?~ [GENFG11]
-@1011119 = ~Bonjour, la compagnie.~ [GENFG12]
+@1011119 = ~Bonjour la compagnie.~ [GENFG12]
 @1011120 = ~Comment ça va ?~ [GENFG13]
 @1011121 = ~Qu'est-ce que vous avez à raconter ?~ [GENFG14]
 @1011122 = ~Quoi ?~ [GENFG15]
-@1011123 = ~Ça peut paraître indigne d'une dame, mais je vais vous égorger ! Z'allez voir ça !~ [GENFT01]
-@1011124 = ~On dirait bien que je vais vous achever sur place, et tout, et tout !~ [GENFT02]
-@1011125 = ~Feriez mieux de faire la paix avec vos démons, avant que j'vous envoie les rejoindre.~ [GENFT03]
-@1011126 = ~Vot'fin sera rapide, si vous vous laissez faire !~ [GENFT04]
-@1011127 = ~J'suis d'avis qu'vous mangerez les pissenlits par la racine avant la fin de la nuit.~ [GENFT05]
+@1011123 = ~Ça peut paraître indigne d'une dame, mais j'vais vous égorger ! Z'allez voir ça !~ [GENFT01]
+@1011124 = ~On dirait bien qu'j'vais vous achever sur place, et tout et tout.~ [GENFT02]
+@1011125 = ~'Feriez mieux de faire la paix avec vos démons, avant que j'vous envoie les r'joindre.~ [GENFT03]
+@1011126 = ~Vot' fin sera rapide, si vous vous laissez faire.~ [GENFT04]
+@1011127 = ~J'suis d'avis que vous mangerez les pissenlits par la racine avant la fin de la nuit.~ [GENFT05]
 @1011128 = ~Vot' vie n'a aucun intérêt pour moi.~ [GENFT06]
 @1011129 = ~Vos cris seront doux à mes oreilles.~ [GENFT07]
-@1011130 = ~Vous s'rez plus de ce monde quand j'en aurai fini avec vous !~ [GENFT08]
+@1011130 = ~Vous s'rez plus d'ce monde quand j'en aurai fini avec vous !~ [GENFT08]
 @1011131 = ~J'vais vous écraser !~ [GENFT09]
 @1011132 = ~Z'allez crever ! J'vais m'en assurer !~ [GENFT10]
 @1011133 = ~Bonjour, mon enfant. On continue la leçon ?~ [TUTOR01]
 @1011134 = ~Ne jamais laisser un guerrier tirer sur la nourriture.~ [TUTOR02]
-@1011144 = ~Bonjour. Je suis ravi de faire la connaissance d'un personnage si cultivé.~ [NOBL201]
+@1011144 = ~Bonjour ! Je suis ravi de faire la connaissance d'un personnage si cultivé.~ [NOBL201]
 @1011145 = ~Les gens tels que vous ne m'intéressent pas.~ [NOBL202]
-@1011146 = ~~ [NOBL203]
-@1011147 = ~~ [NOBL204]
+@1011146 = ~Beuuuarrrrhhh !~ [NOBL203]
+@1011147 = ~Beuarrr ! Euuuooohhhhhhhhh...~ [NOBL204]
 @1011148 = ~Heureux d'vous connaître.~ [MANCO01]
-@1011149 = ~Voulez-vous bien nous laisser seuls ? Vous n'avez rien à faire ici !~ [MANCO02]
-@1011150 = ~~ [MANCO03]
-@1011151 = ~~ [MANCO04]
-@1011152 = ~Hé, c'est un vrai plaisir de rencontrer un bon bougre comme toi !~ [MANLC01]
-@1011153 = ~Hé, va voir ailleurs si j'y suis, ou tu m'auras sur le dos tel un couteau !~ [MANLC02]
-@1011154 = ~~ [MANLC03]
-@1011155 = ~~ [MANLC04]
+@1011149 = ~Voulez-vous bien nous laisser seuls ? Vous n'avez rien à faire ici.~ [MANCO02]
+@1011150 = ~Aïïïïïaaaohhh !~ [MANCO03]
+@1011151 = ~Aïïïïïïïïaaah, uh aahhhhhh...~ [MANCO04]
+@1011152 = ~Hé, c'est un vrai plaisir de rencontrer un bon bougre comme toi.~ [MANLC01] ~Hé, c'est un vrai plaisir de rencontrer une bonne bougresse comme toi.~ [MANLC01]
+@1011153 = ~Hé, va voir ailleurs si j'y suis ! Ou tu m'auras sur le dos tel un couteau !~ [MANLC02]
+@1011154 = ~Euuoouuuuille !~ [MANLC03]
+@1011155 = ~Euuaaaoouuuuaaaahhhhhh, ahhhh...~ [MANLC04]
 @1011156 = ~Je suis heureuse de rencontrer une personne telle que vous, socialement correcte.~ [NOBW201]
-@1011158 = ~Ne me touchez pas ! Vous êtes sale !~ [NOBw202]
-@1011159 = ~~ [NOBW203]
-@1011160 = ~~ [NOBW204]
+@1011158 = ~Ne me touchez pas ! Vous êtes sale.~ [NOBw202]
+@1011159 = ~Oooohhh !~ [NOBW203]
+@1011160 = ~Oh ! Ah, ah, ahhhhh...~ [NOBW204]
 @1011161 = ~Heureuse de faire votre connaissance.~ [WOMCO01]
-@1011162 = ~Laissez-moi, ou l'garde s'occupera d'vous !~ [WOMCO02]
-@1011163 = ~~ [WOMCO03]
-@1011164 = ~~ [WOMCO04]
-@1011165 = ~Eh, salut ! Vous m'avez l'air bien sympathique !~ [WOMLC01]
-@1011166 = ~Hé, j'vais vous chauffer l'derrière si vous continuez à m'embêter !~ [WOMLC02]
-@1011167 = ~~ [WOMLC03]
-@1011168 = ~~ [WOMLC04]
+@1011162 = ~Laissez-moi, ou l'garde s'occupera d'vous.~ [WOMCO02]
+@1011163 = ~Oooooh !~ [WOMCO03]
+@1011164 = ~Ahh ! Aaaahh, ahhhhh...~ [WOMCO04]
+@1011165 = ~Hé, salut ! Vous m'avez l'air bien sympathique.~ [WOMLC01]
+@1011166 = ~Ouais, j'vais vous chauffer l'derrière si vous continuez à m'embêter !~ [WOMLC02]
+@1011167 = ~Aaaaah !~ [WOMLC03]
+@1011168 = ~Oooooohhh ahh ! Aahhh...~ [WOMLC04]
 @1011169 = ~Mage de bataille du Poing Enflammé~
 @1011175 = ~Mage de bataille du Poing Enflammé~
 @1011177 = ~*chante* Durant l'année des Tourelles, un hôte prestigieux nous viendra de l'Est comme une épidémie de sauterelles. C'est ce que dit le sage Alaundo.~ [CHANT220]
 @1011178 = ~*chante* Durant l'année des Tourelles, un hôte prestigieux nous viendra de l'Est comme une épidémie de sauterelles. C'est ce que dit le sage Alaundo.~ [CHANT220]
 @1011179 = ~Je suis enchantée de vous connaître.~ [DWRFF01]
-@1011180 = ~Un gros marteau suffit à faire reculer les bandits !~ [DWRFF02]
-@1011181 = ~Rien n'est plus stable qu'un mur de pierre !~ [DWRFF03]
-@1011182 = ~~ [DWRFF05]
-@1011183 = ~~ [DWRFF06]
+@1011180 = ~Un gros marteau suffit à faire reculer les bandits.~ [DWRFF02]
+@1011181 = ~Rien n'est plus stable qu'un mur de pierre.~ [DWRFF03]
+@1011182 = ~Ooooooaahhh !~ [DWRFF05]
+@1011183 = ~Oooh ! Ahhhhh...~ [DWRFF06]
 @1011186 = ~*bâille*~ [GUARR01]
 @1011188 = ~*tousse et retient un haut-le-cœur* Ahhh, j'ai besoin d'une bière. *retient un haut-le-cœur et rote*~ [DRUNK04]
 @1011197 = ~Mes hommages ! Je suis à la recherche de quelqu'un à qui remettre un présent. Il s'agit d'une corne.~ [MESSN01]
@@ -6109,34 +6141,34 @@ Poids : 7~
 @1011213 = ~S'il n'y a pas d'autre choix, alors je ne peux vous laisser me barrer la route.~
 @1011216 = ~Si je dois vous tuer pour passer, je le ferai. Je le ferai en vous pardonnant vos offenses à mon endroit.~
 @1011221 = ~Ma femme m'a chauffé les oreilles.~ [MTOWN04]
-@1011222 = ~~ [GENMG09]
-@1011223 = ~~ [GENMG11]
+@1011222 = ~Parlez plus fort. Plus fort !~ [GENMG09]
+@1011223 = ~Euh, z'avez quelque chose en tête ?~ [GENMG11]
 @1011224 = ~Ouais, cop' ?~ [GENMG12]
-@1011225 = ~~ [GENMG14]
-@1011226 = ~~ [GENMG04]
+@1011225 = ~Ciao.~ [GENMG14]
+@1011226 = ~Vous avez besoin de quelque chose ?~ [GENMG04]
 @1011227 = ~Hein ?~ [GENMG07]
-@1011228 = ~~ [GENMG01]
-@1011229 = ~~ [GENMG03]
-@1011230 = ~~ [GENMG04]
+@1011228 = ~Oui ?~ [GENMG01]
+@1011229 = ~Hein ?~ [GENMG03]
+@1011230 = ~Vous avez besoin de quelque chose ?~ [GENMG04]
 @1011231 = ~Hé, hé ! Hors de mon chemin, espèce de vieux bûcheron desséché ! Ha ha !~ [MTOWN01] ~Hé, hé ! Hors de mon chemin, espèce de vieille bûcheronne desséchée ! Ha ha !~ [MTOWN01]
-@1011232 = ~~ [MANLC02]
+@1011232 = ~Hé, va voir ailleurs si j'y suis ! Ou tu m'auras sur le dos tel un couteau !~ [MANLC02]
 @1011233 = ~*hoquette* Héhé, héhéhéha, héhahamhmhmh... *rote et tousse*~ [DRUNK01]
-@1011234 = ~~ [GENMG05]
-@1011235 = ~~ [GENMG15]
+@1011234 = ~Bonjour la compagnie.~ [GENMG05]
+@1011235 = ~Salut toi.~ [GENMG15]
 @1011236 = ~Vous mâchez pas vos mots, vous, hein ?~ [MTOWN02]
 @1011237 = ~J'en ai vu des choses merveilleuses, mais je vous ai réservé le meilleur.~ [MYSTR02]
-@1011238 = ~Oh, quelle belle journée pour rencontrer de nouveaux amis !~ [HALFF01]
-@1011239 = ~Que la joie et la chaleur d'un foyer vous entourent !~ [HALFF02]
+@1011238 = ~Oh, quelle belle journée pour rencontrer de nouveaux amis.~ [HALFF01]
+@1011239 = ~Que la joie et la chaleur d'un foyer vous entourent.~ [HALFF02]
 @1011240 = ~Dallillia guide tous ceux qui sont à la recherche du foyer.~ [HALFF03]
-@1011241 = ~~ [HALFF05]
-@1011242 = ~~ [HALFF06]
+@1011241 = ~Aaaah !~ [HALFF05]
+@1011242 = ~Oh ! Ahh, Ahhhh...~ [HALFF06]
 @1011243 = ~Heaum voit tout. Sachez-le et soyez jugés.~ [HELMP01]
 @1011244 = ~Le Vigilant connaît tous vos péchés.~ [HELMP02]
 @1011246 = ~Aaohh...~ [AMNSO07]
-@1011247 = ~Aaaaaaooh aahhh...~ [AMNSO09]
+@1011247 = ~Aaaaaaooh ! Aahhh...~ [AMNSO09]
 @1011253 = ~Vous ne savez pas ce que vous faites ?! Je suis de la grande nation de l'Amn, et hôte de cette cité. Prenez mon argent, mais sachez que vous n'allez pas l'emporter au paradis.~
 @1011268 = ~Vous parler n'en vaut pas la chandelle, ça, non ! Partez... s'il vous plaît.~
-@1011269 = ~Par ici, mon bon monsieur, par ici !~ [GORIN14]
+@1011269 = ~Pourriez-vous nous accorder un peu de votre temps ?~ [GORIN14]
 @1011270 = ~Cette huile étrangement trouble semble augmenter de 100 % les capacités de déplacement et de combat de celui qui la boit. Ainsi, un déplacement de 9 passe à 18, et une personne qui normalement peut attaquer une fois par round attaque deux fois. Les temps d'incantation n'en sont cependant pas affectés. Cette mixture agit pendant une heure.
 
 PARAMÈTRES :
@@ -6146,16 +6178,16 @@ Poids : 1~
 @1011274 = ~Aaaaaaah mmhhhh ahhh...~ [READR06]
 @1011276 = ~Ooouuuuh aouuuuuuhooooooooohhhh...~ [SLYTH09]
 @1011277 = ~Uaaaaaaaahhhhhh...~ [SORCR05]
-@1011278 = ~~ [TETHT04]
+@1011278 = ~Ooh ! Oooh ooh ohhhhhh...~ [TETHT04]
 @1011279 = ~Venez me voir avaler des couteaux enflammés !~ [PERFO03]
 @1011280 = ~Regardez-moi disparaître !~ [PERFO04]
 @1011287 = ~Hé, minou. Vous voulez voir mon décolleté ?~ [FESTH01]
 @1011288 = ~Si vous voulez vous payer mes services, il faut d'abord débourser.~ [FESTH02]
 @1011289 = ~Hééé, j'suis une jolie catin, non ?~ [FESTH03]
 @1011290 = ~Besoin de sensations, mon lapin ?~ [FESTH04]
-@1011294 = ~*tousse* Oh, je crois que je crache du sang !~ [MINER03]
+@1011294 = ~*tousse* Oh, j'crois que j'crache du sang !~ [MINER03]
 @1011295 = ~Je ne crains pas la mort, eh... Et vous ?~ [SAREV06]
-@1011296 = ~Le meurtre est l'œuvre de notre père ; poursuivez-la comme je le fais.~ [SAREV07]
+@1011296 = ~Le meurtre est l'œuvre de notre père ! Poursuivez-la comme je le fais.~ [SAREV07]
 @1011297 = ~Je vous en prie, mais asseyez-vous où vous voulez.~ [SWENC04]
 @1011298 = ~Ooh !~ [NTHUG03]
 @1011299 = ~Mais trrrrl oooohhh aahhhhhh krrr...~ [NTHUG04]
@@ -6179,8 +6211,8 @@ Poids : 1~
 @1011337 = ~L'Intelligence a été augmentée de 1 point de façon permanente.~
 @1011338 = ~La Sagesse a été augmentée de 1 point de façon permanente.~
 @1011339 = ~Le Charisme a été augmenté de 1 point de façon permanente.~
-@1011342 = ~Par ici, mon bon monsieur, par ici !~ [GORIN14]
-@1011343 = ~Pardonnez-moi, mais je dois aller méditer.~ [Gorin18]
+@1011342 = ~Pourriez-vous nous accorder un peu de votre temps ?~ [GORIN14]
+@1011343 = ~Excusez-moi, mais je vais arriver en retard en classe.~ [GORIN18]
 @1011349 = ~OYEZ ! OYEZ !~ [TOWNC01]
 @1011350 = ~JE SUIS EN FAIT TRÈS TIMIDE !~ [TOWNC02]
 @1011351 = ~On dirait que ces gaillards cherchent les ennuis. Eh bien, je vais leur en donner.~ [TRANZ01]
@@ -6190,26 +6222,28 @@ Poids : 1~
   Jamais : désactive les sons sélectionnés.~
 @1011357 = ~L'auberge la plus chic, c'est celle de Feldpost, mais c'est également très familial. Très pittoresque aussi. Elle se trouve dans la partie inférieure de la ville, à l'ouest.~
 @1011358 = ~Nous avons le meilleur forgeron de tous les Royaumes. Taërom Fuiruim, dit « Grondemarteau », qui tient la forge de Grondemarteau, à l'est de la ville. Il a également quelques objets remarquables, mais vous pouvez aussi essayer à l'auberge de Feldpost. Ils vendent des trophées, mais attention, ce n'est pas donné ! C'est à l'ouest, tout près de la limite sud de la ville.~
+@1011359 = ~Votre journal a été mis à jour.~ [GAM_06]
+@1011360 = ~Votre carte a été mise à jour.~
 @1011361 = ~Tentez votre chance avec dame Tymora !~ [GAMES01]
 @1011366 = ~Une petite goutte pour reprendre vos esprits ? Le Magicien Ardent et la Gerbe Rouge sont au centre de la ville. L'auberge de Feldpost se trouve à la limite ouest, et le Jongleur Jovial, au sud. Dans chacune d'entre elles, le service sera parfait.~
-@1011386 = ~Hoohahahahaha, hahahaha.~ [OGREM01]
-@1011387 = ~~ [TAZOK13]
+@1011386 = ~Hoohahahahahaa, hahahahaaa.~ [OGREM01]
+@1011387 = ~*grogne*~ [TAZOK13]
 @1011388 = ~Debout, mon enfant. Il est temps d'affronter les terribles épreuves à venir.~ [GORIN13]
-@1011391 = ~~ [AMB_E04a]
-@1011392 = ~~ [AMB_E04b]
+@1011391 = ~~ [AMB_E04A]
+@1011392 = ~~ [AMB_E04B]
 @1011393 = ~~ [AMB_E06B]
-@1011399 = ~~ [HIT_01c]
-@1011400 = ~~ [HIT_02c]
+@1011399 = ~~ [HIT_01C]
+@1011400 = ~~ [HIT_02C]
 @1011402 = ~~ [HIT_02D1]
-@1011403 = ~~ [HIT_03d]
-@1011404 = ~~ [AMB_M03a]
-@1011406 = ~~ [AMB_M03b]
-@1011407 = ~~ [AMB_M05b]
-@1011409 = ~~ [AMB_M05c]
-@1011410 = ~~ [AMB_M05d]
+@1011403 = ~~ [HIT_03D]
+@1011404 = ~~ [AMB_M03A]
+@1011406 = ~~ [AMB_M03B]
+@1011407 = ~~ [AMB_M05B]
+@1011409 = ~~ [AMB_M05C]
+@1011410 = ~~ [AMB_M05D]
 @1011411 = ~~ [AMB_M30]
-@1011416 = ~~ [AMB_M35b]
-@1011417 = ~~ [AMB_M35d]
+@1011416 = ~~ [AMB_M35B]
+@1011417 = ~~ [AMB_M35D]
 @1011423 = ~Faire des emplettes ? Dans ce cas, il faut aller à l'auberge de Feldpost. Ils y vendent des trophées, il y en a même qui sont magiques. Mais n'oubliez pas de vous munir d'or... Ce n'est pas donné. Si vous avez vraiment des pièces à dépenser, je vous conseille de vous rendre à l'ouest de la ville, chez Thalantyr. Il tient un magasin, même s'il accueille fort mal les clients. Croyez-moi, si vous y allez, parlez-lui immédiatement. Se promener dans sa boutique sans autorisation, c'est franchement risqué. À mon avis, il aime bien faire peur aux gens. Autre chose pour votre service ?~
 @1011446 = ~Nous devrions avoir une petite « conversation » avec lui !~
 @1011463 = ~Quoi ? Est-ce que j'ai l'air bête à ce point pour aller traîner mes guêtres dans un pareil endroit ? Ça m'étonnerait. Pour d'autres renseignements, allez voir ces petites-personnes à Gullykin. Elles sont curieuses de ces choses, et elles vous aideront sans aucun doute. Mais je vous répète, ce n'est pas un endroit pour les mômes ! Si vous y allez, des ennuis graves vous pendent au nez. Allez vous faire les dents ailleurs avant de vous jeter dans ce trou.~
@@ -6222,15 +6256,15 @@ Poids : 1~
 @1011539 = ~Je... peut-être bien, oui !~
 @1011542 = ~*vomit* Hein ? Ça remonte à quand la dernière fois que j'ai mangé du maïs, moi ? *retient un haut-le-cœur*~ [DRUNK02]
 @1011544 = ~*hoquette et retient un haut-le-cœur* Oh là là là là, *retient un haut-le-cœur* pourquoi qu'les rues sont aussi instables ? *retient un haut-le-cœur*~ [DRUNK03]
-@1011545 = ~*hoquette* Ah, je crois que j'ai un peu trop bu...~ [HUSAM04]
-@1011546 = ~Une dénommée Chloé nous a dit qu'une officière du nom de Vaï nous attend au Jongleur Jovial pour nous parler.~
+@1011545 = ~*hoquette* Ah, je crois que j'ai un peu trop bu.~ [HUSAM04]
+@1011546 = ~Une fille dénommée Chloé nous a dit qu'une officière du nom de Vaï nous attend au Jongleur Jovial pour nous parler.~
 @1011548 = ~Euh... bien sûr !~
 @1011553 = ~Euh... non, je ne faisais qu'entrer dans votre jeu.~
-@1011558 = ~~ [HIT_02d1]
+@1011558 = ~~ [HIT_02D1]
 @1011559 = ~Euh... oui. De quoi s'agissait-il ?~
-@1011562 = ~~ [HIT_02c]
-@1011563 = ~~ [HIT_01c]
-@1011564 = ~~ [HIT_03d]
+@1011562 = ~~ [HIT_02C]
+@1011563 = ~~ [HIT_01C]
+@1011564 = ~~ [HIT_03D]
 @1011565 = ~Je devais rencontrer le propriétaire des pantalons. Ce serait vous, mais ce n'est pas vous. Vous n'êtes pas la bonne personne, car vos pantalons sont de toute évidence VOLÉS. Voilà un plan de reconnaissance infaillible encore fichu, parce que vous avez eu la sottise de garder les pantalons. Je les prends, et pas de récompense pour vous ! Ça vous apprendra à vous enfuir avec des pantalons durement gagnés !~
 @1011566 = ~*halète*~ [GNOLL10]
 @1011567 = ~Aidez-nous... s'il vous plaît.~ [SLAVE02]
@@ -6248,15 +6282,15 @@ Poids : 1~
 @1011604 = ~~ [ACT_08]
 @1011607 = ~Épargnez-moi vos gémissements, je me moque bien de ce que vous désirez.~
 @1011618 = ~Aaaah ! À l'aide !~ [EDWIN43]
-@1011620 = ~~ [GORIN14]
+@1011620 = ~Pourriez-vous nous accorder un peu de votre temps ?~ [GORIN14]
 @1011621 = ~Que voulez-vous dire ? Lancez une recherche ! Parcourez le pays ! Regardez partout ! Vous pouvez certainement retrouver les gentils membres de ma famille ?!~
-@1011634 = ~~ [AMB_E43a]
+@1011634 = ~~ [AMB_E43A]
 @1011635 = ~~ [AMB_E43B]
-@1011638 = ~Heureuse de vous avoir connus.~ [GNOMF01]
-@1011639 = ~Je dois bientôt retourner dans mes grottes, ha ha ! Les tunnels familiers me manquent.~ [GNOMF02]
-@1011640 = ~La vie sous terre est bien plus sûre, et les pierres précieuses qui l'embellissent sont toujours les bienvenues !~ [GNOMF03]
-@1011641 = ~~ [GNOMF05]
-@1011642 = ~~ [GNOMF06]
+@1011638 = ~Heureuse de vous avoir connu.~ [GNOMF01] ~Heureuse de vous avoir connue.~ [GNOMF01]
+@1011639 = ~Je dois bientôt retourner dans mes grottes. Haha, les tunnels familiers me manquent.~ [GNOMF02]
+@1011640 = ~La vie sous terre est bien plus sûre, et les pierres précieuses qui l'embellissent sont toujours les bienvenues, hihi.~ [GNOMF03]
+@1011641 = ~Ooh !~ [GNOMF05]
+@1011642 = ~Ouilleiiiiih ! Ioouuuhhhhh euhh...~ [GNOMF06]
 @1011645 = ~J'ai combattu Tranzig à l'auberge de Feldpost. Je pensais bien qu'il était allié aux bandits et savait où trouver leurs repaires, et je me disais qu'il serait plus enclin à livrer ses informations si je lui montrais que je ne blaguais pas.~
 @1011649 = ~*ronfle* Mmmmh ehhh, je veux pas aller à l'école, maman. Ils me disent que je pue.~ [GANTL02]
 @1011650 = ~~ [WYVSR01]
@@ -6279,12 +6313,12 @@ Poids : 1~
 @1011697 = ~Grande-Maison des Merveilles~
 @1011701 = ~Salut la compagnie, bienvenue chez Aello La Chance, où les prix sont si bas que ça paraît difficile à croire. Personne ne vend moins cher que moi, parce que personne n'achète si bon marché. Si vous trouvez moins cher ailleurs dans ce coin de Calimshan, c'est que l'objet va vous tuer. Que puis-je vous proposer ?~
 @1011713 = ~Mes enfants, ils m'attendent.~ [FTOWN03]
-@1011714 = ~~ [GENFG07]
-@1011715 = ~~ [GENFG11]
-@1011716 = ~~ [GENFG12]
-@1011717 = ~~ [GENFG15]
-@1011718 = ~~ [WOMLC02]
-@1011719 = ~~ [GENFG08]
+@1011714 = ~Besoin de quelque chose ?~ [GENFG07]
+@1011715 = ~Oui ?~ [GENFG11]
+@1011716 = ~Bonjour la compagnie.~ [GENFG12]
+@1011717 = ~Quoi ?~ [GENFG15]
+@1011718 = ~Ouais, j'vais vous chauffer l'derrière si vous continuez à m'embêter !~ [WOMLC02]
+@1011719 = ~Bienvenue.~ [GENFG08]
 @1011720 = ~Oooh, que des ennuis ! Jamais un endroit tranquille, jamais de répit.~ [GLANM01]
 @1011721 = ~Une maison bien tenue est une maison heureuse.~ [GLANM02]
 @1011723 = ~J'ai besoin d'une bonne vieille bière de chez nous.~ [DWARF02]
@@ -6295,17 +6329,17 @@ Poids : 1~
 @1011737 = ~Cot-cot, cot, cot, codet !~ [AMB_E39A]
 @1011738 = ~J'adore l'argent !~ [MERCH04]
 @1011739 = ~Cot-cot-codet !~ [AMB_E39B]
-@1011741 = ~Il n'y a que des poules, ici.~
+@1011741 = ~Il n'y a que des poules, ici.~ [AMB_E39B]
 @1011746 = ~Avancez.~ [AMNSO03]
 @1011747 = ~C'est moi que vous regardez ? C'est moi que vous regardez ?!~ [AMNSO04]
 @1011750 = ~Rien n'est plus important que la famille !~ [BASSL02]
 @1011756 = ~Le temps a été plutôt moche ces derniers temps.~ [FARME03]
-@1011757 = ~Arrêtez-vous une seconde, la jeunesse, je crois avoir entendu ce que vous avez fait pour ce vieux Brun.~ [WILTN01]
+@1011757 = ~Arrêtez-vous une seconde, la jeunesse. Je crois avoir entendu ce que vous avez fait pour ce vieux Brun.~ [WILTN01]
 @1011758 = ~Les gens bien sont si rares, de nos jours.~ [WILTN02]
 @1011759 = ~Uuuhhh !~ [WILTN03]
 @1011760 = ~Uuuuuuuuaahhhhhh...~ [WILTN04]
-@1011761 = ~~ [Amb_e42c]
-@1011762 = ~Meuuuhhh !~ [Amb_e42c]
+@1011761 = ~Meuuuhhh !~ [AMB_E42C]
+@1011762 = ~Meuuuhhh !~ [AMB_E42C]
 @1011767 = ~Projectile~
 @1011768 = ~Tranchant~
 @1011769 = ~Perforant~
@@ -6400,8 +6434,9 @@ Nécessite :
  3 en Force
 
 Poids : 2~
+@1011854 = ~Une femme dénommée Faldorn m'a dit que la base du Trône de Fer se trouvait à l'est.~
 @1011855 = ~Un druide du nom de Takiyah m'a dit où trouver Faldorn. Faldorn fait une croisade contre un groupe qui « empoisonne la forêt ». Ces gens résident à l'est.~
-@1011856 = ~~ [AMB_M34b]
+@1011856 = ~~ [AMB_M34B]
 @1011857 = ~~ [MISC_09a]
 @1011858 = ~~ [MISC_09b]
 @1011859 = ~~ [MISC_08a]
@@ -7603,17 +7638,17 @@ Jet de sauvegarde : aucun
 
 Ce sort crée 5 baies magiques que le lanceur peut emporter avec lui. Pour chaque baie mangée, 1 point de vie est récupéré.~
 @1012343 = ~Aubergiste~
-@1012348 = ~~ [MANCO04]
-@1012349 = ~~ [MANLC04]
+@1012348 = ~Aïïïïïïïïaaah, uh aahhhhhh...~ [MANCO04]
+@1012349 = ~Euuaaaoouuuuaaaahhhhhh, ahhhh...~ [MANLC04]
 @1012350 = ~Aaaaaaahh, simaaahhhhh...~ [MTOWN06]
-@1012351 = ~~ [WOMCO04]
-@1012352 = ~~ [WOMLC04]
+@1012351 = ~Ahh ! Aaaahh, ahhhhh...~ [WOMCO04]
+@1012352 = ~Oooooohhh ahh ! Aahhh...~ [WOMLC04]
 @1012353 = ~Ahhh ! Ahh, aah ahhhhh...~ [FTOWN06]
-@1012354 = ~~ [MANCO03]
-@1012355 = ~~ [MANCO04]
+@1012354 = ~Aïïïïïaaaohhh !~ [MANCO03]
+@1012355 = ~Aïïïïïaaaohhh !~ [MANCO03]
 @1012356 = ~Aaah ! Aïe, ahhh !~ [MTOWN05]
-@1012357 = ~~ [WOMCO03]
-@1012358 = ~~ [WOMLC03]
+@1012357 = ~Oooooh !~ [WOMCO03]
+@1012358 = ~Aaaaah !~ [WOMLC03]
 @1012359 = ~Aaah, ahhh !~ [FTOWN05]
 @1012362 = ~Uuh uaaaahhh...~ [WARRI06]
 @1012363 = ~Ooohhh oooooohh oohhhh...~ [MESSN05]
@@ -8166,7 +8201,7 @@ Jergal se leva de son trône, une expression de lassitude sur le visage, et dit�
 
 Les trois hommes commencèrent immédiatement à se quereller, tandis que Jergal les observait avec indifférence. Lorsqu'il devint clair qu'ils mourraient tous d'épuisement ou se battraient éternellement, le Seigneur de la Fin de Toutes Choses intervint : « Après tout ce que vous avez sacrifié, allez-vous repartir sans rien ? Pourquoi ne pas diviser la charge et organiser un concours d'habileté pour vous partager les différentes fonctions ? »
 
-Baine, Bhaal et Myrkul considérèrent la proposition du Dieu et acquiescèrent. Jergal prit les têtes de ses trois liches les plus puissantes et les tendit aux trois hommes afin qu'ils puissent se départager en jouant une partie de boules avec les crânes. Chacun des mortels lança donc un crâne dans la Gaste Grise. Quiconque parviendrait à le lancer le plus loin serait le vainqueur.
+Baine, Bhaal et Myrkul considérèrent la proposition du dieu et acquiescèrent. Jergal prit les têtes de ses trois liches les plus puissantes et les tendit aux trois hommes afin qu'ils puissent se départager en jouant une partie de boules avec les crânes. Chacun des mortels lança donc un crâne dans la Gaste Grise. Quiconque parviendrait à le lancer le plus loin serait le vainqueur.
 
 À cet instant, Malar, le Seigneur des Bêtes, arriva chez Jergal. Quand il sut que tout le pouvoir de Jergal irait au vainqueur de la compétition, il courut après les crânes et chercha à interrompre le concours, de manière à pouvoir y participer et obtenir une partie de la récompense. Baine, Bhaal et Myrkul recommencèrent à se battre, car l'épreuve n'avait plus aucun sens. De nouveau, Jergal intervint : « Pourquoi ne laissez-vous pas Dame Fortune décider. Vous éviterez ainsi d'avoir à partager avec la Bête ? »
 
@@ -8878,7 +8913,7 @@ La paix revint dans la cité et les Aquafondais retournèrent à leurs travaux. 
 @1013668 = ~Je vous flanque une gifle si jamais vous avancez d'un millimètre de plus !~
 @1013669 = ~Laissez-moi tranquille ! J'ai du travail !~
 @1013670 = ~Hors de ma vue ! Je ne peux rien pour vous !~
-@1013671 = ~Alors, j'dis au type, « mais si c'est vot'shour, où est ma FEMME ? » Euh ! Oh, excusez-moi, je vous ai craché dessus ? Oh, revoilà mon ami ! Encore un petit verre pour trouver le courage de retourner dans cette saleté. Peut-être que je devrais rester encore un peu. Le ciel est dégagé mais ma tête est plutôt embrouillée.~
+@1013671 = ~Alors, j'dis au type, « mais si c'est vot' sœur, où est ma FEMME ? » Euh ! Oh, excusez-moi, je vous ai craché dessus ? Oh, revoilà mon ami ! Encore un petit verre pour trouver le courage de retourner dans cette saleté. Peut-être que je devrais rester encore un peu. Le ciel est dégagé mais ma tête est plutôt embrouillée.~
 @1013672 = ~Surprenant, ce coup de pied dans la tête, non ? Notre rabat-joie a rejoint le pays des fêtards. Je suppose que vous allez vous montrer un peu plus aimable maintenant ?~
 @1013673 = ~Sans vouloir vous offenser, je préférerais que vous déguerpissiez sur-le-champ.~
 @1013674 = ~Sans vouloir vous offenser, je préférerais que vous déguerpissiez sur-le-champ.~
@@ -8946,7 +8981,7 @@ La paix revint dans la cité et les Aquafondais retournèrent à leurs travaux. 
 @1013787 = ~Ce qui se passe est tout à fait inhabituel par ici, et je ne veux pas y prendre part.~
 @1013788 = ~J'vous avais dit qu'c'était Eldoth qui avait agi. Je n'sais rien de plus, alors laissez-moi partir.~
 @1013789 = ~J'me sortirai d'ici. J'n'ai plus rien à y faire maintenant.~
-@1013790 = ~Que Dieu vous garde si vous réussissez. Moi, je m'en vais !~
+@1013790 = ~Que dieu vous garde si vous réussissez. Moi, je m'en vais !~
 @1013791 = ~Aaaaaoohhh, mourir !~ [GUARR05]
 @1013792 = ~Aaaaaooh oooooohhhhh ahhh...~ [GUARR06]
 @1013793 = ~Eh là. De toute la garde, c'est Eldoth que votre présence contrarie le plus.~
@@ -8955,7 +8990,7 @@ La paix revint dans la cité et les Aquafondais retournèrent à leurs travaux. 
 @1013796 = ~J'en ai déjà trop dit. Je dois partir.~
 @1013797 = ~J'ai dit ce que j'avais à dire. Le reste est votre affaire.~
 @1013798 = ~Je ne peux plus rien pour vous, ou ce serait de la trahison.~
-@1013799 = ~Je vous souhaite bon courage pour votre mission. Que Dieu guide votre lame.~
+@1013799 = ~Je vous souhaite bon courage pour votre mission. Que Tyr guide votre lame.~
 @1013800 = ~Aaaaaoohhh, mourir !~ [GUARR05]
 @1013801 = ~Aaaaaooh oooooohhhhh ahhh...~ [GUARR06]
 @1013802 = ~Par Ilmater, s'il vous plaît, renvoyez-le chez lui.~
@@ -9194,6 +9229,7 @@ La paix revint dans la cité et les Aquafondais retournèrent à leurs travaux. 
 @1014952 = ~Il était bizarre, hein ?! Beurk, vous sentez encore son odeur ! Je vous donne 10 pièces d'or pour le ceinturon, et 60 de plus pour trouver la baignoire la plus proche.~
 @1014954 = ~Oh mon... Quel malheureux coup du sort, hein... Euh, attendez, laissez-moi vous offrir un exemplaire signé de mon dernier livre : « Guide Pratique de Santé Corporelle du Grand Clerc Unshey ». Oh, comme je regrette tout ça !~
 @1014958 = ~Sales brutes de hobgobelins ! Ils me retirent les bottes carrément des pieds et, pfff, les voilà partis vers les mauvaises terres, juste au sud de Bérégost. J'vous donnerai 100 pièces d'or pour leur montrer qui c'est l'patron et pour m'rapporter les bottes... Eh, c'est pas Kelddath Ormlyr ?!~
+@1014963 = ~C'est dieu qui vous envoie ! Euh, tenez, voilà tout l'or que j'vous ai pris... J'suis peut-être un kleptomane mais j'ai mon honneur, pas vrai ? Et je vous donne 100 pièces d'or pour votre aide. Prenez ça comme une avance sur vos poches...~
 @1014968 = ~Mon mari a dû partir à toute vitesse en voyage d'affaires en Amn, et je m'inquiète. « Mirianne », il me disait toujours, « Mirianne, qui connaît mieux la route que le vieux Roe ? » Mais les voies rapides ne sont plus aussi sûres qu'avant, et ça fait des mois qu'on n'a pas vu un messager d'Amn. Pourriez-vous ouvrir l'œil le long des routes du sud et me prévenir si vous trouvez quelque chose ?~
 @1014971 = ~« Ma chère Mirianne,
 La route a été dure mais je suis bien arrivé en Amn. Je crois tout de même qu'il serait plus sage de revenir par bateau, peut-être un peu après les premières neiges. J'espère que cette lettre va te parvenir. Le petit-homme à qui je l'ai confiée m'a paru honnête.
@@ -9843,6 +9879,7 @@ Poids : 0~
 @1016439 = ~Château-Suif est vraiment un grand obstacle pour les bons à rien, mais il n'est pas insurmontable. Quelle que soit la taille de la souricière, une souris finit toujours par passer. Non, mon enfant, nous devons partir dès que possible, pour notre sécurité et pour celle de nos amis ici.~
 @1016458 = ~Votre réputation vous a précédé ! Les gardes ont été alertés.~
 @1016468 = ~Mode Détection des pièges~
+@1016492 = ~*vous avez été dérangé pendant votre sommeil... attention aux monstres*~ [ERROR09] ~*vous avez été dérangée pendant votre sommeil... attention aux monstres*~ [ERROR09]
 @1016524 = ~~
 @1016532 = ~Landrin m'a offert une jolie somme pour l'avoir débarrassée des énormes araignées qui ont envahi sa maison : 100 pièces d'or, et pour être honnête, je les ai bien méritées.~
 @1016536 = ~Note à moi-même : ne jamais s'enrôler dans l'armée. On ne vous parlera jamais de tous les dangers auxquels vous serez exposé en y entrant et on vous paie une misère lorsque vous en sortez. Reevor m'a offert 5 pièces d'or pour m'enrôler. N'existe-t-il donc pas un Front de Libération du Peuple de Château-Suif quelque part ?~
@@ -9933,7 +9970,7 @@ Poids : 0~
 @1017115 = ~Pause automatique : touché(e)~
 @1017116 = ~Pause automatique : grièvement blessé(e)~
 @1017117 = ~Pause automatique : mort(e)~
-@1017121 = ~Ouille... Pardon, meuh !~ [AMB_E42c]
+@1017121 = ~Ouille... Pardon, meuh !~ [AMB_E42C]
 @1017130 = ~Profondeur des couleurs~
 @1017143 = ~délai d'affichage des infobulles~
 @1017148 = ~INFORMATIONS AFFICHÉES~
@@ -10917,6 +10954,7 @@ Arme de trait : fronde
 Poids : 0~
 @1017687 = ~Salut mon chou ! Vu comment vous êtes fringué, z'avez plutôt l'air du genre aventurier. Tant mieux. On a besoin de gaillards comme vous depuis ce qu'il s'est passé à la mine.~
 @1017690 = ~Il y a quelque chose de maléfique dans ces mines, c'est sûr. Plusieurs filles en ville ont perdu de bons maris là-bas. Et pourtant, on continue à y envoyer travailler d'autres gars. Je ne sais pas ce qui se passe, mais je crois qu'il serait bon que vous alliez y faire un tour.~
+@1017701 = ~Quelle belle journée nous avons là... Mon dieu, ce que vous êtes élégants dans vos costumes d'aventuriers. Vous êtes bien des aventuriers, n'est-ce pas ? Je ne vois pas ce que vous venez faire dans notre village, car, d'après ce que je sais, la grande attraction se passe plutôt à Nashkel.~
 @1017705 = ~Cela fait longtemps que je n'avais pas rencontré quelqu'un d'aussi antipathique. Peu importe. Ceux de votre espèce ont toujours été ainsi.~
 @1017706 = ~Pitié. Si vous n'êtes pas venu faire quelque chose contre cette malheureuse mine, laissez-moi en paix. Elle a englouti mon frère, et mon fils unique doit travailler dans ses profondeurs. Pitié. Laissez une pauvre femme à son chagrin.~
 @1017707 = ~J'ai ouï dire qu'il se passe des choses bizarres dans les mines au sud-est d'ici.~
@@ -10938,7 +10976,7 @@ Poids : 0~
 @1017746 = ~Je n'ai jamais rien entendu d'aussi incompréhensible. J'ai été laissé pour mort par les pillards ; c'est un étranger qui m'a guéri. Son visage était plus terrible qu'on ne peut imaginer, mais son comportement était irréprochable.~
 @1017749 = ~Vous ressemblez à ces mercenaires qui viennent du sud dont j'ai entendu parler. C'est courageux de se battre contre les hommes-chiens et autres créatures du même genre. Je crois que l'Amn n'avait finalement pas minimisé les problèmes causés par les mines. Ils auraient pu tout mettre en scène, après tout. Je les en crois capables.~
 @1017754 = ~On dit ici que la route de l'ouest est la plus sûre, pour l'instant en tout cas. La route au sud de Bérégost est dangereuse, mais il y a encore un peu de circulation. Plus au sud de Nashkel, il devient difficile de voyager. Les convois n'arrivent plus à passer en venant des mines de fer. C'est peut-être mieux comme ça. Leur fer se fait rare. Quant à la route du nord... nous n'avons eu aucune livraison de la Porte de Baldur depuis plus d'un mois. Il paraît que l'endroit aurait été saccagé et brûlé.~
-@1017755 = ~L'Amn, à mon avis. Le fer pourri qu'ils nous ont envoyé de Nashkel, ça ne fait que retourner le couteau dans la plaie... Ils nous priveront de métal tout l'été et attaqueront certainement Bérégost avant l'hiver. Seuls les Dieux savent si les Ducs de la Porte de Baldur nous défendront cette fois-ci.~
+@1017755 = ~L'Amn, à mon avis. Le fer pourri qu'ils nous ont envoyé de Nashkel, ça ne fait que retourner le couteau dans la plaie... Ils nous priveront de métal tout l'été et attaqueront certainement Bérégost avant l'hiver. Seuls les dieux savent si les Ducs de la Porte de Baldur nous défendront cette fois-ci.~
 @1017763 = ~Si vous deviez croire toutes les histoires que vous entendez, il faudrait dire que le Roi des Neuf Enfers, en personne, était là-bas, qui fumait sa pipe et chauffait la place... Pour être honnête, je dois dire que je ne sais pas ce qu'il y a là-bas. Tout ce que je sais, c'est que nombre de ceux qui ont travaillé dans cet enfer ne sont jamais remontés à la surface.~
 @1017766 = ~C'est une bonne journée, ça change un peu. Les mines ont été purgées, ce qui signifie le retour au boulot pour de nombreux travailleurs.~
 @1017767 = ~~
@@ -11193,7 +11231,7 @@ Cette personne, vue pour la dernière fois dans la région de Château-Suif, doi
 Quiconque ramènera la preuve de sa mort recevra une prime d'un montant de 200 pièces d'or.
 
 Comme toujours, ceux qui iront révéler ces plans aux forces de la loi partageront le destin de la cible.~
-@1017905 = ~Vot'fin est proche, on parie ? Oh, j'ai rien contre vous, comprenez-moi bien, mais j'ai bien peur qu'il ne vous reste pas longtemps à vivre ici-bas.~
+@1017905 = ~Vot' fin est proche, on parie ? Oh, j'ai rien contre vous, comprenez-moi bien, mais j'ai bien peur qu'il ne vous reste pas longtemps à vivre ici-bas.~
 @1017909 = ~Que je sache, vous n'avez rien fait à personne. Je m'en moque éperdument. Un sou est un sou et une tête est une tête, et quand les deux se rencontrent, le vieux Karlat gagne sa croûte. Mais vraiment, je n'ai rien contre vous.~
 @1017910 = ~Le savez-vous ? J'en doute. Mais d'un côté, dans ce métier, je rencontre peu de gens honnêtes. Ils n'ont jamais d'argent sur eux et ne reviennent jamais quand ils disent qu'ils vont en chercher. Peu importe. Je ne prendrai jamais votre argent en catastrophe alors que j'ai un contrat en bonne et due forme. Ce n'est pas sain en affaires.~
 @1017911 = ~Oui, je fais ça. La volonté ET le pouvoir. Et si on parlait affaires ?~
@@ -11427,7 +11465,7 @@ Nécessite :
 @1018172 = ~*soupire* Qu'est-ce que ça peut faire maintenant ? Faites ce que vous voudrez...~
 @1018174 = ~~
 @1018181 = ~Vous, est-ce que vous vous appelez <CHARNAME> ? Dépêchez-vous de répondre. Et dites la vérité, votre vie en dépend.~
-@1018187 = ~Vous mentez ! Rappelez-vous ce que je vous ai dit sur le mensonge. C'était idiot même d'essayer, car mon Dieu Cyric me permet de percer tous les mensonges. Vous mourrez maintenant <CHARNAME>. Vous ne vous opposerez plus jamais au Trône de Fer.~
+@1018187 = ~Vous mentez ! Rappelez-vous ce que je vous ai dit sur le mensonge. C'était idiot même d'essayer, car mon dieu Cyric me permet de percer tous les mensonges. Vous mourrez maintenant <CHARNAME>. Vous ne vous opposerez plus jamais au Trône de Fer.~
 @1018189 = ~Ma... ma mort n'est sûrement pas loin. *frissonne*~ [Male1e]
 @1018190 = ~Quoi ?~ [Male1f]
 @1018191 = ~Et qu'ça aille vite.~ [Male1g]
@@ -11948,9 +11986,9 @@ Vous et Sarevok aviez davantage en commun que vous ne voudriez l'admettre. Vous 
 
 Mais les murmures pourraient bien se transformer en hurlements. Le danger reste donc tout entier. Pour vous, comme pour le reste des Royaumes.
 
-Sarevok serait-il devenu un Dieu si ses plans n'avaient pas été déjoués ? C'est peu probable. Du moins, pas comme il l'entendait. Sarevok a provoqué bien des souffrances au nom de son père, mais vous devinez que sa mort prématurée a servi le dieu mort. En regardant votre frère se vider de son essence, un scénario terrible a traversé votre esprit. Cet enfant, élevé pour devenir fou, motivé par un désir de conquête, a été tué par ceux qui se sont justement opposés à lui ; sa vie tout entière n'était rien d'autre qu'un moyen d'« engendrer » la renaissance éventuelle de son père. Bhaal a parsemé le monde de descendants pour ressusciter, et non pour être remplacé.
+Sarevok serait-il devenu un dieu si ses plans n'avaient pas été déjoués ? C'est peu probable. Du moins, pas comme il l'entendait. Sarevok a provoqué bien des souffrances au nom de son père, mais vous devinez que sa mort prématurée a servi le dieu mort. En regardant votre frère se vider de son essence, un scénario terrible a traversé votre esprit. Cet enfant, élevé pour devenir fou, motivé par un désir de conquête, a été tué par ceux qui se sont justement opposés à lui ; sa vie tout entière n'était rien d'autre qu'un moyen d'« engendrer » la renaissance éventuelle de son père. Bhaal a parsemé le monde de descendants pour ressusciter, et non pour être remplacé.
 
-Ce qui est sans doute une façon appropriée d'accéder au pouvoir pour un Dieu du Meurtre décédé.~
+Ce qui est sans doute une façon appropriée de réaccéder au pouvoir pour un Seigneur du Meurtre décédé.~
 @1019282 = ~Sarevok est réduit en cendres devant vous, tout comme son plan diabolique. Sa colère retentit encore entre les murs, mais vous savez que l'influence qu'il a pu exercer n'est plus. Sa trahison affectera la Côte des Épées pendant quelques temps encore, mais la région retournera à la « normalité ».
 
 Cependant, tout cela a eu un effet plus permanent sur vous.
@@ -11959,9 +11997,9 @@ Vous et Sarevok avez le même sang, descendez de la même lignée, mais vous n'a
 
 Son stratagème fou l'a trahi, mais le trépas de Sarevok n'écarte pas tout danger. Pour vous, comme pour le reste des Royaumes.
 
-Sarevok serait-il devenu un Dieu si ses plans n'avaient pas été déjoués ? Cela est peu probable. Du moins, pas comme il l'entendait. Sarevok a provoqué bien des souffrances au nom de son père, mais vous devinez que sa mort prématurée a servi le dieu mort. En regardant votre frère se vider de son essence, un scénario terrible a traversé votre esprit. Cet enfant, élevé pour devenir fou, motivé par un désir de conquête, a été tué par ceux qui se sont justement opposés à lui ; sa vie tout entière n'était rien d'autre qu'un moyen d'« engendrer » la renaissance éventuelle de son père. Bhaal a parsemé le monde de descendants pour ressusciter, et non pour être remplacé.
+Sarevok serait-il devenu un dieu si ses plans n'avaient pas été déjoués ? Cela est peu probable. Du moins, pas comme il l'entendait. Sarevok a provoqué bien des souffrances au nom de son père, mais vous devinez que sa mort prématurée a servi le dieu mort. En regardant votre frère se vider de son essence, un scénario terrible a traversé votre esprit. Cet enfant, élevé pour devenir fou, motivé par un désir de conquête, a été tué par ceux qui se sont justement opposés à lui ; sa vie tout entière n'était rien d'autre qu'un moyen d'« engendrer » la renaissance éventuelle de son père. Bhaal a parsemé le monde de descendants pour ressusciter, et non pour être remplacé.
 
-Ce qui est sans doute une façon appropriée d'accéder au pouvoir pour un Dieu du Meurtre décédé.~
+Ce qui est sans doute une façon appropriée de réaccéder au pouvoir pour un Seigneur du Meurtre décédé.~
 @1019283 = ~Il semble que j'aie modifié le futur accidentellement, en tombant sur le voleur, Permidion Stark, alors qu'il préparait « le plus gros coup de l'histoire », selon lui. La volonté et la concentration requises lui ayant fait défaut, je me retrouve à évaluer la situation... Un puissant mage vit dans les parages, paraît-il, gardé par d'affreux êtres de chair. Selon Stark, ils sont trop durs à tuer, mais il serait possible de les éloigner du théâtre des opérations en recourant à une diversion. Bah, je verrai ça lorsque le problème se posera.~
 @1019284 = ~Le jeune Footy est aussi fou que tous les autres dans cet endroit horrible, le pauvre. Il observe Bassilus afin de trouver sa famille parmi les cadavres animés et n'arrête pas, ce faisant, de se gausser de leurs pitreries... Voilà une affaire dans laquelle culpabilité et innocence vont main dans la main. Ce que je sais, c'est que je ne peux plus laisser se poursuivre ces horreurs.~
 @1019295 = ~L'ankheg est un insecte fouisseur qui mesure de 3 à 6 mètres de long et que l'on croise surtout dans les forêts ou sur les meilleures terres cultivées. Il est couvert de plaques ou d'écailles de chitine, un matériau extrêmement dur et léger. Taille, poids et résistance de ces écailles en font un matériau de choix pour les utilisations les plus variées, y compris en armurerie.
@@ -12190,6 +12228,8 @@ Poids : 0~
 @1019708 = ~Nelorin~
 @1019709 = ~Nelorin~
 @1019711 = ~Pas encore. HA ! Pas encore, j'vous dis ! Vous, vous me d'mandez si j'ai vécu ici toute ma vie, et moi je vous réponds : « Pas encore ! » J'me débrouille toujours pour les faire rire, oui-da. C'te blague là, elle faisait rire tout le monde sur le pont... enfin, jusqu'à la millième fois, ou à peu près. Maintenant que j'y pense, elle vous fait pas trop rire non plus... Euh, bon... Je vais là-bas, hein ?~
+@1019717 = ~Je suis venu livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~ ~Je suis venue livrer quelqu'un à la justice, et récupérer la récompense qui me revient.~
+@1019718 = ~*la voûte s'est effondrée, un peu plus loin... il semble exclu de regagner la grotte à présent... la seule façon d'y parvenir serait de passer par l'autre côté*~
 @1019721 = ~Multi-classé~
 @1019724 = ~Ce type de casque d'apparat, fait de cuir ou de métal renforcé, couvre le visage et le crâne. Les trous pour les yeux et le nez ne sont pas de trop.
 
@@ -12330,8 +12370,8 @@ Poids : 1~
 @1020276 = ~Lancement d'une session TCP/IP impossible faute d'un élément de réseau compatible.~
 @1020278 = ~~
 @1020281 = ~~ [AMB_E42B]
-@1020283 = ~~ [AMB_E39A]
-@1020284 = ~~ [AMB_E39B]
+@1020283 = ~Cot-cot, cot, cot, codet !~ [AMB_E39A]
+@1020284 = ~Cot-cot-codet !~ [AMB_E39B]
 @1020285 = ~~ [AMB_E45A]
 @1020286 = ~~ [AMB_E45B]
 @1020287 = ~M'dame ci, M'dame ça, je n'ai aucun désir de subir les affres de votre gentillesse. Contentez-vous de m'appeler émissaire Tar et de m'indiquer la direction de l'escalier le plus proche. J'ai une affaire importante à mener au cinquième étage, pour le compte des Grands-Ducs.~
@@ -12393,6 +12433,7 @@ Poids : 1~
 @1020538 = ~Dévoilez votre vraie nature doppelgänger ! Vous n'êtes pas plus un Elminster que je suis Drizzt le Drow !~
 @1020543 = ~Ça va, <CHARNAME>, ça va ! Je ne suis pas mort cette nuit-là, ni depuis d'ailleurs ! La lame qui m'a transpercé était imbibée de poison magique. Mon âme et mon esprit sont donc restés emprisonnés dans un corps qui avait toute l'apparence de la mort. L'homme que vous avez vu cette nuit-là s'appelle Sarevok. Il se trouve dans le Château depuis trois jours, sous le faux nom de « Koveras ». Téthtoril le surveillait, mais nous n'avons jamais pensé qu'il pouvait ne pas être seul... Attention, mon enfant. J'ai trop d'affection pour vous pour vous perdre maintenant.~ [GORIN13]
 @1020547 = ~Je sais ce que vous êtes, amiroir, et vous n'êtes pas plus Elminster que je ne suis Drizzt le Drow.~
+@1020549 = ~Bon sang, <CHARNAME>, que vous a-t-on fait pour que votre esprit soit ainsi hanté ? Votre ancien ami Dreppin est enchevêtré dans ses propres entrailles et cette insensée de Phlydia s'est précipitée ici pour offrir une épaule maternelle et vous l'avez tuée comme le monstre que vous croyiez qu'elle était... Les dieux n'ont pas pitié de nous autres faibles mortels, on dirait.~ [GORIN05]
 @1020551 = ~Je... je crois que je vous connais. Vous ressemblez à ces vandales qui ont tué ces types de Château-Suif ! Le Poing Enflammé a publié une description ainsi que des croquis des tueurs, et vous êtes leur portrait craché ! Ne m'approchez pas !~
 @1020552 = ~Il est impoli d'errer dans la ville armé comme vous l'êtes. Non pas que je comprenne pas, notez. Le Poing Enflammé est dans un triste état et les citoyens ont plutôt intérêt à se protéger.~
 @1020560 = ~Ce que vous dites serait vrai en temps normal, mais les hommes du Poing Enflammé sont presque tous dans le Sud, et les Grands-Ducs craignent pour la ville. Je m'excuse de ce désagrément, mais je n'y peux absolument rien.~
@@ -12409,7 +12450,7 @@ Jet de sauvegarde : sorts (1/2)
 Poids : 1~
 @1020582 = ~Gardez votre sang-froid, <CHARNAME>, et tenez bon. Cette fragile bulle de réalité qui nous entoure faiblit ! Les malédictions ? Mais il ne faut pas leur résister. Ce ne sont que des illusions qui ne peuvent pas faire de mal réel !~
 @1020583 = ~Bienvenue. Vous êtes là pour le couronnement de Sarevok, je suppose ? Dans ce cas, je dois voir vos invitations.~
-@1020595 = ~Malgré tout, je crois qu'il serait bien pour vous de savoir où il s'est téléporté. Un instant, je vous prie, mon Dieu va m'indiquer où il se trouve.~
+@1020595 = ~Malgré tout, je crois qu'il serait bien pour vous de savoir où il s'est téléporté. Un instant, je vous prie, mon dieu va m'indiquer où il se trouve.~
 @1020616 = ~Il fait tellement sombre ici.~ [MINER04]
 @1020621 = ~De drôle de chevaliers spectraux sur le pont de Flammevin disaient ne pas pouvoir partir « sans les autres ». Peut-être l'un d'eux a-t-il disparu il y a bien longtemps ?~
 @1020622 = ~~ [AMB_M34a]
@@ -12448,6 +12489,8 @@ PARAMÈTRES :
 Poids : 1~
 @1020731 = ~En effet, c'est ma première visite à la belle ville de Barbe d'Ulgoth ; située sur la jolie Côte des Épées, à quelques heures seulement des faubourgs de la Porte de Baldur.~
 @1020734 = ~Faites gaffe à pas mettre votre nez n'importe où, ou je le couperai.~
+@1020749 = ~J'voyage depuis longtemps et j'recherche la compagnie d'l'aut' sexe.~
+@1020754 = ~J'voyage depuis longtemps et j'recherche la compagnie d'l'aut' sexe.~
 @1020763 = ~... aussi bien que moi, vous voulez dire.~
 @1020781 = ~Ah, bonjour mes amis, je suis content de vous rencontrer. Vous êtes les héros de la Côte des Épées, il y a, euh, longtemps que je voulais vous voir. Je m'appelle Mendas d'Eauprofonde, chercheur de vérité. Nous avons, non, j'ai besoin d'un service. J'ai l'argent pour payer et un grand cœur pour les amis. Pouvez-vous aider un brave homme à la recherche de la connaissance ?~
 @1020786 = ~Je voudrais en savoir plus sur ce « service » que vous voudriez que je vous rende.~
@@ -12730,7 +12773,10 @@ J'aimerais vous parler un moment car vous ne ressemblez pas aux autres. Je sens 
 @1021747 = ~Il est vrai que j'en ai vendu beaucoup de fausses pierres autrefois, mais pas aujourd'hui. Je sais que celle-ci est vraie car j'ai ouvert la porte moi-même, mais il me manque les muscles et les talents d'un aventurier. Si ce n'est pas vous, ce sera quelqu'un d'autre.~
 @1021767 = ~Ah... c'est un problème avec mes jambes. La goutte me lance dans la jambe gauche et... *soupire* et je dois régler l'aubergiste si j'veux pas qu'il me crée de problèmes. J'n'ai plus la chance d'autrefois aux cartes.~
 @1021769 = ~Hé... ça vous dirait pas de déguster du bon gibier et de vous empiffrer de bonnes choses ? J'ai la clef d'un trésor légendaire si vous êtes à la hauteur. Écoutez-moi et bientôt le reste de ces abrutis viendra tirer vos bas de pantalon pour grappiller quelques piécettes.~
+@1021802 = ~Ce n'est pas la peine d'être si grossier. Vous voulez traiter avec moi ou pas ?!~
+@1021805 = ~Ce n'est pas la peine d'être si grossier. Vous voulez traiter avec moi ou pas ?!~
 @1021809 = ~Est-ce que VOS affaires m'intéressent ?! Mes propres affaires ne m'intéressent même plus, alors les vôtres, hein ! Je vais peut-être aller travailler dans une ferme ou aller à la pêche ou même juste m'allonger sous un rocher quelque part ! Vous êtes là pour acheter ou pour faire des ronds dans la poussière ? Eh, traînez vos savates un peu plus sur la gauche, vous avez oublié un coin du bac à sable !~
+@1021813 = ~Je vends des petites bricoles dorées aux touristes dans la Tour de Durlag mais il n'y en a pas en ce moment ! Les bandits de grand chemin font peur aux gens et me voilà avec tout ce stock, hein. Mes pierres magiques sont de toutes formes et de toutes tailles. J'ai trouvé certaines d'entre elles dans des ruines elfiques et les autres, je les ai fabriquées de mes mains. Peut-être que certaines sont bonnes ou peut-être qu'elles sont toutes fausses, mais ne sont-elles pas toutes jolies ? Je vais vous dire ce que je vais faire. Je vais vous vendre tout ce que j'ai pour la modique somme de 500 pièces d'or, pas plus. Puis je rentrerai chez moi où on apprécie le beau bibelot. Vous achetez ou tracez la route ?~
 @1021817 = ~Moins cher ?! C'est tout mon stock et vous en voulez moins cher ?! Laissez-moi vérifier quelques petites choses, hein. Non les étoiles ne se sont pas transformées en lucioles, les poules n'ont pas de dents et la mer n'a pas gelé. Alors NON, c'est HORS DE QUESTION ! La dernière fois que j'ai vérifié, il n'y avait pas marqué « IDIOT » sur mon front ! Allez au diable !~
 @1021839 = ~Ils sont par là. Tuez-les s'il vous plaît, j'ai si peur.~
 @1021860 = ~Je n'ai jamais rencontré ce Sélaad. Nous sommes venus à la demande d'un archéologue. Pourquoi n'allez-vous pas parler à votre meneuse ? Je n'ai ni le temps ni l'envie de tout vous expliquer.~
@@ -12855,6 +12901,7 @@ Nécessite :
  3 en Force
 
 Poids : 4~
+@1022050 = ~Vous montrer mes cartes maritimes, c'est ça qu'vous voulez qu'j'fasse ? Oh, non seulement ça porte la poisse d'laisser quelqu'un voir les cartes avant le départ, mais c't'aussi contre toutes les règles d'la Ligue ! Vite, les gars, allons ramasser que'ques cadavres pour Umberlie, des fois qu'le temps tourn'rait vinaigre...~
 @1022069 = ~Seul un idiot prêterait de l'argent à un joueur et, je vous l'assure, nos membres ne sont pas des idiots... Gardes ! Aidez-moi à arrêter cet imposteur !~
 @1022093 = ~Ce que je fais ? Je suis l'histoire. Pardonnez-moi, je veux dire, je suis historienne. Je garde les histoires des grands anciens et certaines reliques du passé. J'ai bien appris l'ancienne langue, non ? J'essaie de continuer à la parler mais nous sommes isolés depuis longtemps. Et vous ? Que faites-vous ?~
 @1022095 = ~Pierre-sésame de doppelgänger~
@@ -12896,6 +12943,7 @@ Capacités de charge :
 Poids : 4~
 @1022147 = ~Chevalier démon~
 @1022148 = ~Chevalier démon~
+@1022158 = ~J'voyage depuis longtemps et j'recherche la compagnie d'l'aut' sexe.~
 @1022173 = ~Émotion : désespoir~
 @1022174 = ~Émotion : désespoir
 (Enchantement/Charme)
@@ -13507,7 +13555,7 @@ Poids : 4~
 @1023090 = ~Eh, bonjour. Z'êtes venu voir la vieille Kirinhale, hein ? Ça fait bien longtemps que je n'ai pas eu de compagnie, et maintenant... eh bien... regardez-vous. Si viril... un vrai mâle. Voulez-vous rester près de moi ? Ma solitude serait bien grande sans vous.~
 @1023095 = ~C'est vraiment une terrible histoire. Je me suis aventurée ici il y a quelque temps, et ce n'est tout simplement pas prudent de partir toute seule. Tellement de dangers, et personne pour me guider. J'ai perdu presque tout espoir... pourriez-vous... pourriez-vous rester ici avec moi ? Je me sens si seule.~
 @1023100 = ~Vous m'abandonnez ? Ai-je donc perdu tant d'attrait depuis mon arrivée ici ? Cet endroit anéantit mes charmes et je ne peux rien faire sinon rester assise, à attendre que quelqu'un d'autre vienne prendre ma place. Mais ça suffit ! Que Durlag et sa malédiction soient damnés, vous allez rester ici à ma place et y prendre beaucoup de plaisir ! Il m'a pris mes ailes, mais j'ai toujours quelques tours en poche !~
-@1023101 = ~Excellent, même si « un petit moment », c'n'est pas exactement ce que j'avais en tête. Vous voyez, il s'agit d'une tout'p'tite malédiction que ce vieux mesquin de Durlag m'a lancée. Un petit truc de rien du tout en fait, mais j'ai besoin de votre aide. Vous voulez m'aider, n'est-ce pas ? Hum ? J'ai besoin de quelqu'un de courageux et de fort pour faire quelque chose pour moi. Vous devez rester ici à ma place. Le ferez-vous ? Le ferez-vous pour moi ?~
+@1023101 = ~Excellent, même si « un petit moment », c'n'est pas exactement ce que j'avais en tête. Vous voyez, il s'agit d'une toute p'tite malédiction que ce vieux mesquin de Durlag m'a lancée. Un petit truc de rien du tout en fait, mais j'ai besoin de votre aide. Vous voulez m'aider, n'est-ce pas ? Hum ? J'ai besoin de quelqu'un de courageux et de fort pour faire quelque chose pour moi. Vous devez rester ici à ma place. Le ferez-vous ? Le ferez-vous pour moi ?~
 @1023106 = ~Oh, un tout petit moment... tout est relatif. Une simple goutte d'eau dans l'océan par rapport à la vie des elfes, des dragons... ou des dieux. Je suppose que j'ai encore environ quatre-cents ans à vivre avant que les dweomers ne s'affaiblissent et que je puisse quitter cet endroit. Vous avez de la chance. Vous mourrez de faim bien avant.~
 @1023164 = ~Encore vous ? Quoi encore ? Vous avez déjà eu un avertissement, ne me dérangez pas. Je suis sur de bons coups avec des énigmes, et je n'ai nul besoin de voir troubler ma concentration.~
 @1023165 = ~*c'est le panneau de contrôle de cette étrange machine... l'interrupteur semble avoir été arraché*~
@@ -14670,6 +14718,27 @@ Cliquez sur le bouton « Ne plus jamais afficher » pour fermer ce menu dérou
 @1024382 = ~Le familier est mort ; vous avez perdu des points de vie et 1 point de Constitution de façon définitive.~
 @1024383 = ~Le familier est mort ; vous avez perdu des points de vie et 1 point de Constitution de façon définitive.~
 @1024407 = ~Description de spécialisation~
+@1024415 = ~Votre passé est aussi obscur que votre avenir, et les certitudes sur lesquelles votre personnalité a mûri ne sont que d'invraisemblables approximations. Bien que cela paraisse improbable, du sang divin coule dans vos veines.
+
+Vous êtes un stigmate vivant du Temps des Troubles, une période charnière de notre histoire, durant laquelle les dieux furent incarnés et obligés de fouler la même terre sur laquelle leurs fidèles s'ébattent depuis que la terre est terre. L'une de ces infortunées divinités put anticiper ce terrible destin et comprendre que la mort la prendrait aussi facilement qu'elle emporte depuis la nuit des temps le commun des mortels. Elle prit donc des mesures qui devaient assurer sa résurrection en des temps plus cléments. Ce dieu descendit sur la terre avant d'y être contraint, alors que ses congénères festoyaient encore, dans l'ignorance d'un avenir fatidique qui approchait à grands pas. Il y connut des femmes, et de ces accouplements contre-nature naquirent des centaines de rejetons ignorant tout de l'identité de leur père. Mais celui-ci avait écrit en lettres de sang leur avenir, dans ce même sang qu'ils devraient verser tout au long de leur existence, dans leur quête insatiable de pouvoir et de conquêtes. Ils n'étaient cependant pas destinés à lui succéder, mais plutôt à préparer le terreau de sa résurrection. Des héros se dressèrent avec succès contre ces tyrans, et lorsque les âmes pernicieuses de ces derniers quittaient leurs cadavres, elles nourrissaient leur machiavélique géniteur.
+
+Son nom était Bhaal, le Seigneur du Meurtre, et vous êtes l'un de ses enfants.
+
+Gorion, un redoutable magicien entouré d'amis encore bien plus puissants, eut la lourde tâche de votre éducation. C'est grâce à son influence que vous avez pu passer votre enfance dans ce refuge privilégié qu'est Château-Suif, la citadelle du savoir. Les moines qui y résidaient surent favoriser le développement de vos aptitudes. Et si la présence d'enfants restait exceptionnelle en ce lieu, vous trouvâtes néanmoins une amie en Imoen. Votre complicité faisait penser à celle que seul un frère et une sœur partagent d'ordinaire, néanmoins vous n'en saviez pas plus sur ses origines que sur les vôtres. Gorion ne vous a jamais confié le secret de votre terrible parenté, ni celui de votre obscur passé, ou encore la raison qui le poussait à vous maintenir tous deux en ce lieu isolé, en retrait du monde. Ce n'est qu'à sa mort que vous découvrîtes le lien invisible et irréductible qui vous lie à Bhaal, lors de ce combat impitoyable qui vous opposa à l'assassin de votre tuteur, lui-même enfant de Bhaal.
+
+Sarevok était le nom de ce frère maudit, qui avait assumé pleinement ses origines et entrepris de s'abandonner à son destin, avec l'ambition de devenir la prochaine incarnation du Seigneur du Meurtre. Il s'évertua pour ce faire à occire autant de gens du commun qu'il en rencontrait, une guerre personnelle, une guerre dont chaque victime était offerte en sacrifice, une guerre qui devait prouver sa valeur et lui offrir le trône de son père. Machinations qui menaçaient de faire éclater un conflit ouvert entre la Porte de Baldur et l'Amn. Prenant conscience de ce dessein impur minutieusement planifié, vous l'avez pourchassé et lui avez ôté la vie à l'issue d'une ultime confrontation. Amère victoire que la vôtre ! En versant le sang de votre frère, vous ensemenciez davantage la terre dont Bhaal un jour renaîtrait...
+
+Cruelle et imprévisible destinée que la vôtre ! Enfant du meurtre, vous n'inspirerez que crainte aux ignorants, impressionnés par votre lignage, alors que d'autres, plus cyniques et pragmatiques, s'efforceront de tirer parti de vos pouvoirs supposés. Et toujours, vous porterez l'essence de Bhaal en vous, exerçant sa sombre influence au moment où vous serez le plus vulnérable. Par quoi devriez-vous être le plus effrayé ? Perdre votre vie et contribuer ainsi au retour de Bhaal, ou perdre votre volonté et incarner ce dernier ?~ ~Votre passé est aussi obscur que votre avenir, et les certitudes sur lesquelles votre personnalité a mûri ne sont que d'invraisemblables approximations. Bien que cela paraisse improbable, du sang divin coule dans vos veines.
+
+Vous êtes un stigmate vivant du Temps des Troubles, une période charnière de notre histoire, durant laquelle les dieux furent incarnés et obligés de fouler la même terre sur laquelle leurs fidèles s'ébattent depuis que la terre est terre. L'une de ces infortunées divinités put anticiper ce terrible destin et comprendre que la mort la prendrait aussi facilement qu'elle emporte depuis la nuit des temps le commun des mortels. Elle prit donc des mesures qui devaient assurer sa résurrection en des temps plus cléments. Ce dieu descendit sur la terre avant d'y être contraint, alors que ses congénères festoyaient encore, dans l'ignorance d'un avenir fatidique qui approchait à grands pas. Il y connut des femmes, et de ces accouplements contre-nature naquirent des centaines de rejetons ignorant tout de l'identité de leur père. Mais celui-ci avait écrit en lettres de sang leur avenir, dans ce même sang qu'ils devraient verser tout au long de leur existence, dans leur quête insatiable de pouvoir et de conquêtes. Ils n'étaient cependant pas destinés à lui succéder, mais plutôt à préparer le terreau de sa résurrection. Des héros se dressèrent avec succès contre ces tyrans, et lorsque les âmes pernicieuses de ces derniers quittaient leurs cadavres, elles nourrissaient leur machiavélique géniteur.
+
+Son nom était Bhaal, le Seigneur du Meurtre, et vous êtes l'une de ses enfants.
+
+Gorion, un redoutable magicien entouré d'amis encore bien plus puissants, eut la lourde tâche de votre éducation. C'est grâce à son influence que vous avez pu passer votre enfance dans ce refuge privilégié qu'est Château-Suif, la citadelle du savoir. Les moines qui y résidaient surent favoriser le développement de vos aptitudes. Et si la présence d'enfants restait exceptionnelle en ce lieu, vous trouvâtes néanmoins une amie en Imoen. Votre complicité faisait penser à celle que seules deux sœurs partagent d'ordinaire, néanmoins vous n'en saviez pas plus sur ses origines que sur les vôtres. Gorion ne vous a jamais confié le secret de votre terrible parenté, ni celui de votre obscur passé, ou la encore raison qui le poussait à vous maintenir toutes deux en ce lieu isolé, en retrait du monde. Ce n'est qu'à sa mort que vous découvrîtes le lien invisible et irréductible qui vous lie à Bhaal, lors de ce combat impitoyable qui vous opposa à l'assassin de votre tuteur, lui-même enfant de Bhaal.
+
+Sarevok était le nom de ce frère maudit, qui avait assumé pleinement ses origines et entrepris de s'abandonner à son destin, avec l'ambition de devenir la prochaine incarnation du Seigneur du Meurtre. Il s'évertua pour ce faire à occire autant de gens du commun qu'il en rencontrait, une guerre personnelle, une guerre dont chaque victime était offerte en sacrifice, une guerre qui devait prouver sa valeur et lui offrir le trône de son père. Machinations qui menaçaient de faire éclater un conflit ouvert entre la Porte de Baldur et l'Amn. Prenant conscience de ce dessein impur minutieusement planifié, vous l'avez pourchassé et lui avez ôté la vie à l'issue d'une ultime confrontation. Amère victoire que la vôtre ! En versant le sang de votre frère, vous ensemenciez davantage la terre dont Bhaal un jour renaîtrait...
+
+Cruelle et imprévisible destinée que la vôtre ! Enfant du meurtre, vous n'inspirerez que crainte aux ignorants, impressionnés par votre lignage, alors que d'autres, plus cyniques et pragmatiques, s'efforceront de tirer parti de vos pouvoirs supposés. Et toujours, vous porterez l'essence de Bhaal en vous, exerçant sa sombre influence au moment où vous serez la plus vulnérable. Par quoi devriez-vous être la plus effrayée ? Perdre votre vie et contribuer ainsi au retour de Bhaal, ou perdre votre volonté et incarner ce dernier ?~
 @1024424 = ~Ce curseur contrôle le niveau de difficulté du jeu. Les réglages sont les suivants :
   TRÈS DIFFICILE (le plus à droite) : tous les adversaires font double dégâts contre le groupe.
   DIFFICILE (milieu droit) : les adversaires font 50 % de dégâts en plus contre le groupe.
@@ -20637,7 +20706,7 @@ Château-Suif recèle bien des secrets, mais j'ai enfin découvert l'un d'entre 
 Quelque chose provoque la mort des hommes dans les mines et les gardes amniens se révèlent impuissants.~
 @1026913 = ~L'Officière Vaï
 
-Une dénommée Chloé nous a dit qu'une officière du nom de Vaï nous attend au Jongleur Jovial pour nous parler.~
+Une fille dénommée Chloé nous a dit qu'une officière du nom de Vaï nous attend au Jongleur Jovial pour nous parler.~
 @1026914 = ~La Tour de Durlag
 
 J'ai rencontré une enfant abandonnée qui était tapie dans les profondeurs de la Tour de Durlag. Elle faisait partie d'une autre bande d'aventuriers, mais il semble qu'ils aient été décimés par la chose tapie là-dedans. J'ai entendu parler d'un « Chevalier Démon », mais si cette créature existe, je me fais fort de l'expédier sans mal.~
@@ -20698,6 +20767,7 @@ Le Duc Eltan veut que je l'amène au bâtiment du Maître du port, à l'est des 
 @1026960 = ~Slythe et Krystin
 
 Nous devons nous rendre aux Caves Souterraines pour retrouver Slythe et Krystin, deux des meurtriers de Sarevok. Eltan pense que Sarevok songe à faire assassiner les Grands-Ducs Belt et Liia. Nous devons nous assurer que cela n'arrive pas. Nous devons également accompagner Eltan jusqu'à la bâtisse du Maître du port, qui se trouve du côté est du port.~
+@1026964 = ~Sous l'effet de la magie, Delthyr nous a appris que les Ménestrels me surveillaient parce qu'ils pensent que je descends du dieu du meurtre, Bhaal.~
 @1026966 = ~Les cartes maritimes
 
 J'ai acheté une bouteille d'un breuvage douteux pour le capitaine Kieres, mais j'ai dû régler son ardoise de 900 pièces d'or. Il a intérêt à se montrer coopératif lorsque j'irai le voir.~
@@ -20782,6 +20852,9 @@ Evalt nous a demandé de partir à la recherche de son frère Evan. Il pense que
 @1027055 = ~Le frère disparu d'Evalt
 
 Un pêcheur du village, Evalt, nous a demandé de trouver son frère, Evan. Evan a suivi le chant d'une « sorcière bleue », vers l'ouest de l'île.~
+@1027059 = ~Une base secrète à Bois-Manteau
+
+Une femme dénommée Faldorn m'a dit que la base du Trône de Fer se trouvait à l'est.~
 @1027072 = ~L'île mystérieuse
 
 Farthing a eu l'air contente d'apprendre que j'avais tué Karoug et sa bande. Elle a pris ça avec un calme... Je ne vois pas comment elle pourrait être si habituée à la violence, à vivre dans un endroit si tranquille.~
@@ -21150,12 +21223,18 @@ Nous avons mis un terme à l'existence de l'ogre-mage responsable des disparitio
 @1027432 = ~Le Grand Livre de l'Ignorance
 
 Shaella dit que j'ai trouvé le « Grand Livre de l'Ignorance » quelque part à Château-Suif. Sauf que je n'en ai pas le souvenir...~
+@1027442 = ~Les pêcheurs et la prêtresse
+
+Les pêcheurs sont guidés par le dieu Talos ! Bien sûr, cela apporte de l'eau au moulin de Tenya, car Talos est une divinité qui détruit sans réfléchir. L'enfant aura la priorité dans cette affaire.~
 @1027444 = ~Les pêcheurs et la prêtresse
 
 La « prêtresse » que l'on m'a demandé de tuer n'a pas plus de douze ans. Elle dit que les pêcheurs qui m'emploient ont tué sa mère. Je vais me battre contre eux en son nom.~
 @1027445 = ~Les pêcheurs et la prêtresse
 
 La « prêtresse » d'Umberlie n'est qu'une enfant. Elle prétend que les pêcheurs ont tué sa mère. Je n'ai confiance en personne dans cette affaire.~
+@1027448 = ~Les pêcheurs et la prêtresse
+
+Talos, le dieu de la destruction, se cache derrière les actes des pêcheurs ! Umberlie se cache derrière la jeune prêtresse Tenya ! Je ne vois pas comment éviter de déplaire à l'un, et je ne souhaite pas vraiment les faveurs de l'autre. Je ne veux plus avoir affaire à eux.~
 @1027450 = ~Une offre de Taërom
 
 Taërom, dit « Grondemarteau », de Bérégost me paiera 500 pièces d'or pour chaque carapace d'ankheg que je pourrai lui ramener.~
@@ -21171,6 +21250,9 @@ Taërom « Grondemarteau » de Bérégost m'a fabriqué une nouvelle armure en
 @1027455 = ~Une base secrète à Bois-Manteau
 
 Un druide du nom de Takiyah m'a dit où trouver Faldorn. Faldorn fait une croisade contre un groupe qui « empoisonne la forêt ». Ces gens résident à l'est.~
+@1027471 = ~Les pêcheurs et la prêtresse
+
+On m'a promis une récompense pour ma contribution à la défaite des pêcheurs alliés à Talos. C'est étonnant, mais je n'ai pas l'impression d'avoir aidé une enfant, mais plutôt d'avoir servi de pion à un dieu malveillant. Il ne faut pas se moquer des divinités... ou elles vous rendent la pareille.~
 @1027476 = ~Tazok et les bandits
 
 Sous l'effet du charme, le bandit Teven nous a révélé qu'il travaillait pour les mercenaires des Griffes Noires. Les Griffes Noires ont lancé des attaques sur la Voie Côtière. Elles ont reçu l'ordre de prendre pour cible les convois transportant du fer.~
@@ -22210,6 +22292,7 @@ Poids : 3~
 @1030046 = ~Elle et moi allons vous attendre à l'étage au-dessus, donc rejoignez-nous rapidement.~
 @1030057 = ~Ce coffre est bien entendu verrouillé et protégé des voleurs, vous allez donc devoir d'abord en trouver la clef. Pour réussir, il va vous falloir faire usage de toutes vos compétences.~
 @1030059 = ~Voilà, la porte du sous-sol est ouverte. Souvenez-vous que si vous mourez pendant le test, vous pourrez recharger la partie en prenant la sauvegarde automatique.~
+@1030066 = ~Salutations. Je suis Branwen, fidèle serviteur de Tempus, dieu de la guerre et des hommes du Nord. Je vais me joindre à votre groupe et vous apprendre les principes de la magie cléricale.~ [TTBRAN01]
 @1030067 = ~Les sorts de prêtre se lancent exactement de la même façon que les sorts de Mage. Je vais vous rafraîchir la mémoire.~ [TTBRAN02]
 @1030068 = ~Sélectionnez mon bouton Lancer un sort, choisissez un sort, et faites un CLIC GAUCHE sur votre cible. Mon bouton de lancement de sorts est l'icône de Sort en bas de l'écran. Vous devez me sélectionner pour avoir accès à mes sorts.~
 @1030069 = ~Appuyez sur mon bouton Lancer un sort, choisissez un sort, et appuyez sur votre cible. Mon bouton de lancement de sorts est l'icône de Sort en bas de l'écran. Vous devez me sélectionner pour avoir accès à mes sorts.~
@@ -27223,6 +27306,7 @@ Poids : 0~
 @1037927 = ~C'est une surprise, mais une bonne, je l'espère. Enfin, vous comprendrez quand je vous aurai annoncé la nouvelle.~
 @1037928 = ~Je vois. Je n'aurais jamais pensé venir ici. Fort heureusement, j'ai de la compagnie.~
 @1037929 = ~Cela s'est avéré nécessaire afin d'éradiquer Caelar et sa fichue croisade de la surface de Féérune.~
+@1037930 = ~Jaheira est vivante ? D-dieux merci. Je m'inquiétais tant pour elle. Mais vous n'avez pas fait tout ce chemin pour me dire ça, n'est-ce pas ?~
 @1037931 = ~Elle aussi s'inquiète pour vous. Mais cette épreuve est bientôt terminée.~
 @1037932 = ~Elle est en vie, et a hâte de vous revoir, très bientôt.~
 @1037933 = ~Souciez-vous de vous-même. Il ne faudra pas longtemps avant que la croisade vienne vous abattre.~
@@ -29770,13 +29854,16 @@ J'ai parlé au principal lanceur de sorts de Fort-du-Pont, Wynan Hess. Malheureu
 @1049630 = ~Attendez un peu. Je ne vous reconnais pas, gnome. Et je suis censée reconnaître tout le monde dans cette caravane. Je suis la capitaine Schael Corwin du Poing Enflammé. Qui diable êtes-vous ?~ [BD49630]
 @1049664 = ~Oh, où avais-je la tête ? <CHARNAME>, voici mon oncle, Hoach Moinefougueux. Mon oncle, voici <CHARNAME>, héros de la Porte de Baldur.~ [BD49664] ~Oh, où avais-je la tête ? <CHARNAME>, voici mon oncle, Hoach Moinefougueux. Mon oncle, voici <CHARNAME>, héroïne de la Porte de Baldur.~ [BD49664]
 @1049670 = ~Mon oncle, voici le héros de la Porte de Baldur, <CHARNAME>.~ [BD49670] ~Mon oncle, voici l'héroïne de la Porte de Baldur, <CHARNAME>.~ [BD49670]
-@1049675 = ~Peuh. C'pas génial de rencontrer quelqu'un comme moi. D'façon, j'suis ravi de faire vot'connaissance. Maintenant, si vous voulez bien m'excuser, j'ai du boulot.~
+@1049675 = ~Peuh. C'pas génial de rencontrer quelqu'un comme moi. D'façon, j'suis ravi de faire vot' connaissance. Maintenant, si vous voulez bien m'excuser, j'ai du boulot.~
+@1049680 = ~Oh, vot' mère aime s'inquiéter, c'tout. J'suis coincé dans c'fort, mais pour d'autres c'est pire. Pour moi ça va. Dites ça à vot' mère, à l'occasion.~
 @1049690 = ~Comme tout le monde ici : j'survis.~
+@1049691 = ~Sûr que j'pourrais faire quelque chose. Mais j'suppose qu'vous voulez que j'les améliore. C't'une aut' paire de manches. Voyons ça.~
 @1049693 = ~Excellent. Que pensez-vous de 1 000 pièces d'or en paiement ?~
 @1049696 = ~Pour un ami d'mon neveu ? 1 400 pièces d'or.~
 @1049702 = ~On dirait qu'il y en a pour 500 pièces d'or de plus. Mais vous êtes un ami d'mon neveu, alors ça ira. Rev'nez demain, vos bottes s'ront prêtes.~
 @1049704 = ~Hé, j'peux faire quelque chose pour vous ?~
 @1049708 = ~Hé. J'suppose que c'est vrai. Mon nom, c'est Hoach Moinefougueux. Cordonnier de métier, mais c'pas facile ces derniers temps.~
+@1049723 = ~Sûr que j'pourrais faire quelque chose. Mais j'suppose qu'vous voulez que j'les améliore. C't'une aut' paire de manches. Voyons ça.~ [BD49723]
 @1049725 = ~Excellent. Que pensez-vous de 1 000 pièces d'or en paiement ?~
 @1049728 = ~Pour vous ? Comme tout le monde : 1 500 pièces d'or.~
 @1049734 = ~On dirait qu'il y en a pour 500 pièces d'or de plus. Mais j'vous aime bien, alors d'accord. Rev'nez demain, vos bottes s'ront prêtes.~
@@ -29785,6 +29872,7 @@ J'ai parlé au principal lanceur de sorts de Fort-du-Pont, Wynan Hess. Malheureu
 @1049763 = ~Il y a quelque chose de vrai dans c'que vous dites. J'ai jamais été très bon pour déterminer les résultats, moi. J'essaierai p't-être un jour. Maintenant, si vous m'excusez, j'ai du travail. Faites attention à vous.~
 @1049764 = ~Je vous le rappellerai, héros.~ ~Je vous le rappellerai, héroïne.~
 @1049776 = ~Pour sûr. Elles iront très bien. Mais... vaudrait p't-être mieux quand même les essayer, juste par prudence. Faites attention à vous, maintenant.~
+@1049786 = ~C'est mon argent, maintenant. Allez-vous-en. Vot' visage m'ennuie.~
 @1049793 = ~Bonne <DAYNIGHTALL> à vous. Je suis Sempek de la milice de Gué-de-la-Dague. Voici Damius. Joignez-vous à nous et buvons un verre.~
 @1049815 = ~Il y a un gnome appelé Gardnerson dans notre contingent de Gué-de-la-Dague.~
 @1049820 = ~Quoi ? Non. Il s'appelle Pritchard. Cet imbécile prétentieux se croit meilleur que nous. Il pense que c'est lui qui commande ici. Bon, après la générale Main-de-pierre, bien sûr.~
@@ -30096,13 +30184,16 @@ Poids : 2~
 @1051620 = ~Le héros est de retour !~ ~L'héroïne est de retour !~
 @1051637 = ~Je suis <CHARNAME>, héros de la Porte de Baldur. J'ai à faire avec la croisade.~ ~Je suis <CHARNAME>, héroïne de la Porte de Baldur. J'ai à faire avec la croisade.~
 @1051656 = ~Attendez, vous voulez pas vous battre ?~
+@1051673 = ~Bah ! Lâche ! Pensez qu'la croisade nous traitera mieux si on fait pas not' boulot ? Espèce d'imbécile !~
 @1051690 = ~50 pièces d'or.~
 @1051691 = ~Silence, Chétif ! Ton supérieur parle. Faites pas attention au gamin. Le péage est de 50 pièces d'or par tête.~
 @1051695 = ~J'ai une contre-offre : donnez-moi 50 pièces d'or, et je vous laisse VOTRE tête.~
-@1051703 = ~Restons-en là, d'accord ? Vous de vot'côté et nous du nôtre.~
+@1051703 = ~Restons-en là, d'accord ? Vous de vot' côté et nous du nôtre.~
 @1051712 = ~C'est vrai. Ça va pas. Libérez la fille ou payez-en le prix.~
+@1051741 = ~Arrêtez vot' langue ou je vais devoir vous l'arracher !~
 @1051743 = ~50 pièces d'or par tête.~
 @1051744 = ~50 pièces d'or par tête. Et la gobeline, on abandonne pas une des nôtres.~
+@1051754 = ~Qui a dit que c'était à vous de décider ? Arrêtez vot' langue ou je vais devoir vous l'arracher !~
 @1051766 = ~*halète* J'ai cru qu'on ne remonterait jamais ! C'est bon de revoir la surface.~ [BD51766]
 @1051767 = ~Qui êtes-vous et que voulez-vous, maître gnome ?~
 @1051775 = ~Svirfnebelin, en fait. Et ce que je veux, c'est vous montrer les bénéfices d'une sacoche à potion bien garnie !~ [BD51775]
@@ -37005,12 +37096,15 @@ Poids : 10~
 @1063558 = ~J'suppose qu'j'ai pas trop l'air d'un tueur de vermine en c'moment, mais écoutez, quand j'ai rejoint c'projet, j'ai cru comprendre que j'allais avoir à faire à, euh, vous savez... des trucs qui rampent et tout. Des ankhegs, des vers charognards, et p't-être un serpent ou deux.~
 @1063563 = ~N'importe quel outil peut finir le travail, mais le bon outil permet un travail bien fait.~
 @1063574 = ~Content d'vous rencontrer. Très content, au vu des circonstances.~
+@1063579 = ~La subtilité, c'est pas vot' truc, hein ? Vous voulez être payé ? Moi aussi ! Dès que j'suis d'nouveau en forme, j'retourne voir c'que j'peux récupérer de c'carnage.~
 @1063581 = ~mais bon, si une AUTRE personne voulait aller chercher c'coffre pendant qu'j'récupère, j'pourrais m'laisser convaincre d'en partager l'contenu avec elle.~
+@1063585 = ~Allez au diable, bande de rapaces ! Bon, soit, j'ai pas la force d'vous arrêter. Mais si vous y allez, gardez vot' hache bien affûtée, et qu'Haela vous protège, z'en aurez b'soin.~
 @1063606 = ~Vous êtes de r'tour. Bien. J'ai entendu des cris qui v'naient d'là-bas. J'crois qu'certains des clercs sont encore en vie.~
 @1063616 = ~Qu'est-ce que vous faites ? Vous disiez qu'vous iriez voir si y avait des survivants. Allez-y !~
 @1063622 = ~Les avez-vous aidés ?~
 @1063632 = ~Et les clercs ? Y en a qui sont encore en vie ?~
 @1063644 = ~Ne craignez rien. Le héros de la Porte de Baldur est venu vous aider.~ ~Ne craignez rien. L'héroïne de la Porte de Baldur est venue vous aider.~
+@1063646 = ~Si vous êtes quelqu'un d'honnête, alors v'nez vous battre avec nous cont' cette vague de ténèbres !~
 @1063648 = ~Vous devriez savoir que le héros de la Porte de Baldur ne parle pas en notre nom à tous.~ [BD63648] ~Vous devriez savoir que l'héroïne de la Porte de Baldur ne parle pas en notre nom à tous.~ [BD63648]
 @1063669 = ~Qu'est-ce que vous racontez, 'spèce d'abruti au crâne vide ?~
 @1063676 = ~Dans c'cas, lisons un peu ce « journal ». Les paroles de Gurn nous montreront c'qu'est vrai ou pas.~
@@ -37019,6 +37113,7 @@ Poids : 10~
 @1063696 = ~Âtrefroid, une liche ? Mensonge, 'spèce de menteur qui ment !~
 @1063707 = ~Les dieux auront pas l'occasion d'vous punir. J'le ferai moi-même, espèce de traître ! Au nom d'Gurn Âtrefroid, mourez !~ ~Les dieux auront pas l'occasion d'vous punir. J'le ferai moi-même, espèce de traîtresse ! Au nom d'Gurn Âtrefroid, mourez !~
 @1063711 = ~Je peux m'occuper de ce problème... pour la modique somme de 1 000 pièces d'or une fois le travail achevé. Marché conclu ?~
+@1063722 = ~Ça fait qu'prouver qu'il est mort, et probablement d'vot' main. Si j'en avais la force, j'vous arracherais la tête DEUX fois, une fois pour avoir insulté mon ami, et une deuxième pour l'avoir tué, 'spèce d'infâme bousier !~
 @1063732 = ~Nous aurions bien besoin de bras supplémentaires lorsque nous combattrons la croisade à Paldragon.~
 @1063735 = ~Vous avez p'tet raison. Très bien. Quand j'en aurai fini ici, j'irai à Paldragon. En attendant, restez bien à l'affut, camarade.~
 @1063747 = ~Et quelle valeur a le retour de Gurn à vos yeux ? 500 pièces d'or ?~
@@ -37922,10 +38017,12 @@ Je devrais retourner près du feu de camp.
 
 Je n'ai pas réussi à retenir les croisés. Nous avons perdu cette section et je dois retourner près du feu de camp.~
 @1065432 = ~Alors je serai le champion de Murs et ferai tout ce qui est en mon pouvoir pour voir son compagnon libéré.~ ~Alors je serai la championne de Murs et ferai tout ce qui est en mon pouvoir pour voir son compagnon libéré.~
+@1065452 = ~Hah ! Z'aimeriez ça, hein ? Pas d'chance, Marteaulascif ne suit personne d'autre qu'lui-même. Hors de ma vue, vot' tête me r'vient pas.~ [BD65452]
 @1065460 = ~Elle n'a pas le héros de la Porte de Baldur pour combattre à ses côtés. Elle tombera, tout comme l'a fait Sarevok, et comme le feront tous ceux qui s'opposeront à moi.~ ~Elle n'a pas l'héroïne de la Porte de Baldur pour combattre à ses côtés. Elle tombera, tout comme l'a fait Sarevok, et comme le feront tous ceux qui s'opposeront à moi.~
 @1065462 = ~Il est plus facile d'garder quequ'chose que d'le prendre, suffit de d'mander à vos amis d'Paldragon. Si elle avait pas fait l'idiote, si elle avait pas tenté d'prendre toujours plus, elle aurait p'tet réussi à garder c'qu'elle avait.~
 @1065466 = ~Ouais, aurait réussi... si les Grands-Ducs ne m'avaient pas fait une offre que je ne pouvais refuser, du moins pas sans perdre le reste de mes dents, et probablement ma vie.~
-@1065473 = ~Quelqu'un nous prend de haut, n'est-ce pas ? Vous êtes pas la seule personne à vous battre cont'la croisade, « héros ».~ ~Quelqu'un nous prend de haut, n'est-ce pas ? Vous êtes pas la seule personne à vous battre cont'la croisade, « héroïne ».~
+@1065472 = ~Il y a beaucoup de choses chez moi qui méritent d'être admirées. Mais faites-le de loin, vot' voix m'énerve. À présent, du vent.~
+@1065473 = ~Quelqu'un nous prend de haut, n'est-ce pas ? Vous êtes pas la seule personne à vous battre cont' la croisade, « héros ».~ ~Quelqu'un nous prend de haut, n'est-ce pas ? Vous êtes pas la seule personne à vous battre cont' la croisade, « héroïne ».~
 @1065474 = ~Vous croyez qu'vous valez mieux qu'moi ? Oh c'est vot' jour de chance, espèce de bouffon. Si on allait pas s'battre ensemble contre la croisade, j'vous aurais refait l'visage. À présent du balai, avant qu'je change d'avis.~ [BD65474] ~Vous croyez qu'vous valez mieux qu'moi ? Oh c'est vot' jour de chance, espèce de bouffonne. Si on allait pas s'battre ensemble contre la croisade, j'vous aurais refait l'visage. À présent du balai, avant qu'je change d'avis.~ [BD65474]
 @1065476 = ~Ce chapeau de feutre ne semble ni résistant, ni très utile. Seule sa ligne élégante lui confère un intérêt purement décoratif.~
 @1065485 = ~Le siège de Paldragon
@@ -38045,6 +38142,7 @@ Je dois m'enfuir d'ici et retrouver les commandants au camp.
 
 Ma présence dans l'enceinte du château Paldragon a été détectée. Je dois partir avant que le magicien Hephernaan n'alerte la croisade de ma présence.~
 @1065823 = ~Et vous êtes le héros de la Porte de Baldur, nous faisant la grâce de sa présence. Quel honneur.~ ~Et vous êtes l'héroïne de la Porte de Baldur, nous faisant la grâce de sa présence. Quel honneur.~
+@1065843 = ~Vous n'êtes pas mal non plus. *scouic*~ [GAM_48]
 @1065866 = ~Vous êtes rashémie, n'est-ce pas ? Quel est votre nom ?~
 @1065914 = ~C'est exactement ce que nous essayons d'a-arrêter. Avec les provisions de Fort-du-Pont, la c-croisade pourrait poster plus de troupes à Paldragon.~ [BD65914]
 @1065934 = ~Le siège de Paldragon
@@ -38179,6 +38277,7 @@ Je peux utiliser la clef de la salle de rituel pour ouvrir la porte de la prison
 
 Maintenant que j'ai trouvé la clef de la porte de la prison, je peux continuer mon avance et ma recherche de la pierre-sésame de Fort-du-Pont.~
 @1066692 = ~La croisade vous payait QUATRE pièces d'or pour suivre les ordres de la Dame Étincelante ?~
+@1066695 = ~Ai-je l'air de quelqu'un qui se soucie de la volonté des dieux ? Et surtout des dieux que sert Sa Splendeur ? J'me fiche de ce que dit Hephernaan, les gens comme Caelar ne s'abaissent jamais à not' niveau.~
 @1066701 = ~Le siège de Paldragon
 
 J'ai sécurisé le palais, mais la croisade reste une menace.
