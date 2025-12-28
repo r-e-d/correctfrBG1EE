@@ -6,8 +6,61 @@
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
+//SPPR415.SPL
+@300 = ~Vision lointaine
+(Divination, Non-offensif)
+
+Niveau : 4
+Sphère : divination
+Portée : 0
+Durée : 3 rounds + 1 round par niveau
+Temps d'incantation : 4
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Lorsque ce sort est lancé, le lanceur est capable de voir en temps réel une zone inexplorée de la carte, similaire à son champ de vision. Le lanceur peut alors surveiller cette zone, voir les créatures et leurs mouvements ainsi que les fortifications qui s'y trouvent. À la fin de l'incantation du sort, interagissez sur la zone de la carte que vous désirez voir. Les effets de ce sort durent 3 rounds, plus 1 round par niveau d'expérience du lanceur, jusqu'à un maximum de 23 rounds au niveau 20, et ne peuvent pas être dissipés par une source extérieure.~
+
+//SPDR601.SPL
+@301 = ~Chaîne d'éclairs
+(Invocation, Dégâts offensifs)
+
+Niveau : 6
+Sphère : climat
+Portée : 12 mètres
+Durée : instantanée
+Temps d'incantation : 5
+Zone d'effet : les ennemis dans un rayon de 5 mètres autour de la cible
+Jet de sauvegarde : sorts (1/2)
+
+Lorsque le lanceur incante Chaîne d'éclairs, des arcs électriques jaillissent du bout de ses doigts, bondissant lentement mais sûrement vers la créature ciblée à une porté maximale de 12 mètres. Toutes les créatures ennemies présentes dans un rayon de 5 mètres autour de la créature ciblée subissent 1d6 points de dégâts électriques par tranche de 2 niveaux d'expérience du lanceur, jusqu'à un maximum de 10d6 points de dégâts électriques au niveau 20. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subis. Les dégâts ainsi causés contournent les répliques illusoires des sorts profanes de 1er et 2ème niveau Image réfléchie et Image miroir. La résistance à la magie des créatures affectées ne rentre pas en ligne de compte.~
+
+//SPCL612.SPL
+@302 = ~Métamorphose en loup
+(Toutes écoles)
+
+Portée : 0
+Durée : permanente
+Temps d'incantation : 0
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
+
+Force : 18
+Dextérité : 17
+
+Classe d'armure de base : 6
+Attaques par round : 2
+Dégâts : 1d8 (perforant), peut atteindre les créatures comme une arme de niveau d'enchantement +1
+
+Capacités spéciales :
+- Résistance au froid : 100 %
+- Résistance au froid magique : 100 %
+- Résistance à l'électricité : 50 %
+
+Cette capacité ne dispose d'aucune composante verbale et peut être jetée même si le lanceur est victime d'un effet de silence.~
+
 // SPIN116.SPL
-@300 = ~Création de flèches empoisonnées
+@303 = ~Création de flèches empoisonnées
+(Toutes écoles)
 
 Niveau : 1
 Portée : 0
@@ -16,4 +69,22 @@ Temps d'incantation : 0
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Cette capacité permet à Eldoth de créer des flèches empoisonnées. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches chaque jour que lui seul peut utiliser. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons.~
+Cette capacité permet à Eldoth de créer des flèches empoisonnées dans son inventaire. Ayant appris à utiliser les poisons alors qu'il n'était qu'un enfant, il peut créer de quoi empoisonner 5 flèches que lui seul peut utiliser. Si l'inventaire d'Eldoth est plein, alors les flèches sont placées au sol. Les flèches empoisonnées infligent 1d6 points de dégâts de projectile, plus 1 point de dégât de poison toutes les 3 secondes pendant 40 secondes si la créature touchée échoue un jet de sauvegarde contre les poisons. L'effet de poison est cumulable. Par exemple, une créature touchée par deux flèches empoisonnées et ayant raté son jet de sauvegarde contre les poisons à deux reprises subit 2 points de dégâts de poison toutes les 3 secondes pendant 40 secondes. Alternativement, les flèches peuvent être vendues dans les échoppes. La plupart des créatures mortes-vivantes et des créatures artificielles sont immunisées aux poisons. Seuls les dégâts périodiques peuvent être dissipés par une source extérieure, et la seule manière est d'utiliser les sorts divins et druidiques de 2ème, 4ème, 6ème et 7ème niveau Ralentissement du poison, Neutralisation du poison, Guérison et Restauration majeure ou encore des objets tels que l'Antidote. Les effets de cette capacité durent indéfiniment ou jusqu'à ce que les flèches soient toutes décochées et peuvent partiellement être dissipés par une source extérieure.
+
+Cette capacité n'est pas affectée par les sorts profanes, divins et druidiques de 3ème niveau Dissipation de la magie et Délivrance de la magie.~
+
+// SPCL231.SPL
+@304 = ~Dissipation de la magie
+(Abjuration)
+
+Niveau : 1
+Sphère : protection
+Portée : 12 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 5 mètres
+Jet de sauvegarde : aucun
+
+La capacité Dissipation de la magie annule les effets magiques affectant toutes les créatures, alliées comme ennemies, présentes dans un rayon de 5 mètres à une portée maximale de 12 mètres, qu'il s'agisse des effets des sorts, des capacités, des potions ou de certains objets tels que les baguettes. Cependant, elle n'affecte pas les objets magiques enchantés ou les Protections de sort telles que les sorts profanes de 5ème, 6ème et 7ème niveau Bouclier de sort, Déviation de sorts et Renvoi des sorts. Les chances de réussite dépendent du niveau d'expérience du lanceur de la Dissipation de la magie et du niveau d'expérience du créateur des effets à dissiper. Le pourcentage de chances de réussite de base est de 49 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie au-dessus du niveau d'expérience du créateur des effets à dissiper, les chances de réussite augmentent de 5 %. Pour chaque niveau d'expérience du lanceur de la Dissipation de la magie en dessous du niveau d'expérience du créateur des effets à dissiper, un malus de 10 % est appliqué aux chances de réussite. Cependant, quelle que soit la différence de niveau d'expérience, il y a toujours au minimum 1 % de chances d'échec. Ainsi, si le lanceur de la Dissipation de la magie a plus de 10 niveaux d'expérience que le créateur des effets à dissiper, il n'a que 1 % de chances d'échec. De la même façon, si le lanceur de la Dissipation de la magie a 4 niveaux d'expérience de moins que le créateur des effets à dissiper, il n'a que 10 % de chances de réussite. Dans la pratique, la capacité n'a aucune chance de réussir si le créateur des effets à dissiper a plus de 5 niveaux d'expérience que le lanceur de la Dissipation de la magie. À savoir que cette capacité dissipe automatiquement les créatures illusoires, alliées comme ennemies, présentes dans la zone d'effet ainsi que les effets de surdité et de débilité mentale, quelle que soit la différence de niveau entre le lanceur de la Dissipation de la magie et le créateur des effets à dissiper. La Dissipation de la magie des inquisiteurs est lancé au double du niveau d'expérience de ces derniers, le lanceur obtient donc un bonus de 2 niveaux de lanceur de sorts par niveau d'expérience du lanceur, jusqu'à un bonus maximum de 40 niveaux de lanceur de sorts au niveau 20. La résistance à la magie des créatures affectées n'est pas prise en compte.
+
+Notez que même si cette capacité dissipe les effets individuels des sorts profanes de 1er et 2ème niveau Glisse, Toile d'araignée, Nuage puant et autres, elle ne dissipe pas pour autant la zone d'effet stationnaire de ces sorts. De plus, cette capacité ignore les immunités aux niveaux de sorts, telles que l'immunité des liches aux sorts et capacités de 1er, 2ème, 3ème, 4ème et 5ème niveau ou encore aux sorts profanes de 4ème et 6ème niveau Globe mineur d'invulnérabilité et Globe d'invulnérabilité. À noter que, contrairement aux sorts profanes de 6ème et 7ème niveau Double illusoire et Projection d'image, les clones créés par le sort profane de 8ème niveau Simulacre et par la capacité de haut niveau Jumeau de l'ombre ne sont pas considérés comme des créatures illusoires. Cette capacité ne dispose d'aucune composante verbale et peut être jetée même si le lanceur est victime d'un effet de silence.~
