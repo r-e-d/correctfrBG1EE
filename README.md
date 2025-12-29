@@ -395,6 +395,8 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
+#### Version 0.11 &nbsp;(XXX)
+
 #### Version 0.10 &nbsp;(21 août 2024)
 
   - Relecture et uniformisation de tous les sorts.
