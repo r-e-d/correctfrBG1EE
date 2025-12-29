@@ -189,12 +189,17 @@ Ce composant apporte toutes les corrections nécessaires aux textes de BG:EE et 
 	- Roublarde (THIEFF.CRE).
 	- Narcillicus Harwilliger Néen (NARCIL.CRE).
 	- Thalantyr le Conjurateur (THALAN.CRE).
+	- Chien enragé (DOGWISU.CRE).
 	</pre>
 	</details>
-- Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (descriptions, etc.) :
+- Correction (et/ou ajout) de références de ligne des sorts, capacités et parchemins (noms, descriptions, etc.) :
 	<details><summary>Cliquez ici pour afficher les corrections.</summary>
 	<pre>
+	- Vision lointaine (SPPR415.SPL).
+	- Chaîne d'éclairs (SPDR601.SPL).
+	- Métamorphose en loup (SPCL612.SPL).
 	- Création de flèches empoisonnées (SPIN116.SPL).
+	- Dissipation de la magie (SPCL231.SPL).
 	</pre>
 	</details>
 ##
@@ -340,7 +345,7 @@ Comparez les différentes versions des cinématiques (BG1/CorrectfrBG1EE).
 	- Mornagest
 	- Zefklop
 	- Freddy_Gwendo
-- Freddy_Gwendo pour son modèle de <a href="https://github.com/GwendolyneFreddy/LCC-Readme">readme</a>.
+- Freddy_Gwendo pour son modèle de <a href="https://github.com/GwendolyneFreddy/LCC-Readme">readme</a>, AlienQuake pour son processus d'auto action sur Github et Jmerry pour son aide technique.
 - L'équipe de <a href="https://www.baldursgateworld.fr">La Couronne de Cuivre</a> pour l'hébergement de ce mod.
 - Les créateurs de la série Baldur's Gate : <a href="https://www.bioware.com/">Bioware</a> et <a href="https://www.obsidian.net/">Black Isle Studios</a>, ainsi que <a href="https://www.aroundtheword.com/fr/">Around the word</a> pour la traduction française du contenu classique.
 - Les créateurs des Enhanced Editions et de Siege of Dragonspear : <a href="https://www.beamdog.com/">Overhaul Games</a>, <a href="https://www.beamdog.com/">Beamdog</a>, ainsi que <a href="https://mogi-group.com/">Mogi Group</a> pour la traduction française de Siege of Dragonspear.

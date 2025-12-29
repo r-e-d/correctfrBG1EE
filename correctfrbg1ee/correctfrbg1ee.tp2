@@ -1,5 +1,5 @@
 BACKUP ~correctfrbg1ee/backup~
-SUPPORT ~Lefreut et Jazira (https://www.baldursgateworld.fr)~
+SUPPORT ~Lefreut, Jazira et Rivvers (https://www.baldursgateworld.fr)~
 VERSION ~0.10~
 README ~correctfrbg1ee/readme/readme-correctfrbg1ee.html~
 
@@ -634,6 +634,12 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 		WRITE_LONG 0x0c 12277
 	BUT_ONLY_IF_IT_CHANGES
 
+	// Correction du nom pour uniformiser avec BG2 la créature convoquée par le sort profane Convocation de monstres I (Chien enragé)
+	COPY_EXISTING ~DOGWISU.CRE~ ~override~
+		SAY NAME1 @250
+		SAY NAME2 @250
+	BUT_ONLY_IF_IT_CHANGES
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
@@ -642,9 +648,29 @@ BEGIN @1 DESIGNATED 10 // Correction de la traduction de Baldur's Gate : Enhance
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
+	// Ajout de la description du sort divin et druidique Vision lointaine
+	COPY_EXISTING ~SPPR415.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @300
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Ajout de la description du sort druidique Chaîne d'éclairs
+	COPY_EXISTING ~SPDR601.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @301
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Ajout de la description de la capacité Métamorphose en loup
+	COPY_EXISTING ~SPCL612.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @302
+	BUT_ONLY_IF_IT_CHANGES
+
 	// Ajout de la description de la capacité Création de flèches empoisonnées
 	COPY_EXISTING ~SPIN116.SPL~ ~override~
-		SAY UNIDENTIFIED_DESC @300
+		SAY UNIDENTIFIED_DESC @303
+	BUT_ONLY_IF_IT_CHANGES
+
+	// Ajout de la description de la capacité Dissipation de la magie
+	COPY_EXISTING ~SPCL231.SPL~ ~override~
+		SAY UNIDENTIFIED_DESC @304
 	BUT_ONLY_IF_IT_CHANGES
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
