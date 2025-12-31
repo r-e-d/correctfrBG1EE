@@ -395,7 +395,15 @@ Soyez assez sympas avec vos collègues joueurs, moddeurs, traducteurs et relecte
 
 ## <a name="versions" id="versions"></a>Historique des versions
 
-#### Version 0.11 &nbsp;(XXX)
+#### Version 0.11 &nbsp;(31 décembre 2025)
+
+  - Révision de toutes les descriptions ainsi que les cartouches des sorts, capacités et capacités de haut niveau.
+  - Uniformisation des termes, notamment ceux désignant les effets.
+  - Révision des descriptions des baguettes.
+  - Modification des lignes de narration.
+  - Corrections audio.
+  - Corrections de dialogue.
+  - Corrections diverses.
 
 #### Version 0.10 &nbsp;(21 août 2024)
 
